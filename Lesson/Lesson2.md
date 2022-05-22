@@ -129,3 +129,21 @@
     No,it isn't
 
 15. 一般 house 用来表示像别墅那样的房子
+
+16. `it's free`和`on the house`都是免费的意思
+
+    ```
+    How much is this cup of coffee?
+    这杯咖啡多少钱?
+    That's on the house
+    那是免费的
+    ```
+
+17. 如果你想去搭讪某人,可以开头先夸赞对方,如`nice hair`,`nice coat`
+
+18. 名句
+
+    ```
+    Books are the ladder of human progress
+    书籍是人类进步的阶梯
+    ```

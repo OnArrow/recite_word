@@ -119,4 +119,15 @@
       对不起，我失陪一下
       ```
 
-11. 当你做错某事而向别人道歉时，用 sorry 而不是用 excuse me
+11. 当你做错某事而向别人道歉时，用 `sorry` 而不是用 `excuse me`
+
+12. 当你没听清楚别人说的话时,想让别人再说一遍,这时可以用`pardon?`/`sorry?`/`come again?`/`what`
+
+13. `Thank you very much`和`Thank you so much`等价
+
+14. 名句
+
+    ```
+    If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!
+    如果有人给你提供了一个绝佳的机会,当你不确定自己能否胜任,那就答应吧 - 然后再去学习如何去做!
+    ```

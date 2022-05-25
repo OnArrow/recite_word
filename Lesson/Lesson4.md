@@ -21,7 +21,7 @@
      This is my ticket
      这是我的票
      //这里表达的意思是这张票是我的
-  
+
      ```
 
 2. 肯定句变否定句时，`not`放在 be 动词后面
@@ -49,7 +49,40 @@
    杰克不在这里
    ```
 
-3. 名句
+3. `suit`也可以用来表达合适
+
+   ```
+   It suits me
+   它很适合我
+
+   It suits you
+   它很适合你
+
+   The coat suit you
+   这件外套很适合你
+   ```
+
+4. ```
+   Is this your shirt or their shirt?
+   这是你的衬衫还是他们的衬衫？
+
+   This is my shirt, not theirs
+   这是我的衬衫，不是他们的
+
+   Is this your dress or mine?
+   这是你的连衣裙还是我的？
+
+   This isn't my dress, it's yours
+   这不是我的连衣裙，是你的
+
+   Is this your house or theirs?
+   这是你的房子还是他们的？
+
+   This is my house, not theirs
+   这是我的房子，不是他们的
+   ```
+
+5. 名句
 
    ```
    A house is not a home

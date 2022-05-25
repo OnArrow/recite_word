@@ -11,6 +11,15 @@
 
    Is Jack here?
    杰克在这里吗?
+
+   Hello, Tom! Is Jack here?
+   你好，汤姆！杰克在这里吗？
+
+   No, he isn't here
+   不，他不在这里
+
+   Yes, he's here
+   是的，他在这里
    ```
 
 2. `my`后面必须加名词，`my cat`、`my pen`、`my mother`
@@ -22,6 +31,9 @@
    单程票
 
    return ticket
+   往返票
+
+   round trip ticket
    往返票
    ```
 

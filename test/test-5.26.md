@@ -88,7 +88,7 @@ I come from the south of China
 The south of China? Is it hot there?
 中国的南方？ 那里会很热吗？
 
-A little, but it's okay. Welcome to China
+A little, but it's okay. You're welcome to visit China
 有一点，但还好。欢迎去中国玩
 ```
 

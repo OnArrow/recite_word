@@ -1,4 +1,4 @@
-# 5.27
+# 5.28
 
 ```
   It's Tuesday today. Boys and girls all at school. They usually come to school by bus. Their teacher is at school, too. The teacher's name is Gu Yan, she is young, she usually comes to school on foot.

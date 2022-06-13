@@ -43,7 +43,7 @@
    // `smartest` 是 `smart` 的最高级
    ```
 
-5. `same` 相同的； `different` 不同的. 使用 `same` 时需要加 `the`，而 `different` 不需要加 `the`
+5. `same` 相同的； `different` 不同的； 使用 `same` 时需要加 `the`，而 `different` 不需要加 `the`
 
    ```
    They are the same

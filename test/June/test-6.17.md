@@ -145,3 +145,135 @@ These boxes
 
 Those boxes
 ```
+
+```
+Tired and thirsty
+又累又渴
+
+What's the matter, children?
+怎么了？孩子们
+
+We're tired...
+我们累了
+
+And thirsty, Mum
+口也渴，妈妈
+
+Sit down here
+坐在这里
+
+Are you all right, now?
+你们现在好些了吗？
+
+No, we aren't
+不，还没有
+
+Look! There's an ice cream man
+看！那里有个卖冰淇淋的人
+
+Two ice creams, please
+要两个冰淇淋
+
+Here are you, children
+给你们，孩子们
+
+Thanks, Mum
+谢谢妈妈
+
+These ice creams are nice
+这些冰淇淋很好吃
+
+Are you all right, now?
+现在你们好吗？
+
+Yes, we are, thank you!
+是的，我们很好，谢谢！
+```
+
+```
+Sit down here
+坐这里
+
+Sit down there
+坐那里
+```
+
+```
+here
+there
+
+this
+these
+
+that
+those
+```
+
+```
+All right?
+如何？（确保对方同意或理解）
+```
+
+```
+Look! There are tow dogs, one is yellow, and the other is black
+看！那里有两条狗，一只是黄色的，另一只是黑色的
+
+Is this policeman tired or thirsty?
+
+He's tired and thirsty
+
+Are these policemen tired or thirsty?
+
+They aren't thirsty, they are tired
+
+Are you all right, now?
+
+Yes, we are
+
+What's the matter? Jack?
+
+I'm tired and thirsty
+
+```
+
+```
+Look at that boy's shoes, are they dirty?
+
+They aren't dirty, they are clean
+
+Look at those postmen, are they cold?
+
+They aren't cold, they're hot
+
+Look at those hairdressers, are they thin?
+
+They aren't thin, they are fat
+
+Look at those shoes, are they small?
+
+They aren't small, they're big
+
+Look at those shops, are they shut?
+
+They aren't shut, they are open
+
+Look at those cases, are they light?
+
+They aren't light, they are heavy
+
+Look at grandmother and grandfather, are they young?
+
+They aren't young, they are old
+
+Look at those hats, are they new?
+
+They aren't new, they are old
+
+Look at those policemen, are they short?
+
+They aren't short, they are tall
+
+Look at those trousers, are they long?
+
+They aren't long, they are short
+```

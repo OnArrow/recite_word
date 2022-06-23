@@ -478,5 +478,220 @@ These aren't two knives
 Are these two knives?
 
 Aren't these two knives?
+```
 
+```
+on the shelf
+
+on the shoe shelf
+
+The book is on the shelf
+
+Is the book on the shelf?
+
+Where is the book?
+
+My plate is on the shelf
+
+My book is on the shelf
+
+Is your book on the shelf?
+
+Where is your book?
+
+The books are on the desk
+
+Are the books on the desk?
+
+Where are the books?
+
+Give me some books, please
+
+Which ones? These ones?
+
+No, not these ones, the ones on the desk
+
+Give me a book, please
+
+Which one? This one?
+
+No, not this one, the one on the desk
+
+Give him my book, please
+
+Which one? This one?
+
+No, not this one, the one on the shelf
+
+The bottle is on the table
+
+Is the bottle on the table?
+
+Where is the bottle?
+
+Where is my bottle?
+
+Where is your house?
+
+Give me a bottle, please
+
+Which one? This one?
+
+No, not this one, the one on the table
+
+Give me some bottles, please
+
+Which ones?
+
+The ones on the table
+```
+
+```
+The plates are on the table
+
+Are the plates on the table?
+
+Where are the plates?
+
+Give me a plate, please
+
+Which one? Red one?
+
+No, not red one, the blue one
+
+Give me some plates, please
+
+Which ones?
+
+The ones on the table
+
+The cup is on the cupboard
+
+Are the cups on the cupboard?
+
+Where are the cups?
+
+Give me a cup, please
+
+Which one? This empty cup?
+
+No, not this empty cup, that full cup
+
+Give me some cups, please
+
+Which cups? These purple cups?
+
+No, not these purple cups, that blue cups
+
+Is the cup on the cupboard?
+
+The cigarettes are on the plate
+
+Are the cigarettes on the plate?
+
+Where are the cigarettes?
+
+Give me a cigarette, please
+
+Which one? This one?
+
+No, not this one, the one on the plate
+
+The television is on the desk
+
+Is the television on the desk?
+
+Where is the television?
+
+The carpet is on the floor
+
+Is the carpet on the floor?
+
+Where is the carpet?
+
+The woman is on the floor
+
+The woman is on the carpet
+
+The dressing table is on the floor
+
+Is the dressing table on the floor?
+
+Is the dressing table new?
+
+Is the dressing table big or small?
+
+big medium small
+
+Where is the dressing table?
+
+The dressing table is on the floor
+
+The magazines are on the shelf
+
+Are the magazines on the shelf?
+
+Where are the magazines?
+
+Give me a magazine, please
+
+Which one? This new one?
+
+No, not this new one, that old one
+
+They are on the bed
+
+Are they on the bed?
+
+Where are they?
+
+The newspapers are on the floor
+
+Are the newspapers on the floor?
+
+Where is the newspaper?
+
+Give me some newspapers, please
+
+Which ones? These ones?
+
+No, not these ones, the ones on the floor
+
+The stereo is on the floor
+
+Is the stereo on the floor?
+
+Where is the stereo?
+
+Give us some food, please
+
+Give me some water
+```
+
+```
+give
+fork
+spoon
+knife
+plate
+cupboard
+dressing table
+table
+desk
+shelf
+shoe shelf
+cigarette
+newspaper
+magazine
+glass
+cup
+bottle
+case
+box
+floor
+My office is on the sixth floor
+lesson
+gammer
+word
+water
 ```

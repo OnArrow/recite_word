@@ -10,7 +10,7 @@
 | Italy   | Swedish | Japan    | Korea  | Norway    |
 | Italian | Sweden  | Japanese | Korean | Norwegian |
 
-| 丹麦    | 荷兰        | 日本     | 韩国   | 挪威      |
-| ------- | ----------- | -------- | ------ | --------- |
-| Denmark | Netherlands | Japan    | Korea  | Norway    |
-| Danish  | Dutch       | Japanese | Korean | Norwegian |
+| 丹麦    | 荷兰        |
+| ------- | ----------- |
+| Denmark | Netherlands |
+| Danish  | Dutch       |

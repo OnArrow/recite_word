@@ -17,9 +17,21 @@ Where is your book?
 
 There is a book on the desk
 
+The book is on the desk
+
 Are there any books on the desk?
 
 Give me a book, please
 
 Give me some books, please
+```
+
+```
+Are there any books on the dressing table?
+
+No, there aren't any books, there are some bottles
+
+Where are the books?
+
+They are near the television
 ```

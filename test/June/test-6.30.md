@@ -215,3 +215,67 @@ holiday
 flower
 because
 ```
+
+```
+Is this your bedroom?
+
+Whose bedroom is this?
+
+Whose is this bedroom?
+
+There is a bed in your bedroom
+
+Is there a bed in your bedroom?
+
+Where is your bed?
+```
+
+```
+This room is untidy
+
+This room is tidy
+
+My bedroom is untidy
+
+How is your bedroom?
+
+The bedroom is tidy
+
+Great!
+```
+
+```
+Where are your clothes?
+
+How many clothes are there in the bedroom?
+
+What color is your clothes?
+
+Is your clothes red or brown?
+
+Whose clothes is this?
+
+Give me a clothes, please
+
+Which one? The purple one?
+
+No, not the purple one, the white one
+```
+
+```
+There are some clothes in the wardrobe
+
+Are there any clothes in the wardrobe?
+
+No, there aren't any clothes, there are some trousers
+
+Where is the wardrobe?
+
+The wardrobe is near the door
+```
+
+```
+Dust the shelf
+
+
+```

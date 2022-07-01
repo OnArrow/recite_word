@@ -183,3 +183,225 @@ turn off
 air
 make
 ```
+
+```
+Empty the glass
+
+Read the book
+
+Read the newspaper
+
+Read the magazine
+
+Sharpen the knife
+
+Sharpen the pencil
+```
+
+```
+Put on your coat
+
+Put on your watch
+
+Put on your dress
+
+Take off your dress
+
+Take off your watch
+
+Turn on your phone
+
+Turn on your radio
+
+Turn on your television
+
+Turn on your computer
+
+Turn off the television
+
+Turn off the phone
+
+Turn off the computer
+```
+
+```
+The beds are untidy
+
+Make your beds
+```
+
+```
+It's a hot day and the windows are shut
+
+Open the windows, please
+```
+
+```
+There are old clothes in the wardrobe
+
+Empty the wardrobe
+```
+
+```
+The kitchen floor is dirty
+
+Sweep the floor
+
+Clean the floor
+```
+
+```
+The dressing table is dusty
+
+Dust the dressing table
+
+Clean the dressing table
+```
+
+```
+The bedroom carpet is dirty
+
+Clean the bedroom carpet
+```
+
+```
+The living room is untidy
+
+Make the living room
+
+The pencils on the desk are blunt
+
+Sharpen the pencils
+```
+
+```
+There is some old milk in the bottle in the refrigerator
+
+There is some old milk in the bottle of the refrigerator
+
+Empty the bottle
+```
+
+```
+Where's Sally, Jack
+萨利在哪？杰克
+
+She's in the garden, Jean
+她在花园里，珍
+
+What's she doing?
+她在做什么？
+
+She's sitting under the tree
+她坐在树下
+
+Is Tim in the garden, too?
+提姆也在花园吗？
+
+Yes, he's
+是的
+
+He's climbing the tree
+他在爬树
+
+I beg your pardon?
+请再说一遍？
+
+Who's climbing the tree?
+谁在爬树？
+
+Tim is
+蒂姆
+
+What about the dog?
+那么狗呢？
+
+The dog's in the garden, too
+狗也在花园
+
+It's running across the grass
+它从草地的一边跑到另一边
+
+It's running after a cat
+它跑在猫的后面
+```
+
+```
+Is Susan making the bed?
+
+No, she isn't making the bed
+
+What's she doing?
+
+She's typing a letter
+```
+
+```
+Is Jack putting on his shirt?
+
+No, he isn't putting on his shirt
+
+What's he doing?
+
+He's reading a magazine
+```
+
+```
+Is dog drinking its milk?
+
+No, it isn't drinking its milk
+
+What's it doing?
+
+It's eating a bone
+```
+
+```
+Is your sister emptying the basket?
+
+No, she isn't emptying the basket
+
+What's she doing?
+
+She's looking a picture
+```
+
+```
+Is Tim cleaning his teeth?
+
+No, he isn't cleaning his teeth
+
+What's he doing?
+
+He's sharpen a pencil
+```
+
+```
+Is the cat eating?
+
+No, it isn't eating
+
+What's it doing?
+
+It's drinking its milk
+```
+
+```
+Is Sally dusting the dressing table?
+
+No, she isn't dusting the dressing table
+
+What's she doing?
+
+She's shuting the door
+```
+
+```
+Is Mr.Lin turning on the light?
+
+No, he isn't turning on the light
+
+What's he doing?
+
+He's opening the window
+```

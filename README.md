@@ -18,8 +18,10 @@
 
 - [ ] 复数
 
+- [ ] 现在分词
+
 - [ ] 音标 - 背诵清辅音浊辅音
 
-- [ ] first week
+- [x] first week
 
 - [ ] want 和 wants

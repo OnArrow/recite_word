@@ -158,3 +158,31 @@ Look at those dog! Which your dog? The black one?
 
 No, not the black one, the brown one
 ```
+
+```
+What's you doing?
+
+I'm sleeping on the bed
+```
+
+```
+Who's running on the street?
+
+Jack's running on the street
+```
+
+```
+Where's Jack running?
+
+On the street
+```
+
+```
+Is it drinking its milk?
+
+No, it isn't drinking its milk
+
+What's it doing?
+
+It's eating a bone
+```

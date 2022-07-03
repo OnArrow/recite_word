@@ -186,3 +186,33 @@ What's it doing?
 
 It's eating a bone
 ```
+
+```
+Jack's climbing the wall
+
+I beg your pardon? Who's climbing the wall?
+
+Jack is
+```
+
+```
+What is there near the window?
+
+There is an armchair
+```
+
+```
+Is Jack here?
+
+No, he isn't here
+```
+
+```
+Who's reading a magazine?
+
+My father is
+
+What about your mother?
+
+She's cleaning her teeth
+```

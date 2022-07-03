@@ -25,3 +25,5 @@
 - [x] first week
 
 - [ ] want 和 wants
+
+- [ ] 记单词 wash dark outside fire park stand lawn listen

@@ -14,7 +14,9 @@
 
 - [ ] 限定词
 
-- [ ] 新概念语法练习 Lesson 27
+- [ ] 介词
+
+- [ ] 新概念语法练习 Lesson 33
 
 - [ ] 复数
 
@@ -22,8 +24,6 @@
 
 - [ ] 音标 - 背诵清辅音浊辅音
 
-- [x] first week
-
 - [ ] want 和 wants
 
-- [ ] 记单词 wash dark outside fire park stand lawn listen
+- [ ] 记单词 wash dark outside fire park stand lawn listen lean future

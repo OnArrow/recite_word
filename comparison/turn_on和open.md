@@ -1,4 +1,4 @@
-# Turn on 和 open
+# turn on 和 open
 
 ## Open
 

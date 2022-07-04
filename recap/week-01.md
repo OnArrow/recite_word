@@ -216,3 +216,7 @@ What about your mother?
 
 She's cleaning her teeth
 ```
+
+```
+There are some ice cream, apples, eggs and so on in the refrigerator
+```

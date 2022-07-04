@@ -1,4 +1,4 @@
-# week 01
+# Week 01
 
 ```
 This is my umbrella

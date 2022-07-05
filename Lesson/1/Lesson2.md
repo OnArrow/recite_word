@@ -22,7 +22,6 @@
 
    Go there
    到那里去
-
    ```
 
 3. 当副词置于句首时，后面的主谓要倒装
@@ -30,7 +29,7 @@
    ```
    My ticket is here
    我的票在这
-   //is是谓语，my ticket是主语
+   // is是谓语，my ticket是主语
 
    Here is my ticket
    这是我的票
@@ -90,7 +89,7 @@
 9. guy 家伙；伙计们； 对男性一种不正式的称呼
 
    ```
-   Hi,guy!
+   Hi, guy!
    嘿，伙计们
 
    ```
@@ -130,11 +129,12 @@
 
 15. 一般 house 用来表示像别墅那样的房子
 
-16. `it's free`和`on the house`都是免费的意思
+16. `it's free` 和 `on the house`都是免费的意思
 
     ```
     How much is this cup of coffee?
     这杯咖啡多少钱?
+
     That's on the house
     那是免费的
     ```

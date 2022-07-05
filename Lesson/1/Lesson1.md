@@ -67,11 +67,11 @@
 9. 否定句：肯定句变否定句时，把 not 加在系动词的后面
 
    ```
-   This is a dog   //肯定句
-   这是一条狗
+   This is a dog
+   //肯定句
 
-   This is not a dog    //否定句
-   这不是一条狗
+   This is not a dog
+   //否定句
 
    ```
 

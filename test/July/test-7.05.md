@@ -472,3 +472,122 @@ push
 pull
 
 ```
+
+```
+What's that bird doing?
+
+It's flying
+
+The bird is flying in the sky
+
+There are some clouds in the sky
+
+The sun is shining in the sky
+
+They are with their mother
+
+Are they with their mother?
+
+Who are they with?
+
+The boy is cleaning teeth with his family
+
+They are walking across the street
+
+The bird is flying over the city
+
+The boat is under the bridge
+
+The bridge is over the boat
+
+The boat is on the river
+
+There is a boat under the bridge
+
+There are some boats on the river
+
+There's a plane in the sky
+
+The plane flying over the city
+
+Is he with his family?
+```
+
+```
+What's the baby doing?
+
+The baby is sleeping with his father
+
+What's the man doing?
+
+The man is shaving
+
+Is the baby eating?
+
+No, he's crying
+
+The girl is washing hands with her family
+
+What are they doing?
+
+They are waiting for a bus
+
+Who's this?
+
+This is Leo teacher
+```
+
+```
+What are the cooks doing? Are they washing dishes?
+
+No, they aren't washing dishes, they are cooking
+
+What are the children doing? Are they crying?
+
+No, they aren't crying, they are sleeping
+
+What are the men doing? Are they cooking?
+
+No, they aren't cooking, they are shaving
+
+What are the children doing? Are they sleeping?
+
+No, they aren't sleeping, they are crying
+
+What are the dogs doing? Are they drinking milk?
+
+No, they aren't drinking milk, they are eating ice creams
+
+What are they doing? Are they airing the room?
+
+No, they aren't airing the room, they are typing letters
+
+What are the children doing? Are they looking at a picture?
+
+No, they aren't looking at a picture, they are doing their homework
+
+What are they doing? Are they sweeping the floor?
+
+No, they aren't sweeping the floor, they are washing hands
+
+What are the birds doing? Are they sitting a tree?
+
+No, they aren't sitting a tree, they are flying over the river
+
+What are the men and the women doing? Are they waiting for a bus?
+
+No, they aren't waiting for a bus, they are walking over the bridge
+
+What are the men and the women doing? Are they walking over the bridge?
+
+No, they aren't walking over the bridge, they are waiting for a bus
+
+What are the boys and the girls doing? Are they climbing a tree?
+
+No, they aren't climbing a tree, they are jumping off the wall
+```
+
+```
+Leagues of legends
+plane
+```

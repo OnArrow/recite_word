@@ -33,3 +33,9 @@ Jack is looking at a ship
 
 What's Jack looking at?
 ```
+
+```
+Where is the man going?
+
+He's going into the shop
+```

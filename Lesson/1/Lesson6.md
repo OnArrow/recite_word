@@ -45,7 +45,7 @@
    各位，这是杰克
    ```
 
-   - ![everybody](../images/Lesson6/1.png)
+   - ![everybody](../../images/Lesson6/1.png)
 
 5. 欢迎你到某地的短语
 
@@ -63,26 +63,26 @@
 
    - `you should visit 某地`，这个短语是通用表达，和说话人的位置，说话人与这个地方的关系无关
 
-   ```
-   You should visit London next summer
-   你明年夏天应该去伦敦看看
-   // 尽管我不是伦敦人，也没去过伦敦，我或许只是听说伦敦很美，那么我在向别人介绍伦敦时可以说这句话
+     ```
+     You should visit London next summer
+     你明年夏天应该去伦敦看看
+     // 尽管我不是伦敦人，也没去过伦敦，我或许只是听说伦敦很美，那么我在向别人介绍伦敦时可以说这句话
 
-   You should visit Beijing next mouth
-   你下个月应该去北京看看
-   ```
+     You should visit Beijing next mouth
+     你下个月应该去北京看看
+     ```
 
    - `you're welcome to visit 某地`，这个短句适用于我的国家，或者我的家乡和我住的地方。但是这句话是比较真诚的邀请，而不是客套话，所以一般只和关系比较好的人说
 
-   ```
-   You're welcome to visit China anytime
-   任何时候都欢迎你去中国
-   // 中国是我的国家，我在向别人介绍我的国家时，可以这样欢迎别人来中国
+     ```
+     You're welcome to visit China anytime
+     任何时候都欢迎你去中国
+     // 中国是我的国家，我在向别人介绍我的国家时，可以这样欢迎别人来中国
 
-   You're welcome to visit Tomson Yipin
-   欢迎你来汤臣一品
-   // 汤臣一品是我的家，我欢迎朋友来我家玩
-   ```
+     You're welcome to visit Tomson Yipin
+     欢迎你来汤臣一品
+     // 汤臣一品是我的家，我欢迎朋友来我家玩
+     ```
 
    - `I hope you can come to 某地`，这句话和`you're welcome to visit`意思差不多，都是比较真诚的邀请
 

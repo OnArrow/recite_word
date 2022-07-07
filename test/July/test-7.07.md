@@ -181,3 +181,216 @@ into
 beside
 off
 ```
+
+```
+beside
+off
+into
+along
+between
+across
+under
+over
+near
+legend
+leagues of legends
+lean
+lawn
+brand
+branch
+dark
+fire
+listen
+future
+stand
+```
+
+```
+This is a photo of my parents
+
+They are sitting under the tree
+
+village
+
+This is a beautiful village
+
+Where is the village?
+
+Is the village big or medium?
+
+The children are running in the village
+
+There are some birds in the village
+
+The birds are flying over the village
+
+The village is in the valley
+
+The valley is vary tall
+
+Are there any villages in the valley?
+
+There is a river in the valley
+
+The village is on the hill
+
+There's a village on the hill
+
+Is there a village on the hill?
+
+There aren't any village on the hill
+
+Look! There's another computer on the desk
+
+How many birds are there in the tree?
+
+Thirteen birds
+
+Look! That is another bird in that tree
+
+The wife is sitting beside her husband
+
+She's drinking the water in the cup
+
+What's he drinking?
+
+What's he eating?
+
+The man is swimming in the water
+
+The man is swimming across the river
+
+Where is the man swimming?
+
+Who's swimming in the river?
+
+There are some buildings in the city
+
+Where is that big building?
+
+Who is in that big building?
+
+My wife and I walking under the building
+
+What are they doing?
+
+They are walking in the park
+
+Where are they walking?
+
+The baby is sleeping between his parents
+
+What's his wife doing?
+
+She's walking into the shop
+
+What are the children doing?
+
+They are running out of school
+
+What are they doing?
+
+They are walking along the river
+
+What are they doing?
+
+They are swimming across the river
+
+The left man is sitting beside the woman
+
+The right man is sitting near the woman
+
+What's her daughter doing?
+
+She's reading a book beside the window
+
+Where are they?
+
+They are near the building
+
+What are they doing?
+
+They are waiting for a bus
+
+Where is the boat?
+
+The boat is under the bridge
+
+What's the boat doing?
+
+The boat is going under the bridge
+
+What are these planes doing?
+
+They are flying over the bridge
+
+What's Susan doing?
+
+She's reading a book on the floor
+
+What are your grandparents doing?
+
+They are sitting on the chair
+
+They are sitting in the park
+
+What are they doing?
+
+They are jumping off the wall
+
+What's the man doing?
+
+They are jumping onto the car
+
+Give me another month
+```
+
+```
+Where's the man going?
+
+He's going into the shop
+
+Where's the woman going?
+
+She's going out of the shop
+
+Where's the boy sitting?
+
+He's sitting beside the girl
+
+Where are the man and the woman walking?
+
+They are walking across the street
+
+Where's that cat running?
+
+It's running along the wall
+
+Where are the children jumping?
+
+They ara jumping off the wall
+
+Where's the boy walking?
+
+He's walking between two policemen
+
+Where's the girl sitting?
+
+She's sitting under the tree
+
+Where's the plane flying?
+
+It's flying under the bridge
+
+Where's the plane flying?
+
+It's flying over the bridge
+
+Where are they sitting?
+
+They are sitting on the lawn
+
+Where are they reading?
+
+They are reading in the living room
+```

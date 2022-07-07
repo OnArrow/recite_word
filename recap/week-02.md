@@ -39,3 +39,15 @@ Where is the man going?
 
 He's going into the shop
 ```
+
+```
+There is an apple on the left of the table
+
+Look! There's another one on the right
+```
+
+```
+What is this a photo of?
+
+It's a photo of our village
+```

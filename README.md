@@ -25,5 +25,3 @@
 - [ ] some 和 any
 
 - [ ] grass 和 lawn
-
-- [ ] 记单词 wash dark outside fire park stand lawn listen lean future branch

@@ -40,7 +40,13 @@
    在湖边/在湖上
    ```
 
-6. 名句
+6. `some of them` 他们当中的一些
+
+   ```
+   The students are going out of the school, some of them running into the park
+   ```
+
+7. 名句
 
    ```
    Don't walk behind me, I way not lead; Don't walk in front of me, I way not follow. Just walk beside me and be my friend

@@ -140,3 +140,117 @@ listen
 dish
 favourite
 ```
+
+```
+work
+hard
+make
+bookcase
+hammer
+paint
+homework
+pink
+favourite
+listen
+dish
+```
+
+```
+You're working hard, George
+你工作很努力，乔治
+
+What are you doing?
+你在做什么？
+
+I'm making a bookcase
+我在做一个书架
+
+Give me that hammer please, Dan
+请给我那把锤子，丹
+
+Which hammer? This one?
+哪一把？这一把吗?
+
+No, not that one, the big one
+不是这把，是大的那把
+
+Here you are
+给你
+
+Thanks, Dan
+谢谢你，丹
+
+What are you going to do now, George?
+你现在要去做什么，乔治？
+
+I'm going to paint it
+我去给它刷漆
+
+What color are you going to paint it?
+你去给它刷什么颜色的漆?
+
+I'm going to paint it pink
+我去给它刷上粉色的漆
+
+Pink!
+粉色！
+
+This bookcase isn't for me
+这个书架不是为我做的
+
+It's for my daughter, Susan
+它是为我女儿苏珊做的
+
+Pink's her favourite color
+粉色是她最喜爱的颜色
+```
+
+```
+What are you going to do?
+
+I'm going to shave
+
+What are you doing now?
+
+Now I'm shaving
+
+What are you going to do?
+
+I'm going to wait for a bus
+
+What are you doing now?
+
+Now I'm waiting for a bus
+
+What are you going to do?
+
+We're going to do our homework
+
+What are you doing now?
+
+Now we're doing our homework
+
+What are you going to do?
+
+I'm going to paint this bookcase
+
+What are you doing now?
+
+Now I'm painting this bookcase
+
+What are you going to do?
+
+We're going to listen to the stereo
+
+What are you doing now?
+
+Now we're listening to the stereo
+
+What are you going to do?
+
+I'm going to wash the dishes
+
+What are you doing now?
+
+Now I'm washing the dishes
+```

@@ -1,6 +1,4 @@
-# song
-
-## Love Story
+# Love Story
 
 1. We were both young when I first saw you
    第一次见到你的时候，我们都很年轻

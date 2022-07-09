@@ -1,4 +1,4 @@
-# 学习英语
+# 任务目标
 
 - [ ] 所有格形式
 
@@ -26,4 +26,4 @@
 
 - [ ] grass 和 lawn
 
-- [ ] 记单词：husband practice front lamp
+- [ ] 记单词：husband practice front lamp university doctor area

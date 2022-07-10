@@ -14,7 +14,7 @@
 
 - [ ] 梳理冠词内容
 
-- [ ] 新概念语法练习 Lesson 33
+- [ ] 新概念语法练习 Lesson 38 B
 
 - [ ] 现在分词
 
@@ -26,4 +26,4 @@
 
 - [ ] grass 和 lawn
 
-- [ ] 记单词：husband practice front lamp university doctor area
+- [ ] 记单词：husband practice front lamp university doctor area bathroom

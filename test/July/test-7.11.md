@@ -249,3 +249,42 @@ notification
 moment
 mention
 ```
+
+```
+front
+vase
+drop
+show
+send
+careful
+flower
+```
+
+```
+What are you going to do with that vase, Penny?
+你拿着那个花瓶做什么，Penny?
+
+I'm going to put it on this table, Sam
+我要把它放到这张桌子上，Sam
+
+Don't do that. Give it to me
+不要那样做。把它给我
+
+What are you going to do with it?
+你要拿着它做什么？
+
+I'm going to put it here, in front of the window
+我要把它放在这里，在窗户前面
+
+Be careful! Don't drop it!
+小心！不要使它掉落！
+
+Don't put it there, Sam. Put it here, on this shelf
+不要放在那里，Sam。放在这里，架子上
+
+There we are! It's a lovely vase
+就放在那里！它是一个迷人的花瓶
+
+Those flowers are lovely, too
+那些花也很迷人
+```

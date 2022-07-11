@@ -69,3 +69,13 @@ Where is that plane going?
 
 It's flying to China
 ```
+
+```
+What are you drinking?
+
+I'm drinking water
+
+What are you going to drink?
+
+I'm going to drink milk
+```

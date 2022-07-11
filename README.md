@@ -1,4 +1,6 @@
-# 任务目标
+# Study for the rise of China
+
+## 任务目标
 
 - [ ] 所有格形式
 
@@ -26,4 +28,4 @@
 
 - [ ] grass 和 lawn
 
-- [ ] 记单词：husband practice front lamp university doctor area bathroom
+- [ ] 记单词：husband practice front lamp university doctor area bathroom music movie study reply

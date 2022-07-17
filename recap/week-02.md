@@ -79,3 +79,16 @@ What are you going to drink?
 
 I'm going to drink milk
 ```
+
+```
+What are you and Susan going to do?
+你和苏珊要做什么？
+
+We are going to cook a meal
+
+What are you going to do with Susan?
+你要对苏珊做什么？
+
+What are you going to do for Susan?
+你要为了苏珊做什么？
+```

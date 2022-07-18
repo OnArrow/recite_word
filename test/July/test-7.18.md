@@ -180,3 +180,75 @@ go dutch free league legend
 I'm waiting for a bus at the bus stop
 
 ```
+
+```
+What are you going to do with that vase, Penny?
+
+I'm going to put it on this table, Sam
+
+Don't do that, give it to me
+
+What are you going to do with it?
+
+I'm going to put it here, in front of the window
+
+Be careful! Don't drop it
+
+Don't put it there, Sam. Put it here, on this shelf
+
+There we are! It's a lovely vase
+
+Those flowers are lovely, too
+```
+
+```
+Are you going to put on your hat?
+
+Yes, I'm going to put on my hat
+
+Are you going to take off your shoes?
+
+Yes, I'm going to take them off
+
+Are you going to turn on the light?
+
+Yes, I'm going to turn it on
+
+Are you going to turn off the taps?
+
+Yes, I'm going to turn them off
+```
+
+```
+What are you going to do with that skirt?
+
+I'm going to give it to my daughter
+
+What are you going to do with those flowers?
+
+I'm going to take them to my grandmother
+
+What are you going to do with that newspaper?
+
+I'm going to take it to my father
+
+What are you going to do with that photo?
+
+I'm going to show it to my mother
+
+What are you going to do with those ice creams?
+
+I'm going to give them to the children
+
+What are you going to do with those flowers?
+
+I'm going to give them to my wife
+
+What are you going to do with that letter?
+
+I'm going to send it to my grandfather
+
+What are you going to do with those magazines?
+
+I'm going to take them to my sister
+```

@@ -182,3 +182,77 @@ go going run running swim swimming drink drinking come coming dance dancing
 
 child's children's girls' mother's Jack's
 ```
+
+```
+front
+This man is in front of the car
+vase careful
+I'm going to put the vase on that table
+I'm cleaning the vase
+Are you going to empty the vase?
+I'm going to drop the vase, catch it!
+I'm going to give some flowers to my mother
+There are many flowers outside the window
+What are you going to do with the old computer?
+I'm going to give Jack the computer
+```
+
+```
+What are you going to do with those dirty dishes?
+
+I'm going to wash them
+```
+
+```
+Show me your passport
+
+Are you going to put on your hat?
+
+No, I'm not, I'm going to put on my shoes
+
+This light is dark, what are you going to do with the light?
+
+I'm going to turn it off
+
+It's very hot, the coat is thick, I'm taking it off
+
+Are you going to take off your shoes?
+
+Yes, I'm going to take them off
+
+Are you going to turn on the light?
+
+Yes, I'm going to turn it on
+
+Are you going to turn off the computer?
+
+Yes, I'm going to turn it off
+
+Are you going to turn on the radio?
+
+Yes, I'm going to turn it on
+
+Are you going to turn off the stereo?
+
+Yes, I'm going to turn it off
+
+Are you going to put on your suit?
+
+Yes, I'm going to put it on
+
+Are you going to take off your trousers?
+
+Yes, I'm going to take it off
+```
+
+```
+trouser
+vase
+front
+road
+```
+
+```
+15,977,917,822
+fifteen billion nine hundred and seventy seven billion nine hundred and seventeen thousand eight hundred and twenty two
+```

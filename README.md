@@ -32,4 +32,4 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词：husband practice front lamp university doctor area bathroom music movie study reply write fridge cloak category supermarket
+- [ ] 记单词：husband practice front lamp university doctor area bathroom music movie study reply write fridge cloak category supermarket remember

@@ -53,3 +53,19 @@ Is the electric cooker for your mother?
 
 Yes, it's certainly for my mother
 ```
+
+```
+Is there a bird in the tree?
+
+Yes, there's, there's one in the tree
+
+Is there any fruit in the basket?
+
+Yes, there's, there's some in the basket
+```
+
+```
+Is there a bottle of milk in the refrigerator?
+
+yes, there's
+```

@@ -69,3 +69,9 @@ Is there a bottle of milk in the refrigerator?
 
 yes, there's
 ```
+
+```
+Are there any trees here?
+
+Yes, there are, there are some in front of the building
+```

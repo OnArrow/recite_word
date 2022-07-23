@@ -75,3 +75,23 @@ Are there any trees here?
 
 Yes, there are, there are some in front of the building
 ```
+
+```
+Are there any spoons here?
+
+No, there aren't, they are over there
+```
+
+```
+I can run on the street
+
+It can't go out of the room
+
+Can your father work?
+
+No, he can't
+
+What can the electric cooker do?
+
+It can cook
+```

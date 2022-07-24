@@ -95,3 +95,17 @@ What can the electric cooker do?
 
 It can cook
 ```
+
+```
+What are you going to give to your mother?
+
+I'm going to give flowers to her
+```
+
+```
+I'm going to write a letter, is there any paper on the desk?
+
+Yes, there's
+
+Give me a piece of paper, please
+```

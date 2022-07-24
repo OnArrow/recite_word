@@ -14,7 +14,9 @@
 
 - [ ] 梳理冠词内容
 
-- [ ] 新概念语法练习 Lesson 39
+- [ ] 新概念语法练习 Page 86
+
+- [ ] 新概念练习册 Page 126
 
 - [ ] 现在分词
 
@@ -30,4 +32,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词：husband practice lamp university doctor area bathroom music movie study reply write fridge cloak category supermarket remember question alias screen reload
+- [ ] 记单词：husband practice lamp university doctor area bathroom music movie study reply write fridge cloak category supermarket remember question alias screen reload begin throw dollar money aunt shopkeeper guest paper juice ride drive address
+
+- [ ] day 7.24

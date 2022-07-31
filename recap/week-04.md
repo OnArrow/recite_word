@@ -81,3 +81,41 @@ Which grapes do you like? Dirty ones or clean ones?
 
 I like the clean ones
 ```
+
+```
+You want Penny to make some tea for you
+
+Penny, can you make some tea for me, please?
+```
+
+```
+What language can you speak?
+
+I can speak Chinese
+```
+
+```
+Which box can he lift, the light one or that heavy one?
+
+He can lift the light one
+```
+
+```
+Where can you swim, in a river or in a sea?
+
+I can swim in a river
+```
+
+```
+I'm going to buy you a bottle of beer
+```
+
+```
+Does he like chicken?
+
+No, he doesn't like chicken
+
+What about beef?
+
+He doesn't like beef, either
+```

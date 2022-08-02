@@ -7,10 +7,10 @@
 
 | 意大利  | 瑞典    | 日本     | 韩国   | 挪威      |
 | ------- | ------- | -------- | ------ | --------- |
-| Italy   | Swedish | Japan    | Korea  | Norway    |
-| Italian | Sweden  | Japanese | Korean | Norwegian |
+| Italy   | Sweden  | Japan    | Korea  | Norway    |
+| Italian | Swedish | Japanese | Korean | Norwegian |
 
-| 丹麦    | 荷兰        |
-| ------- | ----------- |
-| Denmark | Netherlands |
-| Danish  | Dutch       |
+| 丹麦    | 荷兰    | 希腊   | 西班牙 |
+| ------- | ------- | ------ | ------ |
+| Denmark | Holland | Greece | Spain  |
+| Danish  | Dutch   |

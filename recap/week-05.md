@@ -25,3 +25,19 @@ Does he come from France?
 
 Where does he come from?
 ```
+
+```
+The weather is pleasant in my country
+
+Is the weather pleasant in your country?
+
+Why is the weather pleasant in your country?
+```
+
+```
+He washes dishes sometimes
+
+Does he wash dishes sometimes?
+
+How often does he wash dishes?
+```

@@ -39,20 +39,20 @@ Don't drop it
 ```
 
 ```
-lift cake biscuit boss minuit handwriting can terrible ask
+lift cake biscuit boss minute handwriting can terrible ask
 ```
 
 ```
-lift boss cake ask can terrible minuit biscuit handwriting
+lift boss cake ask can terrible minute biscuit handwriting
 ask answer reply
 ```
 
 ```
-can lift biscuit cake terrible minuit boss handwriting ask
+can lift biscuit cake terrible minute boss handwriting ask
 ```
 
 ```
-Can you come here a minuit, please, Bob?
+Can you come here a minute, please, Bob?
 你可以到这里来一下吗？Bob
 
 Yes, sir?
@@ -170,7 +170,7 @@ I can see the aeroplane
 ```
 
 ```
-Can you come my room a minuit, Jack?
+Can you come my room a minute, Jack?
 
 Yes, of course I can
 

@@ -1,7 +1,7 @@
 # 7.26
 
 ```
-Can you come the playground a minuit?
+Can you come the playground a minute?
 
 Yes, of course I can
 
@@ -45,7 +45,7 @@ What's he doing now?
 
 He's looking at the plane
 
-Can I play League Of Legends a minuit?
+Can I play League Of Legends a minute?
 
 No, you can't, because you should go to study now
 ```
@@ -306,7 +306,7 @@ house hill village valley build building sit here there this that these those sl
 radio stereo television air make coffee tea bread sugar soap floor office officer official custom customs passport
 English Chinese American Russian French Norwegian Dutch go dutch free Swedish Japanese Korean Danish east west north south
 January February March April May June July August September October November December spring summer autumn winter
-Monday Tuesday Wednesday Thursday Friday Saturday Sunday week weekend year month day hour minuit second half past future feature
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday week weekend year month day hour minute second half past future feature
 teeth tooth man men woman women child children reply answer question ask entry exit morning noon afternoon evening night midnight
 sun shine cloud flower drop throw lunch dinner dust dusty sweep sweet onion ginger fruit money milkshake stereo radio
 notification moment mention word grammar story try catch street grass leaf housewife wife son daughter doctor nurse

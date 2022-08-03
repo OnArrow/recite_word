@@ -160,7 +160,7 @@ Which What Who Where Whose How
 upstairs downstairs stairs tie read do clean empty climb run go walk jump watch look see stand lean sit sit down here
 turn on turn off open close shut dust make wash sleep cry fly swim give take take off put put on
 type hammer untidy tidy water noodle rice onion ginger team blackboard cupboard wardrobe shelf
-year month day hour minuit second morning noon afternoon evening night midnight
+year month day hour minute second morning noon afternoon evening night midnight
 want wants
 computer
 exit entry

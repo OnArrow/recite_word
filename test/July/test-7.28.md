@@ -13,7 +13,7 @@ What's in the cup?
 
 It's some water
 
-Can you wait a minuit for me?
+Can you wait a minute for me?
 
 No, I can't
 

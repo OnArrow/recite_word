@@ -33,7 +33,7 @@ Yes, a piece of cake
 ```
 
 ```
-can terrible handwriting minuit ask boss
+can terrible handwriting minute ask boss
 ```
 
 ```

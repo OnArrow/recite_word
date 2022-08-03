@@ -339,7 +339,7 @@ put away write down throw away
 ```
 
 ```
-can boss minuit ask handwriting lift cake biscuit terrible terrible biscuit
+can boss minute ask handwriting lift cake biscuit terrible terrible biscuit
 ```
 
 ```

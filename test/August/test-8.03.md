@@ -144,5 +144,5 @@ early late wet always mild season best rise set interesting
 ```
 
 ```
-early late interesting mild always wet season 
+early late interesting mild always wet season
 ```

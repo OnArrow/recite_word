@@ -229,3 +229,64 @@ Which flower does she give to her mother?
 
 The most beautiful one
 ```
+
+```
+early late conversation subject interesting set rise best season wet always mild
+windy rain snow warm often sometimes climate country pleasant weather
+```
+
+```
+How often does the sun shine?
+```
+
+```
+This is a photo of China
+
+What's the climate like in China?
+
+It's always mild
+
+The dog is wet
+
+Why is the dog wet?
+
+Because it rains every day
+
+It swims in the river every day
+
+Does it swim in the river every day?
+
+Where does it swim every day?
+
+When does it swim in the river?
+
+How often does it swim in the river?
+```
+
+```
+The nights are short in summer
+
+Are the nights short in summer?
+
+When are the nights short?
+
+What are short in summer?
+```
+
+```
+The sun rises early in summer
+
+Does the sun rise early in summer?
+
+When does the sun rise early?
+
+The sun sets late in winter
+
+Does the sun set late in winter?
+
+When does the sun set late?
+
+This book is interesting
+
+I'm an interesting man
+```

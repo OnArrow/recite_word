@@ -91,3 +91,13 @@ Which season do you like best?
 
 I like summer best
 ```
+
+```
+What do you usually do in the evening?
+
+I usually learn English in the evening
+
+What does he often do at noon?
+
+He often washes the dishes at noon
+```

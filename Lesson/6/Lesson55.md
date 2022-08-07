@@ -12,3 +12,14 @@
    the Georges
    乔治一家
    ```
+
+2. `live`
+
+   ```
+   live in + 国家/城市
+   live at + 门牌号
+
+   I live in Nanning
+
+   I live at 99
+   ```

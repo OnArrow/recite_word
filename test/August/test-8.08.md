@@ -171,3 +171,83 @@ American Chinese Russian French English Japanese Korean Norwegian Dutch Germen S
 raw ripe pork butcher meat beef lamb steak mince chicken tomato potato tell truth either cabbage lettuce pea bean pear grape
 peach movie
 ```
+
+```
+The Sawyers don't live at 87 King Street
+
+Where do the Sawyers live?
+
+Do the Sawyers live at 87 King Street?
+
+Where do they live?
+
+Does Mr.Sawyer go to work in the morning?
+
+Who does go to work in the morning?
+
+Why does Mr.Sawyer go to work in the morning?
+
+Where does Mr.Sawyer go in the morning?
+
+When does Mr.Sawyer go to work?
+
+Does their father take them to school every day?
+```
+
+```
+What does she often do in the morning?
+
+She often dusts the cupboard in the morning
+
+What does she always do in the morning?
+
+She always makes the bed in the morning
+
+What does he always do in the morning?
+
+He always shaves in the morning
+
+What do they sometimes do in the evening?
+
+Sometimes, they listen to the stereo in the evening
+
+What does he always do every day?
+
+He always cleans the cupboard every day
+
+What do they always do at night?
+
+They always go to bed at night
+
+What does she usually do every day?
+
+She usually washes the dishes every day
+
+What do they usually do in the afternoon?
+
+They usually type letters in the afternoon
+
+What does the cat sometimes do in the evening?
+
+It sometimes drinks milk in the evening
+
+What do they sometimes do in the evening?
+
+They sometimes watch television in the evening
+
+What does she always do at noon?
+
+She always eats her lunch at noon
+
+What does he often do in the evening?
+
+He often reads his newspaper in the evening
+```
+
+```
+I can eat ten carrots in five minutes
+```
+
+```
+in on at into onto behind between across after in front of along with out of over under off near beside by within by for
+```

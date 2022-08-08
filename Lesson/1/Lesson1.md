@@ -87,7 +87,7 @@
     - 要打扰某人或要打断别人的话，如某人在台上说话，你想打断他的发言
 
       ```
-      Excuse me.May I ask you a question?
+      Excuse me. May I ask you a question?
       对不起，我可以问你一个问题吗？
       ```
 

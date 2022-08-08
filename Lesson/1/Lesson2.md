@@ -9,7 +9,7 @@
    Please come in
    请进
 
-   Help me,please!
+   Help me, please!
    帮帮我，求你了
 
    ```
@@ -33,7 +33,6 @@
 
    Here is my ticket
    这是我的票
-
    ```
 
 4. ticket

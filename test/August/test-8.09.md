@@ -95,3 +95,154 @@ doctor
 operator
 operator
 ```
+
+```
+Excuse me, the handbag isn't mine
+
+Whose is the handbag?
+
+The handbag is that man's near the door
+
+I beg your pardon
+
+Do you beg my pardon?
+
+Why do you beg my pardon?
+```
+
+```
+This is your handbag
+
+Is this your handbag?
+
+Which handbag is yours?
+
+Which is your handbag?
+
+This red one is mine
+
+Is your handbag dirty or clean?
+
+My handbag's clean
+
+What are you going to do?
+
+I'm going to wash the handbag for my son
+
+Who is this handbag for?
+
+This handbag is for my daughter
+
+Can you take a handbag to me?
+
+Yes, of course I can
+
+Does he wash the handbag every day?
+
+No, he doesn't, because he's lazy
+
+Why isn't that handbag yours?
+
+That handbag is mine
+
+Is that handbag yours?
+
+Why isn't that handbag yours?
+
+Because it's dirty, my handbag's clean
+```
+
+```
+Here isn't my ticket
+
+Give me a return ticket
+
+Can he give me a round ticket?
+
+Is this your ticket?
+
+Which ticket is yours? The one to Beijing or the one to Nanning?
+
+My ticket is to Beijing
+
+
+```
+
+```
+What nationality are you?
+
+I'm Chinese, I come from China
+
+Where do you come from?
+
+I come from America, but I'm not American, I'm French
+
+Where are you from?
+
+I'm from Russia
+
+Are you from Russia?
+
+Yes, I'm Russian
+
+Where does he come from?
+
+He comes from France, He's French
+
+What's the weather like in Japanese?
+
+Not so well, sometimes it's windy, it always rains in summer, but it never snows in winter
+
+China Chinese America American Russia Russian France French England English Norway Norwegian Sweden Swedish
+Korea Korean Japan Japanese Italy Italian
+
+Where does your family come from?
+
+Our family come from Greece
+
+I like beef, do you like it?
+
+Yes, I like beef too
+
+I don't like beef, and you?
+
+I don't like it either
+
+This is a new office assistant, his name is Jack
+
+Hello, Jack, nice to meet you
+
+Nice to meet you, everybody
+
+Mr Mrs Miss Ms
+
+```
+
+```
+What's your job?
+
+I'm a taxi driver
+
+What's your mother's job?
+
+My mother's a nurse
+
+What about your sister?
+
+She's a doctor
+
+And you?
+
+I'm a waiter
+
+What nationality is he?
+
+He's Norwegian
+
+air hostess
+nurse
+mechanic
+hairdresser
+housewife
+housewives
+```

@@ -40,5 +40,3 @@
    It's on you, your treat
    算在你身上，你请客
    ```
-
-4. 如何判断何时用`is`,何时用`are`

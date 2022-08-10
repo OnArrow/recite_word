@@ -30,16 +30,12 @@
 
    ```
    That is Jack
-   那是杰克
 
    Is that Jack?
-   那是杰克吗？
 
    Who is that?
-   那是谁？
 
    Who's that?
-   那是谁？
 
    This young man is Jack
 

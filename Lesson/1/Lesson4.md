@@ -58,7 +58,7 @@
    It suits you
    它很适合你
 
-   The coat suit you
+   The coat suits you
    这件外套很适合你
    ```
 

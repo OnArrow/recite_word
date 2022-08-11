@@ -6,7 +6,7 @@
    Today is a fine day
    // 错误用法，主语不能是 `today`
 
-   It is a fine dat today
+   It is a fine day today
    // 正确用法
    ```
 

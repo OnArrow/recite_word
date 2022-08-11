@@ -4,7 +4,19 @@
 
 2. 在口语中，经常会使用 `gonna do` 来替代 `going to do`，但是书面表达时还是需要用 `going to do`
 
-3. 一般将来时（肯定句）结构：`主语 + am/are/is + going to do(v.原型)`
+3. `hard` 可以用来加强动作的强度，表达为“拼命地”
+
+   ```
+   try hard
+
+   play hard
+
+   work hard
+
+   listen hard
+   ```
+
+4. 一般将来时（肯定句）结构：`主语 + am/are/is + going to do(v.原型)`
 
    ```
    I'm going to wash clothes
@@ -20,7 +32,7 @@
    // 口语：He's gonna jump off the building
    ```
 
-4. 一般将来时（否定句）结构：`主语 + am/are/is + not + gping to do(v.原型)`
+5. 一般将来时（否定句）结构：`主语 + am/are/is + not + gping to do(v.原型)`
 
    ```
    They are not going to run
@@ -36,7 +48,7 @@
    // 口语：She isn't gonna dance
    ```
 
-5. 一般将来时（一般疑问句）结构：`am/are/is(提到句首) + 主语 + going to do(v.原型)`
+6. 一般将来时（一般疑问句）结构：`am/are/is(提到句首) + 主语 + going to do(v.原型)`
 
    ```
    Are you going to sleep?
@@ -52,7 +64,7 @@
    // 口语：Are the children gonna drink the water?
    ```
 
-6. 一般将来时（特殊疑问句）结构：`What + am/are/is + 主语 + going to do?`
+7. 一般将来时（特殊疑问句）结构：`What + am/are/is + 主语 + going to do?`
 
    ```
    What are you going to do?
@@ -65,7 +77,7 @@
    你妈妈准备做什么？
    ```
 
-7. `for sb.` 表示“为了某人；给某人”
+8. `for sb.` 表示“为了某人；给某人”
 
    ```
    This apple is for me

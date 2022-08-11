@@ -240,3 +240,152 @@ Can you both cook a dinner for me?
 
 No, we can't, because we can't cook
 ```
+
+```
+garden under tree climb climate who run grass lawn after across cat
+
+type letter basket eat bone clean tooth cook milk meal drink tap
+
+Where are you doing now?
+
+I'm at home
+
+The children are running across the playground
+
+What are you two doing?
+
+We are walking along the river
+
+What does he usually do every day?
+
+He usually runs after his cat in the garden every afternoon, but he washes dishes sometimes
+
+Are you going to cook meal?
+
+No, I'm not. I'm going to swim across the river
+
+Is he going to drink the iced juice?
+
+No, he isn't. He doesn't like iced juice, he likes hot coffee, but he doesn't like sugar in his coffee
+
+Can he empty the refrigerator for me?
+
+No, he can't, because he can't lift the refrigerator
+
+Do you want some chairs?
+
+No, thank you
+```
+
+```
+day cloud sky sun shine with family walk over bridge boat river ship aeroplane plane fly
+sleep shave cry wash wait jump
+
+The little bird is flying over my house
+
+What's it doing?
+
+It's swimming across the river
+
+There is a tree on the bank of the river
+
+The thief is running across a bank. Can you see him?
+
+No, I can't see him
+
+Where's he now?
+
+Now he's jumping off the wall
+
+Be careful! Get out of there!
+
+How many stars are there in the sky?
+
+There are one hundred stars in the sky
+
+Is the sky dark or light now?
+
+It's dark
+
+How about these ships?
+
+Why is the ship big?
+
+Is the ship big?
+
+Can the ship across the bridge?
+```
+
+```
+photo photograph village valley between hill another wife husband along bank water swim building park part chapter
+into
+near beside off
+
+The men are running into the open shop, but some of them are taking pictures
+
+What's in the zoo?
+
+There are some monkeys, elephants, tiger and so on
+
+What are you doing?
+
+I'm taking pictures
+
+Why are you taking pictures?
+
+Because it's my hobby
+
+What's the woman doing?
+
+She's going into the shop
+
+What's she going to do?
+
+She's going to buy some beef
+
+Then?
+
+Then she's going to run out of the shop
+
+Why is she going to run out of the shop?
+
+Because she has not money
+
+This is a photo of my house, here is another photo of my house
+
+This is my arm, it's very strong. Here is my another arm, it's very strong too. Do you want to touch it?
+
+
+```
+
+```
+work hard make bookcase hammer paint pink favorite homework listen dish
+
+Who is the new dress for?
+
+The new dress is for my mother
+
+Is the new dress for your mother?
+
+What are you waiting for?
+
+I'm waiting for a bus
+
+Are you waiting for a bus?
+
+What color are you going to paint the wall?
+
+I'm going to paint the wall pink
+
+Here are two hammer, the hammer is heavy, another is light. Which one does he want?
+
+He wants the heavy one
+
+What are you washing the dish for?
+
+What do you wash the dish for?
+
+I wash the dish for my mother
+
+I'm washing the dish for my mother
+```

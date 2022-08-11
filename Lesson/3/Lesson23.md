@@ -4,22 +4,16 @@
 
    ```
    The cat is on the table
-   猫在桌子上
 
    Is the cat on the table?
-   猫在桌子上吗？
 
    Where is the cat?
-   猫在哪?
 
    Where are they?
-   它们在哪?
 
    Where is the girl I like?
-   我喜欢的女孩在哪？
 
    Where is your new cupboard?
-   你的新橱柜在哪?
    ```
 
 2. `table`常常用来表示吃饭的桌子，而`table for 数量`表示几人桌

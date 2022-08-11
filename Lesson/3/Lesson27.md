@@ -4,13 +4,10 @@
 
    ```
    There are three armchairs in the living room
-   客厅里有三把扶手椅
 
    Are there three armchairs in the living room?
-   客厅里有三把扶手椅吗？
 
    How many armchairs are there in the living room?
-   客厅里有多少把扶手椅？
    // `How many`是问“多少”的意思，所以是对`three armchairs`进行提问，剩下的和其他特殊疑问句一样
    // `How many` 后面一定要加上需要询问的名词，一起提到句首
 

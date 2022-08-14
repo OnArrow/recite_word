@@ -16,9 +16,9 @@
 
 - [ ] 及物动词
 
-- [ ] 新概念语法练习 Page 92
+- [ ] 新概念语法练习 Page 98
 
-- [ ] 新概念练习册 Page 142
+- [ ] 新概念练习册 Page 159
 
 - [ ] 现在分词
 
@@ -34,4 +34,4 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： study reply write fridge cloak category supermarket remember question alias screen reload begin throw dollar language money shopkeeper guest paper juice ride drive address comprehension part accept refuse vegetable bring buy cut translate spell cream ice soup salt lemon both ever chapter iced complete hobby maybe seldom
+- [ ] 记单词： study reply write fridge cloak category supermarket remember question alias screen reload begin throw dollar language money shopkeeper guest paper juice ride drive address comprehension part accept refuse vegetable bring buy cut translate spell cream ice soup salt lemon both ever chapter iced complete hobby maybe seldom birthday dry autumn bad breakfast leave

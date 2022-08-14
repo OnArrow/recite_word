@@ -23,3 +23,13 @@
 
    I live at 99
    ```
+
+3. 在中午可以说 `at noon`，也可以说 `at midday`
+
+   ```
+   I usually drink milk at noon
+
+   The sun always shines at midday
+
+   He sometimes sleeps in his office at midday
+   ```

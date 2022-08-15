@@ -109,3 +109,187 @@ Can I go out with you?
 ```
 maybe
 ```
+
+```
+subway breakfast
+```
+
+```
+I often go to work by subway
+
+Do you often go to work by subway?
+
+Yes, I do
+
+What do you often go to work by?
+```
+
+```
+At the moment, my cat is sleeping on the desk
+
+I go to work by bike every day, but this morning, I going to work by car
+
+I usually eat beef for dinner, but this dinner, I eating lamb for it
+
+Do you usually go to school by car or by subway?
+
+I usually go to school by subway, but this morning, I going to shool by car
+
+I type the letter by keyboard
+
+Do you type the letter by keyboard?
+
+Yes, I do
+
+He runs fast by his new shoes
+
+Can you finish the work?
+
+Yes, I can
+
+When can you finish the work?
+
+I can finish the work by five o'clock in the afternoon
+
+At the moment, what are you doing?
+
+I'm coming home, I'm going to bathe
+
+Where are you going to bathe?
+
+I'm going to bathe in the bathroom
+
+Where do you know the toilet?
+
+The toilet is on the first floor
+
+Is the toilet on the first floor?
+
+Yes, it's
+
+Where is the toilet?
+
+I know the toilet is on the first floor
+
+Do you know the toilet is on the second floor?
+
+No, I don't
+
+When do you usually drink tea?
+
+I usually drink tea in the afternoon
+
+Do you often drink tea every afternoon?
+
+Yes, I do, but this afternoon, I looking at those bird in the garden
+
+What are they doing?
+
+They are standing on the branch
+
+Which one do you like best?
+
+I like the blue one, it's so cute
+
+Can you come here a minute?
+
+Yes, of course I can. What's the matter?
+
+Do you know the toilet is on the first floor or third floor? Ask Jack for me please
+
+Yes, sir
+
+Jack, can you answer me a question?
+
+Yes, a piece of cake
+
+Where is the toilet?
+
+Maybe it's on the first floor
+
+Are you sure?
+
+No, I'm not
+
+Can you find it on the map?
+
+I will try
+```
+
+```
+When does he always clean his teeth? At half past nine or at ten o'clock?
+
+He always cleans his teeth at half past nine, but today, he eating his breakfast at half past nine
+
+Is it terrible today?
+
+No, not terrible.
+```
+
+```
+When does she usually finish her homework?
+
+She usually finishes her homework by eight o'clock in the evening
+
+What do you often do after lunch?
+
+I often drink some tea and tea two apples after lunch
+
+What does he usually do before midnight?
+
+He usually reads the interesting book, sometime he looks at those picture of the wall
+```
+
+```
+in the morning
+
+at noon
+
+in the afternoon
+
+in the evening
+
+at night
+
+at midnight
+```
+
+```
+Do you go to work on Monday?
+
+Yes, I always go to work on Monday morning
+```
+
+```
+The subway goes from Beijing to Nanning
+
+Does the subway go from Beijing to Nanning?
+
+Yes, it does
+
+Where does the subway go from Beijing?
+
+Does the subway run fast?
+
+Yes, it does. It runs very fast
+
+Are there any toilets in the subway?
+
+No, there aren't any toilets in the subway
+
+What does your cat usually do at night?
+
+It usually sleep by my bed, but tonight, it's running across my bed
+```
+
+```
+Is he going to Qingdao?
+
+Yes, he's
+
+When is he going to Qingdao?
+
+He's going to Qingdao by plane in summer
+
+hundred thousand million billion
+```

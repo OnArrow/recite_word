@@ -15,3 +15,97 @@
    It's very faraway from home
    // 这里指距离
    ```
+
+2. 询问时间
+
+   ```
+   It's 10 o'clock
+
+   Is it 10 o'clock?
+
+   What time is it?
+
+   He drinks tea at 4 o'clock
+
+   Does he drink tea at 4 o'clock?
+
+   What time does he drink tea?
+
+   What's the time?
+   ```
+
+3. `What time` 和 `When` 的区别
+
+   ```
+   When does he usually read a book?
+   // `when`通常表示问什么时候，可以回答大概的时间也可以回答具体的时间
+
+   He usually reads a book in the evening
+
+   What time does he usually read a book?
+   // `what time`通常表示问具体的几点钟
+
+   He usually reads a book at 8 o'clock
+
+   两者可以混用，没有严谨的区别，只是一个小的行为习惯
+   ```
+
+4. 表达几点几分
+
+   - 直接表达
+
+   ```
+   twelve fifty
+   12:50
+
+   nine fifteen
+   9:15
+
+   seven forty-eight
+   7:48
+   ```
+
+   - 分钟 past 小时
+
+   - 当分钟数大于 30 分时不能用 past
+
+   ```
+   twenty nine past ten
+   10:29
+
+   half past 11
+   11:30
+
+   a quarter past 12
+   12:15
+   ```
+
+   - 分 to 时
+
+   - 差多少分钟到几点
+
+   - to 用于分钟数大于 30 分的情况
+
+   ```
+   a quarter to 12
+   11:45
+
+   10 to 8
+   7:50
+
+   28 to 3
+   2:32
+   ```
+
+5. `you all` 表示“你们”。通常三个或三个以上才用
+
+   ```
+   What are you all doing?
+   你们都在做什么？
+   // “你们”最起码有三个人
+
+   What do you all usually do at night?
+   你们晚上通常做什么？
+
+   You all can't go to swim
+   ```

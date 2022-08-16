@@ -31,3 +31,9 @@ Which of the two vases do you like?
 
 I like the big one
 ```
+
+```
+How do you go to school?
+
+I go to school by subway
+```

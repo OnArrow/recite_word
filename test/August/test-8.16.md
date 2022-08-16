@@ -139,3 +139,119 @@ type tap sleep climb air sweep cut work wait take lift give show open shut close
 sing shine shave put put on take off ask edit play find slice split include throw drop send stop
 lean stand translate transform transfer move change
 ```
+
+```
+moment metro subway o'clock toilet ante meridiem fast slow match
+```
+
+```
+o'clock
+There are many shops in this street and there are some people in the street
+
+Are there any shops in the street?
+
+She is doing the housework at the moment
+
+Does she do the housework every day?
+
+Yes, she does. She often sweeps the floor and wash those shoes
+
+Penny usually drinks tea in the living room in the afternoon
+
+Does Penny usually drinks tea in the living room in the afternoon?
+
+Yes, she does
+
+Where does Penny usually drinks tea in the afternoon?
+
+She usually drinks tea in the living room
+
+When does Penny usually drinks tea in the living room?
+
+She usually drinks tea in the afternoon
+
+How often does she drinks tea in the living room?
+
+She drinks tea in the living room sometimes
+
+Who usually drinks tea in the living room?
+
+Penny does
+
+She drinks tea at four o'clock
+
+Does she drink tea at four o'clock?
+
+When does she drink tea?
+```
+
+```
+grammar
+word
+practice
+answer
+question
+issue
+reply
+cannot
+toilet
+subway
+subject
+metro
+```
+
+```
+What time is it?
+
+It's six o'clock
+```
+
+```
+What does he usually do every day?
+
+He usually shaves at 7 o'clock every day
+
+What's he doing today?
+
+He's shaving at 8 o'clock today
+
+What does she usually do in the morning?
+
+She usually drinks coffee in the morning
+
+What's she doing this morning?
+
+She's drinking coffee this morning
+
+What do they usually do in the afternoon?
+
+They usually swim in the afternoon
+
+What are they doing this afternoon?
+
+They are swimming this afternoon
+
+What do you usually do in the evening?
+
+I usually read a newspaper in the evening
+
+What are you doing this evening?
+
+I'm watching television this evening
+
+What do you all usually do at night?
+
+We usually listens to the music at night
+
+What are you all doing tonight?
+
+We are watching television tonight
+```
+
+```
+twelve past 23
+
+I usually get up at twenty five past eight
+
+I always leave at ten to nine
+```

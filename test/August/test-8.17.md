@@ -153,3 +153,159 @@ I will finish the homework in five minutes
 ```
 practice word grammar story toilet washroom bathroom
 ```
+
+```
+preposition subway envelope paper size pad glue chalk change all
+moment fast slow match meridiem
+```
+
+```
+It's ten past twenty, I'm hungry, so I'm going to cook a meal
+
+
+```
+
+```
+I want some envelopes, please
+我想要一些信封
+
+Do you want the large size or the small size?
+你想要大号的还是小号的？
+
+The large size, please
+大号的
+
+Do you have any writing paper?
+你有信纸吗？
+
+Yes, we do
+有
+
+I don't have any small pads. I only have large ones. Do you want a pad?
+我没有小的便笺本，只有大的。你要便笺本吗？
+
+Yes, please
+是的
+
+And I want some glue
+我想一些胶水
+
+A bottle of glue
+一瓶胶水
+
+And I want a large box of chalk, too
+还要一大盒粉笔
+
+I only have small boxes. Do you want one?
+我只有小盒的，你要吗?
+
+No, thank you
+不，谢谢
+
+Is that all?
+就这些吗?
+
+That's all, thank you
+就这些
+
+What else do you want?
+你还要什么吗？
+
+I want my change
+我要我的零钱
+```
+
+```
+Do you have any butter?
+
+No, I don't have any butter, but I have some cheese
+
+Do you and Penny have any beans?
+
+We don't have any beans, but we have some potatoes
+
+Do Tim and Jack have any wine?
+
+No, they don't have any wine, but they have some beer
+
+Do you have any honey?
+
+No, I don't have any honey, but I have some jam
+
+Do you and Tom have any bread?
+
+No, we don't have any bread, but we have some biscuits
+
+Do Penny and Jack have any grapes?
+
+No, they don't have any grapes, but they have some bananas
+
+Do you have any mince?
+
+No, I don't have any mince, but I have some steak
+
+Do the children have any butter?
+
+No, they don't have any butter, but they have some eggs
+
+Do you have any lettuces?
+
+No, I don't have any lettuces, but I have some cabbages
+
+Do you and Penny have any beans?
+
+No, we don't have any beans, but we have some peas
+```
+
+```
+Are you having lunch?
+
+Yes, I'm, I have beef and lamb for lunch
+
+Does he have any envelopes?
+
+No, he doesn't have any envelopes
+
+Do you have any chicken or whisky?
+
+Yes, we do. we have some chicken and two pound of whisky
+```
+
+```
+What else do you want?
+
+I want my change
+
+I only have a bike now
+
+I have some beef
+
+
+```
+
+```
+What time is it?
+
+It's a quarter past 23
+
+What time do you have lunch?
+
+I have lunch at nine o'clock
+
+What's nine times nine?
+
+Nine times nine is eighty one
+
+Is nine times nine eighty one?
+
+```
+
+```
+fresh cabbage
+
+choice lettuce
+
+toilet large toilet
+
+medium small
+```

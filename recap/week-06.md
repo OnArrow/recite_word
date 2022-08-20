@@ -43,3 +43,11 @@ What size is that suit?
 
 It's large
 ```
+
+```
+He looks ill
+
+Does he look ill?
+
+How does he look?
+```

@@ -90,7 +90,7 @@ preposition
 ```
 
 ```
-What's the matter with her? Does she has an earache?
+What's the matter with her? Does she have an earache?
 
 She doesn't have an earache, she has a headache
 

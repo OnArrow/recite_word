@@ -178,3 +178,30 @@ I feel bad, like ill
 ```
   Miss Yuan is my English teacher, she's young.
 ```
+
+```
+feel  bad
+She feels great
+Does she feel great?
+
+Yes, she does
+
+How does she feel?
+
+He looks ill
+
+Does he look ill?
+
+How does he look?
+
+He looks ill
+
+It sounds bad
+```
+
+```
+feel look sound taste smell head mouth nose ear eye arm foot leg stomach
+must call remember tongue stomach bad cold news headache earache stomachache toothache
+medicine temperature flu ill hospital
+hospital
+```

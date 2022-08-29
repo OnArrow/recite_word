@@ -11,7 +11,7 @@
    What's the matter with the dog?
    ```
 
-2. `must` 在语法结构上比较像 `can`
+2. `must` 在语法结构上比较像 `can`。`must` 后面跟的也是动词原形
 
    ```
    We must call a doctor
@@ -20,11 +20,21 @@
 
    Yes, we must
 
+   What must he do?
+
+   He must go to hospital
+   ```
+
+   ```
    We can call a doctor
 
    Can we call a doctor?
 
    Yes, we can
+
+   What can he do?
+
+   He can go to hospital
    ```
 
 3. 一般来说动词后面都加名词，但是感官动词后面可以加形容词

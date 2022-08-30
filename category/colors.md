@@ -1,4 +1,4 @@
-# colors
+# Colors
 
 1. yellow 黄色
 

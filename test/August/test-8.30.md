@@ -98,5 +98,103 @@ Yes, it does, it smells terrible
 ```
 
 ```
+stomach
 
+Does he have an earache?
+
+Yes, he does
+
+What must he do?
+
+He must see a doctor
+
+Does she have a stomachache?
+
+No, she has a toothache
+
+What must she do?
+
+She must see a dentist
+
+He has a stomachache
+
+Does he have a stomachache?
+
+Yes, he does
+
+What are you doing?
+
+I'm buying some medicine
+
+Do they have flu?
+
+Yes, they have flu
+
+How are they?
+
+They are terrible, maybe they have flu
+```
+
+```
+What's the matter with her? Does she have an earache?
+
+She doesn't have an earache, sha has a headache
+
+What must sha do?
+
+She must take an aspirin
+
+What's the matter with George? Does he have a headache?
+
+No, he doesn't have a headache, he has an earache
+
+What must he do?
+
+He must see a dentist
+
+What's the matter with him? Does he have a stomachache?
+
+No, he doesn't have a stomachache, he has a toothache
+
+What must he do?
+
+He must see a doctor or dentist
+
+What's the matter with them? Do they have a toothache?
+
+No, they don't have a toothache, they have flu
+
+What must they do?
+
+They must go to hospital by subway or metro
+
+What's the matter with that butcher? Does he have a temperature?
+
+No, he doesn't have a temperature, he has an earache
+
+What must he do?
+
+He must take some medicine
+
+Do you have a cold?
+
+Yes, I do
+
+To tell you the truth, I have a cold either
+
+What's the matter with the baby? Does he have a headache?
+
+No, he doesn't have a headache, he has a temperature
+
+What must he do?
+
+He must stay in bed for a week
+
+What's the matter with the girl? Does she have a toothache?
+
+No, she doesn't have a toothache, she has flu
+
+What must sha do?
+
+She must wash the dish
 ```

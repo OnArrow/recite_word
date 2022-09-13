@@ -90,3 +90,121 @@ Why must I go to work?
 
 Because you don't have any money
 ```
+
+```
+better certainly yet rich food remain play match talk library drive so quickly break noise
+get up lean out of
+```
+
+```
+Don't take any aspirins! You mustn't take any aspirins
+
+Don't take this medicine! You mustn't take this medicine
+
+Don't call the doctor! You mustn't call the doctor
+
+Don't play with matches! You mustn't play with matches
+
+Don't talk in the library! You mustn't talk in the library
+
+Don't make a noise! You mustn't make a noise
+
+Don't drive so quickly! You mustn't drive so quickly
+
+Don't lean out of the window! You mustn't lean out of the window
+
+Don't break that vase! You mustn't break that vase
+```
+
+```
+I'm so hungry, I must eat some food
+
+I'm so thirsty, I must drink some juice
+
+He's so tired, he must go to bed now
+
+You mustn't eat rich food, because you're so fat
+
+You mustn't stay here, it's very danger
+
+Must I do the housework today?
+
+Yes, you must. The house is dusty
+
+Must I take these medicine?
+
+Yes, you must. You have a bad temperature
+
+What must I do?
+
+You must air the room
+
+What must she do?
+
+She must clean her room
+
+What must you do?
+
+I must buy some milk before tonight
+
+What must I do? It's raining outside
+
+You must stay in the house
+```
+
+```
+better
+I always wake up at 7 o'clock, but I often get up at 8 o'clock
+I remain in bed
+
+Does he like any rich food?
+
+No, he doesn't like any rich food, but he likes fish
+
+He must remain in bed, mustn't get up yet
+
+Can Jimmy get up now?
+
+He is gonna play with his parents this weekend
+
+Don't play with matches
+
+The matches are danger
+
+Can you find the matches?
+
+Yes, I can. They are in front of the cup
+
+Why can't you find the matches?
+
+He goes to the library on Saturdays
+
+Does he go to the library on Saturdays?
+
+Yes, he often goes to library
+
+How often does he go to the library?
+
+Call me later, please. I'm driving
+
+You can drive my car to work
+
+Why do you drive so quickly?
+
+I drive so quickly
+
+Do you drive so quickly?
+
+Look! They are leaning out of the window, it's danger
+
+Don't break the window, you are bad boy
+
+He's breaking my arm
+
+Don't make a noise in the hospital
+```
+
+```
+library remain match better certainly yet rich food remain play drive so quickly break noise lean out of
+get up wake up
+```

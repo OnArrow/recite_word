@@ -34,4 +34,4 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： study reply fridge cloak category supermarket remember question alias screen reload begin throw dollar language money shopkeeper guest paper juice ride drive address comprehension part accept refuse vegetable bring buy cut translate spell cream ice soup salt lemon both ever chapter iced complete hobby maybe seldom birthday dry autumn bad breakfast leave point minus plus also lady gentleman force
+- [ ] 记单词： study reply fridge cloak category supermarket remember question alias screen reload begin throw dollar language money shopkeeper guest paper juice ride drive address comprehension part accept refuse vegetable bring buy cut translate spell cream ice soup salt lemon both ever chapter iced complete hobby maybe seldom birthday dry autumn bad breakfast leave point minus plus also lady gentleman force poor

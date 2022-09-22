@@ -52,6 +52,10 @@ What does he want?
    几点了？
 
    It's ten past 16
+
+   What time must she be home?
+
+   She must be home at a quarter past ten
    ```
 
 4. `What...like` **询问事物的状况**

@@ -34,6 +34,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： guest juice ride address comprehension part accept refuse vegetable bring buy cut translate spell cream ice soup salt lemon both ever chapter iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town
+- [ ] 记单词： lemon both ever chapter iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town
 
-- [ ] 加强记忆： poster toilet kettle husband
+- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard

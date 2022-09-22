@@ -35,3 +35,5 @@
 17. sales man 销售员
 
 18. leader 领导
+
+19. hairdresser 美发师

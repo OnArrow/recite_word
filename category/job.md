@@ -37,3 +37,7 @@
 18. leader 领导
 
 19. hairdresser 美发师
+
+20. butcher 肉贩
+
+21. greengrocer 菜贩

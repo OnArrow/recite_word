@@ -32,7 +32,7 @@
    // 口语：He's gonna jump off the building
    ```
 
-5. 一般将来时（否定句）结构：`主语 + am/are/is + not + gping to do(v.原型)`
+5. 一般将来时（否定句）结构：`主语 + am/are/is + not + going to do(v.原型)`
 
    ```
    They are not going to run

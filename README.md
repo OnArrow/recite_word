@@ -34,6 +34,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar
+- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder
 
-- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher
+- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice

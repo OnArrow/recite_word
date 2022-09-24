@@ -55,4 +55,43 @@
    He drives all day
 
    Isn't he lucky!
+
+   Can't you see me?
+   难道你看不到我吗?
+
+   Isn't he Jack?
+   难道他不是杰克吗？
+
+   Aren't you going to help him?
+   难道你打算帮他吗？
+   ```
+
+5. `was` 在用于一些价格时，可以表达出“之前；过去”的意思。`was`是过去的价格，`now`是现在的价格
+
+   ![sale](../../images/Lesson67/sale.png)
+
+6. `be absent from` 某人缺席了...（活动或者地点）
+
+   ```
+   Tim is absent from school again
+   Tim又没来上学
+
+   We were absent from party yesterday
+   我们昨天没参加聚会
+
+   I was absent from work last week
+   我上周没上班
+   ```
+
+7. `spend st. sw.` 表示在某地度过某段时间
+
+   ```
+   The students spend five days in the school every week
+   学生们每周在学校度过五天
+
+   I spend two hours at home every day
+   我每天待在家两小时
+
+   He spends the weekend in the country
+   你在乡下度过周末
    ```

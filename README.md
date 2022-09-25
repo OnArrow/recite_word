@@ -16,15 +16,13 @@
 
 - [ ] 及物动词
 
-- [ ] 新概念语法练习 Page 98
+- [ ] 新概念语法练习 Page 110
 
-- [ ] 新概念练习册 Page 159
+- [ ] 新概念练习册 Page 184
 
 - [ ] 现在分词
 
 - [ ] 音标 - 背诵清辅音浊辅音
-
-- [ ] want 和 wants
 
 - [ ] some 和 any
 
@@ -34,6 +32,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder
+- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder quiet agree age born stationer borrow dictionary exam piano slowly train garage
 
-- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice
+- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce

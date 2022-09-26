@@ -32,6 +32,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder quiet agree age born stationer borrow dictionary exam piano slowly train garage mirror hurt beach teach
+- [ ] 记单词：lemon both ever iced complete hobby seldom dry autumn leave point minus plus also lady gentleman force poor visitor imagine deliver ink more cough lie native client authorization avatar wonder quiet agree age born borrow dictionary exam piano slowly train garage mirror hurt beach teach select broken waste airport place
 
 - [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual

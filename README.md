@@ -18,7 +18,7 @@
 
 - [ ] 新概念语法练习 Page 110
 
-- [ ] 新概念练习册 Page 184
+- [ ] 新概念练习册 Page 187
 
 - [ ] 现在分词
 
@@ -32,6 +32,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder quiet agree age born stationer borrow dictionary exam piano slowly train garage
+- [ ] 记单词： lemon both ever iced complete hobby maybe seldom birthday dry autumn breakfast leave point minus plus also lady gentleman force poor unusual visitor imagine deliver ink more cough lie native client authorization town avatar wonder quiet agree age born stationer borrow dictionary exam piano slowly train garage mirror hurt beach teach
 
-- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce
+- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual

@@ -49,3 +49,17 @@ You mustn't put the glasses on the fridge, you must put them on the table
 ```
 I don't feel well, so I'm staying at home today
 ```
+
+```
+He usually goes to bed at ten at night, but tonight he isn't going to
+```
+
+```
+How old are you?
+
+I'm twenty-four years old
+
+What can you do at twenty-four?
+
+I can go to work
+```

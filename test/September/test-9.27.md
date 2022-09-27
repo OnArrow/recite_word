@@ -143,3 +143,117 @@ I'm a student
 ```
 Monday Tuesday Wednesday Thursday Friday Saturday Sunday week weekend January February March April May June July August September October November December year month day hour minute second spring summer autumn winter China Chinese America American Russia Russian France French England English Japan Japanese Korea Korean Italy Italian Dutch Greece Norwegian Danish India plane plan part chapter wait stop drive ride jump run complete finish finally bus boat ship bridge fridge refrigerator mouse computer air display screen hand leg foot head eye mouth nose ear teeth tooth tongue stomach arm shave ache cry race first second third know office officer official engineer mechanic hair hairdresser keyboard electric lamp beef lamb chicken duck steak pork apple banana peach pear grape watermelon orange black white red pink grey green grocer greengrocer butcher milk past half quarter line paper write work word spell ultra fox horse lion tiger elephant monkey fish dog duck cat pet cute smart like love flower beautiful hot cold tall short long big medium small old new silent ring bring metro subway project open close shut turn turn on turn off take take off put put on in on at into onto across near beside over under behind between middle center left right exit entry climb lift envelope letter show lunch dinner breakfast snack midnight snack get up wake up lean yellow purple dark light shine fire come stairs upstairs downstairs play game telephone number call early late rise set device cover discover floor sweep clean dirty dust dusty was were is are am I me my mine you your yours he him his she her hers it its we us our ours they them their theirs self myself yourself himself herself itself ourselves yourselves themselves cloud moon grass garden window door spoon fork plate dish wash basket basketball football heavy really excuse shop super supermarket boss assistant operator postman milkman policeman policewoman hostess waiter translate transfer practice grammar answer question replay issue notification note moment mention comment water cup glass cooker cook meal meat
 ```
+
+```
+global lemon both ever iced complete hobby seldom dry lake leave alone point exam lady gentleman plus minus times multiply divide
+```
+
+```
+race town crowd exciting just finish winner behind way stationer breakfast snack birthday image avatar response request general method payload
+```
+
+```
+Where is the pen?
+
+There was a pen on the table, but it isn't here now
+
+Was there a pen on the table?
+
+No, it wasn't
+
+I'm gonna buy a new cup next year
+
+I was at home in summer last year
+
+We're gonna watch a car race tonight
+
+We must leave now, because the car race is at night o'clock
+
+The town is between two hills
+
+She lives in a small town
+
+Does she live in a small town?
+
+No, she doesn't, she live in a beautiful village
+
+Can you find the town on the map?
+
+Can you remember the name of the town?
+
+What are you doing?
+
+I'm standing
+
+Can you see the boy?
+
+Yes, I can
+
+Where is the boy?
+
+He's behind that tree
+
+Why is he standing behind the tree?
+
+Because he's playing
+
+This is an exciting finish
+
+Do you like the exciting finish?
+```
+
+```
+Were you at the stationer's?
+
+No, I wasn't
+
+Where were you?
+
+I was at the station
+
+She comes from Denmark
+
+Does she come from Denmark?
+
+No, she doesn't
+
+Where does she come from?
+
+She comes from China
+
+When were Sam and Penny at the stationer's?
+
+They were at the stationer's on Monday
+
+When were you and Susan at the office?
+
+We were at the office on March 23rd
+
+When was I in India?
+
+You were in India in 1985
+
+When were you and Penny in China?
+
+We were in China in July
+
+When was I at the dairy?
+
+You were at the dairy on Saturday
+
+When were George and I in India?
+
+You were in India in August
+
+When were they all at home?
+
+They were at home on May 25th
+
+When was I at the hairdresser's?
+
+I was at the hairdresser's on Wednesday
+
+When were you and Penny in Japanese?
+
+We were in Japanese in December
+```

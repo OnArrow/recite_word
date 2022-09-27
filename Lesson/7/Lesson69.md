@@ -19,3 +19,9 @@
    On the way to park
    在去公园的路上
    ```
+
+3. `a large crowd` 一大群人
+
+   ```
+   You can see a large crowd of people on the street
+   ```

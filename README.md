@@ -32,6 +32,6 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： force poor visitor imagine deliver ink more cough lie native client authorization wonder quiet agree age born borrow dictionary piano slowly train garage mirror hurt beach teach select broken waste airport place
+- [ ] 记单词： lie native client authorization wonder quiet agree age born borrow dictionary piano slowly train garage mirror hurt beach teach select broken waste airport place count
 
-- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual
+- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual comprehension terrible

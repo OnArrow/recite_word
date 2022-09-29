@@ -73,3 +73,91 @@ What did you say to him last night?
 
 
 ```
+
+```
+lie native client authorization resolve reject studio browser auto fold folder terminal replace add remove copy save recent count select
+```
+
+```
+awful last phone again say manage date check security platform even force poor visit imagine deliver ink more cough cloudy
+```
+
+```
+What did you do yesterday?
+
+I aired the room yesterday
+
+Did you air the room yesterday?
+
+Yes, I did
+
+When did you air the room?
+
+What did sha do last night?
+
+She listened to the stereo last night
+
+Did she listen to the stereo last night?
+
+No, she didn't
+
+What did he do this morning?
+
+He shaved this morning
+
+Did he shave this morning?
+
+No, he didn't
+
+What did she do the night before last?
+
+She telephoned the night before last
+
+Did she telephone her husband the night before last?
+
+What did you do last night?
+
+I called the doctor last night
+
+Did you call the doctor last night?
+
+No, I didn't
+
+What did she do the day before yesterday?
+
+She emptied the basket the day before yesterday
+
+Did she empty the basket the day before yesterday
+
+What did I do yesterday morning?
+
+You boiled an egg yesterday morning
+
+Did I boil an egg yesterday morning?
+
+Yes, you did
+
+What did you and Tom do yesterday?
+
+We cleaned our shoes yesterday
+
+Did you clean your shoes yesterday?
+
+No, we didn't
+
+What did the children do yesterday afternoon?
+
+They played in the garden yesterday afternoon
+
+Did they play in the garden yesterday afternoon?
+
+No, they didn't
+
+What did he do yesterday?
+
+He stayed in bed yesterday
+
+Did he stay in bed yesterday?
+
+No, he didn't
+```

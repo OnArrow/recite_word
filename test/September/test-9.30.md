@@ -63,3 +63,13 @@ What do you usually do at noon?
 
 I usually sleep at noon
 ```
+
+```
+London suddenly smile pleasantly understand speak hand pocket phrase phrasebook slowly hurriedly thirstily greet wonder quiet agree age born borrow lost
+```
+
+```
+What did you do this evening?
+
+I had dinner with my friends
+```

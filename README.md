@@ -30,7 +30,7 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词：sea step program register field male female watermelon soul heart power google chrome selection support preference reverse ignore forget account layout invite description though through message earth moon clone repository choose comment crazy sex
+- [ ] 记单词：sea step program register field male female watermelon soul heart power google chrome selection support preference reverse ignore forget account layout invite description though through message earth moon clone repository choose comment crazy sex weekday expression expression
 
 - [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual comprehension terrible divide multiply general absent refuse wallet column also deliver choice
 

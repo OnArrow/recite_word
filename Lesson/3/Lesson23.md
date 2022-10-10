@@ -31,6 +31,6 @@
    我想要一张四人桌
    ```
 
-3. `cupboard`通常指装锅碗瓢盆的橱柜
+3. `cupboard` 通常指装锅碗瓢盆的橱柜
 
    ![cupboard](../../images/Lesson23/cupboard.png)

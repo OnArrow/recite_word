@@ -127,3 +127,131 @@ preference perfect program production know radio poster make brand bank watermel
 ```
 afraid bind attribute sea step program register field male female watermelon soul heart power google chrome selection support preference ignore love code view preview style render list button scope export import include index reverse value template commit
 ```
+
+```
+afraid bind attribute sea step program register field male female watermelon soul heart power google chrome selection support preference ignore
+
+ago pair fashion comfortable uncomfortable wear unit chant ruler lose go went speak spock see saw say said take took find found eat ate come came have had give gave
+```
+
+```
+I met your mother three minutes ago
+
+Did you meet my mother three minutes ago?
+
+Yes, I did
+
+I came to ShenZhen two years ago
+
+I arrived ShenZhen two years ago
+```
+
+```
+She cleaned this pair of shoes yesterday
+
+He bought a pair of glasses for his girlfriend three days ago
+
+Did he bought a pair of glasses for his friend three days ago?
+
+No, he didn't
+
+She feels uncomfortable
+
+Does she feel uncomfortable?
+
+No, she doesn't
+
+She wore a pair of black shoes today
+
+She wears a big coat today
+```
+
+```
+What does the lady show to the shop assistant?
+
+She shows a pair of shoes to the shop assistant
+
+Whose shoes are they?
+
+They are the lady's sister's shoes
+
+Why does she show him those shoes?
+
+Because she wants to buy a pair
+
+What size does she want?
+
+She want size five
+
+What color does she want?
+
+She wants black
+
+Where did her sister buy those shoes?
+
+Her sister bought those in U.S.
+
+When did the shop have some shoes like these?
+
+The shop had some a month ago
+
+Can they get any shoes like those now?
+
+No, they can't
+
+Why can't they get any?
+
+Because the shoes is out of fashion this year
+```
+
+```
+When did you look at that photograph?
+
+I looked at that photograph an hour ago
+
+When did they watch television?
+
+They watched television every day last week
+
+When did he paint the bookcase?
+
+He painted that bookcase the year before last
+
+When did the cat jump off the wall?
+
+It jumped off the wall a minute ago
+
+When did you work in an office?
+
+I worked in an office the year before last
+
+When did she dust the cupboard?
+
+She dusted the cupboard three days ago
+
+When did she thank her father?
+
+She thanked her father an hour ago
+
+When did she type those letters?
+
+She typed those letters a month ago
+
+When did he walk across the park?
+
+He walked across the park last week
+```
+
+```
+She went to town yesterday
+
+She met her friends yesterday
+
+They drank some milk yesterday
+
+He swam in the river yesterday
+
+She took him to school yesterday
+
+He cut himself yesterday
+```

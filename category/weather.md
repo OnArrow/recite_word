@@ -4,12 +4,14 @@
 
 2. `rain` 下雨
 
-3. `snow` 下雪
+3. `rainy` 多雨的
 
-4. `mild` 和煦的；温暖的
+4. `snow` 下雪
 
-5. `warm` 温暖的
+5. `mild` 和煦的；温暖的
 
-6. `sunny` 阳光充足的
+6. `warm` 温暖的
 
-7. `cloudy` 多云的
+7. `sunny` 阳光充足的
+
+8. `cloudy` 多云的

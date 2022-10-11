@@ -12,3 +12,9 @@
    usually
    unusual
    ```
+
+2. 在录音机中收听需要用介词`on`
+
+   ```
+   We listened to the news on the radio yesterday
+   ```

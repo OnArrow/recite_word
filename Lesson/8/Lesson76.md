@@ -1,7 +1,5 @@
 # Lesson 76
 
-## Comprehension
-
 ```
 When did you look at the photograph?
 

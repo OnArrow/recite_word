@@ -30,8 +30,8 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 记单词： choose comment crazy sex weekday expression expression score revision allow detail site command control void mask space land unknown court Jeans uniform cinema film gone each pick tape status supper personality victory description title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum length foreach reduce delete host prot normal pixel property undefined define proxy record Christmas
+- [ ] 记单词： mask land unknown court Jeans uniform cinema film gone each pick tape status supper personality victory description title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void length foreach reduce delete host prot normal pixel property undefined define proxy record Christmas prefer leaf company
 
-- [ ] 加强记忆： poster toilet kettle husband kitchen keyboard butcher practice sugar chocolate lettuce unusual comprehension terrible divide multiply general absent refuse wallet column also deliver choice paint cupboard dictionary untidy
+- [ ] 加强记忆： chocolate lettuce divide deliver choice paint cupboard dictionary untidy tin butter piece pardon umbrella cigarette tomorrow
 
-- [ ] 过去式：bought began drank rang met swam slept understood wort
+- [ ] 过去式：bought began drank rang met swam slept understood wort flew sat ran caught dropped

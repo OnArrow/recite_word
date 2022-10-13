@@ -111,3 +111,55 @@ Why did she go to London?
 
 Because she wants to go to London
 ```
+
+```
+choose comment packet picnic calendar ant ground crazy sex weekday expression score bake revision allow detail site command control option space
+
+appointment urgent till reference preference forget account layout invite camera exercise though through railway leg message earth moon clone slice repository dictionary
+```
+
+```
+butter butcher cupboard poster vegetable piece umbrella tomorrow untidy choice deliver paint point tin pardon cigarette
+```
+
+```
+It's eight o'clock. When did you see him?
+
+I saw him at half past seven
+
+It's Friday. When did she go to London?
+
+She went to London on Wednesday
+
+It's June. When did Mr. Jones buy that car?
+
+He bought it in May
+
+It's 1988. When did you paint the room?
+
+I painted the room in 1987
+
+It's the fifth of January. When did she meet him?
+
+She met him on the fifth of November
+
+It's a quarter past eleven. When did they arrive?
+
+They arrived at a quarter to eleven
+
+It's Sunday. When did he lose his pen?
+
+He lost his pen on Saturday
+
+It's March. When did you call the doctor?
+
+I called the doctor in January
+
+It's 1988. When did they buy this house?
+
+They bought it in 1986
+
+It's August the first. When did she speak to him?
+
+She spoke to him on July the first
+```

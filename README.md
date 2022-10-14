@@ -32,9 +32,9 @@
 
 - [ ] 复习到 5.18
 
-- [ ] 记单词： lot much mask land court Jeans uniform cinema film gone each pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel property undefined define proxy record Christmas prefer leaf company board hall fame oblique improve
+- [ ] 记单词：until mask land court Jeans uniform cinema film gone each pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel property undefined define proxy record Christmas prefer leaf company board hall fame oblique improve moonlight
 
-- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression
+- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet
 
 - [ ] 过去式： flew sat ran caught got
 

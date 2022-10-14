@@ -157,3 +157,7 @@ read documentation quick use about build tool setup online serve start end local
 ```
 shopping lot many much need hope thing stationary agent newsagent chemist pattern circle buy bought begin began drink drank ring rang meet met swim swam sleep slept stand stood understand understood wear wore
 ```
+
+```
+shopping lot many much need hope thing stationary agent newsagent chemist pattern circle buy bought begin began drink drank ring rang meet met swim swam sleep slept stand stood understand understood wear wore
+```

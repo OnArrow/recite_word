@@ -63,3 +63,13 @@ What else did he paint?
 
 He painted the tables
 ```
+
+```
+Does she ever type any letters?
+
+Yes. she does. She typed some the day before yesterday
+
+When did she turn on the lights?
+
+She turned them on before dinner
+```

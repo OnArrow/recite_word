@@ -1,14 +1,18 @@
 # Lesson 79
 
-1. `make a shopping list` 写一张购物清单
+1. `make a shopping list` 和 `write a shopping list` 都可以表示“制作一张购物清单”
 
    ```
    Did you make a shopping list?
 
    No, I didn't. I'm going to make it
+
+   Did you write a shopping list?
+
+   No, I didn't. I'm going to write it
    ```
 
-2. `a lot of` 表示“许多的”。既可用于可数名词又可用于不可数名词，一般用于肯定句中
+2. `a lot of` 表示“许多的”。既可用于可数名词又可用于不可数名词，可用于肯定句，否定句，疑问句
 
    ```
    We need a lot of money
@@ -41,4 +45,58 @@
    He hasn't got much wine
 
    Has he got much wine?
+   ```
+
+5. `have got` 和单独用`have`表达的意思相同。`have got`可以合起来当成一个单词来翻译，直接翻译为“有”
+
+   ```
+   I have a car
+   我有一辆车
+
+   I have got a car
+   我有一辆车
+
+   He has a cup of coffee
+
+   He has got a cup of coffee
+
+   He's got a cup of coffee
+   // `has got`三单时可以缩写，但必须要`has got`一起的时候才能缩写
+   ```
+
+6. `have got`（肯定句）结构：`主语 + have got + 其它`
+
+   ```
+   I have got a new phone
+
+   He has got a pair of shoes
+
+   They have got two glasses
+   ```
+
+7. `have got`（否定句）结构：`主语 + have + not + got + 其它`
+
+   ```
+   Tips:
+
+   I don't have a new phone
+   // 这个是一般时，和`have got`不一样
+   ```
+
+   ```
+   I have not got a new phone
+
+   He hasn't got a pair of shoes
+
+   They haven't got two glasses
+   ```
+
+8. `have got`（疑问句）结构：`Have（提到句首）+ 主语 + got + 其它`
+
+   ```
+   Have you got a new phone?
+
+   Has he got a pair of shoes?
+
+   Have they got two glasses?
    ```

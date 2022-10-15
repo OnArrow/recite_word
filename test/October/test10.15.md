@@ -115,3 +115,17 @@ shopping lot many much need hope thing stationary agent newsagent chemist patter
 
 lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle
 ```
+
+```
+until mask land court jeans uniform cinema film gone each fly flew sit sat run ran catch caught get got forget forgot make made break broke feel felt write wrote
+
+shopping lot many much need hope thing stationary agent newsagent chemist pattern circle buy bought begin began drink drank ring rang meet met swim swam sleep slept stand stood understand understood wear wore
+
+lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle
+```
+
+```
+How much water do we have?
+
+I need a lot of money, can you give me?
+```

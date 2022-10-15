@@ -30,7 +30,7 @@
 
 - [ ] turn on your shirt 和 turn it on
 
-- [ ] 复习到 5.18
+- [ ] 复习到 6.09
 
 - [ ] 记单词：pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous
 

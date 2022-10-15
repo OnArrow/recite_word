@@ -73,3 +73,31 @@ When did she turn on the lights?
 
 She turned them on before dinner
 ```
+
+```
+I didn't give him any money, but they gave him some money
+```
+
+```
+Did they do their homework at school or at home yesterday?
+
+They did their homework at school, they didn't do it at home
+```
+
+```
+We met Jack in the street this morning and greeted him warmly
+```
+
+```
+When did you first play a computer game?
+
+I first played a computer game about thirteen years ago
+
+When did you last tidy your room?
+
+I last tidied my room two weeks ago
+
+How long ago did you start school?
+
+I started school about eighteen years ago
+```

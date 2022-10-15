@@ -12,4 +12,13 @@ unhappy
 
 usually
 unusual
+
+lucky
+unlucky
+
+fashionable
+unfashionable
+
+pleasant
+unpleasant
 ```

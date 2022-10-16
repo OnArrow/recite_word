@@ -32,9 +32,9 @@
 
 - [ ] 复习到 6.09
 
-- [ ] 记单词：pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous
+- [ ] 记单词：pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous world
 
-- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle
+- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue
 
 - [ ] 过去式：told
 

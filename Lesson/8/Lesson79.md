@@ -22,7 +22,7 @@
    He wants a lot of water
    ```
 
-3. `at all` 一般用于否定句，表示“丝毫”、“根本”、“一点”的意思，有强调作用
+3. `at all` 一般用于否定句，表示“丝毫”、“根本”、“一点”的意思，有强调作用。`not...at all` 表示“一点也没有”
 
    ```
    We haven't got any meat at all

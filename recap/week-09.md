@@ -101,3 +101,73 @@ How long ago did you start school?
 
 I started school about eighteen years ago
 ```
+
+```
+When was your parents's appointment with your teacher?
+
+Their appointment was at 8.30 a.m. on Monday, 1st October
+```
+
+```
+In which year did you start High school?
+
+I started High school in 2014
+
+What time did you get up this morning?
+
+I got up at 7 a.m. this morning
+
+What date did this school start?
+
+The school started on the 1st of September
+```
+
+```
+Jack hasn't got any money so he must go to the bank to get some
+
+Jack must go to the bank to get some money, because he hasn't got any
+```
+
+```
+Were there any chairs in the room?
+
+Did the room have any chairs?
+
+Yes, there were two chairs in the room
+
+Yes, it had two chairs in the room
+
+What else were there in the room?
+
+What else did the room have?
+
+There were four glasses in it
+
+It had four glasses
+```
+
+```
+She came back to China in the summer of 2018
+
+He got back home at a quarter to seven
+```
+
+```
+We met our dentist at the bus stop last Tuesday
+
+What did you do?
+
+We met our dentist
+
+Where did you meet him?
+
+We met him at the bus stop
+
+When did you meet him?
+
+We met him last Tuesday
+```
+
+```
+I must get up early, I want to catch the first bus
+```

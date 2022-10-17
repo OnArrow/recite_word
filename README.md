@@ -14,7 +14,7 @@
 
 - [ ] 梳理冠词内容
 
-- [ ] 新概念语法练习 Page 110
+- [ ] 新概念语法练习 Page 126
 
 - [ ] 新概念练习册 Page 187
 
@@ -32,10 +32,10 @@
 
 - [ ] 复习到 6.09
 
-- [ ] 记单词：pick tape status supper personality victory description simple title block navigation disable return element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous world
+- [ ] 记单词： world college term later patient block navigation disable return status description element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger wood sand hockey sick rest sell
 
-- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue
+- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue caught bookcase revision heart loss stairs quiet matter lesson
 
-- [ ] 过去式：told
+- [ ] 过去式：told taught knew drove brought sold
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

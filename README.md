@@ -34,7 +34,7 @@
 
 - [ ] 记单词： world college term later patient block navigation disable return status description element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger wood sand hockey sick rest sell
 
-- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue caught bookcase revision heart loss stairs quiet matter lesson
+- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue caught bookcase revision heart loss stairs quiet matter lesson patient
 
 - [ ] 过去式：told taught knew drove brought sold
 

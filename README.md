@@ -32,7 +32,7 @@
 
 - [ ] 复习到 6.09
 
-- [ ] 记单词：string boolean object array enum void unknown length foreach reduce host prot problem pixel context property undefined proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger groceries wood sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug priority seat
+- [ ] 记单词：string boolean object array enum void unknown length foreach reduce host prot source problem pixel context property undefined proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger groceries wood sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug priority seat
 
 - [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master
 

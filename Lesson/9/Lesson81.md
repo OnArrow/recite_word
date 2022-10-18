@@ -24,3 +24,19 @@
 
    I need to have some lamb
    ```
+
+3. 玩得开心的表达
+
+   ```
+   Have a good time
+
+   Have fun
+
+   enjoy yourself
+   ```
+
+4. 在度假用的是介词`on`
+
+   ```
+   I'm on holiday
+   ```

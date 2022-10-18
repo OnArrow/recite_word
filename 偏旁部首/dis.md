@@ -9,4 +9,7 @@ disagree
 
 able
 disable
+
+appoint
+disappoint
 ```

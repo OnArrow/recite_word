@@ -11,7 +11,7 @@
    // ... of ...  为无生命的名词所有格
    ```
 
-2. `perhaps`
+2. `perhaps` “可能吧”
 
    ```
    Is that your pen?

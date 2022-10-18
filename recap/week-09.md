@@ -23,7 +23,7 @@ Yes, there were. There were some apples there on Saturday
 
 Were there any oranges at the greengrocer's on Sunday?
 
-No, there weren't. There weren't some oranges there on Sunday
+No, there weren't. There weren't any oranges there on Sunday
 ```
 
 ```
@@ -170,4 +170,28 @@ We met him last Tuesday
 
 ```
 I must get up early, I want to catch the first bus
+```
+
+```
+Did you sit at the front of the class last month?
+
+No, I didn't, I sat at the back of the class
+```
+
+```
+Has he got a shirt and a tie?
+
+He's got a shirt, but he hasn't got a tie
+
+Has she got ant cakes and biscuits?
+
+She's got some cakes, but she hasn't got any biscuits
+
+Have we got any cheese and jam?
+
+We've got some cheese, but we haven't got any jam
+
+Has he got many bottles of beer and bottles of wine?
+
+He's got a lot of bottles of beer, but he hasn't got many bottles of wine
 ```

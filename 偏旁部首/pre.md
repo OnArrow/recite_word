@@ -1,9 +1,9 @@
 # pre
 
-1. preposition
+1. `preposition`
 
-2. preview
+2. `preview`
 
-3. previous
+3. `previous`
 
-4. preference
+4. `preference`

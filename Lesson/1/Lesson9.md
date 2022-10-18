@@ -12,7 +12,7 @@
 
    How is she?
    她怎么样？
-   // how是对ok的提问
+   // `how`是对`ok`的提问
    ```
 
 2. 打招呼常用语
@@ -74,41 +74,7 @@
    没事，我很好我很好
    ```
 
-7. 课文
-
-   ```
-   Hello, Jack!
-   你好，杰克！
-
-   Hi, Lisa!
-   嗨，莉萨！
-
-   How are you today?
-   你今天怎么样？
-
-   I'm very well, thank you. And you?
-   我很好，谢谢。你呢？
-
-   I'm fine, thanks
-   我很好，谢谢
-
-   How is Tim?
-   提姆怎么样？
-
-   He's fine, thanks. How's Taylor?
-   他很好，谢谢。泰勒怎么样？
-
-   She's very well, too.
-   她也很好
-
-   Goodbye, Jack. Nice to see you
-   再见，杰克。很高兴见到你
-
-   Nice to see you, too. Lisa. Goodbye
-   我也很高兴见到你，莉萨。再见
-   ```
-
-8. 名句
+7. 名句
 
    ```
    Yesterday is history, tomorrow is a mystery, but today is a gift

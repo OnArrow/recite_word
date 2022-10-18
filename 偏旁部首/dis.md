@@ -6,4 +6,7 @@ discount
 
 agree
 disagree
+
+able
+disable
 ```

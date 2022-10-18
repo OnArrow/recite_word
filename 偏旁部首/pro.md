@@ -1,17 +1,17 @@
 # pro
 
-1. profile
+1. `profile`
 
-2. production
+2. `production`
 
-3. project
+3. `project`
 
-4. pronoun
+4. `pronoun`
 
-5. prototype
+5. `prototype`
 
-6. prop
+6. `prop`
 
-7. program
+7. `program`
 
-8. promise
+8. `promise`

@@ -16,7 +16,7 @@
 
 - [ ] 新概念语法练习 Page 126
 
-- [ ] 新概念练习册 Page 187
+- [ ] 新概念练习册 Page 227
 
 - [ ] 现在分词
 
@@ -32,10 +32,10 @@
 
 - [ ] 复习到 6.09
 
-- [ ] 记单词： world college term later patient block navigation disable return status description element become demo community overview guide print theme extend query string boolean object array enum void unknown length foreach reduce delete host prot normal problem pixel context property undefined define proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger wood sand hockey sick rest sell
+- [ ] 记单词：string boolean object array enum void unknown length foreach reduce host prot problem pixel context property undefined proxy record initialization editor Christmas prefer leaf company board hall fame oblique improve moonlight madam twice accident fashionable famous meeting furniture finger groceries wood sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug priority seat
 
-- [ ] 加强记忆： lettuce divide deliver choice dictionary untidy tin butter piece pardon umbrella cigarette steak thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting search profile private static content config height width absolute relative previous hook instance handle glue caught bookcase revision heart loss stairs quiet matter lesson patient
+- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master
 
-- [ ] 过去式：told taught knew drove brought sold
+- [ ] 过去式：told taught knew drove brought sold threw
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

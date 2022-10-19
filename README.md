@@ -34,7 +34,7 @@
 
 - [ ] 记单词： string boolean object array enum void unknown length foreach reduce host prot source enable problem pixel context property undefined proxy record initialization editor Christmas madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique
 
-- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male
+- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male bean
 
 - [ ] 过去式：told taught knew drove brought sold threw
 

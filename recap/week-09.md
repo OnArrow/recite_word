@@ -195,3 +195,15 @@ Has he got many bottles of beer and bottles of wine?
 
 He's got a lot of bottles of beer, but he hasn't got many bottles of wine
 ```
+
+```
+Has he got much tobacco and whisky?
+
+He's got a lot of tobacco, but he hasn't got much whisky
+```
+
+```
+Do we have any medicine for a bad cold?
+
+No, we don't. We must go to the chemist's to get some
+```

@@ -21,4 +21,10 @@ unfashionable
 
 pleasant
 unpleasant
+
+known
+unknown
+
+defined
+undefined
 ```

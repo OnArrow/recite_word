@@ -15,3 +15,7 @@
 7. `program`
 
 8. `promise`
+
+9. `property`
+
+10. `problem`

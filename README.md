@@ -18,8 +18,6 @@
 
 - [ ] 新概念练习册 Page 227
 
-- [ ] 现在分词
-
 - [ ] 音标 - 背诵清辅音浊辅音
 
 - [ ] some 和 any
@@ -32,10 +30,18 @@
 
 - [ ] 复习到 6.09
 
-- [ ] 记单词： proxy record initialization editor Christmas madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique dialog great almost rock continue suggest review written vote awesome fall
+- [ ] yet 的用法
 
-- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male bean handwriting
+- [ ] to 的用法
 
-- [ ] 过去式：told taught knew drove brought sold threw
+- [ ] 记单词： Christmas Microsoft madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique great almost rock continue correct express below popular skip access activity tour
+
+- [ ] 代码相关：quit proxy record initialization editor review dialog available premium hover apply link
+
+- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male bean handwriting employee repository recent
+
+- [ ] 过去式：sang
+
+- [ ] 过去分词：been eaten written begun seen
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

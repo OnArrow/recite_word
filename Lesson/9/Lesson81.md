@@ -40,3 +40,13 @@
    ```
    I'm on holiday
    ```
+
+5. `have a drink` 往往指的是和酒精相关的饮料
+
+   ```
+   Do you want to have a drink with us?
+   你要来和我们一起喝一杯吗？
+   // “喝一杯”表示的是和酒相关的饮料
+
+   No, thanks
+   ```

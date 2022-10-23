@@ -38,7 +38,7 @@
 
 - [ ] 代码相关：quit proxy record initialization editor review dialog available premium hover apply link
 
-- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male bean handwriting employee repository recent
+- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male bean handwriting employee repository recent versus smell
 
 - [ ] 过去式：sang
 

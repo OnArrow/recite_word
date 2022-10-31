@@ -36,7 +36,7 @@
 
 - [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting config height width absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve
 
-- [ ] 过去式：sang
+- [ ] 过去式：sang heard
 
 - [ ] 过去分词：been eaten written begun seen
 

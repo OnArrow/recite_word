@@ -133,3 +133,7 @@ conjunction abbreviation numeral interjection determiner combine transitive intr
 ```
 Christmas Microsoft sand still famous accident twice madam fashionable transitive intransitive countable uncountable abbreviation conjunction combine interjection auxiliary determiner numeral
 ```
+
+```
+transitive intransitive countable uncountable determiner auxiliary interjection conjunction abbreviation combine numeral still madam twice accident fashionable famous fame sand Christmas Microsoft
+```

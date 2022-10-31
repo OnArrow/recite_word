@@ -6,11 +6,7 @@
 
 - [ ] 特殊疑问词
 
-- [ ] 词性
-
 - [ ] 代词
-
-- [ ] 介词
 
 - [ ] 梳理冠词内容
 
@@ -34,11 +30,11 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词：still Christmas Microsoft madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique great almost rock continue correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind sale customer
+- [ ] 记单词： still Christmas Microsoft madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique great almost rock continue correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind sale customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock
 
-- [ ] 代码相关：padding margin flex grid font align justify token framework introduction console programmer holder placeholder password border clear focus text textarea form compile successfully
+- [ ] 代码相关：padding margin flex grid font align justify token framework introduction console programmer holder placeholder password border clear focus text textarea form compile successfully network total merge uppercase lowercase ctrl enter insert backspace system core directory hidden
 
-- [ ] 加强记忆： divide deliver choice cigarette thick medicine leopard giraffe blouse destroy serve expression teapot carpet interesting static content config height width absolute relative previous hook instance handle glue caught revision stairs quiet matter patient chalk borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit
+- [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting config height width absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve
 
 - [ ] 过去式：sang
 

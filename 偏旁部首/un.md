@@ -27,4 +27,7 @@ unknown
 
 defined
 undefined
+
+countable
+uncountable
 ```

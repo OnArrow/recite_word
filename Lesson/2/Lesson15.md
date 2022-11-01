@@ -46,3 +46,35 @@
    If you make friends with yourself you will never be alone
    如果你和自己交朋友，你就永远不会孤单
    ```
+
+## Your passports, please
+
+```
+Are you Swedish?
+
+No, we aren't. We are Danish
+
+Are your friends Danish, too?
+
+No, they aren't, they are Norwegian
+
+Your passports, please
+
+Here they are
+
+Are these your cases?
+
+No, they aren't. Our cases are brown. Here they are
+
+Are you tourists?
+
+Yes, we are
+
+Are your friends tourists, too?
+
+Yes, they are
+
+That's fine
+
+Thank you very much
+```

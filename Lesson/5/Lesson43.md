@@ -95,3 +95,33 @@
     The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart
     世界上美好的、最美丽的东西是看不到甚至摸不着的，它们必须用心去感受
     ```
+
+## Hurry up
+
+```
+Can you make the tea, Sam?
+
+Yes, of course I can, Penny
+
+Is there any water in this kettle?
+
+Yes, there is
+
+Where's the tea?
+
+It's over there, behind the teapot. Can you see it?
+
+I can see the teapot, but I can't see the tea
+
+There it is. It's in front of you!
+
+Ah yes, I can see it now. Where are the cups?
+
+There are some in the cupboard
+
+Can you find them?
+
+Yes, here they are
+
+Hurry up! Sam. The kettle's boiling
+```

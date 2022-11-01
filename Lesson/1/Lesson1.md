@@ -131,3 +131,21 @@
     If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!
     如果有人给你提供了一个绝佳的机会,当你不确定自己能否胜任,那就答应吧 - 然后再去学习如何去做!
     ```
+
+## Excuse me
+
+```
+Excuse me?
+
+Yes?
+
+Is this your handbag?
+
+Pardon?
+
+Is this your handbag?
+
+Yes, it's
+
+Thank you very much
+```

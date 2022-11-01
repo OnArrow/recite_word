@@ -81,3 +81,31 @@
    Someone is sitting in the shade today, because someone planted a tree a long time ago
    今天有人坐在树荫下，是因为有人种了很久的树
    ```
+
+## Where's Sally?
+
+```
+Where's Sally, Jack?
+
+She's in the garden, Jane
+
+What's she doing?
+
+She's sitting under the tree
+
+Is Tim in the garden, too?
+
+Yes, he is. He's climbing the tree
+
+I beg your pardon? Who's climbing the tree?
+
+Tim is
+
+What about the dog?
+
+The dog's in the garden, too
+
+It's running across the garden
+
+It's running after a cat
+```

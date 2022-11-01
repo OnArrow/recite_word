@@ -34,3 +34,23 @@
 3. `cupboard` 通常指装锅碗瓢盆的橱柜
 
    ![cupboard](../../images/Lesson23/cupboard.png)
+
+## Which glasses?
+
+```
+Give me some glasses please, Jane
+
+Which glasses?
+
+These glasses?
+
+No, not those. The ones on the shelf
+
+These?
+
+Yes, please
+
+Here you are
+
+Thanks
+```

@@ -52,3 +52,37 @@
    Don't walk behind me, I way not lead; Don't walk in front of me, I way not follow. Just walk beside me and be my friend
    不要走在我身后，我可能不会领导；不要走在我前面，我可能不会跟随。走在我身边，做我的朋友
    ```
+
+## Our village
+
+```
+This is a photograph of our village
+
+Our village is in a valley
+
+It is between two hills
+
+The village is on a river
+
+Here is another photograph of the village
+
+My wife and I are walking along the banks of the river
+
+We are on the left
+
+There is a boy in the water
+
+He's swimming across the river
+
+Here is another photograph
+
+This is the school building
+
+It's beside the park
+
+The park is on the right
+
+The children are coming out of the building
+
+Some of them are going into the park
+```

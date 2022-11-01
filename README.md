@@ -12,7 +12,7 @@
 
 - [ ] 新概念语法练习 Page 126
 
-- [ ] 新概念练习册 Page 227
+- [ ] 新概念练习册 Page 243
 
 - [ ] 音标 - 背诵清辅音浊辅音
 
@@ -30,11 +30,11 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： still Christmas Microsoft madam twice accident fashionable famous sand hockey sick rest sell travel classmate enemies secret happiness stamp menu hug fun sleepy oblique great almost rock continue correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind sale customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock
+- [ ] 记单词：hockey sick rest less travel classmate enemies secret happiness stamp menu hug fun sleepy oblique great almost rock correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind sale customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure beg forever chest
 
-- [ ] 代码相关：padding margin flex grid font align justify token framework introduction console programmer holder placeholder password border clear focus text textarea form compile successfully network total merge uppercase lowercase ctrl enter insert backspace system core directory hidden
+- [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject
 
-- [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting config height width absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization small master cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve
+- [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve
 
 - [ ] 过去式：sang heard
 

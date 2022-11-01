@@ -80,3 +80,23 @@
    Yesterday is history, tomorrow is a mystery, but today is a gift
    昨天是历史，明天是未知，但今天是一份礼物
    ```
+
+## How are you today?
+
+```
+Hello, Helen
+
+Hi, Steven
+
+How are you today?
+
+I'm very well, thank you. And you?
+
+I'm fine, thanks. How is Tony?
+
+He's fine, thanks. How's Emma?
+
+She's very well, too. Helen. Goodbye, Helen. Nice to see you
+
+Nice to see you, too, Steven. Goodbye
+```

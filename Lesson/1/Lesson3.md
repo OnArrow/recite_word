@@ -60,3 +60,25 @@
    Land on Mars, a round-trip ticket - half a million dollars. It can be done
    登陆火星，一张往返票 - 50万美元。这是可以做到的
    ```
+
+## Sorry, sir
+
+```
+My coat and my umbrella, please. Here is my ticket
+
+Thank you, sir. Number five
+
+Here's your umbrella and your coat
+
+This is not my umbrella. Sorry, sir
+
+Is this your umbrella?
+
+No, it isn't
+
+Is this it?
+
+Yes, it is
+
+Thank you very much
+```

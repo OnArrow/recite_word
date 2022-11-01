@@ -46,3 +46,33 @@
    If you don't know where you are going, you might wind up someplace else
    如果你不知道你要去哪里，你可能会去别的地方
    ```
+
+## Mrs.Smith's living room
+
+```
+Mrs.Smith's living room is large
+
+There is a television in the room
+
+The television is near the window
+
+There are some magazines on the television
+
+There is a table in the room
+
+There are some newspapers on the table
+
+There are some armchairs in the room
+
+The armchairs are near the table
+
+There is a stereo in the room
+
+The stereo is near the door
+
+There are some books on the stereo
+
+There are some pictures in the room
+
+The pictures are on the wall
+```

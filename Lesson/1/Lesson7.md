@@ -249,3 +249,29 @@
     知道怎么做的人总是有工作
     知道为什么的人永远是他的老板
     ```
+
+## Are you a teacher?
+
+```
+I'm a new student. My name's Robert
+
+Nice to meet you. My name's Sophie
+
+Are you French?
+
+Yes, I am. Are you French, too?
+
+No, I am not
+
+What nationality are you?
+
+I'm Italian. Are you a teacher?
+
+No, I'm not
+
+What's your job?
+
+I'm a keyboard operator. What's your job?
+
+I'm an engineer
+```

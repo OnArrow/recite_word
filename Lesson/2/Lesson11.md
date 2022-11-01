@@ -104,3 +104,29 @@
    This is Lisa's animal
    这是莉萨的动物
    ```
+
+## Is this your shirt?
+
+```
+Whose shirt is that?
+
+Is this your shirt, Dave?
+
+No, sir. It's not my shirt. This is my shirt, My shirt's blue
+
+Is this shirt Tim's?
+
+Perhaps it is, sir. Tim's shirt's white
+
+Tim!
+
+Yes, sir?
+
+Is this your shirt?
+
+Yes, sir
+
+Here you are. Catch!
+
+Thank you, sir
+```

@@ -41,7 +41,25 @@
 4. 名句
 
    ```
-   Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime
+   Give a man a fish and you feed him for a day; Teach a man to fish and you feed him for a lifetime
    给一个人一条鱼，你就喂它一天；教一个人钓鱼，你就能养活他一辈子
    // 授人以鱼不如授人以渔
    ```
+
+## Which book?
+
+```
+Give me a book please, Jane
+
+Which book? This one?
+
+No, not that one. The red one
+
+This one?
+
+Yes, please
+
+Here you are
+
+Thank you
+```

@@ -35,3 +35,41 @@ Who had a good time in the park last weekend?
 
 All the boys and girls had a good time in the park last weekend
 ```
+
+```
+Did he have tea and dinner yesterday?
+
+He had tea, but he didn't have dinner
+```
+
+```
+Sam had roast beef for dinner yesterday, and Jack did, too
+
+He usually has milk in the morning, but Jack doesn't
+```
+
+```
+I want to have a holiday
+
+I haven't had a holiday
+
+He wants to have some milk
+
+He hasn't had any milk
+```
+
+```
+Has he had much medicine?
+
+Yes, he has. He has just had a lot of medicine
+
+Have you had much coffee?
+
+No, I haven't. I haven't had any coffee at all
+```
+
+```
+Let's have a drink now
+
+I've already had a drink
+```

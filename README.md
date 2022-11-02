@@ -32,7 +32,7 @@
 
 - [ ] 记单词： fun sleepy oblique great almost rock correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure beg forever chest cloth Android elevator mark thought dot concept
 
-- [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject
+- [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject cascading sheet sticky
 
 - [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap
 

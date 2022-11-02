@@ -73,3 +73,31 @@ Let's have a drink now
 
 I've already had a drink
 ```
+
+```
+Have you done yesterday's homework?
+
+Yes, I did it last night
+```
+
+```
+May I speak to Jack?
+
+Yes, of course. He's been to the hospital, but he's here now
+```
+
+```
+Have you ever been to the United States?
+
+Yes, I have
+
+When did you go there?
+
+I went there two years ago
+```
+
+```
+Has he ever been to the New York?
+
+No, he has never been there
+```

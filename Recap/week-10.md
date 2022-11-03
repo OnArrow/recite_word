@@ -101,3 +101,21 @@ Has he ever been to the New York?
 
 No, he has never been there
 ```
+
+```
+Has she typed the letter and posted it?
+
+She's typed the letter, but she hasn't posted it
+```
+
+```
+The windows are closed
+
+Yes, I've just closed them
+```
+
+```
+Have you heard the news about Jack yet?
+
+Yes, I have. I heard about it yesterday
+```

@@ -22,9 +22,28 @@
    I can't decide yet
    ```
 
-4. `last word` 表示“定论；最后一句话”
+4. `have the last word` 表示“定论；最后一句话”
 
    ```
    Women always have the last word
    女人总是最后拍板决定
+   ```
+
+5. 一个动作（done）或者状态（been），从过去一直持续或重复到现在。一般和介词`for`或者`since`连用
+
+   ```
+   I have lived in China for twenty years ago
+   // `for`表示住在中国的时间从过去一直持续到现在已经20年了
+
+   I have worked since 2 p.m.
+   我从下午2点工作到现在
+   // `since`表示从2点开始，工作一直持续到此时此刻
+   ```
+
+6. 对持续多长时间用 `how long` 提问
+
+   ```
+   How long have you lived in China?
+
+   How long have you worked?
    ```

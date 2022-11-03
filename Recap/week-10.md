@@ -119,3 +119,15 @@ Have you heard the news about Jack yet?
 
 Yes, I have. I heard about it yesterday
 ```
+
+```
+Since when has he lived in the house?
+
+He's lived there since twenty yeas ago
+```
+
+```
+Is it a lot of money to Jack?
+
+Yes, it's
+```

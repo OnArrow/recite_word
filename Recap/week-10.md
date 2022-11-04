@@ -131,3 +131,19 @@ Is it a lot of money to Jack?
 
 Yes, it's
 ```
+
+```
+How long have you been in this school?
+
+I've been there for six years
+
+How long has he lived there?
+
+He's lived there since twenty years ago
+```
+
+```
+Have you read this book yet?
+
+Yes, I have. I read it six months ago
+```

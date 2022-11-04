@@ -30,11 +30,13 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： fun sleepy oblique great almost rock correct express below popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure beg forever chest cloth Android elevator mark thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer
+- [ ] 单词后面加 `tion` 是什么意思？ edit edition
+
+- [ ] 记单词： regard think popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure beg forever chest cloth Android elevator mark thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer price politely owner own queen weight sudden surface
 
 - [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject cascading sheet sticky asset charge
 
-- [ ] 加强记忆： divide deliver cigarette thick medicine leopard giraffe blouse destroy expression teapot carpet interesting absolute relative previous instance handle caught revision stairs quiet matter patient borrow envelope bean pea biscuit cheese cabbage browser authorization cinema male handwriting employee repository recent versus smell sign hurriedly platform security minus stationer general dairy true material comparison shopkeeper wallet conversation climate pure loaf hammer valley grass bone wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap basket attendant
+- [ ] 加强记忆： cigarette leopard expression previous instance handle caught revision stairs matter patient borrow bean pea cabbage handwriting employee repository recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf hammer valley grass wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap basket attendant though poor
 
 - [ ] 过去式：sang heard fell rose
 

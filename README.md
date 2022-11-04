@@ -32,7 +32,7 @@
 
 - [ ] 单词后面加 `tion` 是什么意思？ edit edition
 
-- [ ] 记单词： regard think popular skip access activity tour war feedback roll mute remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure beg forever chest cloth Android elevator mark thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer price politely owner own queen weight sudden surface
+- [ ] 记单词： access activity tour feedback roll remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath soon trouble
 
 - [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject cascading sheet sticky asset charge
 

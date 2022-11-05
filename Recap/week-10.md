@@ -147,3 +147,57 @@ Have you read this book yet?
 
 Yes, I have. I read it six months ago
 ```
+
+```
+They started to look at the pictures after lunch
+
+Have they looked at them yet?
+
+No, they haven't. They're still looking at them
+```
+
+```
+Have Jack and Penny stopped listening to the stereo?
+
+Jack has already stopped, but Penny is still listening to the stereo
+```
+
+```
+Has she been to the baker's?
+
+Yes, she has
+
+When did she go there?
+
+She went there this morning
+```
+
+```
+Have you had the medicine for your cold and headache yet?
+
+I've had the medicine for my cold, but I haven't had the medicine for my headache yet
+```
+
+```
+She went to see a doctor half an hour ago
+
+She has been at the doctor's for an hour
+```
+
+```
+The boys went to the beach early this morning
+
+The boys have been on the beach since early this morning
+```
+
+```
+Our teacher has traveled to many places in England, she lived there in 1995
+```
+
+```
+Did you have good weather last weekend?
+```
+
+```
+Who gave you that lovely hat?
+```

@@ -201,3 +201,41 @@ Did you have good weather last weekend?
 ```
 Who gave you that lovely hat?
 ```
+
+```
+Have you shut the windows yet?
+
+No, I haven't. But I'll shut them soon
+```
+
+```
+We're going to have a meeting next Wednesday
+
+We will have a meeting next Wednesday
+
+We shall have a meeting next Wednesday
+```
+
+```
+What's the matter?
+
+I've had a bad stomachache for two days
+
+It doesn't matter, we'll take you to the doctor's
+```
+
+```
+Is he going to go to Shanghai on business next week?
+
+Yes, he'll go to Shanghai on business next week
+```
+
+```
+Will he leave home for Japan next year?
+
+Yes, he will
+
+Will they be on holiday next month?
+
+No, they won't
+```

@@ -32,14 +32,14 @@
 
 - [ ] 单词后面加 `tion` 是什么意思？ edit edition
 
-- [ ] 记单词： will access activity tour feedback roll remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath soon trouble factory chip mistake rewrite
+- [ ] 记单词： remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend business seaside combo level outdoor kitten dynamic island
 
-- [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject cascading sheet sticky asset charge
+- [ ] 代码相关： text textarea compile successfully network total merge continue uppercase lowercase ctrl enter insert backspace system core directory hidden remote interface administration log notice single format provide inject cascading sheet sticky asset charge require developer
 
-- [ ] 加强记忆： cigarette leopard expression previous instance handle caught revision stairs matter patient borrow bean pea cabbage handwriting employee repository recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf hammer valley grass wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap basket attendant though poor taught
+- [ ] 加强记忆： cigarette leopard expression previous instance handle caught taught revision stairs matter patient borrow bean pea cabbage handwriting employee repository recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf hammer valley grass wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap basket attendant though poor available
 
 - [ ] 过去式：sang heard fell rose swept
 
-- [ ] 过去分词：been eaten written begun seen spoken taken given risen driven
+- [ ] 过去分词： begun seen spoken taken given risen driven flown
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

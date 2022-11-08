@@ -1,4 +1,4 @@
-# 缩写
+# Abbreviation
 
 1. `gonna` = `going to`
 

@@ -30,11 +30,11 @@
 
 - [ ] 单词后面加 `tion` 是什么意思？ edit edition
 
-- [ ] 记单词：royal remake blood kill double triple quadruple quintuple tour wind customer blank sentence offer kind situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend business seaside combo level outdoor kitten dynamic island figure around such alive album market recently inactivity terminus detect tone health discard
+- [ ] 记单词： situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend business seaside combo level outdoor kitten dynamic island figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch
 
-- [ ] 代码相关： log notice single format provide inject cascading sheet sticky asset charge require developer wrap resource ecosystem blog composition path sponsor partner basic essential flexible reactivity depth pass contain zoom extension marketplace restart pend explorer shortcut snippet trust battery signification energy output region storage refresh discard stage restore reveal untitled undo signature magnified revert
+- [ ] 代码相关： log notice single format provide inject cascading sheet sticky asset charge require developer wrap resource ecosystem blog composition path sponsor partner basic essential flexible reactivity depth pass contain zoom extension marketplace restart pend explorer shortcut snippet trust battery signification energy output region storage refresh discard stage restore reveal untitled undo signature magnified revert dependencies prettier minimize nearby calculator privacy remark modified
 
-- [ ] 加强记忆： cigarette leopard expression previous instance handle caught taught revision stairs matter patient borrow bean pea cabbage handwriting employee repository recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf hammer valley grass wardrobe idiot mind sharp blunt customs brown usage rabbit improve soap basket attendant though poor available
+- [ ] 加强记忆： leopard expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client
 
 - [ ] 过去式：sang heard fell rose swept
 

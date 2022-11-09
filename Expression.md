@@ -151,3 +151,15 @@
     ```
 
 69. `on business` 出差
+
+70. `6 off` 6 折
+
+71. `place order` 下订单
+
+72. `one more time` 再来一次
+
+73. `I have arrived` 我已经到了
+
+74. `punch in` 上班打卡
+
+75. `punch out` 下班打卡

@@ -41,3 +41,5 @@
 15. `won't` = `will not`
 
 16. `shan't` = `shall not`
+
+17. `you'd better` = `you had better`

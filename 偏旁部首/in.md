@@ -6,4 +6,7 @@ intransitive
 
 activity
 inactivity
+
+sufficient
+insufficient
 ```

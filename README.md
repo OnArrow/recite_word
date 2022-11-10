@@ -30,11 +30,13 @@
 
 - [ ] 单词后面加 `tion` 是什么意思？ edit edition
 
-- [ ] 记单词： situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend business seaside combo level outdoor kitten dynamic island figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch
+- [ ] 记单词： situation carefully apologize fill programme salad subtract turret ghost such firm press fry lock accord hotel gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend business seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch flat jaw
 
-- [ ] 代码相关： log notice single format provide inject cascading sheet sticky asset charge require developer wrap resource ecosystem blog composition path sponsor partner basic essential flexible reactivity depth pass contain zoom extension marketplace restart pend explorer shortcut snippet trust battery signification energy output region storage refresh discard stage restore reveal untitled undo signature magnified revert dependencies prettier minimize nearby calculator privacy remark modified panel split
+- [ ] 代码相关：sponsor partner basic essential flexible reactivity depth pass contain zoom extension marketplace restart pend explorer shortcut snippet trust region storage refresh discard stage restore reveal untitled undo signature magnified revert dependencies prettier minimize remark modified panel split paste decline toast item bug safe restore limit reach firewall
 
-- [ ] 加强记忆： leopard expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client
+- [ ] 其他： battery signification energy subscription media privacy internet instalment service
+
+- [ ] 加强记忆： leopard expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer general dairy material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client record carpet cupboard collage pattern
 
 - [ ] 过去式：sang heard fell rose swept
 

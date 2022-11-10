@@ -39,4 +39,7 @@ untitled
 
 lock
 unlock
+
+available
+unavailable
 ```

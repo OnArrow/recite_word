@@ -31,3 +31,13 @@ We shall climb up the hill tomorrow morning
 
 Will you climb up the hill tomorrow morning?
 ```
+
+```
+The train for China leaves from Platform Two
+```
+
+```
+When is the next train from here to London?
+
+The next train from here to London is in six hours' time
+```

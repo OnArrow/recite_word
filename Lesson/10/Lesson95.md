@@ -21,7 +21,7 @@
 
    We've got plenty of time
 
-   He'vs got plenty of money
+   He's got plenty of money
    ```
 
 4. `over the bridge` 跨过桥；到桥的另一边

@@ -87,3 +87,67 @@ describe zip label pence belong situation carefully apologize fill salad subtrac
 ```
 battery signification significant energy subscription media privacy internet installment service spatial paste member visible shortcut incognito restart appearance safari finder
 ```
+
+```
+describe zip label pence belong situation carefully apologize fill salad subtract turret ghost such firm press fry lock unlock accord hotel battery signification significant energy subscription media privacy internet installment service spatial paste member visible shortcut incognito restart appearance safari finder
+```
+
+```
+I left a suitcase on the train to London the other day
+几天前我遗落了一个旅行箱在去伦敦的火车上
+
+Can you describe it, sir?
+你能描述一下它是什么样子的吗，先生？
+
+It's a small blue case
+它是一个蓝色的小箱子
+
+And it's got a zip
+它有拉链
+
+There's a label on the handle with my name and address on it
+有一个标签在把手上，上面有我的名字和地址
+
+Is this case yours?
+这箱子是你的吗？
+
+No, that's not mine
+不，那不是我的
+
+What about this one?
+这一个呢？
+
+This one's got label
+这上面有一个标签
+
+Let me see it
+让我看看
+
+What's your name and address?
+你的名字和地址是什么？
+
+David Hall. 83, Bridge Street
+
+That's right. D.N. Hall, 83, Bridge Street
+没错
+
+Three pounds fifty pence, please
+三英镑五十便士
+
+Here you are
+给你
+
+Thank you
+谢谢
+
+Hey!
+
+What's the matter?
+什么事？
+
+This case doesn't belong to me
+这个箱子不是我的
+
+You've given me the wrong case
+你给错我箱子了
+```

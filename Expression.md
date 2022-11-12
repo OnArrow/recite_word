@@ -165,3 +165,7 @@
 75. `punch out` 下班打卡
 
 76. `top up` 充值
+
+77. `give a lesson` 授课
+
+78. `pass the exam` 通过考试

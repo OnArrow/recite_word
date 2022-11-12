@@ -34,7 +34,7 @@
 
 - [ ] 其他： chat scan gallery repost wireless cellular trash mail remind reminder utility purchase organize organizer adult accessibility vision audio spotlight expire swipe badge rate unpack permission toolbar hybrid
 
-- [ ] 加强记忆： expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client record carpet cupboard pattern register prefer temperature
+- [ ] 加强记忆： expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype
 
 - [ ] 过去式：sang heard fell rose swept
 

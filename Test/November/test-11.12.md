@@ -71,3 +71,7 @@ sponsor partner basic essential flexible reactivity depth deep contain zoom exte
 ```
 sponsor partner basic essential flexible reactivity depth deep contain zoom extension marketplace pend explorer snippet region storage refresh discard
 ```
+
+```
+sponsor partner basic essential flexible reactivity depth deep contain zoom extension marketplace pend explorer snippet trust region storage refresh discard
+```

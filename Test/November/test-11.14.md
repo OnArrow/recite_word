@@ -67,3 +67,42 @@ slip back help at once sure unsure ray license outside pass business gift foreve
 ```
 slip back help at once sure unsure ray license outside pass business gift forever chest cloth Android elevator dot concept sing sung hear heard fall fell fallen rise rose risen sweep swept think thought chat scan gallery repost wireless cellular trash mail remind utility purchase organize organizer adult
 ```
+
+```
+slip back help at once sure unsure ray license outside pass business gift forever chest cloth Android elevator dot concept sing sung hear heard fall fell fallen rise rose risen sweep swept think thought chat scan gallery repost wireless cellular trash mail remind utility purchase organize organizer adult
+```
+
+```
+Ow!
+哎哟！
+
+What's the matter, Andy?
+怎么了，Andy？
+
+I slipped and fell downstairs
+我摔下楼了
+
+Have you hurt yourself?
+你伤到你自己了吗？
+
+Yes, I have. I think that I've hurt my back
+是的，我觉得我伤到了后背
+
+Try and stand up. Can you stand up? Here. Let me help you
+试着站起来。你能站起来吗？这儿。让我帮你
+
+I'm sorry, Lucy. I'm afraid that I can't get up
+抱歉，Lucy。我恐怕不能起来
+
+I think that the doctor had better see you
+我觉得医生最好来看看你
+
+I'll phone Dr.Carter
+我要叫Dr.Carter
+
+The doctor says that he will come at once
+医生说他马上就来
+
+I'm sure that you need an X-ray, Andy
+我确定你需要拍一个X光，Andy
+```

@@ -28,15 +28,15 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： outside pass business gift sure unsure forever chest cloth Android elevator thought dot concept post closed dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch flat jaw carry bracket tear preface transfer above peanut
+- [ ] 记单词： post dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch flat jaw carry bracket tear preface transfer above peanut wink idea waist
 
-- [ ] 代码相关： restore reveal untitled undo signature magnified revert dependencies prettier minimize remark modified panel split decline toast item bug safe restore limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule bug debug automatic overwrite trial
+- [ ] 代码相关： restore reveal untitled undo signature magnified revert dependencies prettier minimize remark modified panel split decline toast item bug safe restore limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule bug debug automatic overwrite trial rotate symbol tip
 
-- [ ] 其他： chat scan gallery repost wireless cellular trash mail remind reminder utility purchase organize organizer adult accessibility vision audio spotlight expire swipe badge rate unpack permission toolbar hybrid
+- [ ] 其他： accessibility vision audio spotlight expire swipe badge rate unpack permission toolbar hybrid entire professional speed special mate colorful lite clipboard notify voice transaction fund transfer withdraw track selfy screenshot animate memory
 
-- [ ] 加强记忆： expression previous caught taught revision stairs patient employee recent versus sign hurriedly stationer material comparison shopkeeper climate pure loaf valley grass wardrobe idiot brown improve soap attendant though poor available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype
+- [ ] 加强记忆： expression previous caught taught revision stairs patient recent hurriedly stationer comparison climate valley grass wardrobe idiot improve soap attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall
 
-- [ ] 过去式：sang heard fell rose swept
+- [ ] 过去式：
 
 - [ ] 过去分词：
 

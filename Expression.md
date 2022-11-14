@@ -169,3 +169,11 @@
 77. `give a lesson` 授课
 
 78. `pass the exam` 通过考试
+
+79. `zoom in` 放大
+
+80. `zoom out` 缩小
+
+81. `call back` 回电话
+
+82. `stand up` 起立

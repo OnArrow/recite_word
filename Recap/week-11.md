@@ -79,3 +79,15 @@ When will the plane take off?
 
 The plane will take off in thirty-five minutes' time
 ```
+
+```
+Can you describe it?
+
+Yes, it's a large green bag and it's got a small white label on it
+```
+
+```
+Does the key belong to you?
+
+No, it isn't mine, I think it's hers
+```

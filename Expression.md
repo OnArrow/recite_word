@@ -177,3 +177,5 @@
 81. `call back` 回电话
 
 82. `stand up` 起立
+
+83. `driving license` 驾照

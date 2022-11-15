@@ -91,3 +91,45 @@ Does the key belong to you?
 
 No, it isn't mine, I think it's hers
 ```
+
+```
+Whose magazines are these?
+
+They're your magazines
+
+They're yours
+```
+
+```
+I left my umbrella at home, so she offered to lend me hers
+```
+
+```
+This is the old man's hat
+
+This hat is his, it belongs to him
+
+This is our car
+
+The car is ours, it belongs to us
+
+These are the men's shoes
+
+These shoes are theirs, they belong to them
+```
+
+```
+Whose is this bag? Is it Jack's?
+
+No, it isn't his, it's hers
+
+Whose are these apples? Are they yours?
+
+No, they aren't mine, they're hers
+```
+
+```
+Whose case is it? Is it Penny's or yours?
+
+It isn't hers, it's mine
+```

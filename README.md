@@ -28,9 +28,9 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： flat ball post dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface transfer above peanut wink idea waist riot
+- [ ] 记单词： flat ball post dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface transfer above peanut wink idea waist riot carrot worry disco alarm few
 
-- [ ] 代码相关：limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration
+- [ ] 代码相关：limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey
 
 - [ ] 其他： notify voice transaction fund transfer withdraw track selfy screenshot animate memory duplicate directly
 

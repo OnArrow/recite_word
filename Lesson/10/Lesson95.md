@@ -54,3 +54,12 @@
 
    You'd better not do that
    ```
+
+10. `had better`（一般疑问句）结构： `Had（提到句首） + 主语 + better + 动词原型 + 其它`
+
+    ```
+    Had he better run quickly?
+
+    Had the doctor better see him?
+
+    ```

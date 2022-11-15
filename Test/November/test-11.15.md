@@ -85,3 +85,45 @@ restore reveal untitled undo signature magnify revert dependencies pretty pretti
 ```
 restore undo revert signature magnify professional colorful mate clip clipboard reveal untitled dependencies pretty prettier minimize remark modify panel slipt decline toast item bug safe accessibility vision audio spotlight expire swipe badge rate unpack permission toolbar hybrid entire speed special spacial lite
 ```
+
+```
+I fell downstairs
+
+Did you fell downstairs?
+
+How did you fell downstairs?
+
+Be careful! Don't fall down
+
+I hurt my back
+
+She hurts her back every day
+
+Does she hurt her back every day?
+
+Yes, she does
+
+Did she just hurt her back?
+
+I need help
+
+Do you need help?
+
+Why do you need help?
+
+Can you come at once?
+
+Yes, I can
+
+Will you see me at once?
+
+She needs an X-ray
+
+Does she need an X-ray?
+
+She took an X-ray yesterday
+
+Why did she take an X-ray？
+
+Has she already taken an X-ray?
+```

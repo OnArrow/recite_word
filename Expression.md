@@ -179,3 +179,5 @@
 82. `stand up` 起立
 
 83. `driving license` 驾照
+
+84. `in face` 事实上

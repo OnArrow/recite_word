@@ -75,4 +75,7 @@
 
    I'm listening to the stereo
    // `listen`表示“听”，同样的听某个声音，肯定有一个声音的来源，我们用耳朵“朝向”这个声音源去听
+
+   He's very polite to people
+   // “他”面对“人”的时候很有礼貌，“面对”就是有一个方向，面朝向人
    ```

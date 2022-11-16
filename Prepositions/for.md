@@ -24,6 +24,8 @@ Watch television too much is bad for your eyes
 
 I can do anything for you
 我能为了你做任何事
+
+He had a good memory for faces
 ```
 
 ### 表示“当作，作为”

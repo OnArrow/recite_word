@@ -28,13 +28,13 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： flat ball post dialogue bicycle hit foreign pence fight club photographer politely owner own queen weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface transfer above peanut wink idea waist riot carrot worry disco alarm few
+- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw
 
-- [ ] 代码相关：limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey
+- [ ] 代码相关：limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket
 
-- [ ] 其他： notify voice transaction fund transfer withdraw track selfy screenshot animate memory duplicate directly
+- [ ] 其他： sticker
 
-- [ ] 加强记忆： expression previous caught taught revision stairs patient recent hurriedly stationer comparison climate valley grass wardrobe idiot improve soap attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall destroy
+- [ ] 加强记忆： revision patient hurriedly stationer comparison valley grass improve attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe
 
 - [ ] 过去式：
 

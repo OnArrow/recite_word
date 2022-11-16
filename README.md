@@ -30,7 +30,7 @@
 
 - [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw
 
-- [ ] 代码相关：limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket
+- [ ] 代码相关：seem pleased limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket
 
 - [ ] 其他： sticker
 

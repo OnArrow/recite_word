@@ -107,3 +107,65 @@ Scotland card youth hostel association flat ball post dialogue bicycle hit forei
 ```
 withdraw transact transaction draft disturb
 ```
+
+```
+Scotland card youth hostel association flat ball post dialogue bicycle hit foreign fight club polite own owner king queen prince princess notify voice transact transaction fund transfer withdraw track selfie screenshot animate memory duplicate directly receipt trend draft input disturb
+```
+
+```
+Read the Jimmy's card to me please, Penny
+请给我读一下Jimmy的明信片，Penny
+
+'I have just arrived in Scotland and I'm staying at a Youth Hostel'
+“我刚刚到了苏格兰，我正住在青年旅馆”
+
+Eh?
+
+He says he's just arrived in Scotland
+他说他刚刚到了苏格兰
+
+He says he's staying at a Youth Hostel
+他说他正住在一个青年旅馆里
+
+You know he's a member of the Y.H.A
+你知道的他是Y.H.A的成员
+
+The what?
+什么？
+
+The Y.H.A., Mum
+Y.H.A. 妈妈
+
+The Youth Hostels Association
+青年旅馆协会
+
+What else does he say?
+他还说了什么？
+
+'I'll write a letter soon. I hope you are all well'
+“我很快会写一封信。我希望你们一切都好”
+
+What? Speak up, Penny
+什么？大声点，Penny
+
+I'm afraid I can't hear you
+我恐怕听不到你说话
+
+He says he write a letter soon
+他说他很快会写一封信
+
+He hopes we are all well
+他希望我们一切都好
+
+'Love, Jimmy'
+“爱你们的Jimmy”
+
+Is that all?
+这是全部吗？
+
+He doesn't say very much, does he?
+他没说很多，是吗？
+
+He can't write very much on a card, Mum
+他不能在明信片上写很多字，妈妈
+```

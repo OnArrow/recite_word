@@ -57,3 +57,47 @@ seem pleased limit reach firewall chart header footer article aside section aler
 ```
 header footer aside section article limit seem toggle responsive dimension alert pleased reach firewall chart animation visual reset cross preserve
 ```
+
+```
+seem pleased limit reach firewall chart header footer section aside article alert animation visual cross toggle dimension responsive preserve
+```
+
+```
+Scotland card youth hostel association flat ball post dialogue bicycle hit foreign fight club polite own owner king queen prince princess notify voice transact transaction fund transfer withdraw track stack selfie screenshot animate memory duplicate directly directory receipt trend draft input disturb
+```
+
+```
+He says, 'he can do it'
+
+He says that he can do it
+
+'I have just arrived in Scotland.' says Leo
+
+Leo says that he has just arrived in Scotland
+```
+
+```
+Have you ever been to Scotland?
+
+Yes, I have. I was there in 1998
+
+Where's John?
+
+He has gone to Scotland
+
+We bought some postcard yesterday
+
+brought
+
+Did you buy any postcard yesterday?
+
+Yes, I did. But I have dropped them
+
+He will write a letter soon
+
+Will he write a letter soon?
+
+Why will he write a letter soon?
+
+
+```

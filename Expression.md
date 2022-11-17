@@ -181,3 +181,5 @@
 83. `driving license` 驾照
 
 84. `in face` 事实上
+
+85. `one hour break` 休息一小时

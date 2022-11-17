@@ -28,9 +28,11 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw weatherman
+- [ ] 宾语从句、直接引语、间接引语
 
-- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket subscribe echo flag
+- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw weatherman mountain
+
+- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket subscribe echo flag enhance
 
 - [ ] 其他： sticker
 

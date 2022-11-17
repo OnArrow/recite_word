@@ -71,3 +71,26 @@
 
    I know that she likes apples
    ```
+
+   - 当把含有宾语从句的句子变为疑问句时，要把宾语从句看成一个整体
+
+   ```
+   He says he'll write a letter soon
+   // 把`he'll write a letter soon`看成一个整体，它不能拆分
+
+   Does he say he'll write a letter soon?
+
+   Why does he say he'll write a letter soon?
+
+   What else does he say?
+
+   He says he is staying at a Youth Hostel
+
+   Is he says he staying at Youth Hostel?
+   // 错误，不能这样问
+   // 当变为一般疑问句时，只能用`does`去提问，不能用`is`，因为`is`是属于宾语从句的一部分
+
+   Does he say he is staying at a Youth Hostel?
+
+   Where does he say he's staying?
+   ```

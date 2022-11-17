@@ -28,13 +28,13 @@
 
 - [ ] to 的用法
 
-- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw
+- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw weatherman
 
-- [ ] 代码相关：seem pleased limit reach firewall chart footer header alert animation visual reset cross toggle dimension responsive preserve cache reveal rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket
+- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket subscribe echo flag
 
 - [ ] 其他： sticker
 
-- [ ] 加强记忆： revision patient hurriedly stationer comparison valley grass improve attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe
+- [ ] 加强记忆： revision patient hurriedly stationer comparison valley grass improve attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought
 
 - [ ] 过去式：
 

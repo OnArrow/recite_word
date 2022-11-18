@@ -107,3 +107,69 @@ low high clever stupid stale soft easy difficult sour loud mathematics cheer hat
 ```
 mathematics easy difficult low high stale sour clever stupid enough hate cheer guy expensive cheap loud soft should weight sudden direct direction sticker migrate backup shoot avoid alternate slideshow album recently
 ```
+
+```
+mathematics easy difficult stale soft low high clever stupid cheap expensive enough direct direction hate cheer guy loud sour should weight sudden sticker migrate backup shoot avoid alternate slideshow album recently
+```
+
+```
+How was the exam, Richard?
+考得怎么样，Richard?
+
+Not too bad
+不是很差
+
+I think I passed in English and Mathematics
+我觉得我通过了英语和数学
+
+The questions were very easy. How about you, Gary?
+那些题目都很容易。你呢，Gary?
+
+The English and Maths papers weren't easy enough for me
+英语和数学的试卷对于我来说不是很容易
+
+I hope I haven't failed
+我希望我没有不及格
+
+I think I failed the French paper
+我觉得我法语考试不及格
+
+I could answer sixteen of the questions
+我能回答16题
+
+They were very easy
+它们很容易
+
+But I couldn't answer the rest
+但我答不出剩余的题目
+
+They were too difficult for me
+对于我来说它们太难了
+
+French tests are awful, aren't they?
+法语测试是令人讨厌的，不是吗？
+
+I hate them
+我讨厌它们
+
+I'm sure I've got a low mark
+我确信我得到了一个低的分数
+
+Oh, cheer up!
+噢，加油！你会更好的
+
+Perhaps we didn't do too badly
+也许我们没那么糟糕
+
+The guy next to me wrote his name at the top of the paper
+坐在我旁边的那个人只写了他的名字在试卷顶上
+
+Yes?
+啊？
+
+Then he sat there and looked at it for three hours!
+然后他在那里看了三个小时！
+
+He didn't write a word!
+他没写一个字！
+```

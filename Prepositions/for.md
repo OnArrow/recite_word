@@ -51,6 +51,13 @@ Thank you for teaching us so well
 Thank you for your answer
 ```
 
+### 代表某个团体或机构
+
+```
+The letters Y.H.A stand for the 'Youth Hostels Association'
+字母“Y.H.A”代表青年旅舍协会
+```
+
 #### 参考链接
 
 1. [介词 for 的常见用法及例句归纳](http://www.gaosan.com/gaokao/237857.html)

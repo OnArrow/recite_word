@@ -30,13 +30,13 @@
 
 - [ ] 宾语从句、直接引语、间接引语
 
-- [ ] 记单词： weight sudden surface joke corner hell march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive album market recently inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink idea waist riot carrot worry disco alarm few happen net within without technology queue sport video golf prefix draw weatherman mountain
+- [ ] 记单词： surface joke corner hell idea march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive market inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush maths physics chemistry biology politics geography science
 
-- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon track duration survey socket subscribe echo flag enhance
+- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon duration survey socket subscribe echo flag enhance nickname database verify
 
-- [ ] 其他： sticker
+- [ ] 其他： video refund origin
 
-- [ ] 加强记忆： revision patient hurriedly stationer comparison valley grass improve attendant though available exercise college apply different client record carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought
+- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach
 
 - [ ] 过去式：
 

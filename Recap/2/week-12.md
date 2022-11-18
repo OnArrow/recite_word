@@ -39,3 +39,9 @@ My friends: We've enjoyed ourselves very much
 
 My friends say that they've enjoyed themselves very much
 ```
+
+```
+Jack doesn't say very much on his card, does he?
+
+No, he doesn't say very much on his card
+```

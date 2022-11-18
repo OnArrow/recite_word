@@ -42,4 +42,7 @@ unlock
 
 available
 unavailable
+
+fold
+unfold
 ```

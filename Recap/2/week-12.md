@@ -45,3 +45,19 @@ Jack doesn't say very much on his card, does he?
 
 No, he doesn't say very much on his card
 ```
+
+```
+'You'd better go back to the station now. I'm sure the train will leave soon'
+
+He says we'd better go back to the station now, and he's sure the train will leave soon
+```
+
+```
+We hope it won't be hot next month
+```
+
+```
+The postman: 'I think I need a big bag for the letters'
+
+The postman says he thinks he needs a big bag for the letters
+```

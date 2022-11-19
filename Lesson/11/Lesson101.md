@@ -109,6 +109,14 @@
    他没完成他的工作，不是吗？
    ```
 
+   ```
+   Example:
+
+   These aren't your books, are they?
+
+   She has never been to China, has she?
+   ```
+
    - 可以用`right`来替代后面的反意疑问句
 
    ```

@@ -45,3 +45,11 @@ Jack doesn't say very much on his card, does he?
 
 No, he doesn't say very much on his card
 ```
+
+```
+He thinks that the questions were very easy
+
+Does he think that the questions were very easy?
+
+What does he think about the questions?
+```

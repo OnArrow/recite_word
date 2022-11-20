@@ -36,7 +36,7 @@
 
 - [ ] 其他： video refund origin
 
-- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply
+- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply ripe
 
 - [ ] 过去式：
 

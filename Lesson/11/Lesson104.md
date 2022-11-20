@@ -1,19 +1,81 @@
 # Lesson 104
 
-1. 如果是通过某一个考试，用`pass`。如果是通过某一个科目，用`pass in`
+```
+Could he answer the all questions?
 
-   ```
-   I think I passed in English and Mathematics
-   // 英语和数学是科目，而不是单纯的某次考试
+Yes, he could
 
-   I will pass the exam next year
-   // 具体的某个考试
-   ```
+They were easy enough for him to answer
+```
 
-2. 当`paper`翻译为“试卷”时，是 `cn.`
+```
+Could he answer the all questions?
 
-   ```
-   There are a lot of papers on the desk
-   ```
+No, he couldn't
 
-3. `cheer up` 振作起来
+They were too difficult for him to answer
+```
+
+```
+Could they hear the stereo?
+
+Yes, they could
+
+It was loud enough for them to hear
+```
+
+```
+Could they hear the stereo?
+
+No, they couldn't
+
+It was too low for them to hear
+```
+
+```
+Could she eat the orange?
+
+Yes, she could
+
+It was sweet enough for her to eat
+```
+
+```
+Could she eat the orange?
+
+No, she couldn't
+
+It was too sour for her to eat
+```
+
+```
+Could he buy the car?
+
+Yes, he could
+
+It was cheap enough for him to buy
+```
+
+```
+Could he buy the car?
+
+No, he couldn't
+
+It was too expensive for him to buy
+```
+
+```
+Could he climb over the wall?
+
+Yes, he could
+
+It was low enough for him to climb
+```
+
+```
+Could he climb over the wall?
+
+No, he couldn't
+
+It was too high for him to climb
+```

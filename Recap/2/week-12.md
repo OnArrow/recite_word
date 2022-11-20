@@ -47,9 +47,17 @@ No, he doesn't say very much on his card
 ```
 
 ```
-He thinks that the questions were very easy
+'You'd better go back to the station now. I'm sure the train will leave soon'
 
-Does he think that the questions were very easy?
+He says we'd better go back to the station now, and he's sure the train will leave soon
+```
 
-What does he think about the questions?
+```
+We hope it won't be hot next month
+```
+
+```
+The postman: 'I think I need a big bag for the letters'
+
+The postman says he thinks he needs a big bag for the letters
 ```

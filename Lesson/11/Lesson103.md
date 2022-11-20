@@ -82,6 +82,8 @@
 
    He is too stupid to pass the exam
    他过于笨了，通不过考试
+
+   The knife is too blunt to cut the beef
    ```
 
 7. `adj. enough + （for sb.） + to do sth.`
@@ -97,6 +99,8 @@
 
    He is clever enough to pass the exam
    他很聪明，可以通过考试
+
+   The knife is sharp enough to cut the beef
    ```
 
 8. `could`

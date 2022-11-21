@@ -34,7 +34,7 @@
 
 - [ ] Lesson 101 的反意疑问句中的 Example
 
-- [ ] 记单词： could examination maths expect tennis mile bitter strong weak prize win carry physics chemistry biology politics geography science surface joke corner hell idea march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive market inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush
+- [ ] 记单词： could examination maths expect tennis mile bitter strong weak prize win carry physics chemistry biology politics geography science surface joke corner hell idea march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive market inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess
 
 - [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon duration survey socket subscribe echo flag enhance nickname database verify
 

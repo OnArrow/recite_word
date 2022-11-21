@@ -1,6 +1,39 @@
-# 一般将来时
+# 一般将来时 (be going to)
 
-## 含义：表示将来某一时段的动作或状态，或将来某一段时间内经常的动作或状态
+## 含义
+
+1. 表示将来某一时段的动作或状态，或将来某一段时间内经常的动作或状态
+
+2. 计划打算去做某事
+
+3. 预测（基于现在的证据）。目前有明显的迹象表明，某事将要发生，通常指较近的未来
+
+```
+我准备周六去中国出差
+// 计划打算去做某事
+
+天很黑，要下大雨了
+// 基于“天很黑”，预测“要下大雨”
+
+现在堵车了，我要迟到了
+// 因为“堵车”，所以预测“我要迟到”。“堵车”是一个明显的迹象
+```
+
+```
+I'm going to China on business on Saturday
+
+I have bought a computer and I'm going to learn it
+// 计划打算去做某事
+
+My wife has bought some wool and she is going to knit a sweater for me
+// 计划打算去做某事
+
+
+Tip: 快要撞车了
+
+Look out! We are going to crash
+// 基于当前的路面情况，预测准备要撞车了
+```
 
 ## 句型
 

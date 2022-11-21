@@ -34,16 +34,16 @@
 
 - [ ] Lesson 101 的反意疑问句中的 Example
 
-- [ ] 记单词： could examination maths expect tennis mile bitter strong weak prize win carry physics chemistry biology politics geography science surface joke corner hell idea march breath trouble factory chip mistake rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive market inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess
+- [ ] 记单词： bitter strong weak prize win physics chemistry biology politics geography science surface joke corner hell idea march breath trouble factory chip rewrite wish sympathy lend seaside combo level outdoor kitten figure around such alive market inactivity terminus detect tone health discard although income earn counter dine touch jaw carry bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess
 
-- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon duration survey socket subscribe echo flag enhance nickname database verify
+- [ ] 代码相关： cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon duration survey socket subscribe echo flag enhance nickname database verify alive repeat shadow radius gap constant quality plug
 
-- [ ] 其他： video refund origin
+- [ ] 其他： video refund origin shift cell forward quote consumer fit individual compress receive bulletin
 
-- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe
+- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary
 
-- [ ] 过去式：
+- [ ] 过去式： spelt
 
-- [ ] 过去分词： drunk
+- [ ] 过去分词： drunk sent
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

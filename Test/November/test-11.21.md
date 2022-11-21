@@ -91,3 +91,68 @@ maths chemistry geography physics biology politics science strong weak bitter te
 ```
 maths geography politics biology chemistry physics science
 ```
+
+```
+could intelligent mistake present carry examination expect tennis mile bitter strong weak prize win maths politics chemistry physics geography science biology
+```
+
+```
+Where's Sandra, Bob?
+Bob，Sandra在哪？
+
+I want her
+我想和她谈谈
+
+Do you want to speak to her?
+你想和她谈谈吗？
+
+Yes, I do. I want her to come to my office
+是的，我想让她到我办公室来
+
+Tell her to come at once
+告诉她赶紧来
+
+Did you want to see me?
+你要见我吗？
+
+Ah, yes, Sandra
+是的，Sandra
+
+How do you spell 'intelligent'?
+你怎么拼写“intelligent”的？
+
+Can you tell me?
+你可以告诉我吗？
+
+I-N-T-E-L-L-I-G-E-N-T
+
+That's right
+很好
+
+You've typed it with only one 'L'
+你只写了一个“L”
+
+This letter's full of mistakes
+这封信全错了
+
+I want you to type it again
+我想要你在写一遍
+
+Yes, I'll do that
+我会的
+
+I'm sorry about that
+对此我很抱歉
+
+And here's a little present for you
+这有一个小礼物给你
+
+What is it?
+是什么？
+
+It's a dictionary
+是一本词典
+
+I hope it'll help you
+我希望它能帮到你
+```

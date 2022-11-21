@@ -40,7 +40,7 @@
 
 - [ ] 其他： video refund origin shift cell forward quote consumer fit individual compress receive bulletin
 
-- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary
+- [ ] 加强记忆： patient improve though available exercise college apply different client carpet cupboard pattern register prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point
 
 - [ ] 过去式： spelt
 

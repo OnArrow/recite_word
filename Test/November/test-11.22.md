@@ -77,3 +77,33 @@ cache rule debug automatic overwrite trial rotate symbol tip unable environment 
 ```
 
 ```
+
+```
+cache rule debug automatic overwrite trial rotate symbol tip unable environment reasonable configuration icon duration survey socket echo flag enhance video refund origin shift cell forward quote consume consumer fit
+
+could intelligent mistake present carry examination expect tennis mile bitter strong weak prize win maths physics chemistry geography politics biology science
+```
+
+```
+Can you spell that for me?
+
+Yes, of course I can
+
+Which letters do you want to spell?
+
+How do you spell 'Jack'?
+
+I don't understand. It's too difficult
+```
+
+```
+You made a mistake last night, you shouldn't have that apple
+```
+
+```
+Have you already read the dictionary?
+
+No, I haven't read it yet
+
+You'd better buy a new dictionary if you don't understand
+```

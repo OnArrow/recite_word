@@ -185,3 +185,5 @@
 85. `one hour break` 休息一小时
 
 86. `look out` 留神；当心
+
+87. `point out` 指出；指明

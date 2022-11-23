@@ -19,3 +19,35 @@ He must not drive fast
 
 Tell him not to drive fast
 ```
+
+```
+Put away the magazines
+
+He wants me to put away the magazines
+
+Take out your pens and pencils
+
+Tell them to take out their pens and pencils
+```
+
+```
+Don't miss your train
+
+He doesn't want them to miss their train
+
+Don't be lazy
+
+Tell him not to be lazy
+```
+
+```
+Write your answers on the answer sheet, not on the test paper
+
+I want you to write your answers on the answer sheet, I don't want you to write your answer on the test paper`
+```
+
+```
+Come to school early, don't be late
+
+Tell them to come to school early. Tell them not to be late
+```

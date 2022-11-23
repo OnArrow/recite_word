@@ -34,13 +34,13 @@
 
 - [ ] Lesson 101 的反意疑问句中的 Example
 
-- [ ] 记单词：would than outdoor kitten figure around alive market inactivity terminus detect tone health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace
+- [ ] 记单词：would than pavement outdoor kitten figure around alive market inactivity terminus detect tone health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco alarm few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace
 
 - [ ] 代码相关： alive repeat shadow radius gap constant quality plug session disconnect swift recursive none rewrite load
 
 - [ ] 其他： greeting
 
-- [ ] 加强记忆： patient improve though exercise college apply different client carpet cupboard pattern prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point avatar fashion
+- [ ] 加强记忆： patient improve though exercise college apply different client carpet cupboard pattern prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point avatar fashion restaurant
 
 - [ ] 过去式： spelt
 

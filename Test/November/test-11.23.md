@@ -67,3 +67,65 @@ as as well compare surface joke corner hell idea march breath trouble cause fact
 ```
 as as well compare surface joke corner hell idea march breath trouble cause factory chip wish sympathy lend seaside combo level nickname database verify individual compress receive bulletin subscribe ringtone artificial
 ```
+
+```
+Do you like this dress, madam?
+你喜欢这件连衣裙吗，女士？
+
+I like the color very much
+我非常喜欢这个颜色
+
+It's a lovely dress
+它是一件可爱的裙子
+
+But it's too small for me
+但它对于我来说太小
+
+What about this one?
+这件呢？
+
+It's a lovely dress
+它是一件可爱的裙子
+
+It's very smart
+它很漂亮
+
+Short skirts are in fashion now
+短裙是现在的潮流
+
+Would you like to try it?
+你要试试看吗？
+
+All right
+好
+
+I'm afraid this green dress is too small for me as well
+恐怕这件绿色的裙子对我来说同样太小了
+
+It's smaller than the blue one
+它比这件蓝色的还要小
+
+I don't like the color either
+我也不喜欢这个颜色
+
+It doesn't suit me at all
+它一点都不适合我
+
+I think the blue dress is prettier
+我觉得这件蓝色的裙子更好看
+
+Could you show me another blue dress?
+你可以给我看看另一件蓝色的裙子吗？
+
+I want a dress like that one
+我想要像那一件的
+
+But it must be my size
+但它必须是我的尺码
+
+I'm afraid I haven't got a larger dress
+我恐怕没有大一点的裙子
+
+This is the largest dress in the shop
+这是店里面最大的裙子
+```

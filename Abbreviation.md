@@ -43,3 +43,5 @@
 16. `shan't` = `shall not`
 
 17. `you'd better` = `you had better`
+
+18. `I'd like` = `I would like`

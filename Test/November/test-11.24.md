@@ -81,3 +81,11 @@ reopen tint alarm timer stopwatch pause experience scroll locate greeting deny w
 ```
 swift greeting alarm experience quality plug tint locate rewrite reopen would pavement than disconnect constant repeat alive shadow radius gap session recursive none emoji fetch load rewrite deny pause scroll medium
 ```
+
+```
+You are the cutest cat I've ever seen
+
+You are the smallest cat in this room
+
+I'm cleverer than him
+```

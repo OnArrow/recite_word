@@ -131,3 +131,75 @@ My mark is higher than yours
 ```
 teaspoonful faw pity instead advice device most least best worse worst hold outdoor kitten figure around market inactivity terminus detect tone a little a few farther portrait cinematic motion lapse financial daily transportation coin repay
 ```
+
+```
+teaspoonful few pity instead advice most least best worse worst hold outdoor kitten figure around market inactivity terminus detect tone a little a few farther portrait cinematic motion lapse financial daily transportation coin repay
+```
+
+```
+Shall I make some coffee, Jane?
+我要制作一些咖啡，你要吗，Jane？
+
+That's a good idea, Charlotte
+好主意，Charlotte
+
+It's ready
+咖啡准备好了
+
+Do you want any milk?
+你要来一些牛奶吗？
+
+Just a little, please
+只要一点就好了
+
+What about some sugar?
+来一些糖吗？
+
+Two teaspoonfuls?
+两勺？
+
+No, less than that
+不，少一点
+
+One and a half teaspoonfuls, please
+半勺糖就好了
+
+That's enough for me
+对我来说足够了
+
+That was very nice
+那很不错
+
+Would you like some more?
+你想要更多的吗？
+
+Yes, please
+好的
+
+I'd like a cigarette, too
+我也想要一支香烟
+
+May I have one?
+我可以抽一支吗？
+
+Of course. I think there are a few in that box
+当然。我猜有一些在那个盒子里
+
+I'm afraid it's empty
+恐怕它是空的
+
+What a pity!
+真遗憾！
+
+It doesn't matter
+没事
+
+Have a biscuit instead
+吃一块饼干代替
+
+Eat more and smoke less!
+吃多一点少抽点烟！
+
+That's very good advice!
+真是一个好建议！
+```

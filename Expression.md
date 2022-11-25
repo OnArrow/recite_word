@@ -187,3 +187,11 @@
 86. `look out` 留神；当心
 
 87. `point out` 指出；指明
+
+88. `for a long time` 很长时间以来
+
+    ```
+    The English test was easiest we've had for a long time
+    ```
+
+89. `cheer up` 加油；振作起来

@@ -9,7 +9,7 @@ He lives in a small village
 There are many stars in the sky
 天空中有许多星星
 
-He's tallest boy in the class
+He's the tallest boy in the class
 他是这个班里最高的男孩
 ```
 

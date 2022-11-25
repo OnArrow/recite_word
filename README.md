@@ -34,16 +34,18 @@
 
 - [ ] Lesson 101 的反意疑问句中的 Example
 
-- [ ] 记单词： outdoor kitten figure around alive market inactivity terminus detect tone health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron
+- [ ] 记单词： health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe
 
-- [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag
+- [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek
 
-- [ ] 其他： farther portrait cinematic motion lapse financial daily transportation coin repay effect bedtime relate
+- [ ] 其他： effect bedtime relate complain haptic decision gesture linear thread budget pin concourse basement
 
-- [ ] 加强记忆： improve though exercise college apply different pattern prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy
+- [ ] 加强记忆： improve though exercise college apply different pattern prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine
 
 - [ ] 过去式： spelt
 
 - [ ] 过去分词： drunk sent
+
+- [ ] 比较级&最高级：
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

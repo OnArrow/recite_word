@@ -157,6 +157,10 @@
    Would you like some tea?
    你想要喝点茶吗？
    // 变一般疑问句时`would`提到句首
+
+   Yes, I would
+
+   No, I wouldn't
    ```
 
 9. `which` 也可以对形容词提问，表示“哪一些/哪一个”

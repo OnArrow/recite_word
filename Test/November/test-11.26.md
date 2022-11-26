@@ -67,3 +67,7 @@ ago pair fashion comfortable uncomfortable wear unit chant ruler lose go went go
 
 know dictionary piano train garage mirror hurt beach teach broke waste airport place perfect scene rainy canvas grade row column loss
 ```
+
+```
+teaspoonful few pity instead advice most least best worse worst hold outdoor kitten figure around market inactivity terminus detect tone tongue a little a few farther portrait cinematic motion lapse financial daily transportation coin repay
+```

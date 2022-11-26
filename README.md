@@ -36,18 +36,20 @@
 
 - [ ] the days in autumn are short 和 the days are short in autumn 有什么区别？
 
-- [ ] 记单词： comparative superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal
+- [ ] 记单词： comparative grocery superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal
 
-- [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek
+- [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek initial waterfall dock separate simulate simulator
 
-- [ ] 其他： effect bedtime relate complain haptic decision gesture linear thread budget pin concourse basement
-
-- [ ] 加强记忆： improve though exercise college apply different pattern prefer temperature property prototype hall destroy giraffe premium brought certainly peach multiply university grape ripe response security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine
+- [ ] 其他： effect bedtime relate complain haptic decision gesture linear thread budget pin concourse basement bookmark tick obtain widget skin silver shield adolescent emotion gender advertise advertisement entertainment offload zone
 
 - [ ] 过去式： spelt
 
 - [ ] 过去分词： drunk sent
 
 - [ ] 比较级&最高级：
+
+- [ ] 复习： hall destroy giraffe premium certainly peach multiply grape ripe security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable
+
+- [ ] 复习过去式和过去分词： throw know define buy lose come break
 
 - [ ] 一个知识越贫乏的人，越是拥有一种莫名奇怪的勇气和一种莫名奇怪的自豪感。因为知识越贫乏，你所相信的东西就越绝对，因为你根本没有听过与之相对立的观点。

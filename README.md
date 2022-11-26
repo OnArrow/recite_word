@@ -12,7 +12,7 @@
 
 - [ ] 新概念语法练习 Page 126
 
-- [ ] 新概念练习册 Page 246
+- [ ] 新概念练习册 Page 314
 
 - [ ] 音标 - 背诵清辅音浊辅音
 
@@ -34,7 +34,9 @@
 
 - [ ] Lesson 101 的反意疑问句中的 Example
 
-- [ ] 记单词： health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal
+- [ ] the days in autumn are short 和 the days are short in autumn 有什么区别？
+
+- [ ] 记单词： comparative superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal
 
 - [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek
 

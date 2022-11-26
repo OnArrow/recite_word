@@ -69,3 +69,23 @@ Which are usually the hottest and coldest months in your part of China?
 
 The hottest month is usually July and the coldest month is usually February
 ```
+
+```
+The days in autumn are short but the days in winter are very short
+
+Yes, the days in winter are shorter than the days in winter
+
+It was hot yesterday but it's very hot today
+
+Yes, it's hotter today than it was yesterday
+```
+
+```
+All the policemen are strong, aren't they?
+
+Yes, but this one is the strongest. He's the strongest of all the policemen
+```
+
+```
+The dress is cheap, the shoes are cheaper, and the hat is the cheapest in the shop
+```

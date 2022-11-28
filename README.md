@@ -40,7 +40,7 @@
 
 - [ ] 为什么形容词可以加在句尾？ We have little milk left, we need to buy some
 
-- [ ] 记单词： jar motorbike spare mean comparative grocery sad superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon
+- [ ] 记单词： dear jar motorbike spare mean comparative grocery sad superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon
 
 - [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek initial waterfall dock separate simulate simulator
 

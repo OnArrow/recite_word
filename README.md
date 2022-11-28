@@ -38,11 +38,13 @@
 
 - [ ] would like 的四句型
 
-- [ ] 记单词： comparative grocery sad superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal
+- [ ] 为什么形容词可以加在句尾？ We have little milk left, we need to buy some
+
+- [ ] 记单词： jar motorbike spare mean comparative grocery sad superlative full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf prefix suffix draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon
 
 - [ ] 代码相关： performance capture interrupt role base task statement expand shrink zen dictation palette exist primary secondary drag peek initial waterfall dock separate simulate simulator
 
-- [ ] 其他： effect bedtime relate complain haptic decision gesture linear thread budget pin concourse basement bookmark tick obtain widget skin silver shield adolescent emotion gender advertise advertisement entertainment offload zone
+- [ ] 其他： effect bedtime relate complain haptic decision gesture linear thread budget pin concourse basement bookmark tick obtain widget skin silver shield adolescent emotion gender advertise advertisement entertainment offload zone identity
 
 - [ ] 过去式： spelt
 
@@ -50,7 +52,7 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： hall destroy giraffe premium certainly peach multiply grape ripe security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable
+- [ ] 复习： hall destroy giraffe premium certainly peach multiply grape ripe security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable jam
 
 - [ ] 复习过去式和过去分词： throw know define buy lose come break
 

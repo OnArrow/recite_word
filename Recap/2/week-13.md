@@ -89,3 +89,47 @@ Yes, but this one is the strongest. He's the strongest of all the policemen
 ```
 The dress is cheap, the shoes are cheaper, and the hat is the cheapest in the shop
 ```
+
+```
+Her English letter had a lot of mistakes, but yours had more, and mine had the most of all
+```
+
+```
+Would you like some jam?
+
+Yes, please. I'd like some jam. I've got very little
+
+Would you like some honey?
+
+No, thank you. I don't want any honey. I still have a little
+```
+
+```
+We have little milk left. We need to buy some
+```
+
+```
+Your homework today is better than it was yesterday. You have made only a few mistakes
+```
+
+```
+I got a good mark in the exam
+
+You're right. But John got a better mark. And Jack got the best mark of all
+```
+
+```
+Ann made more mistakes than Jane did, but she made fewer mistakes than Mary did
+
+Mary made the most mistakes of the three, and Jane made the fewest
+```
+
+```
+Who are better at Science than Bob?
+
+Sam and Jack are better at Science than Bob
+
+Who is the best at Science in this class?
+
+Jack is the best at Science in this class
+```

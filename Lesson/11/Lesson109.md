@@ -27,7 +27,16 @@
    It's a pity they found you, such a pity
    ```
 
-4. `a little un.` 和 `little un.` 的区别
+4. `idea` 是 `cn.`，而 `advice` 是 `un.`
+
+   ```
+   That's a good idea
+   // `cn.` 前面才能有 `a`
+
+   That's very good advice
+   ```
+
+5. `a little un.` 和 `little un.` 的区别
 
    - `little` 后面都是跟的`un.`
 
@@ -63,7 +72,7 @@
 
    ```
 
-5. `a few cn.` 和 `few cn.` 的区别
+6. `a few cn.` 和 `few cn.` 的区别
 
    - `few` 后面跟的都是`cn.`
 

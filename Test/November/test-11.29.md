@@ -87,3 +87,25 @@ effect haptic linear thread budget gesture relate complain decision bedtime
 ```
 gesture decision haptic linear effect budget complain bedtime relate gesture thread
 ```
+
+```
+performance capture interrupt role base task statement expand shrink zen dictation pallette exist primary secondary drag peek initial waterfall dock effect bedtime relate complain haptic decision gesture linear thread budget
+
+model mode afford deposit installment millionaire
+```
+
+```
+This watch is too expensive, I can't afford it
+
+That watch is cheap enough, I can afford it
+
+How many deposit is the car model?
+```
+
+```
+You look at the price, it's too expensive, I can't buy it
+```
+
+```
+I think he wants to be a millionaire
+```

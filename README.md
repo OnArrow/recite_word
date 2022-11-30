@@ -42,9 +42,9 @@
 
 - [ ] 记单词： sad full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay
 
-- [ ] 代码相关： separate simulate simulator
+- [ ] 代码相关： separate simulate simulator slide
 
-- [ ] 其他： adolescent emotion gender advertise advertisement entertainment offload zone identity prohibit hospitalize recall tickle restrict inappropriate satellite
+- [ ] 其他： adolescent emotion gender advertise advertisement entertainment offload zone identity prohibit hospitalize recall tickle restrict inappropriate satellite channel medical
 
 - [ ] 过去式： spelt paid
 

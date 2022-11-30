@@ -133,3 +133,65 @@ The cup of water is as sweet as the honey
 ```
 conductor fare note passenger neither tramp except explain excite dear from jar motorbike spare mean grocery comparative superlative prefix suffix pin concourse basement bookmark tick obtain widget skin silver shield
 ```
+
+```
+conductor fare note passenger neither tramp stamp except explain excite dear from jar motorbike spare mean grocery comparative superlative prefix suffix pin concourse basement bookmark tick obtain widget skin silver shield
+```
+
+```
+Fares, please
+请给我车费
+
+Trafalgar Square, please
+到Trafalgar Square
+
+I'm sorry, sir. I can't change a ten-pound note
+抱歉先生，我不能给这十英镑的纸币找零
+
+Haven't you got any small change?
+你没有零钱吗？
+
+I've got no small change, I'm afraid
+我恐怕没有零钱
+
+I'll ask some of the passengers
+我问问其他的乘客
+
+Have you any small change, sir?
+你有零钱吗，先生？
+
+I'm sorry, I've got none
+抱歉，我没有
+
+I haven't got any either
+我也没有
+
+Can you change this ten-pound note, madam?
+你们可以给这十英镑的纸币找零吗，女士？
+
+I'm afraid I can't
+我恐怕不能
+
+Neither can I
+
+I'm very sorry, sir
+非常抱歉先生
+
+You must get off the bus
+你必须下车
+
+None of our passengers can change this note
+没有乘客可以给这张纸币找零
+
+They're all millionaire
+他们都是富翁
+
+Except us
+除了我们
+
+I've got some small change
+我有一些零钱
+
+So have I
+我也有
+```

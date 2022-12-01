@@ -109,3 +109,43 @@ slogan advertise advertisement invert offload execute execution collapse timeout
 ```
 separate simulate simulator slide strict collapse outer experiment timeout throttle debounce parametric param breakpoint listener inspect batch execute execution deactivate invert adolescent emotion gender advertise advertisement entertain entertainment offload zone slogan
 ```
+
+```
+separate simulate simulator slide strict collapse outer experiment timeout throttle debounce parametric param breakpoint listener inspect batch execute execution deactivate invert adolescent emotion gender advertise advertisement entertain entertainment offload zone slogan
+
+conductor fare note passenger neither tramp except
+```
+
+```
+This conductor is busier than that conduct, but the tall conductor is the busiest of all the conductors
+
+I want my change back
+
+This bus is full of passengers
+
+These passengers are the most interesting people I've ever seen
+
+Can we help the tramp?
+
+Why must we help the tramp?
+
+That tramp was a millionaire five years ago
+```
+
+```
+Dogs mustn't go into the restaurant, except guide dogs
+```
+
+```
+Haven't you got any small change?
+
+Have you got no small change?
+```
+
+```
+I can swim
+
+So can I
+
+
+```

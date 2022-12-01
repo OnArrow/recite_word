@@ -36,15 +36,17 @@
 
 - [ ] the days in autumn are short 和 the days are short in autumn 有什么区别？
 
+- [ ] the chair on the left 和 the chair is on the left 有什么区别？
+
 - [ ] would like 的四句型
 
 - [ ] 为什么形容词可以加在句尾？ We have little milk left, we need to buy some
 
-- [ ] 记单词： sad full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay
+- [ ] 记单词： careless cigar sad full wide imperial palace health although income earn counter dine touch jaw bracket tear preface above peanut wink waist riot carrot worry disco few happen net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious
 
-- [ ] 代码相关： separate simulate simulator slide
+- [ ] 代码相关： manifest identify identifier cookie regular preset summary brief collection monitor process
 
-- [ ] 其他： adolescent emotion gender advertise advertisement entertainment offload zone identity prohibit hospitalize recall tickle restrict inappropriate satellite channel medical
+- [ ] 其他： identity prohibit hospitalize recall tickle restrict inappropriate satellite channel medical machine scale junk estimate fee forecast
 
 - [ ] 过去式： spelt paid
 
@@ -52,7 +54,7 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： hall destroy giraffe premium certainly peach multiply grape ripe security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable jam exciting
+- [ ] 复习： hall destroy giraffe premium certainly peach multiply grape ripe security dictionary point avatar fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable jam exciting season careful thick preserve environment reverse
 
 - [ ] 复习过去式和过去分词： throw know define buy lose come break
 

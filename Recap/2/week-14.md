@@ -29,3 +29,9 @@ Our room is dirtier than your room
 
 Our room isn't as clean as your room
 ```
+
+```
+Have you got any milk?
+
+No, I have no milk. I have none at all
+```

@@ -119,3 +119,78 @@ anyone anything nothing knock lemonade asleep wanna petrol modal careless cigar 
 ```
 anyone anything nothing lemonade full identify identifier identity prohibit hospitalize recall tickle impossible asleep wanna petrol modal knock careless cigar sad wide imperial palace health although income manifest restrict inappropriate
 ```
+
+```
+anyone anything nothing knock impossible lemonade asleep wanna petrol modal careless cigar sad full wide imperial palace health although income manifest identify identifier identity prohibit hospitalize recall tickle restrict inappropriate
+```
+
+```
+Isn't there anyone at home?
+有人在家吗？
+
+I'll knock again, Helen
+我再敲一下，Helen
+
+Everything's very quiet
+太安静了
+
+I'm sure there is no one at home
+我确信家里面没有人
+
+But that's impossible
+但那是不可能的
+
+Carol and Tom invited us to lunch
+Carol和Tom邀请我们吃午餐
+
+Look through the window
+看窗户里面
+
+Can you see anything?
+你能看到任何东西吗？
+
+Nothing at all
+什么都没有
+
+Let's try the back door
+让我们去后门看看
+
+Look! Everyone's in the garden
+看！所有人都在花园里
+
+Hello, Helen, hello, Jim
+你好Helen，你好Jim
+
+Everybody wants to have lunch in the garden
+每个人都想在花园里吃午餐
+
+It's nice and warm out here
+这外面挺暖和的
+
+Come and have something to drink
+来喝点什么
+
+Thanks, Carol
+谢谢，Carol
+
+May I have a glass of beer, please?
+我可以喝一杯啤酒吗？
+
+Beer? There's none left
+啤酒？没有剩余的了
+
+You can have some lemonade
+你可以喝点柠檬水
+
+Lemonade!
+柠檬水！
+
+Don't believe her, Jim
+别信她，Jim
+
+She's only joking
+她只是在开玩笑
+
+Have some beer!
+喝一些啤酒！
+```

@@ -35,3 +35,41 @@ Have you got any milk?
 
 No, I have no milk. I have none at all
 ```
+
+```
+She has read that book
+
+So have I
+
+Mary hasn't read it
+
+Neither has her husband
+```
+
+```
+They all smiled. I smiled, too
+
+They all smiled and so did I
+```
+
+```
+The cat won't drink tea, and the dog won't drink tea either
+
+The cat won't drink tea and neither will the dog
+```
+
+```
+I had some ice in my beer but Jack didn't have any. He had no ice in his beer. He had none in his beer
+```
+
+```
+Is there any water in the kettle?
+
+No, there isn't any water. There is no water. There is none
+```
+
+```
+Can you give me some sweets, please?
+
+I'm sorry, I've got no sweets. I've got none
+```

@@ -21,6 +21,18 @@
    There are no books on the shelves
    ```
 
+   - 同时这也适用于不定代词
+
+   ```
+   Did you go anywhere yesterday?
+
+   No, I didn't go anywhere
+   // 这里同样的出现了`not...any`，只不过`any`是和`where`连在一起的。不过也不影响转化为`no`
+
+   No, I went nowhere
+   // 这里的`no`是由`not...any`转化过来的
+   ```
+
 2. `no` & `none`
 
    - `no + n.` = `none`

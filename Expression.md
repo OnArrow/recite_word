@@ -199,3 +199,7 @@
 90. `small change` 零钱
 
 91. `guide dog` 导盲犬
+
+92. `front door` 前门
+
+93. `back door` 后门

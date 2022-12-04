@@ -68,8 +68,6 @@
    They have a little money, so they're not very poor
 
    They have little money. They are very poor
-
-
    ```
 
 6. `a few cn.` 和 `few cn.` 的区别

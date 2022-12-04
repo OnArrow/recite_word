@@ -73,3 +73,53 @@ Can you give me some sweets, please?
 
 I'm sorry, I've got no sweets. I've got none
 ```
+
+```
+What did you do?
+
+I didn't do anything. I did nothing
+```
+
+```
+Who did you write to?
+
+I didn't write to anybody. I wrote to nobody
+```
+
+```
+What's beautiful in the house?
+
+Everything in th house is beautiful
+
+Who's absent today?
+
+Nobody is absent today. Everybody is present
+```
+
+```
+Is there anyone in the building?
+
+Yes, there is. There is someone in the building
+
+No, there isn't. There isn't anyone in the building
+
+There is no one in the building
+```
+
+```
+There isn't anything in the desk
+
+There's nothing in the desk
+```
+
+```
+I'd like some more envelopes, please
+
+I'm sorry, there aren't any left
+
+We haven't used all of them, have we?
+
+Yes, we have. There are none left
+
+TODO: 不理解这里是什么意思
+```

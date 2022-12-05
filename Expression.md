@@ -203,3 +203,5 @@
 92. `front door` 前门
 
 93. `back door` 后门
+
+94. `just as` 正在...的时候

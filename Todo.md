@@ -40,15 +40,15 @@
 
 - [ ] `There must be someone in the room. I heard a noise` 。为什么`there must be`
 
-- [ ] 记单词： counter touch jaw bracket tear preface above peanut wink waist riot carrot worry disco net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell
+- [ ] 记单词： counter touch jaw bracket tear preface above peanut wink waist riot carrot worry disco net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave
 
-- [ ] 代码相关： cookie regular preset summary brief collection monitor process hash enumerating reuse arrow stream generate highlight integrated refactor occurrence evolve startup valid
+- [ ] 代码相关： valid solid shape exceeds emit target
 
-- [ ] 其他： satellite channel medical machine scale junk estimate fee forecast morgan recognize extra brightness flash
+- [ ] 其他： recognize extra brightness flash convert blink
 
 - [ ] 过去式： spelt paid bound
 
-- [ ] 过去分词： drunk sent worn forgotten
+- [ ] 过去分词： drunk sent worn forgotten thrown
 
 - [ ] 比较级&最高级：
 

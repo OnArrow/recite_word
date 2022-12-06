@@ -40,7 +40,7 @@
 
 - [ ] `There must be someone in the room. I heard a noise` 。为什么`there must be`
 
-- [ ] 记单词： counter touch jaw bracket tear preface above peanut wink waist riot carrot worry disco net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave
+- [ ] 记单词： counter touch jaw bracket tear preface above peanut wink waist riot carrot worry disco net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit
 
 - [ ] 代码相关： valid solid shape exceeds emit target
 

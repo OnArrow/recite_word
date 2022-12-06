@@ -117,3 +117,27 @@ cookie regular preset summary brief collection monitor process hash enumerating 
 ```
 cookie regular preset summary brief collection monitor process hash enumerating reuse arrow stream generate highlight integrate refactor occurrence evolve startup satellite channel medical machine scale junk estimate fee forecast morgan
 ```
+
+```
+happen thief torch parrot
+```
+
+```
+My father told a story to us last night
+
+When did your father tell you a story?
+```
+
+```
+That thief was looking at the picture when someone knocked at the door
+
+When Jack knocked at the door, the thief was looking at the picture
+
+This is the darkest night I've ever seen
+
+It's dark enough to see stars in the sky
+
+It's too dark not to see stars in the sky
+
+It's too dark for me to see stars in the sky
+```

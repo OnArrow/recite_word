@@ -205,3 +205,5 @@
 93. `back door` 后门
 
 94. `just as` 正在...的时候
+
+95. `take the examination` 参加考试

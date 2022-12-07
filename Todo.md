@@ -40,11 +40,13 @@
 
 - [ ] `There must be someone in the room. I heard a noise` 。为什么`there must be`
 
-- [ ] 记单词： counter touch jaw bracket tear preface above peanut wink waist riot carrot worry disco net within without technology queue sport golf draw weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit
+- [ ] 完成语法练习册 348 页
 
-- [ ] 代码相关： valid solid shape exceeds emit target
+- [ ] 记单词： disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit
 
-- [ ] 其他： recognize extra brightness flash convert blink
+- [ ] 代码相关： straight valid solid shape exceeds emit target layer inner gradient bold progress file
+
+- [ ] 其他： transition
 
 - [ ] 过去式： spelt paid bound
 
@@ -52,6 +54,6 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： premium fashion fashionable restaurant truth awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority seat furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart comfortable jam exciting season careful thick preserve environment reverse situation polite chicken
+- [ ] 复习： awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart jam exciting season careful thick preserve environment reverse situation polite chicken lie perfect
 
-- [ ] 复习过去式和过去分词： throw know define buy lose come break
+- [ ] 复习过去式和过去分词： throw know define come break

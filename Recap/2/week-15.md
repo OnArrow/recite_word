@@ -17,3 +17,7 @@ When she was cutting the meat this morning, she cut her finger
 ```
 Just as he was lighting a cigarette, someone came and told him not to smoke
 ```
+
+```
+She had already heard the news when her friend telephoned her
+```

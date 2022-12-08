@@ -42,11 +42,11 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit
+- [ ] 记单词： disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life
 
-- [ ] 代码相关： straight valid solid shape exceeds emit target layer inner gradient bold progress file
+- [ ] 代码相关： bench crumb notebook flow overflow
 
-- [ ] 其他： transition
+- [ ] 其他： lifestyle fortune mall reward kiosk thru festival invoice management complaint condition browse safety
 
 - [ ] 过去式： spelt paid bound
 
@@ -54,6 +54,6 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： awesome greet crazy absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority furniture navigation community theme supper roast personality victory term court uniform stationary chemist calendar ground expression appointment layout slice repository chrome selection heart jam exciting season careful thick preserve environment reverse situation polite chicken lie perfect
+- [ ] 复习： awesome greet absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority furniture navigation community supper roast personality victory term court uniform stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund
 
 - [ ] 复习过去式和过去分词： throw know define come break

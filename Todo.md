@@ -30,8 +30,6 @@
 
 - [ ] the days in autumn are short 和 the days are short in autumn 有什么区别？
 
-- [ ] the chair on the left 和 the chair is on the left 有什么区别？
-
 - [ ] would like 的四句型
 
 - [ ] 为什么形容词可以加在句尾？ We have little milk left, we need to buy some
@@ -42,7 +40,7 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life
+- [ ] 记单词： whom boring disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life
 
 - [ ] 代码相关： bench crumb notebook flow overflow
 

@@ -53,3 +53,35 @@ straight valid invalid solid shape exceed emit target layer inner gradient bold 
 ```
 straight valid invalid solid shape exceed emit target layer inner gradient bold progress file skeleton overlay subsection parse preload runtime transition silicon extract translation speech excel membership protection merchant transport
 ```
+
+```
+This customer is rich enough to buy everything in the shop
+
+I forgot to take an umbrella with me
+
+I forgot to cook dinner for him
+
+The oldest manager has lived here since 1990
+
+After he had served us, he went back home
+
+Before he went back home, he had served us
+
+The lady is standing behind the counter
+
+Where is the lady standing?
+
+After she had cleaned the counter, she closed the store
+
+She closed the store after she had cleaned the counter
+
+Before she closed the store, she had cleaned the counter
+
+She had cleaned the counter before she closed the store
+```
+
+```
+The man is cute who lives next to me
+
+Person who has a pair of big ears is cute
+```

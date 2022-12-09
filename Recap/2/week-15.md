@@ -21,3 +21,10 @@ Just as he was lighting a cigarette, someone came and told him not to smoke
 ```
 She had already heard the news when her friend telephoned her
 ```
+
+```
+Which film did you see?
+
+I saw the film which is on at the Roxy Cinema
+TODO: 这里的为什么要用`is`而不是`was`？
+```

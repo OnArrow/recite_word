@@ -40,18 +40,18 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： whom boring disco net within without technology queue sport golf weatherman mountain research rush wool knit sweater knock traffic guess recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel pay meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life
+- [ ] 记单词： terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life robot kid loop by
 
-- [ ] 代码相关： bench crumb notebook flow overflow
+- [ ] 代码相关： bench crumb notebook flow overflow inherit declare
 
-- [ ] 其他： lifestyle fortune mall reward kiosk thru festival invoice management complaint condition browse safety
+- [ ] 其他： lifestyle fortune mall reward kiosk thru festival invoice management complaint condition browse safety manual attachment analysis
 
-- [ ] 过去式： spelt paid bound
+- [ ] 过去式：
 
-- [ ] 过去分词： drunk sent worn forgotten thrown
+- [ ] 过去分词：
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： awesome greet absent combine Christmas Microsoft accident proxy initialization variable vote suggest leaf priority furniture navigation community supper roast personality victory term court uniform stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund
+- [ ] 复习： awesome greet absent combine Christmas Microsoft accident initialization variable vote suggest leaf priority furniture navigation supper roast personality victory term court stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund subject installment corner significant thought single accept few pleasant pleased
 
 - [ ] 复习过去式和过去分词： throw know define come break

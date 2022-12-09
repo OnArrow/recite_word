@@ -123,6 +123,8 @@ Who served you, sir?
 谁服务你的，先生？
 
 The lady who is standing behind the counter
+
+
 站在柜台后面的女士
 
 Which books did you buy?

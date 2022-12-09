@@ -52,6 +52,6 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： awesome greet absent combine Christmas Microsoft accident initialization variable vote suggest leaf priority furniture navigation supper roast personality victory term court stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund subject installment corner significant thought single accept few pleasant pleased
+- [ ] 复习： awesome greet absent combine Christmas Microsoft accident initialization variable vote suggest leaf priority furniture navigation supper roast personality victory term court stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund subject installment corner significant thought single accept few pleasant pleased porter
 
 - [ ] 复习过去式和过去分词： throw know define come break

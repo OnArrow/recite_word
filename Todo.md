@@ -40,11 +40,11 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell brave shit life robot kid loop by
+- [ ] 记单词： diary gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck
 
-- [ ] 代码相关： bench crumb notebook flow overflow inherit declare
+- [ ] 代码相关： bench crumb notebook flow overflow inherit declare thumb
 
-- [ ] 其他： lifestyle fortune mall reward kiosk thru festival invoice management complaint condition browse safety manual attachment analysis
+- [ ] 其他： browse safety manual attachment analysis snooze
 
 - [ ] 过去式：
 
@@ -52,6 +52,6 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： awesome greet absent combine Christmas Microsoft accident initialization variable vote suggest leaf priority furniture navigation supper roast personality victory term court stationary chemist calendar ground special expression appointment repository jam exciting season thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund subject installment corner significant thought single accept few pleasant pleased porter
+- [ ] 复习： greet absent combine Christmas Microsoft accident initialization variable vote suggest furniture navigation personality term court stationary chemist calendar ground special expression appointment repository exciting thick preserve environment reverse situation polite chicken lie perfect split pocket oblique fund subject installment corner significant thought single accept few pleasant pleased porter apologize stamp sour quadruple elevator Wednesday Saturday engineer cattle leopard concourse railway cross queen alarm stopwatch physics biology geography politics previous valley village
 
-- [ ] 复习过去式和过去分词： throw know define come break
+- [ ] 复习过去式和过去分词： know define break begin

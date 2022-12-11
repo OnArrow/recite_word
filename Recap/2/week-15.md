@@ -56,3 +56,33 @@ He had made a bookcase so he was proud of himself
 
 He had never been so proud of himself before
 ```
+
+```
+A carpenter is someone who/that makes things with wood
+```
+
+```
+My father wants to buy that car
+
+That is the car which my father wants to buy
+```
+
+```
+The friends who she had come to the party with left just now
+```
+
+```
+She wants a doll for her birthday
+
+The doll walks and talks
+
+She wants a doll which walks and talks for the birthday
+```
+
+```
+The man had run away with a lot of money
+
+The police wanted the man
+
+The police wanted the man who had run away with a lot of money
+```

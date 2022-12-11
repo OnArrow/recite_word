@@ -209,3 +209,9 @@
 95. `take the examination` 参加考试
 
 96. `Customer Services` 客服中心
+
+97. `break down` 发生故障
+
+98. `just now` 刚刚
+
+99. `at last` 最后；终于

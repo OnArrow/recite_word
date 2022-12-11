@@ -40,7 +40,7 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： diary gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck
+- [ ] 记单词： diary tail tailor sail sailor carpenter gardener doll mobile duty traffic chase uncle gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered
 
 - [ ] 代码相关： bench crumb notebook flow overflow inherit declare thumb
 

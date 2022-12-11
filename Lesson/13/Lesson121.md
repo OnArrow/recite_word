@@ -41,6 +41,8 @@
 
    - 替代的是主语时，用`who/that`，替代宾语时，`who/whom/that`都可以，但`whom`很少用
 
+   - 替代的是宾语的时候，可以省略`who/whom/that`
+
    ```
    他就是昨天遇到我的那个人
    // “昨天遇到我的”为定语从句，它是为了定住是“那个人”，帮助确定“那个人”到底是谁
@@ -74,6 +76,13 @@
    I know a lot of people who live in Beijing
 
    I like that beautiful girl that is listening to the music
+
+   Who was the man Jack had told Tom about?
+   谁是杰克告诉过汤姆的那个人？
+
+   They're people I met during the trip
+   // 完整的是 `They're people who I met during the trip`
+   // 因为`who`替代的是宾语，所以`who`可以省略掉
    ```
 
    - 定语从句修饰“物”的时候，用`which/that`替代
@@ -89,6 +98,7 @@
    // 第二句重复的`the letter`用`which`替代
 
    This is the letter Jack sent me
+   // 完整的是`This is the letter which Jack sent me`
    // 因为这里替代的是宾语，所以直接省略了`which/that`
 
    These are the books which I bought yesterday

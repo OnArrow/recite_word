@@ -37,3 +37,33 @@ bench workbench crumb notebook flow overflow inherit declare thumb action genera
 ```
 expense permit beware damage
 ```
+
+```
+She has to work from 9 a.m. to 5 p.m.
+
+Does she have to work from 9 to 5?
+
+They have to go to New York
+
+Do they have to go to New York?
+
+How often do they have to go to New York?
+```
+
+```
+My mother waters the flowers every night
+
+The woman who is watering in the garden is my mother
+
+The woman watering in the garden is my mother
+```
+
+```
+What is the weather like?
+
+The weather is very terrible
+
+What's the Jack like?
+
+It means I can't help you
+```

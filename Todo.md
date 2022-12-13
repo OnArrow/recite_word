@@ -40,11 +40,11 @@
 
 - [ ] 完成语法练习册 348 页
 
-- [ ] 记单词： uncle gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot
+- [ ] 记单词： uncle towards downtown purse gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot
 
-- [ ] 代码相关： bench crumb notebook flow overflow inherit declare thumb bench workbench action generation programme leading trailing whitespace enhanced/增强模式 perform
+- [ ] 代码相关： inset
 
-- [ ] 其他：carrier firmware exposure memo compass
+- [ ] 其他：overload dell/戴尔
 
 - [ ] 过去式：lay
 
@@ -52,6 +52,6 @@
 
 - [ ] 比较级&最高级：
 
-- [ ] 复习： greet Christmas navigation personality stationary special expression appointment repository exciting preserve environment situation polite lie perfect split pocket oblique fund subject installment corner significant single accept few pleasant pleased porter apologize stamp sour quadruple elevator Wednesday Saturday engineer cattle leopard concourse railway cross queen alarm stopwatch physics biology geography politics previous valley village forward plane interjection daily introduction
+- [ ] 复习： greet personality stationary special preserve environment situation polite lie perfect split oblique fund subject installment corner significant single accept pleasant pleased porter apologize stamp sour quadruple elevator cattle leopard concourse railway cross queen alarm stopwatch physics biology geography politics valley village forward interjection daily introduction process firm
 
 - [ ] 复习过去式和过去分词：

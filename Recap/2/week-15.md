@@ -92,3 +92,32 @@ Who are those people?
 
 They're the people I went to London with
 ```
+
+```
+The window was still open
+
+The thief had climbed through the window
+
+The window the thief had climbed through was still open
+```
+
+```
+The man is coming towards us
+
+You are looking for the man
+
+The man you are looking for is coming towards us
+```
+
+```
+The hospital which is around the corner is the one that we are going to
+
+The hospital is around the corner is the one we are going to
+```
+
+```
+The people who were standing there saw the accident
+
+The people standing there saw the accident
+TODO: 这里为什么省略了`were`
+```

@@ -215,3 +215,5 @@
 98. `just now` 刚刚
 
 99. `at last` 最后；终于
+
+100. `look up` 查阅

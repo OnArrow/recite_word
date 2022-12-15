@@ -61,3 +61,29 @@ sock hair hairdryer iron unravel ravel unclear ware cafe explore collaborate res
 ```
 sock hair hairdryer ravel unravel unclear peace rude aerial tender iron reserve bright plant toss awe personal surrender cafe dragon fan collaborate develop real ware coverage retina certification horizon explore
 ```
+
+```
+Why isn't Jack in class?
+
+He must be sick
+
+He can't be late
+
+That restaurant must be very good, it's always full of people
+
+She must be a doctor
+
+She can't be a dancer
+```
+
+```
+The famous actress who you saw last night is my sister
+
+The famous actress you saw last night is my sister
+
+The famous actress who gave me a letter last night is my sister
+
+When the famous actress was having a bath, someone knocked at her door
+
+This is the best actor I've ever seen
+```

@@ -221,3 +221,7 @@
 101. `do the shopping` 去购物
 
 102. `look after` 关心；照顾
+
+103. `at least` 至少
+
+104. `more that` 超过

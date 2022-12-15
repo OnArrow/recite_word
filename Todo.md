@@ -30,7 +30,7 @@
 
 15. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-16. 记单词： donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze
+16. 记单词： write donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze
 
 17. 代码相关： inset replay candidate interceptor serial tailwind observe
 
@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： personality stationery special preserve environment situation polite lie perfect oblique fund subject corner accept pleasant pleased porter apologize stamp quadruple elevator railway cross physics biology geography politics forward interjection daily introduction process firm till describe description subscribe subscription chase expect purchase chemistry remain essential capture organize snippet silver
+22. 复习： stationery special preserve environment situation polite lie perfect oblique accept apologize stamp quadruple railway cross physics biology geography politics forward interjection daily introduction process firm till describe description subscribe subscription chase expect purchase chemistry remain essential capture organize snippet silver plenty
 
 23. 复习过去式和过去分词：little

@@ -1,57 +1,47 @@
 # Todo
 
-- [ ] 所有格形式
+1. 所有格形式
 
-- [ ] 特殊疑问词
+2. 特殊疑问词
 
-- [ ] 代词
+3. 代词
 
-- [ ] 梳理冠词内容
+4. 梳理冠词内容
 
-- [ ] 音标 - 背诵清辅音浊辅音
+5. grass 和 lawn
 
-- [ ] some 和 any
+6. yet 的用法
 
-- [ ] grass 和 lawn
+7. to 的用法
 
-- [ ] Are the children writing in this room? 和 Are the children in this room writing?
+8. 宾语从句、直接引语、间接引语
 
-- [ ] 复习到 6.09
+9. will 和 be going to 的区别
 
-- [ ] yet 的用法
+10. Lesson 101 的反意疑问句中的 Example
 
-- [ ] to 的用法
+11. would like 的四句型
 
-- [ ] 宾语从句、直接引语、间接引语
+12. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-- [ ] will 和 be going to 的区别
+13. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
 
-- [ ] Lesson 101 的反意疑问句中的 Example
+14. `There must be someone in the room. I heard a noise` 。为什么`there must be`
 
-- [ ] would like 的四句型
+15. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-- [ ] 为什么形容词可以加在句尾？ We have little milk left, we need to buy some
+16. 记单词： donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze
 
-- [ ] `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+17. 代码相关： inset replay candidate interceptor serial tailwind observe
 
-- [ ] `There must be someone in the room. I heard a noise` 。为什么`there must be`
+18. 其他： specific relevant
 
-- [ ] `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+19. 过去式：lay built
 
-- [ ] 完成语法练习册 348 页
+20. 过去分词：
 
-- [ ] 记单词： uncle towards downtown purse gate proud terribly nuisance surprise within without queue sport golf weatherman mountain research rush wool knit sweater traffic recycle residual peace rude hairdryer aerial iron bright tender plant toss awe personal surrender ravel unravel cafe dragon fan donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot
+21. 比较级&最高级：
 
-- [ ] 代码相关： inset
+22. 复习： personality stationery special preserve environment situation polite lie perfect oblique fund subject corner accept pleasant pleased porter apologize stamp quadruple elevator railway cross physics biology geography politics forward interjection daily introduction process firm till describe description subscribe subscription chase expect purchase chemistry remain essential capture organize snippet silver
 
-- [ ] 其他：overload dell/戴尔
-
-- [ ] 过去式：lay
-
-- [ ] 过去分词：
-
-- [ ] 比较级&最高级：
-
-- [ ] 复习： greet personality stationary special preserve environment situation polite lie perfect split oblique fund subject installment corner significant single accept pleasant pleased porter apologize stamp sour quadruple elevator cattle leopard concourse railway cross queen alarm stopwatch physics biology geography politics valley village forward interjection daily introduction process firm
-
-- [ ] 复习过去式和过去分词：
+23. 复习过去式和过去分词：little

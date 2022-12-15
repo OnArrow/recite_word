@@ -217,3 +217,7 @@
 99. `at last` 最后；终于
 
 100. `look up` 查阅
+
+101. `do the shopping` 去购物
+
+102. `look after` 关心；照顾

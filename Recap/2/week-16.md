@@ -38,3 +38,63 @@ Then I shall have to clean it tomorrow
 
 No, you won't have to do it then, either, because I'll clean in for you
 ```
+
+```
+Is she still working in the supermarket?
+
+Yes, I think so
+
+Is she older than your parents?
+
+No, I don't think so
+```
+
+```
+How old do you think he is? Twenty?
+TODO: 这个特殊疑问句怎么得来的？ 原句是什么？
+
+No, I'm sure he can't be twenty. He must be about twenty-five
+```
+
+```
+She can speak English very well
+
+Yes, she can, can't she?
+
+But she can't speak French
+
+No, she can't, can she?
+```
+
+```
+I don't believe the book costs two hundred pounds
+
+The book can't cost two hundred pounds
+TODO: 这里为什么少了`be`，同时`cost`不用加三单吗？
+```
+
+```
+I think they have enough money for it
+
+They must have enough money for it
+TODO: `must be` 到底怎么用于这些句子？为什么不是`must be have`？
+```
+
+```
+What did he say about her? He can't mean it. He must be joking
+TODO:  为什么是`can't mean`不是`can't be mean`
+```
+
+```
+Who do you think that is? Is it Jack?
+TODO: 为什么用`it`而不用`he`?
+
+No, it can't be Jack. It must be Mike
+```
+
+```
+What do you think his job is? Is he a lawyer?
+TODO: 这个特殊疑问句怎么得来的？
+
+No, he can't be a lawyer. He must be a artist
+```

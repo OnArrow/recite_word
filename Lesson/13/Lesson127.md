@@ -12,10 +12,16 @@
 
    - `must be`后面可以跟各种时态
 
-   - `must be + adj./n.`
+   - `must be` 替换的是句子中的 `be`。相当于把一句肯定句换成了推测句
 
    ```
    在大街上你看到一个人特别像周杰伦，你上去打招呼说“你一定是周杰伦吧？”。这时对你来说这个推测的确信度很高，那个人很有可能是周杰伦
+
+   这个水壶里有水
+   // 肯定句
+
+   这个水壶里一定有水
+   // 推测句
    ```
 
    ```
@@ -39,6 +45,12 @@
    // 一般疑问句，`must`提句首
 
    Why must he be Jack?
+
+
+   There is some water in the kettle
+
+   There must be some water in the kettle
+   // 用`must be`替换掉了上一句中的`be`动词
    ```
 
 2. `can't be`
@@ -69,4 +81,28 @@
 
    She can't be more than twenty
    她一定没有超过20岁
+   ```
+
+4. `think so` 同意某人的观点
+
+   ```
+   The man who is drinking must be Jack
+
+   I think so
+
+   Jack can't be the tallest in the class
+
+   I don't think so
+   ```
+
+5. `hope so` 希望如此 `hope not` 不希望如此
+
+   ```
+   Will she invite you to her next party?
+
+   I hope so
+
+   Does she know everything about you?
+
+   I hope not
    ```

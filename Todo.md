@@ -26,15 +26,15 @@
 
 13. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
 
-14. `There must be someone in the room. I heard a noise` 。为什么`there must be`
+14. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-15. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词： write donkey angel meter centimeter millimeter kilogram labor glorious die sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze
+16. 记单词：advise farmer serious ambulance lawyer artist sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze fair store hero
 
-17. 代码相关： inset replay candidate interceptor serial tailwind observe
+17. 代码相关： inset replay candidate interceptor serial tailwind observe ordinary disclose accordance digit apostrophe hyphen character/文字符号 relevant domain cast square
 
-18. 其他： specific relevant
+18. 其他：
 
 19. 过去式：lay built
 
@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： stationery special preserve environment situation polite lie perfect oblique accept apologize stamp quadruple railway cross physics biology geography politics forward interjection daily introduction process firm till describe description subscribe subscription chase expect purchase chemistry remain essential capture organize snippet silver plenty
+22. 复习： preserve polite oblique accept apologize stamp quadruple railway physics biology geography politics forward interjection daily process firm till chase expect purchase chemistry remain essential capture organize snippet silver plenty origin provide earn canvas summary mile decline present slide advice worth business intelligent
 
-23. 复习过去式和过去分词：little
+23. 复习过去式和过去分词：

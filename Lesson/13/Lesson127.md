@@ -1,6 +1,6 @@
 # Lesson 127
 
-1. `must be`
+1. `must`
 
    - `must`有两个含义：一个表示“必须”，另一个表示“推测”。这里`must`表示“推测”的意思
 
@@ -49,6 +49,28 @@
 
    There must be some water in the kettle
    // 用`must be`替换掉了上一句中的`be`动词
+   ```
+
+   - `be` 不是一定需要的，需要看`must`后面跟的是什么时态。简单来说就是`be`有没有取决于肯定句中的`be`动词有没有
+
+   ```
+   He is clever
+   // 肯定句
+
+   He must be clever
+   // 因为上一句是一般现在时，所以需要`is`，当转换成推测句时，就需要`be`
+
+
+   The book cost two pounds
+   // 肯定句
+
+   The book must cost two pounds
+   // 上一句也是一般现在时，`cost`前面不需要`is`，当转换成推测句时，也不需要
+
+
+   He is sweeping the floor
+
+   He must be sweeping the floor
    ```
 
 2. `can't be`

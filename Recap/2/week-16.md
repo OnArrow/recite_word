@@ -1,6 +1,6 @@
 # Week 16
 
-## Lesson 125 -
+## Lesson 125 - Lesson 132
 
 ```
 Does he have to serve in the shop today?
@@ -99,4 +99,48 @@ What do you think his job is? Is he a lawyer?
 TODO: 这个特殊疑问句怎么得来的？
 
 No, he can't be a lawyer. He must be a artist
+```
+
+```
+What were they doing? They can't have been doing their homework because there was too much noise
+```
+
+```
+Have you finished that book already? You must have been reading very quickly
+```
+
+```
+I'm sure you ate my biscuits. Why didn't you tell me?
+
+You must have eaten my biscuits. Why didn't you tell me
+```
+
+```
+The men worked all day without a rest. I'm sure they were very tired
+
+The men worked all day without a rest. They must have been very tired
+```
+
+```
+Do I have to do some shopping?
+
+Yes, you'd better do some shopping
+```
+
+```
+I've got a bad cold
+
+You'd better not go swimming
+```
+
+```
+I don't believe he did it
+
+He can't have done it
+```
+
+```
+I think he made a lot of money
+
+He must have made a lot of money
 ```

@@ -227,3 +227,9 @@
 104. `more that` 超过
 
 105. `railway station` 火车站
+
+106. `in my opinion` 在我看来
+
+107. `stay up` 熬夜
+
+108. `stay in` 呆在家里

@@ -40,6 +40,53 @@
    // 特殊疑问句
    ```
 
+   - `must` 后面跟的是`have done`还是`have been`要看肯定句来判断
+
+   ```
+   He was sleeping
+   // 肯定句
+
+   He must have been sleeping
+   // 肯定句中有`be`动词`was`，所以这里也要有`be`动词`been`
+
+
+   There were many people there
+   // 肯定句
+
+   There must have been many people there
+
+
+   The shop was full of people
+   // 肯定句
+
+   The shop must have been full of people
+
+
+   He saw me yesterday
+   // 肯定句
+
+   He must have seen me yesterday
+
+
+   He did it
+   // 肯定句
+
+   He must have done it
+
+
+   He passed all the exams
+   // 肯定句
+
+   He must have passed all the exams
+   // 注意这里`passed`为过去分词
+
+
+   He went to China yesterday
+   // 肯定句
+
+   He must have gone to China yesterday
+   ```
+
 2. `can't` 表示推测
 
    - 与`must`刚好相反，但表达的是“当时一定不是”

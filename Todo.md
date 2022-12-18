@@ -30,7 +30,7 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词：advise farmer serious ambulance lawyer artist sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze fair store hero
+16. 记单词：advise disagree farmer opinion serious ambulance lawyer artist sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze fair store hero stop/阻拦
 
 17. 代码相关： inset replay candidate interceptor serial tailwind observe ordinary disclose accordance digit apostrophe hyphen character/文字符号 relevant domain cast square
 
@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： preserve polite oblique accept apologize stamp quadruple railway physics biology geography politics forward interjection daily process firm till chase expect purchase chemistry remain essential capture organize snippet silver plenty origin provide earn canvas summary mile decline present slide advice worth business intelligent hell conductor
+22. 复习： preserve polite oblique accept apologize stamp quadruple railway physics biology geography politics forward interjection daily process firm till chase expect purchase chemistry remain essential capture organize snippet silver plenty origin provide earn canvas summary mile decline present slide advice worth business intelligent hell conductor passenger permission
 
 23. 复习过去式和过去分词：

@@ -233,3 +233,5 @@
 107. `stay up` 熬夜
 
 108. `stay in` 呆在家里
+
+109. `in the end` 最后

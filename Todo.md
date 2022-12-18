@@ -30,7 +30,7 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词：advise disagree farmer opinion serious ambulance lawyer artist sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze fair store hero stop/阻拦
+16. 记单词：advise disagree farmer opinion serious ambulance lawyer artist sofa kiss tank crush showtime fake pill alligator bell doorbell brave shit life robot kid loop by square cap bear gun class often fuck rude considered pot amaze fair store hero stop/阻拦 solution bush outlaw
 
 17. 代码相关： inset replay candidate interceptor serial tailwind observe ordinary disclose accordance digit apostrophe hyphen character/文字符号 relevant domain cast square
 

@@ -235,3 +235,5 @@
 108. `stay in` 呆在家里
 
 109. `in the end` 最后
+
+110. `broken in` 强行进入

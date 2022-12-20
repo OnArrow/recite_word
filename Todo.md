@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite
+22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite perhaps
 
 23. 复习过去式和过去分词：bad

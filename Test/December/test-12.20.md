@@ -159,3 +159,7 @@ inset candidate digit dash accordance hyphen character tailwind observe disclose
 ```
 inset replay candidate interceptor serial tailwind observe ordinary disclose accordance digit apostrophe hyphen dash character byte kilobyte megabyte gigabyte terabyte
 ```
+
+```
+reporter sensational mink mink coat
+```

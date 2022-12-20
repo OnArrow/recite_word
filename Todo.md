@@ -30,7 +30,7 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词：reason aunt shout bear gun class often fuck rude considered pot amaze fair store hero stop/阻拦 solution bush outlaw infinity combination
+16. 记单词：interview reason aunt shout bear gun class often fuck rude considered pot amaze fair store hero stop/阻拦 solution bush outlaw infinity combination
 
 17. 代码相关： digit apostrophe hyphen character/文字符号 domain cast outline reactive upgrade sense intellisense
 
@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite perhaps
+22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite perhaps quality urgent
 
 23. 复习过去式和过去分词：bad

@@ -144,3 +144,47 @@ I think he made a lot of money
 
 He must have made a lot of money
 ```
+
+```
+Can you look after the dog for us while we are away?
+TODO: 为什么副词`away`可以放在`we are`后面？
+```
+
+```
+Was he right, do you think?
+TODO: 怎么转换四句型？
+
+I'm not sure. He may have been right
+```
+
+```
+How does it take you to get to school in the mornings?
+TODO: 不理解这个问句的意思
+
+It usually takes me half an hour
+```
+
+```
+Where and how do you usually spend your summer holidays?
+TODO: 还可以这样同时用两个疑问词的吗？
+
+We usually spend our summer holidays with my uncle
+```
+
+```
+Will there be a holiday on Friday?
+
+There may be a holiday on Friday or there may not, I'm not sure
+```
+
+```
+Did he borrow the money from his father?
+
+He may have borrowed the money from his father. I'm not sure
+```
+
+```
+We'd better not shout
+
+They may be having a lesson in the next room
+```

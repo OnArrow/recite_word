@@ -1,41 +1,6 @@
 # Lesson 101
 
-1. `speak up` 大声地说
-
-   ```
-   Speak up, I can't hear you
-   ```
-
-2. `write to sb.` 写信给某人
-
-   ```
-   Can you write to my mother tomorrow?
-
-   Don't write to me! I don't want to know at all
-
-   You haven't written to me for a long time
-
-   I'm gonna write you a letter soon
-   ```
-
-3. 只要是`v. to sb.`的形式，都可以互相转换
-
-   ```
-   Give a glass of water to me
-
-   Give me a glass of water
-
-   Write to you
-   // `write`本身就有写信的意思
-
-   Write you a letter
-
-   Buy some flowers to me
-
-   Buy me some flowers
-   ```
-
-4. 直接引语
+1. 直接引语
 
    - 中文里是把其他人说的话加上引号
 
@@ -53,7 +18,7 @@
    He says, 'I feel tired'
    ```
 
-5. 间接引语
+2. 间接引语
 
    - 把其他人说的话调整一下人称复述一遍
 
@@ -74,7 +39,7 @@
    He says he feels tired
    ```
 
-6. 直接引语改为间接引语总结
+3. 直接引语改为间接引语总结
 
    - 引号去掉
 
@@ -82,7 +47,7 @@
 
    - 添加引导词`that`（也可以不添加）
 
-7. 反意疑问句
+4. 反意疑问句
 
    - 理解：用相反的话来确认自己的判断，获取真实的信息
 
@@ -132,3 +97,44 @@
      - 前肯后否，前否后肯。 前一句用肯定句时，后一句要用否定句，反之亦然
 
      - 前后人称、时态、情态动词等都要保持一致
+
+5. `speak up` 大声地说
+
+   ```
+   Speak up, I can't hear you
+   ```
+
+6. `write to sb.` 写信给某人
+
+   ```
+   Can you write to my mother tomorrow?
+
+   Don't write to me! I don't want to know at all
+
+   You haven't written to me for a long time
+
+   I'm gonna write you a letter soon
+   ```
+
+7. 只要是`v. to sb.`的形式，都可以互相转换
+
+   ```
+   Give a glass of water to me
+
+   Give me a glass of water
+
+   Write to you
+   // `write`本身就有写信的意思
+
+   Write you a letter
+
+   Buy some flowers to me
+
+   Buy me some flowers
+   ```
+
+8. `at once` 马上；立即
+
+   ```
+   I'll come at once
+   ```

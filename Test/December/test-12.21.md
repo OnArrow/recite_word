@@ -109,3 +109,62 @@ marry interview concerts quite reason aunt shout bear gun class often fuck consi
 ```
 marry interview concerts quite reason aunt shout bear gun class often fuck consider pot amaze fair store hero stop solution exception extreme destination location bundle authenticate immediate impact disk prevent
 ```
+
+```
+Are you really going to retire, Miss Marsh?
+你真的准备要退休吗，Marsh小姐
+
+I may. I can't make up my mind
+也许。我没下定决定
+
+I will have to ask my future husband
+我将不得不问问我未来的丈夫
+
+He won't let me make another film
+他将不让我拍其它电影
+
+Your future husband, Miss Marsh?
+你未来的丈夫，Marsh小姐？
+
+Yes. Let me introduce him to you
+嗯，让我介绍他给你
+
+His name is Carlos
+他叫Carlos
+
+We're going to get married next week
+下周我们准备结婚
+
+Look, Liz!
+看，Liz！
+
+Here's another report about Karen Marsh
+这是另一份关于Karen Marsh的报道
+
+Listen: 'Karen Marsh: The latest. At her London Hotel today'
+听。Karen Marsh: 最新报道。来自她的伦敦饭店。今天
+
+Miss Marsh told reporters she might retire
+Marsh小姐告诉记者她可能退休
+
+She said she couldn't make up her mind
+她说她还没下定决心
+
+She said she would have to ask her future husband
+她说她将不得不问一下她未来的丈夫
+
+She said her future husband would not let her make another film
+她说她未来的丈夫将不会让她拍其它电影
+
+Then she introduced us to Carlos and told us they would get married next week
+然后她介绍我们给Carlos。接着告诉我们他们将在下个星期结婚
+
+That's sensational news, isn't it, Kate?
+真是个爆炸性新闻，不是吗，Kate?
+
+It certainly is
+肯定是
+
+He'll be her sixth husband!
+他将是她的第六任丈夫！
+```

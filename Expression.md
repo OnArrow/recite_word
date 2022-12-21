@@ -239,3 +239,5 @@
 110. `broken in` 强行进入
 
 111. `power off` 关机
+
+112. `get married` 结婚

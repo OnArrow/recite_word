@@ -44,4 +44,4 @@
 
 22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite perhaps quality urgent situation quote speech approval portrait rudy president People's Liberation Army except foreign integrate inspect
 
-23. 复习过去式和过去分词：bad bring
+23. 复习过去式和过去分词：bad bring swim

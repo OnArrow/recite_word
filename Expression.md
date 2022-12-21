@@ -237,3 +237,5 @@
 109. `in the end` 最后
 
 110. `broken in` 强行进入
+
+111. `power off` 关机

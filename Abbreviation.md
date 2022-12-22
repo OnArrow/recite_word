@@ -44,4 +44,4 @@
 
 17. `you'd better` = `you had better`
 
-18. `I'd like` = `I would like`
+18. `I'd` = `I would`

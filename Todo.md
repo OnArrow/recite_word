@@ -30,7 +30,7 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词： bush outlaw infinity combination chopstick seasoning lane cool
+16. 记单词： bush outlaw infinity combination chopstick seasoning lane cool stain
 
 17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line
 
@@ -42,6 +42,6 @@
 
 21. 比较级&最高级：
 
-22. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator
+22. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford
 
 23. 复习过去式和过去分词：bad bring swim pay grow

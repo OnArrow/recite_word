@@ -241,3 +241,5 @@
 111. `power off` 关机
 
 112. `get married` 结婚
+
+113. `give up` 放弃

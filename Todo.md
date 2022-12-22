@@ -30,18 +30,18 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词： bush outlaw infinity combination chopstick seasoning lane
+16. 记单词： bush outlaw infinity combination chopstick seasoning lane cool
 
-17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor
+17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line
 
-18. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient
+18. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize
 
-19. 过去式：lay built
+19. 过去式：lay built won
 
 20. 过去分词：
 
 21. 比较级&最高级：
 
-22. 复习： apologize stamp quadruple railway chase expect purchase chemistry remain essential capture organize silver earn summary decline present slide worth intelligent hell conductor passenger permission clip extra deliver protection balance report reasonable wonder college pork boring memory thread lite perhaps quality urgent situation quote speech approval portrait rudy president People's Liberation Army except foreign integrate inspect
+22. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator
 
-23. 复习过去式和过去分词：bad bring swim
+23. 复习过去式和过去分词：bad bring swim pay grow

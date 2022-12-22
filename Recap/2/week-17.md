@@ -41,3 +41,20 @@ She told him that she had never seen him before
 
 She told him, "I have never seen you before"
 ```
+
+```
+"I have just read about the accident in the newspaper"
+
+What did he tell you?
+
+He told me he had just read about the accident in the newspaper
+```
+
+```
+"I want you to buy some stamps for me"
+TODO: 为什么用`I want you to buy`，不能用`I want you buy`吗？
+
+What did he say to his daughter?
+
+He said he wanted her to buy some stamps for him
+```

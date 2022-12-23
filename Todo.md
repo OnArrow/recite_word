@@ -32,9 +32,9 @@
 
 16. 记单词： bush outlaw infinity combination chopstick seasoning lane cool stain
 
-17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line
+17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
 
-18. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize
+18. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
 
 19. 过去式：lay built won
 

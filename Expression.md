@@ -243,3 +243,5 @@
 112. `get married` 结婚
 
 113. `give up` 放弃
+
+114. `on time` 按时；准时

@@ -58,3 +58,48 @@ What did he say to his daughter?
 
 He said he wanted her to buy some stamps for him
 ```
+
+```
+Two friends of ours are getting married next September
+TODO: 我什么这里用`getting`而不是其他的时态?
+```
+
+```
+'I may not be able to go tomorrow'
+
+What did she say?
+
+She said she might not be able to go tomorrow
+```
+
+```
+'We will often visit you'
+
+They said they would often visit me
+```
+
+```
+'I can't find my school report anywhere'
+
+He told me he couldn't find his school report anywhere
+```
+
+```
+He told me he was sorry he couldn't write to me
+
+He told me, 'I am sorry I can't write to you'
+```
+
+```
+'You may get a better mark than me in the Maths test,' he said to her
+
+He said she might get a better mark than him in the Maths test
+```
+
+```
+'You can buy the trousers for half the price'
+
+What did the shop assistant say?
+
+The shop assistant said I could buy the trousers for half the price
+```

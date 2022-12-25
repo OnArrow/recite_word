@@ -35,7 +35,7 @@ Oh, and by the way
 噢，顺便说一句
 
 My wife wants to know if Mary needs any help
-我老婆想知道如果Mary需要任何帮助
+我老婆想知道Mary是否需要任何帮助
 
 I don't know what you're talking about
 我不知道你在说什么

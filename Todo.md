@@ -30,7 +30,7 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词： actually noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
+16. 记单词： actually lottery ugly sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
 
 17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
 

@@ -6,6 +6,8 @@
 
    - `if` 不能省略
 
+   - 像疑问句用`any`，肯定句用`some`这些规则，在这里都不需要变，`any`还是用`any`，`some`还是用`some`
+
    ```
    Is she a nurse?
    // 一般疑问句
@@ -43,6 +45,12 @@
 
    She wants to know if Tom went to bed early
    // 宾语从句也需要遵循时态，所以这里需要变为`went`
+
+
+   Are there any mistakes in my paper?
+
+   He wants to know if there are any mistakes in his paper
+   // 疑问句用的`any`，变为宾语从句时还是用`any`
    ```
 
 2. 特殊疑问句做宾语从句

@@ -1,6 +1,6 @@
 # Week 17
 
-## Lesson 133 - Lesson
+## Lesson 133 - Lesson 140
 
 ```
 "They saw you at the meeting"
@@ -102,4 +102,53 @@ He said she might get a better mark than him in the Maths test
 What did the shop assistant say?
 
 The shop assistant said I could buy the trousers for half the price
+```
+
+```
+What will you do if you take a long holiday next summer?
+
+If I take a long holiday next summer, I'll go to New York
+```
+
+```
+It's possible that you'll finish the test before me. Please wait for me
+
+If you finish the test before me, please wait for me
+```
+
+```
+You have a good voice. / You can be a singer
+
+If you have a good voice, you can be a singer
+```
+
+```
+If you speak English every day, you will speak English better
+```
+
+```
+'Who is that man behind Ann?'
+
+He wants to know who that man behind Ann is
+TODO: 为什么不是`who that man is behind Ann`？
+```
+
+```
+'Why do you want to be a doctor?'
+
+He wants to know why I want to be a doctor
+TODO: 是不是“想成为；想变成”都用`want to be`？
+```
+
+```
+'Do you want to go swimming?'
+
+He wants to know if I want to go swimming?
+TODO: 为什么要用`swimming`而不是`swim`？
+```
+
+```
+'Have you made up your mind?'
+
+He wants to know if I have made up my mind
 ```

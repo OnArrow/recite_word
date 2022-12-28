@@ -30,18 +30,20 @@
 
 15. `I knew you were trouble` 为什么可以有两个过去式
 
-16. 记单词： actually lottery loudly regularly steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
+16. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
 
-17. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
+17. 记单词： actually lottery loudly regularly mystery fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
 
-18. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
+18. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
 
-19. 过去式：lay built won
+19. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
 
-20. 过去分词：
+20. 过去式：lay built won
 
-21. 比较级&最高级：
+21. 过去分词：
 
-22. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational
+22. 比较级&最高级：
 
-23. 复习过去式和过去分词：bad bring swim pay grow
+23. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint
+
+24. 复习过去式和过去分词：bad bring swim pay grow sweep

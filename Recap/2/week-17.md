@@ -152,3 +152,23 @@ TODO: 为什么要用`swimming`而不是`swim`？
 
 He wants to know if I have made up my mind
 ```
+
+```
+'Will there be a meeting tomorrow?'
+
+Tell me if there will be a meeting tomorrow
+```
+
+```
+'How did you lose your watch?'
+
+Tell me how you lost your watch
+```
+
+```
+'Why didn't she tell me?'
+
+Do you know why she didn't tell me?
+
+No, I don't know why she didn't tell you
+```

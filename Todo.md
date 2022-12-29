@@ -44,6 +44,6 @@
 
 22. 比较级&最高级：
 
-23. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint
+23. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint plant
 
 24. 复习过去式和过去分词：bad bring swim pay grow sweep

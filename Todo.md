@@ -32,18 +32,18 @@
 
 16. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
 
-17. 记单词： actually lottery loudly regularly mystery fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
+17. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-18. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
+18. 记单词： actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
 
-19. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
+19. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
 
-20. 过去式：lay built won
+20. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
 
-21. 过去分词：
+21. 过去式和过去分词：lie win build hold show
 
 22. 比较级&最高级：
 
 23. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint plant
 
-24. 复习过去式和过去分词：bad bring swim pay grow sweep
+24. 复习过去式和过去分词：bad bring swim pay grow sweep write

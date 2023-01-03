@@ -28,22 +28,54 @@
 
 14. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-15. `I knew you were trouble` 为什么可以有两个过去式
+15. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
 
-16. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
+16. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-17. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+17. **记单词**
 
-18. 记单词： actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain
+    ```
+    actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round
+    ```
 
-19. 代码相关： domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
+18. **代码相关**
 
-20. 其他： additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
+    ```
+    domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
+    ```
 
-21. 过去式和过去分词：lie win build hold show
+19. **其他**
 
-22. 比较级&最高级：
+    ```
+    additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
+    ```
 
-23. 复习： chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint plant
+20. **过去式&过去分词**
 
-24. 复习过去式和过去分词：bad bring swim pay grow sweep write
+    ```
+    lie win build hold show
+    ```
+
+21. **比较级&最高级**
+
+    ```
+
+    ```
+
+22. **复习**
+
+    ```
+    chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint plant framework
+    ```
+
+23. **复习过去式&过去分词**
+
+    ```
+    bring swim pay grow sweep write
+    ```
+
+24. **复习比较级&最高级**
+
+    ```
+
+    ```

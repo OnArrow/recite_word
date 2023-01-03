@@ -1,90 +1,85 @@
 # Lesson 4
 
-1. 当使用`here is ___`时，通常伴随着有肢体语言，如说话的同时把东西递过去
+```
+Is this your pen?
 
-   ```
-   当你把票给别人时用：
-   Here is my ticket
-   这是我的票
-   //这里着重表达的是我手里的票
+Yes, it is
+```
 
-   当你去结账时用：
-   Here's my money
-   这是我的钱
-   ```
+```
+Is this your pencil?
 
-   - <video src="../../video/Lesson4/1.mp4" width="50%" ></video>
+Yes, it is
+```
 
-   - 如果只是单纯的介绍某物就用`this is __`
+```
+Is this your book?
 
-     ```
-     This is my ticket
-     这是我的票
-     //这里表达的意思是这张票是我的
+Yes, it is
+```
 
-     ```
+```
+Is this your watch?
 
-2. 肯定句变否定句时，`not`放在 be 动词后面
+Yes, it is
+```
 
-   ```
-   This is my umbrella
-   这是我的伞
+```
+Is this your coat?
 
-   This is not my umbrella
-   这不是我的伞
+Yes, it is
+```
 
-   Is this my umbrella?
-   这是我的伞吗?
+```
+Is this your dress?
 
-   Yes, it's
-   是的
+Yes, it is
+```
 
-   No, it isn't
-   不是
+```
+Is this your skirt?
 
-   Isn't Jack here?
-   杰克不在这里吗？
+Yes, it is
+```
 
-   Jack isn't here
-   杰克不在这里
-   ```
+```
+Is this your car?
 
-3. `suit`也可以用来表达合适
+Yes, it is
+```
 
-   ```
-   It suits me
-   它很适合我
+```
+Is this your house?
 
-   It suits you
-   它很适合你
+No, it isn't
+```
 
-   The coat suits you
-   这件外套很适合你
-   ```
+```
+Is this your suit?
 
-4. ```
-   Is this your shirt or their shirt?
-   这是你的衬衫还是他们的衬衫？
+Yes, it is
+```
 
-   This is my shirt, not theirs
-   这是我的衬衫，不是他们的
+```
+Is this your school?
 
-   Is this your dress or mine?
-   这是你的连衣裙还是我的？
+No, it isn't
+```
 
-   This isn't my dress, it's yours
-   这不是我的连衣裙，是你的
+```
+Is this your teacher?
 
-   Is this your house or theirs?
-   这是你的房子还是他们的？
+Yes, he is
+```
 
-   This is my house, not theirs
-   这是我的房子，不是他们的
-   ```
+```
+Is this your son?
 
-5. 名句
+Yes, he is
+```
 
-   ```
-   A house is not a home
-   房子不是家
-   ```
+```
+Is this your daughter?
+
+Yes, she is
+```

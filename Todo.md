@@ -65,13 +65,13 @@
 22. **复习**
 
     ```
-    chase expect purchase essential silver summary decline present worth intelligent hell permission clip extra protection balance reasonable college pork boring thread lite quality urgent situation quote speech approval portrait duty president People's Liberation Army except foreign integrate inspect zip convert collapse bicycle determiner countable uncountable abbreviation sand stale ankle blouse progressive progress fair weak terminus panel manual joke fame tone mutation simulator afford sensational paint plant framework
+    chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework
     ```
 
 23. **复习过去式&过去分词**
 
     ```
-    bring swim pay grow sweep write
+    bring swim grow sweep
     ```
 
 24. **复习比较级&最高级**

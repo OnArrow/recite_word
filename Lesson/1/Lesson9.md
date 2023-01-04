@@ -74,11 +74,32 @@
    没事，我很好我很好
    ```
 
-7. 名句
+7. 形容词（.adj）后面跟的一定是名词（.n）
+
+   ```
+   a tall policeman
+   一个高个子警察
+
+   a lazy man
+   一个懒惰的人
+
+   a beautiful girl
+   一个漂亮的女孩
+   ```
+
+8. ```
+   Wake up! Lazy bones!
+   快起来！懒骨头！
+   ```
+
+9. 名句
 
    ```
    Yesterday is history, tomorrow is a mystery, but today is a gift
    昨天是历史，明天是未知，但今天是一份礼物
+
+   Keep yourself busy if you want to avoid depression. For me, inactivity is the enemy
+   如果你想避免抑郁，就让自己忙碌起来。对我来说，无所作为是敌人
    ```
 
 ## How are you today?

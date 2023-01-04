@@ -1,26 +1,61 @@
 # Lesson 10
 
-1. 形容词（.adj）后面跟的一定是名词（.n）
+```
+Is that man fat or thin?
 
-   ```
-   a tall policeman
-   一个高个子警察
+He's not thin. He's fat
+```
 
-   a lazy man
-   一个懒惰的人
+```
+Is Steven hot or cold?
 
-   a beautiful girl
-   一个漂亮的女孩
-   ```
+He's not cold. He's hot
+```
 
-2. ```
-   Wake up! lazy bones!
-   快起来！懒骨头！
-   ```
+```
+Is that air hostess young or old?
 
-3. 名句
+She's not old. She's young
+```
 
-   ```
-   Keep yourself busy if you want to avoid depression. For me, inactivity is the enemy
-   如果你想避免抑郁，就让自己忙碌起来。对我来说，无所作为是敌人
-   ```
+```
+Is that woman thin or fat?
+
+She's not fat. She's thin
+```
+
+```
+Is Emma cold or hot?
+
+She's not hot. She's cold
+```
+
+```
+Is that policewoman short or tall?
+
+She's not tall. She's short
+```
+
+```
+Is that milkman old or young?
+
+He's not young. He's old
+```
+
+```
+Is that mechanic dirty or clean?
+
+He's not clean. He's dirty
+```
+
+```
+Is that policeman tall or short?
+
+He's not short. He's tall
+```
+
+```
+Is that nurse clean or dirty?
+
+She's not dirty. She's clean
+```

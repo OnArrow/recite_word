@@ -1,6 +1,6 @@
 # Lesson 7
 
-1. `am` be 的第一人称单数现在时
+1. `am`: `be`的第一人称单数现在时
 
    ```
    I am Jack
@@ -34,7 +34,7 @@
    我是中国人吗？
    ```
 
-2. `are` be 的第二人称单复数现在时
+2. `are`：`be` 的第二人称单复数现在时
 
    ```
    You are Tom
@@ -43,11 +43,11 @@
 
    You are not Tom
    你不是汤姆
-   // 否定句时，not放在be动词后面
+   // 否定句时，`not`放在`be`动词后面
 
    Are you Tom?
    你是汤姆吗？
-   // 疑问句时，are也需要提前
+   // 疑问句时，`are`也需要提前
 
    You are an engineer
    你是工程师
@@ -68,7 +68,7 @@
    你是美国人吗？
    ```
 
-3. `is` be 的第三人称单数
+3. `is`： `be` 的第三人称单数
 
    ```
    He is my brother
@@ -107,29 +107,29 @@
 5. 询问某人的国籍或者从哪里来
 
    ```
-   What nationality are you? Jack?
-   你是哪国人？杰克？
+   What nationality are you, Jack?
+   你是哪国人，杰克？
    // 一般很少有人会这样问，所以用得比较少这句
 
-   Where are you from? Jack?
-   你是哪里人？杰克？
+   Where are you from, Jack?
+   你是哪里人，杰克？
    // 通常用得更多的是这一句
 
    Where is he from?
    他是哪里人？
-   // he是第三人称单数，所以用is
+   // `he`是第三人称单数，所以用`is`
 
    Where are they from?
    他们是哪里人？
-   // they是第三人称复数，所以用are
+   // `they`是第三人称复数，所以用`are`
 
    Where is your sister from?
    你姐姐是哪里人？
-   // your sister是第三人称单数，用is
+   // `your sister`是第三人称单数，用`is`
 
-   Where are your grandparent from?
+   Where are your grandparents from?
    你爷爷奶奶是哪里人？
-   // your grandparent是第三人称复数，用are
+   // `your grandparent`是第三人称复数，用`are`
    ```
 
 6. 询问某人的工作
@@ -155,15 +155,15 @@
    ```
    driver
    司机
-   // drive有开车出行的意思，所以加上er就成了driver。意为开车的人，就是司机
+   // d`rive`有开车出行的意思，所以加上`er`就成了`driver`。意为开车的人，就是司机
 
    teacher
    老师
-   // teach有讲授、教会的意思，所以加上er就成了teacher。意为讲授知识的人，就是老师
+   // `teach`有讲授、教会的意思，所以加上`er`就成了`teacher`。意为讲授知识的人，就是老师
 
    editor
    （报刊、杂志的）主编
-   // edit有编辑的意思，所以加上or就成了editor。意为专门编辑的人，就是主编
+   // `edit`有编辑的意思，所以加上`or`就成了`editor`。意为专门编辑的人，就是主编
    ```
 
    - 具体何时加`or`，何时加`er`可以查看参考链接<https://www.zhihu.com/question/30819866/answer/1365637985>
@@ -180,7 +180,7 @@
    What is your name?
    你的名字是什么？
    // 特殊疑问句
-   // what为特殊疑问词，is your name是一般疑问句去掉答案（Jack）后的句子，所以根据公式，what + is your name 就组成了特殊疑问句
+   // `what`为特殊疑问词，`is your name`是一般疑问句去掉答案（Jack）后的句子，所以根据公式，`what + is your name` 就组成了特殊疑问句
 
    Her name is Lisa
    // 肯定句
@@ -198,7 +198,7 @@
    // 一般疑问句
 
    Where is she from?
-   // 特殊疑问句 where也是特殊疑问词
+   // 特殊疑问句 `where`也是特殊疑问词
    ```
 
    ```
@@ -210,7 +210,7 @@
 
    What nationality is he?
    // 特殊疑问句
-   // 因为French是一个国籍的类别，所以特殊疑问句时把French这个答案替换成不确定的一个类别（nationality）来提问。相当于nationality是针对于French的提问
+   // 因为`French`是一个国籍的类别，所以特殊疑问句时把`French`这个答案替换成不确定的一个类别（nationality）来提问。相当于`nationality`是针对于`French`的提问
    ```
 
    ```
@@ -231,7 +231,7 @@
     // 一般疑问句
 
     张三： 不去/去
-    // Yes或No形式的回答
+    // `Yes`或`No`形式的回答
 
     小明：明天什么时候去游泳？
     // 特殊疑问句
@@ -240,7 +240,28 @@
     // 对于特殊疑问句的回答形式是没有固定形式的
     ```
 
-11. 名句
+11. | 他  | 他的 | 她  | 她的 |
+    | :-: | :--: | :-: | :--: |
+    | he  | his  | she | her  |
+
+12. ```
+    What is his job?
+    他的工作是什么？
+
+    Is his job policeman?
+    他的工作是警察？
+
+    Is he a policeman or a taxi driver?
+    他是一名警察还是一名出租车司机？
+
+    He is a policeman
+    他是一名警察
+
+    He is not a taxi driver
+    他不是一名出租车司机
+    ```
+
+13. 名句
 
     ```
     The person who knows How will always have a job.

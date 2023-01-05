@@ -1,42 +1,101 @@
 # Lesson 16
 
-1. | this  | that  |
-   | ----- | ----- |
-   | these | those |
+```
+What color are your tickets?
 
-   ```
-   This box
-   这盒子
+Are they white?
 
-   These boxes
-   这些盒子
+Our tickets aren't white
 
-   That box
-   那盒子
+They are yellow
+```
 
-   Those boxes
-   那些盒子
-   ```
+```
+What color are your pens?
 
-2. 如何表达“生活不是非黑即白”？
+Are they red?
 
-   ```
-   Life isn't black and white
-   生活不是非黑即白的
-   ```
+Our pens aren't red
 
-3. 如何表达“我请客”或“AA”
+They are blue
+```
 
-   ```
-   Let's go dutch
-   让我们AA制吧
+```
+What color are your passports?
 
-   Let's split
-   让我们分账付吧
+Are they blue?
 
-   It's on me, my treat
-   算在我身上，我请客
+Our passports aren't blue
 
-   It's on you, your treat
-   算在你身上，你请客
-   ```
+They are green
+```
+
+```
+What color are your handbags?
+
+Are they grey?
+
+Our handbags aren't grey
+
+They are white
+```
+
+```
+What color are your blouses?
+
+Are they orange?
+
+Our blouses aren't orange
+
+They are yellow
+```
+
+```
+What color are your coats?
+
+Are they black?
+
+Our coats aren't black
+
+They are grey
+```
+
+```
+What color are your dresses?
+
+Are they brown?
+
+Our dresses aren't brown
+
+They are green
+```
+
+```
+What color are your shirts?
+
+Are they blue?
+
+Our shirts aren't blue
+
+They are white
+```
+
+```
+What color are your hats?
+
+Are they green and red?
+
+Our hats aren't green and red
+
+They are grey and black
+```
+
+```
+What color are your tie?
+
+Are they red?
+
+Our ties aren't red
+
+They are orange
+```

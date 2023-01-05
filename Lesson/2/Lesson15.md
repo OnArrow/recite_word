@@ -40,7 +40,48 @@
 
 4. `That's fine`，`That's ok`，`That's good`表达的都是同一个意思，用哪一个都可以
 
-5. 名句
+5. | this  | that  |
+   | ----- | ----- |
+   | these | those |
+
+   ```
+   This box
+   这盒子
+
+   These boxes
+   这些盒子
+
+   That box
+   那盒子
+
+   Those boxes
+   那些盒子
+   ```
+
+6. 如何表达“生活不是非黑即白”？
+
+   ```
+   Life isn't black and white
+   生活不是非黑即白的
+   ```
+
+7. 如何表达“我请客”或“AA”
+
+   ```
+   Let's go dutch
+   让我们AA制吧
+
+   Let's split
+   让我们分账付吧
+
+   It's on me, my treat
+   算在我身上，我请客
+
+   It's on you, your treat
+   算在你身上，你请客
+   ```
+
+8. 名句
 
    ```
    If you make friends with yourself you will never be alone

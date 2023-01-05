@@ -33,11 +33,11 @@
 
    Whose is this dress?
    // 特殊疑问句，这种句式一般不常见
-   // Whose是对her的提问
+   // `Whose`是对`her`的提问
 
    Whose dress is this?
    // 特殊疑问句，这一句式比较常见
-   // 把 whose dress 一起提到句首
+   // 把 `whose dress` 一起提到句首
    ```
 
 4. 特殊疑问句
@@ -104,6 +104,21 @@
    This is Lisa's animal
    这是莉萨的动物
    ```
+
+9. `shirt` 男士的衬衫；`blouse` 女士的衬衫
+
+10. 名词所有格 `名词 of 名词`， 前面的名词属于后面的名词
+
+    ```
+    The color of cat
+    猫的颜色
+
+    The size of the earth
+    地球的大小
+
+    Pictures of children
+    小孩的照片
+    ```
 
 ## Is this your shirt?
 

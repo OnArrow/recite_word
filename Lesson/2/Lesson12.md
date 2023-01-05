@@ -1,16 +1,61 @@
 # Lesson 12
 
-1. `shirt` 男士的衬衫；`blouse` 女士的衬衫
+```
+Whose is that handbag? Is it Sophie's?
 
-2. 名词所有格 `名词 of 名词`， 前面的名词属于后面的名词
+It isn't Sophie's. It's Stella's
+```
 
-   ```
-   The color of cat
-   猫的颜色
+```
+Whose is that car? Is it Steven's?
 
-   The size of the earth
-   地球的大小
+It isn't Steven's. It's Paul's
+```
 
-   Pictures of children
-   小孩的照片
-   ```
+```
+Whose is that coat? Is it Stella's?
+
+It isn't Stella's. It's Sophie's
+```
+
+```
+Whose is that umbrella? Is it Paul's?
+
+It isn't Paul's. It's Steven's
+```
+
+```
+Whose is that pen? Is it your father's?
+
+It isn't my father's. It's my son's
+```
+
+```
+Whose is that dress? Is it your mother's?
+
+It isn't my mother's. It's my daughter's
+```
+
+```
+Whose is that suit? Is it your son's?
+
+It isn't my son's. It's my father's
+```
+
+```
+Whose is that skirt? Is it your daughter's?
+
+It isn't my daughter's. It's my mother's
+```
+
+```
+Whose is that blouse? Is it your mother's?
+
+It isn't my mother's. It's my sister's
+```
+
+```
+Whose is that tie? Is it your father's?
+
+It isn't my father's. It's my brother's
+```

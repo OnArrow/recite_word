@@ -1,24 +1,97 @@
 # Lesson 22
 
-1. `large` `medium` `small`
+```
+Give me a cup, please
 
-   ```
-   当你去买咖啡时
+Which one?
 
-   give me a large one, please
-   请给我一杯大杯的咖啡
-   // `one`在这里指咖啡
+This dirty one?
 
-   give me a medium one, please
-   请给我一杯中杯的咖啡
+No, not this dirty one
 
-   give me a small one, please
-   请给我一杯小杯的咖啡
-   ```
+That clean one
+```
 
-2. 名句
+```
+Give me a glass, please
 
-   ```
-   Education's purpose is to replace an empty mind with an open one
-   教育是目的是用开放的思想代替空虚的思想
-   ```
+Which one?
+
+That full one?
+
+No, not that full one
+
+This empty one
+```
+
+```
+Give me a bottle, please
+
+Which one?
+
+This large one?
+
+No, not this large one
+
+That small one
+```
+
+```
+Give me a box, please
+
+Which one?
+
+That little one?
+
+No, not that little one
+
+This big one
+```
+
+```
+Give me a tin, please
+
+Which one?
+
+This new one?
+
+No, not this new one
+
+That old one
+```
+
+```
+Give me a knife, please
+
+Which one?
+
+That blunt one?
+
+No, not that blunt one
+
+This sharp one
+```
+
+```
+Give me a spoon, please
+
+Which one?
+
+This new one?
+
+No, not this new one
+
+That old one
+```
+
+```
+Give me a fork, please
+
+Which one?
+
+That small one?
+
+No, not that small one
+
+This large one
+```

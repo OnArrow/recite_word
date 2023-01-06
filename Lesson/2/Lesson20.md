@@ -1,28 +1,101 @@
 # Lesson 20
 
-1. 在表示商店不营业的时候，通常用`close`多于`shut`
+```
+Look at that boy's shoes
 
-   ```
-   We are closed
-   我们关门了
+Are they dirty?
 
-   We are shut
-   我们关门了
-   ```
+They aren't dirty
 
-   ![close](../../images/Lesson20/open_and_close.png)
+They are clean
+```
 
-2. `Look at them`
+```
+Look at those postmen
 
-   ```
-   Look at them
-   看他们
-   // 根据“主谓宾”结构，`look at`是谓语，谓语后面跟着宾语，`they`的宾语形式是`them`
-   ```
+Are they cold?
 
-3. 名句
+They aren't cold
 
-   ```
-   You're never too old to start learning, and you're never too young to aim high and achieve great things
-   你永远不会太老而不能开始学习，也永远不会太年轻而不能志存高远，成就伟业
-   ```
+They are hot
+```
+
+```
+Look at those hairdressers
+
+Are they thin?
+
+They aren't thin
+
+They are fat
+```
+
+```
+Look at those shoes
+
+Are they small?
+
+They aren't small
+
+They are big
+```
+
+```
+Look at those shops
+
+Are they shut?
+
+They aren't shut
+
+They are open
+```
+
+```
+Look at those cases
+
+Are they heavy?
+
+They aren't heavy
+
+They are light
+```
+
+```
+Look at grandmother and grandfather
+
+Are they young?
+
+They aren't young
+
+They are old
+```
+
+```
+Look at those hats
+
+Are they new?
+
+They aren't new
+
+They are old
+```
+
+```
+Look at those policemen
+
+Are they short?
+
+They aren't short
+
+They are tall
+```
+
+```
+Look at those trousers
+
+Are they long?
+
+They aren't long
+
+They are short
+```

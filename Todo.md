@@ -35,13 +35,13 @@
 17. **记单词**
 
     ```
-    actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat
+    actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball
     ```
 
 18. **代码相关**
 
     ```
-    domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent
+    domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer
     ```
 
 19. **其他**
@@ -65,7 +65,7 @@
 22. **复习**
 
     ```
-    chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot
+    chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium
     ```
 
 23. **复习过去式&过去分词**

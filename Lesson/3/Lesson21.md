@@ -38,12 +38,31 @@
    蓝色那辆
    ```
 
-4. 名句
+4. `large` `medium` `small`
+
+   ```
+   当你去买咖啡时
+
+   give me a large one, please
+   请给我一杯大杯的咖啡
+   // `one`在这里指咖啡
+
+   give me a medium one, please
+   请给我一杯中杯的咖啡
+
+   give me a small one, please
+   请给我一杯小杯的咖啡
+   ```
+
+5. 名句
 
    ```
    Give a man a fish and you feed him for a day; Teach a man to fish and you feed him for a lifetime
    给一个人一条鱼，你就喂它一天；教一个人钓鱼，你就能养活他一辈子
    // 授人以鱼不如授人以渔
+
+   Education's purpose is to replace an empty mind with an open one
+   教育是目的是用开放的思想代替空虚的思想
    ```
 
 ## Which book?

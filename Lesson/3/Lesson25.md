@@ -24,12 +24,12 @@
    你爱他吗？
    ```
 
-3. 表达“某地有某物/某人”， 用`There be + a/an + 某物 + 地点`
+3. 表达“某地有某物/某人”， 用`There be + a/an + sb./sth. + sw.`
 
    ```
    There is a cup on the table of the room
    房间的桌子上有一个杯子
-   // `There is` 固定开头（is为be动词的第三人称单数形式），`a cup`为某物，`on the table of the room`为某地
+   // `There is` 固定开头（`is`为`be`动词的第三人称单数形式），`a cup`为某物，`on the table of the room`为某地
 
    There isn't a bed in the middle of the room
    // 否定句
@@ -46,6 +46,39 @@
    There is a table on the right of the kitchen
 
    There is an electric cooker in the kitchen
+   ```
+
+4. `a/an` 和 `the`
+
+   ```
+   泛指用`a/an`，特指用`the`
+
+   There's a refrigerator in the kitchen
+   // `a refrigerator`是指“一个冰箱”，它不是洗衣机不是锅碗瓢盆，它是一个冰箱，指的是类别
+
+   The refrigerator is white
+   // 这里的`the refrigerator`特指我上一句话讲的那个冰箱
+   ```
+
+5. `one` 代词
+
+   ```
+   Is there a clean cup on the floor?
+
+   No, there isn't one on the floor
+   // 这里的`one`是一个代词，它指代的上一句的`a clean cup`
+
+   There is a clean one on the table
+   // 这里的`one`指的是第一句的`cup`
+   ```
+
+6. `cooker` 不是厨师，而是厨具。而`cook`作名词时表示厨师
+
+7. 名句
+
+   ```
+   Your present circumstances don't determine where you can go, they merely determine where you start
+   你目前的情况不能决定你能去哪里，它们只是决定你从哪里开始
    ```
 
 ## Mrs.Smith's kitchen

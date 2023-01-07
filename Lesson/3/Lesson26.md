@@ -1,32 +1,65 @@
 # Lesson 26
 
-1. `a/an` 和 `the`
+```
+Is there a clean cup on the floor?
 
-   ```
-   泛指用`a/an`，特指用`the`
+No, there isn't one on the floor
 
-   There's a refrigerator in the kitchen
-   // `a refrigerator`是指“一个冰箱”，它不是洗衣机不是锅碗瓢盆，它是一个冰箱，指的是类别
+There's a clean one on the table
+```
 
-   The refrigerator is white
-   // 这里的`the refrigerator`特指我上一句话讲的那个冰箱
-   ```
+```
+Is there a large box on the shelf?
 
-2. `one` 代词
+No, there isn't one on the shelf
 
-   ```
-   Is there a clean cup on the floor?
+There's a large one on the shelf
+```
 
-   No, there isn't one on the floor
-   // 这里的`one`是一个代词，它指代的上一句的`a clean cup`
+```
+Is there a empty glass in the refrigerator?
 
-   There is a clean one on the table
-   // 这里的`one`指的是第一句的`cup`
-   ```
+No, there isn't one in the refrigerator
 
-3. 名句
+There's a empty one in the cupboard
+```
 
-   ```
-   Your present circumstances don't determine where you can go, they merely determine where you start
-   你目前的情况不能决定你能去哪里，它们只是决定你从哪里开始
-   ```
+```
+Is there a sharp knife on the tin?
+
+No, there isn't one on the tin
+
+There's a sharp one on the plate
+```
+
+```
+Is there a dirty fork on the plate?
+
+There isn't one on the plate
+
+There's a dirty one on the tin
+```
+
+```
+Is there a full bottle in the cupboard?
+
+No, there isn't one in the cupboard
+
+There's a full one in the refrigerator
+```
+
+```
+Is there a blunt pencil on the table?
+
+There isn't one on the table
+
+There's a blunt one on the desk
+```
+
+```
+Is there a small spoon in the glass?
+
+There isn't one in the glass
+
+There's a small one in the cup
+```

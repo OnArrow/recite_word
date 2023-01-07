@@ -1,81 +1,83 @@
 # Todo
 
-1. 所有格形式
+1. **记单词**
 
-2. 特殊疑问词
+   ```
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable
+   ```
 
-3. 代词
+2. **代码相关**
 
-4. 梳理冠词内容
+   ```
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob
+   ```
 
-5. grass 和 lawn
+3. **其他**
 
-6. yet 的用法
+   ```
+   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
+   ```
 
-7. to 的用法
+4. **过去式&过去分词**
 
-8. 宾语从句、直接引语、间接引语
+   ```
+   lie win build hold show
+   ```
 
-9. will 和 be going to 的区别
+5. **比较级&最高级**
 
-10. Lesson 101 的反意疑问句中的 Example
+   ```
 
-11. would like 的四句型
+   ```
 
-12. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+6. **复习**
 
-13. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+   ```
+   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe
+   ```
 
-14. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+7. **复习过去式&过去分词**
 
-15. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
+   ```
+   bring swim grow sweep
+   ```
 
-16. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+8. **复习比较级&最高级**
 
-17. **记单词**
+   ```
 
-    ```
-    actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball
-    ```
+   ```
 
-18. **代码相关**
+9. 所有格形式
 
-    ```
-    domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer
-    ```
+10. 特殊疑问词
 
-19. **其他**
+11. 代词
 
-    ```
-    additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct
-    ```
+12. 梳理冠词内容
 
-20. **过去式&过去分词**
+13. grass 和 lawn
 
-    ```
-    lie win build hold show
-    ```
+14. yet 的用法
 
-21. **比较级&最高级**
+15. to 的用法
 
-    ```
+16. 宾语从句、直接引语、间接引语
 
-    ```
+17. will 和 be going to 的区别
 
-22. **复习**
+18. Lesson 101 的反意疑问句中的 Example
 
-    ```
-    chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium
-    ```
+19. would like 的四句型
 
-23. **复习过去式&过去分词**
+20. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-    ```
-    bring swim grow sweep
-    ```
+21. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
 
-24. **复习比较级&最高级**
+22. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-    ```
+23. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
 
-    ```
+24. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+
+25. `Jack lives very near us` 这句话中 `near`是什么词性？

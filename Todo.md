@@ -3,7 +3,7 @@
 1. **记单词**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga
    ```
 
 2. **代码相关**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe
+   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch
    ```
 
 7. **复习过去式&过去分词**
@@ -81,3 +81,5 @@
 24. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
 25. `Jack lives very near us` 这句话中 `near`是什么词性？
+
+26. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？

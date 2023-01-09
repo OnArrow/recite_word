@@ -68,19 +68,37 @@
    Jack is in the kitchen
    杰克在厨房里
 
-   Where is in the kitchen?
+   Who is in the kitchen?
    谁在厨房里？
    ```
 
-8. 名句
+8. `tooth` 一颗牙齿 `teeth` 一排牙齿
+
+9. 不可数名词前面不能加`a`
 
    ```
-   Just remember, you can't climb the ladder of success with your hands in your pockets
-   请记住，你不能双手插在口袋里攀登成功的阶梯
+   Tom's reading a book
+   // `book`是可数名词，所以可以在前面加`a`
 
-   Someone is sitting in the shade today, because someone planted a tree a long time ago
-   今天有人坐在树荫下，是因为有人种了很久的树
+   Is he drinking water?
+   // `water`是不可数名词，所以不能在前面加`a`
+
+   Jack's drinking milk
+   // `milk`是不可数名词，所以不能在前面加`a`
    ```
+
+10. 名句
+
+    ```
+    Just remember, you can't climb the ladder of success with your hands in your pockets
+    请记住，你不能双手插在口袋里攀登成功的阶梯
+
+    Someone is sitting in the shade today, because someone planted a tree a long time ago
+    今天有人坐在树荫下，是因为有人种了很久的树
+
+    You have got to clean your own house first before you tell other people that they aren't doing it right
+    在你告诉别人他们做得不对之前，你必须先打扫自己的房子
+    ```
 
 ## Where's Sally?
 

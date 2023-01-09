@@ -249,3 +249,5 @@
 115. `town hall` 市政厅
 
 116. `most of them` 他们中的大多数
+
+117. `run after` 追逐

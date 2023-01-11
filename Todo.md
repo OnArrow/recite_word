@@ -3,13 +3,13 @@
 1. **记单词**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达
    ```
 
 2. **代码相关**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry
    ```
 
 3. **其他**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner  abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch
+   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit  pure ripe lamb cabbage
    ```
 
 7. **复习过去式&过去分词**
@@ -83,3 +83,10 @@
 25. `Jack lives very near us` 这句话中 `near`是什么词性？
 
 26. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
+
+27. 什么是宾语补足语
+
+    ```
+    I'm going to paint bookcase pink
+    // `bookcase` 为宾语。 `pink` 为宾语补足语
+    ```

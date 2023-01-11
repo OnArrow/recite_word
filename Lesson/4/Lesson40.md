@@ -1,49 +1,61 @@
 # Lesson 40
 
-1. 展示某物给某人
+```
+Are you going to put on your hat?
 
-   ```
-   Show your passport to me
+Yes, I'm going to put it on
+```
 
-   Show me your passport
+```
+Are you going to take off your shoes?
 
-   Show the draw to me
+Yes, I'm going to take them off
+```
 
-   Show me the draw
+```
+Are you going to turn on the light?
 
-   What are you going to do with the picture?
+Yes, I'm going to turn it on
+```
 
-   I'm going to show it to Jack
-   ```
+```
+Are you going to turn off the taps?
 
-2. 发送/寄送某物给某人
+Yes, I'm going to turn them off
+```
 
-   ```
-   Send a letter to me
+```
+Are you going to put on your suit?
 
-   Send me a letter
+Yes, I'm going to put it on
+```
 
-   Send two postcards to my mother
+```
+Are you going to take off your hat?
 
-   Send my mother tow postcards
+Yes, I'm going to take it off
+```
 
-   What's he going to do with those postcards?
+```
+Are you going to turn on the lights?
 
-   He's going to send them to his family
-   ```
+Yes, I'm going to turn them on
+```
 
-3. 把某物拿给某人
+```
+Are you going to turn off the television?
 
-   ```
-   Take the coffee to him
+Yes, I'm going to turn it off
+```
 
-   Take him the coffee
+```
+Are you going to turn off the lights?
 
-   Take those vases to her
+Yes, I'm going to turn them off
+```
 
-   Take her those vases
+```
+Are you going to turn on the stereo?
 
-   What's she going to do with the milk?
-
-   She's going to take the milk to these cats
-   ```
+Yes, I'm going to turn it on
+```

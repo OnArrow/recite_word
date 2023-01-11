@@ -1,23 +1,77 @@
 # Lesson 38
 
-1. `listen` 一般和 `to` 加在一起
+```
+What are you going to do?
 
-   ```
-   Listen to music
+I'm going to shave
+```
 
-   Listen to the music
+```
+What are you doing now?
 
-   Listen to stereo
+Now I'm shaving
+```
 
-   Listen to the stereo
-   ```
+```
+What are you both going to do?
 
-2. `dish` 在表示单数时一般表示碟子或盘子，表示复数时一般表示全部餐具
+We are going to do our homework
+```
 
-   ```
-   Give me a dish, please
-   请给我一个碟子
+```
+What are you both doing now?
 
-   I'm washing these dishes
-   我在洗这些餐具
-   ```
+Now we are doing our homework
+```
+
+```
+
+```
+
+```
+What are you both going to do?
+
+We are going to listen to the stereo
+```
+
+```
+What are you both doing now?
+
+Now we are listening to the stereo
+```
+
+```
+What are you going to do?
+
+I'm going to wait for a bus
+```
+
+```
+What are you doing now?
+
+Now I'm waiting for a bus
+```
+
+```
+What are you going to do?
+
+I'm going to paint this bookcase
+```
+
+```
+What are you doing now?
+
+Now I'm painting this bookcase
+```
+
+```
+What are you going to do?
+
+I'm going to wash the dishes
+```
+
+```
+What are you doing now?
+
+Now I'm washing the dishes
+```

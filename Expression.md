@@ -10,244 +10,212 @@
 
 2. `there we are` 好了；就这样；okay
 
-3. `be careful` 小心；当心
+3. `how often` 多长时间一次
 
-4. `how often` 多长时间一次
+4. `in the evening` 在晚上/在傍晚
 
-5. `in the morning` 在早上
+5. `here is it` 在这里
 
-6. `at noon` 在中午
+6. `here you are` 给你
 
-7. `in the afternoon` 在下午
+7. `here they are` 它们在这
 
-8. `in the evening` 在晚上/在傍晚
+8. `run after` 追逐
 
-9. `at night` 在夜晚
+9. `take picture` 拍照
 
-10. `ante meridiem` 正午前（a.m）；上午
+10. `throw away` 扔掉
 
-11. `post meridiem` 正午后（p.m）；下午
+11. `put away` 收起
 
-12. `have a conversation` 谈话；对话
+12. `write down` 写下
 
-13. `have lunch` 吃午餐
+13. `get started` 开始
 
-14. `here is it` 在这里
+14. `next door` 隔壁
 
-15. `here you are` 给你
+15. `a minute` 一会儿
 
-16. `here they are` 它们在这
+16. `to tell you the truth` 说实话
 
-17. `sit down` 坐下
+17. `get home` 回家
 
-18. `run after` 追逐
+18. `wake up` 醒来
 
-19. `take picture` 拍照
+19. `go out` 外出交际；外出娱乐；与...交往；与...谈恋爱
 
-20. `throw away` 扔掉
+20. `on foot` 步行
 
-21. `put away` 收起
+21. `you two` 你们两个
 
-22. `write down` 写下
+22. `you all` 你们（三个或三个以上）
 
-23. `put on` 穿（衣服）
+23. `writing paper` 信纸
 
-24. `take off` 脱
+24. `shop assistant` 售货员
 
-25. `hurry up` 快点
+25. `take an aspirin` 服用阿司匹林
 
-26. `get started` 开始
+26. `have a temperature` 发烧
 
-27. `next door` 隔壁
+27. `see a doctor` 看医生
 
-28. `a minute` 一会儿
+28. `enjoy yourself` 玩得开心
 
-29. `wait a moment` 稍等一会
+29. `catch the bus` 赶上公交车
 
-30. `to tell you the truth` 说实话
+30. `the United States of America` 美利坚合众国
 
-31. `get up` 起床
+31. `country music` 乡村音乐
 
-32. `get home` 回家
+32. `midnight snack` 夜宵
 
-33. `come back home` 回家
+33. `hundreds of` 数以百计的...
 
-34. `wake up` 醒来
+34. `and so on` 等等...
 
-35. `go out` 外出交际；外出娱乐；与...交往；与...谈恋爱
+35. `the day before yesterday` 前天
 
-36. `on foot` 步行
+36. `early bird` 早到者
 
-37. `you two` 你们两个
+37. `a lof of` 很多
 
-38. `you all` 你们（三个或三个以上）
+38. `give up` 放弃
 
-39. `writing paper` 信纸
+39. `once a month` 一个月一次
 
-40. `shop assistant` 售货员
+40. `what's wrong?` 怎么了？
 
-41. `take an aspirin` 服用阿司匹林
+41. `so far` 目前为止；迄今为止
 
-42. `have a temperature` 发烧
+42. `all the time` 始终，一直
 
-43. `see a doctor` 看医生
-
-44. `enjoy yourself` 玩得开心
-
-45. `catch the bus` 赶上公交车
-
-46. `the United States of America` 美利坚合众国
-
-47. `last week` 上周
-
-48. `country music` 乡村音乐
-
-49. `midnight snack` 夜宵
-
-50. `hundreds of` 数以百计的...
-
-51. `and so on` 等等...
-
-52. `the day before yesterday` 前天
-
-53. `three month ago` 三个月前
-
-54. `three month later` 三个月后
-
-55. `early bird` 早到者
-
-56. `a lof of` 很多
-
-57. `give up` 放弃
-
-58. `some of them` 他们中的一些
-
-59. `once a month` 一个月一次
-
-60. `what's wrong?` 怎么了？
-
-61. `so far` 目前为止；迄今为止
-
-62. `all the time` 始终，一直
-
-63. `never ever` 永远不要
+43. `never ever` 永远不要
 
     ```
     Never ever take your eyes off the ball
     ```
 
-64. `some day` 总有一天
+44. `some day` 总有一天
 
-65. `turn left` 左转
+45. `turn left` 左转
 
-66. `worth every penny` 物有所值
+46. `worth every penny` 物有所值
 
-67. `give him my regards` 代我问候他
+47. `give him my regards` 代我问候他
 
-68. `you know well` 你认识某人较久
+48. `you know well` 你认识某人较久
 
     ```
     A friend is going to visit a girl you know well
     ```
 
-69. `on business` 出差
+49. `on business` 出差
 
-70. `6 off` 6 折
+50. `6 off` 6 折
 
-71. `place order` 下订单
+51. `place order` 下订单
 
-72. `one more time` 再来一次
+52. `one more time` 再来一次
 
-73. `I have arrived` 我已经到了
+53. `I have arrived` 我已经到了
 
-74. `punch in` 上班打卡
+54. `punch in` 上班打卡
 
-75. `punch out` 下班打卡
+55. `punch out` 下班打卡
 
-76. `top up` 充值
+56. `top up` 充值
 
-77. `give a lesson` 授课
+57. `give a lesson` 授课
 
-78. `pass the exam` 通过考试
+58. `pass the exam` 通过考试
 
-79. `zoom in` 放大
+59. `zoom in` 放大
 
-80. `zoom out` 缩小
+60. `zoom out` 缩小
 
-81. `call back` 回电话
+61. `call back` 回电话
 
-82. `stand up` 起立
+62. `stand up` 起立
 
-83. `driving license` 驾照
+63. `driving license` 驾照
 
-84. `in face` 事实上
+64. `in face` 事实上
 
-85. `one hour break` 休息一小时
+65. `one hour break` 休息一小时
 
-86. `look out` 留神；当心
+66. `look out` 留神；当心
 
-87. `point out` 指出；指明
+67. `point out` 指出；指明
 
-88. `for a long time` 很长时间以来
+68. `for a long time` 很长时间以来
 
     ```
     The English test was easiest we've had for a long time
     ```
 
-89. `cheer up` 加油；振作起来
+69. `cheer up` 加油；振作起来
 
-90. `small change` 零钱
+70. `small change` 零钱
 
-91. `guide dog` 导盲犬
+71. `guide dog` 导盲犬
 
-92. `front door` 前门
+72. `front door` 前门
 
-93. `back door` 后门
+73. `back door` 后门
 
-94. `just as` 正在...的时候
+74. `just as` 正在...的时候
 
-95. `take the examination` 参加考试
+75. `take the examination` 参加考试
 
-96. `Customer Services` 客服中心
+76. `Customer Services` 客服中心
 
-97. `break down` 发生故障
+77. `break down` 发生故障
 
-98. `just now` 刚刚
+78. `just now` 刚刚
 
-99. `at last` 最后；终于
+79. `at last` 最后；终于
 
-100. `look up` 查阅
+80. `look up` 查阅
 
-101. `do the shopping` 去购物
+81. `do the shopping` 去购物
 
-102. `look after` 关心；照顾
+82. `look after` 关心；照顾
 
-103. `at least` 至少
+83. `at least` 至少
 
-104. `more that` 超过
+84. `more that` 超过
 
-105. `railway station` 火车站
+85. `railway station` 火车站
 
-106. `in my opinion` 在我看来
+86. `in my opinion` 在我看来
 
-107. `stay up` 熬夜
+87. `stay up` 熬夜
 
-108. `stay in` 呆在家里
+88. `stay in` 呆在家里
 
-109. `in the end` 最后
+89. `in the end` 最后
 
-110. `broken in` 强行进入
+90. `broken in` 强行进入
 
-111. `power off` 关机
+91. `power off` 关机
 
-112. `get married` 结婚
+92. `get married` 结婚
 
-113. `give up` 放弃
+93. `give up` 放弃
 
-114. `on time` 按时；准时
+94. `on time` 按时；准时
 
-115. `town hall` 市政厅
+95. `town hall` 市政厅
 
-116. `most of them` 他们中的大多数
+96. `most of them` 他们中的大多数
 
-117. `run after` 追逐
+97. `run after` 追逐
+
+98. `this time last year` 去年的这个时候
+
+99. `check in` 办理登记手续
+
+100. `cherry pick` 做出最佳选择
+
+101. `well done` 全熟

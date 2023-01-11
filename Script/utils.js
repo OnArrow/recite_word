@@ -12,7 +12,7 @@ function fsRead(path) {
       path,
       {
         flag: 'r',
-        encoding: 'utf-8',
+        encoding: 'utf8',
       },
       (err, data) => {
         // 如果读取失败
@@ -25,6 +25,7 @@ function fsRead(path) {
 }
 
 // 封装一个写入文件的函数
+// 第一个参数为需要写入的文件名 第二个参数为需要写入的内容 第三个参数为文件系统标志 a为追加内容 如果是w就会覆盖原来的内容
 function fsWrite(path, content, flag = 'w') {
   return new Promise((resolve, reject) => {
     fs.writeFile(
@@ -39,6 +40,14 @@ function fsWrite(path, content, flag = 'w') {
         resolve()
       }
     )
+  })
+}
+
+// 删除文件
+function deleteFile(path) {
+  // 删除文件
+  fs.unlink(path, () => {
+    console.log('删除文件成功')
   })
 }
 
@@ -76,23 +85,34 @@ const fileDisplay = (url, cb) => {
   })
 }
 
+let fileArr = []
+
 // 读取文件夹
 function fsReadFolder(path) {
+  fileArr = []
   return new Promise((resolve, reject) => {
-    const filePath = nodePath.resolve(path)
-    fs.readdir(filePath, (err, files) => {
-      // 如果读取失败
-      if (err) return reject(err)
-      files.forEach(fileName => {
-        //获取当前文件的绝对路径
-        const fileDir = nodePath.join(filePath, fileName)
-        fs.stat(fileDir, (err2, stats) => {
-          if (err2) return reject(err2)
-          console.log(stats)
-          // 是否是文件
-          const isFile = stats.isFile()
-          console.log(isFile)
-        })
+    getFilePathArr(path)
+    setTimeout(() => {
+      resolve(fileArr)
+    }, 3000)
+  })
+}
+
+function getFilePathArr(path) {
+  const filePath = nodePath.resolve(path)
+  fs.readdir(filePath, (err, files) => {
+    files.forEach(fileName => {
+      //获取当前文件的绝对路径
+      const fileDir = nodePath.join(filePath, fileName)
+      fs.stat(fileDir, (err2, stats) => {
+        // 是否是文件
+        const isFile = stats.isFile()
+        if (isFile) {
+          const filePath = fileDir.replace(__dirname, '').replace(/\\/gim, '/')
+          fileArr.push(filePath)
+        } else {
+          getFilePathArr(fileDir)
+        }
       })
     })
   })
@@ -103,4 +123,5 @@ module.exports = {
   fsWrite,
   fileDisplay,
   fsReadFolder,
+  deleteFile,
 }

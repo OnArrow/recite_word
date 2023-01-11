@@ -1,57 +1,69 @@
-const MarkdownIt = require('markdown-it')
+const Marked = require('marked')
 
-const { fsWrite, fsRead, fileDisplay, fsReadFolder } = require('./utils')
+const { fsWrite, fsRead, fsReadFolder } = require('./utils')
 
-const md = new MarkdownIt()
+const targetFilePath = '../Review.md'
 
+const readFolderPath = '../Words'
+
+// 需要复习的单词
 let strArr = []
 
-let wordsArr = []
+let index = 1
 
-let wordsStr = ''
-
+// 读取Todo文件
 async function readTodoFile() {
+  // 读取文件内容
   const result = await fsRead('../Todo.md')
+  // 解析文件内容
+  const parseArr = Marked.lexer(result)
+  // 找出复习那一栏
+  const targetData = parseArr
+    .find(item => item.type === 'list')
+    .items.find(item => item.text.includes('**复习**'))
+    .tokens.find(item => item.type === 'code')
 
-  const ParsedResult = md.parse(result)
-  const index = ParsedResult.findIndex(item => {
-    if (item.type === 'inline' && item.content === '**复习**') return true
-  })
+  // 把所有单词组成一个数组
+  strArr = targetData.text.split(' ').filter(item => item)
 
-  strArr = ParsedResult[index + 2].content.split(' ').filter(item => item)
-  strArr.filter
+  // 写入文件标题
+  fsWrite(targetFilePath, '# Review\n', 'w')
 }
 
+// 读取目录下所有md文件
 async function readWordsFolder() {
-  fileDisplay('../Words/April', arr => {
-    wordsArr.push(...arr)
+  // 拿到目录下所有文件列表
+  const fileArr = await fsReadFolder(readFolderPath)
+  console.log(fileArr)
+  for (let fileName of fileArr) {
+    if (fileName.includes('.md')) {
+      const fileResult = await fsRead(fileName)
 
-    const newArr = wordsArr.filter(item => {
-      if (item.includes('.md')) return true
-    })
-
-    // newArr.forEach(async item => {
-    //   //
-    //   const res = await fsRead(item)
-    //   console.log(res)
-    //   // const ParsedResult = md.parse(res)
-    //   // console.log(ParsedResult)
-    //   debugger
-    // })
-
-    for (let item of newArr) {
-      fsRead('../T1.md').then(res => {
-        try {
-          wordsStr += res
-          wordsStr += '23482784737437473743747374374737437'
-          console.log(wordsStr)
-          console.log(wordsStr.replaceAll('milkshake', '11111'))
-        } catch (err) {
-          console.log(err)
-        }
-      })
+      matchWords(fileResult)
     }
-  })
+  }
+}
+
+// 匹配单词
+function matchWords(str) {
+  // 解析文件内容
+  const parseArr = Marked.lexer(str)
+  const list = parseArr.find(item => item.type === 'list').items
+  try {
+    list.forEach(item => {
+      // 得到单词解释的当前行
+      const str = item.tokens.find(ele => ele.type === 'text').text
+      // 匹配 **[ 前面的内容
+      const regex = /(.*?)\*\*\[/g
+
+      // 得到当前解释的单词
+      const word = regex.exec(str)[1].trim()
+      if (strArr.includes(word)) {
+        // 追加进文件
+        fsWrite(targetFilePath, `${index++}. ${str}\n\n`, 'a')
+      }
+    })
+  } catch (err) {}
 }
 
 readTodoFile()

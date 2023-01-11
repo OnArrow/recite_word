@@ -51,7 +51,7 @@
 
    He does want this job
    他确实想要这份工作
-   // 但存在`does`时，后面跟的动词就不需要再变为第三人称单数了
+   // 一个句子只存在一个谓语动词（这里是`does`）
 
    She likes grapes
 

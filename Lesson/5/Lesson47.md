@@ -74,9 +74,9 @@
    ```
    What do you want?
 
-   Why do you want?
+   Why do you want the cup of water?
 
-   Where do you want?
+   Where do you want to go?
 
    Who do you like?
 

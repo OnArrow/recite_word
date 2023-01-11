@@ -4,9 +4,9 @@
 
 2. collapse **[kəˈlæps]** `v` 崩溃；折叠；倒塌 `n` 倒塌，塌陷
 
-3. inspect **[ɪnˈspekt]** `v` 检查，检验
+3. batch **[bætʃ]** `v` 分批处理 `n` 一批
 
-4. batch **[bætʃ]** `v` 分批处理 `n` 一批
+4. inspect **[ɪnˈspekt]** `v` 检查，检验
 
 5. shower **[ˈʃaʊə(r)]** `n` 沐浴间；洗澡 `v` 洗澡
 
@@ -16,15 +16,15 @@
 
 8. carrot **[ˈkærət]** `n` 胡萝卜
 
-9. extra **[ˈekstrə]** `adj` 额外的 `adv` 额外；格外
+9. convert **[kənˈvɜːt]** `v` 转换；转变
 
-10. convert **[kənˈvɜːt]** `v` 转换；转变
+10. extra **[ˈekstrə]** `adj` 额外的 `adv` 额外；格外
 
-11. progress **[ˈprəʊɡres]** `n` 进步，进展；前进 `v` 进步；缓慢行进
+11. protection **[prəˈtekʃ(ə)n]** `n` 保护，防护
 
-12. speech **[spiːtʃ]** `v` 演说；发言；口语
+12. progress **[ˈprəʊɡres]** `n` 进步，进展；前进 `v` 进步；缓慢行进
 
-13. protection **[prəˈtekʃ(ə)n]** `n` 保护，防护
+13. speech **[spiːtʃ]** `v` 演说；发言；口语
 
 14. boring **[ˈbɔːrɪŋ]** `adj` 无聊的
 
@@ -38,9 +38,9 @@
 
 19. mutation **[mjuːˈteɪʃn]** `n` 突变；转变
 
-20. interest **[ˈɪntrəst]** `n` 兴趣；趣味 `v` 使感兴趣；引起...的注意
+20. sketch **[sketʃ]** `n` 素描；草图
 
-21. sketch **[sketʃ]** `n` 素描；草图
+21. interest **[ˈɪntrəst]** `n` 兴趣；趣味 `v` 使感兴趣；引起...的注意
 
 22. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
 
@@ -48,9 +48,9 @@
 
 24. digit **[ˈdɪdʒɪt]** `n` (0 到 9 中的任意一个)数字
 
-25. pot **[pɒt]** `n` 陶罐；花盆
+25. fair **[feə(r)]** `adj` 公平的；合理的；（头发）金色的 `adv` 公平地
 
-26. fair **[feə(r)]** `adj` 公平的；合理的；（头发）金色的 `adv` 公平地
+26. pot **[pɒt]** `n` 陶罐；花盆
 
 27. depend **[dɪˈpend]** `v` 依赖；依靠
 
@@ -92,29 +92,29 @@
 
 46. decline **[dɪˈklaɪn]** `v` 拒绝；下降，衰退 `n` 减少，衰退
 
-47. permission **[pəˈmɪʃ(ə)n]** `n` 权限；同意；许可
+47. clip **[klɪp]** `v` 修剪，剪下 `n` 夹子，别针；弹匣；修剪
 
-48. lite **[laɪt]** `n` 青春版；精简版 `adj` 低热量的，清淡的
+48. permission **[pəˈmɪʃ(ə)n]** `n` 权限；同意；许可
 
-49. clip **[klɪp]** `v` 修剪，剪下 `n` 夹子，别针；弹匣；修剪
+49. lite **[laɪt]** `n` 青春版；精简版 `adj` 低热量的，清淡的
 
 50. foreign **[ˈfɒrən]** `adj` 外国的，来自国外的；外来的，外地的
 
-51. hate **[heɪt]** `v` 厌恶；讨厌；仇恨 `n` 憎恶；憎恨
+51. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
 
-52. stale **[steɪl]** `adj` （食物）不新鲜的，变味的；（因长期从事同一工作而）厌倦的 `adv` （使）不新鲜 `n` 尿
+52. weak **[wiːk]** `adj` 虚弱的，无力的；懦弱的 `n` 弱者
 
-53. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
+53. politics **[ˈpɒlətɪks]** `n` 政治学
 
-54. expect **[ɪkˈspekt]** `v` 期待；预计
+54. tennis **[ˈtenɪs]** `n` 网球
 
-55. tennis **[ˈtenɪs]** `n` 网球
+55. science **[ˈsaɪəns]** `n` 科学
 
-56. weak **[wiːk]** `adj` 虚弱的，无力的；懦弱的 `n` 弱者
+56. expect **[ɪkˈspekt]** `v` 期待；预计
 
-57. politics **[ˈpɒlətɪks]** `n` 政治学
+57. hate **[heɪt]** `v` 厌恶；讨厌；仇恨 `n` 憎恶；憎恨
 
-58. science **[ˈsaɪəns]** `n` 科学
+58. stale **[steɪl]** `adj` （食物）不新鲜的，变味的；（因长期从事同一工作而）厌倦的 `adv` （使）不新鲜 `n` 尿
 
 59. reasonable **[ˈriːznəbl]** `adj` 合适的，适度的；有道理的；
 
@@ -130,19 +130,19 @@
 
 65. fare **[feə(r)]** `n` 车费；交通费用
 
-66. except **[ɪkˈsept]** `prep` 除...外，不包括
+66. explain **[ɪkˈspleɪn]** `v` 解释，说明
 
-67. explain **[ɪkˈspleɪn]** `v` 解释，说明
+67. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
 
-68. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
+68. except **[ɪkˈsept]** `prep` 除...外，不包括
 
 69. perfect **[ˈpɜːfɪkt]** `adj` 完美的；理想的；完全正确的 `v` 完善，使完美
 
 70. urgent **[ˈɜːdʒənt]** `adj` 紧急的，急迫的
 
-71. restaurant **[ˈrestrɒnt]** `n` 餐馆，饭店
+71. prefer **[prɪˈfɜː(r)]** `v` 更喜爱；宁可；情愿
 
-72. prefer **[prɪˈfɜː(r)]** `v` 更喜爱；宁可；情愿
+72. restaurant **[ˈrestrɒnt]** `n` 餐馆，饭店
 
 73. determiner **[dɪˈtɜːmɪnə(r)]** `n` 限定词；决定因素
 

@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit  pure ripe lamb cabbage
+   chase expect purchase  essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit pure ripe lamb cabbage
    ```
 
 7. **复习过去式&过去分词**

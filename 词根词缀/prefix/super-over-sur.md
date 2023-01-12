@@ -13,7 +13,10 @@
 3. supermarket **[ˈsuːpəmɑːkɪt]** `n` 超市；超级市场
 
    ```
-   规模超过一般的市场
+   super 超过
+   market 集市
+
+   规模超过一般的集市
    ```
 
 4. overlay **[ˌəʊvəˈleɪ]** `n` 遮罩层

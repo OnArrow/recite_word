@@ -3,7 +3,7 @@
 1. **记单词**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap
    ```
 
 2. **代码相关**

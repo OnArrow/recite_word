@@ -219,3 +219,5 @@
 100. `cherry pick` 做出最佳选择
 
 101. `well done` 全熟
+
+102. `overlapping sound` 内心独白；内心 os 的全称

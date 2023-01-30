@@ -38,6 +38,9 @@ async function readWordsFolder() {
   for (let fileName of fileArr) {
     if (fileName.includes('.md')) {
       const fileResult = await fsRead(fileName)
+      // const fileResult = await fsRead(
+      //   '/Users/jack/code/单词/Words/November/11.14.md'
+      // )
 
       matchWords(fileResult)
     }
@@ -50,19 +53,27 @@ function matchWords(str) {
   const parseArr = Marked.lexer(str)
   const list = parseArr.find(item => item.type === 'list').items
   try {
-    list.forEach(item => {
+    for (let item of list) {
       // 得到单词解释的当前行
       const str = item.tokens.find(ele => ele.type === 'text').text
+
+      // 碰到组合单词时直接跳过本次循环
+      if (!str.includes('**[')) {
+        continue
+      }
+
       // 匹配 **[ 前面的内容
       const regex = /(.*?)\*\*\[/g
 
       // 得到当前解释的单词
       const word = regex.exec(str)[1].trim()
+      console.log(word)
+
       if (strArr.includes(word)) {
         // 追加进文件
         fsWrite(targetFilePath, `${index++}. ${str}\n\n`, 'a')
       }
-    })
+    }
   } catch (err) {}
 }
 

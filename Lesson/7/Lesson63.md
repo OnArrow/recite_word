@@ -1,6 +1,6 @@
 # Lesson 63
 
-1. `yet` 一般用于否定句
+1. `yet` 一般用于否定句和疑问句，通常出现在句尾
 
    ```
    You mustn't get up yet
@@ -11,6 +11,10 @@
 
    I mustn't sleep yet
    我还不能睡觉
+
+   Have you had lunch yet?
+
+   Has Penny arrived home yet?
    ```
 
 2. `mustn't` 不表示"不必须,不必",不能简单地通过`must`来对应翻译`mustn't`. `mustn't`应该理解为"禁止",严重语气

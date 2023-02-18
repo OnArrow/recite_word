@@ -3,7 +3,7 @@
 1. **记单词**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical  boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime
    ```
 
 2. **代码相关**
@@ -15,13 +15,13 @@
 3. **其他**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct staged/暂存的
+   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct staged/暂存的 tamper
    ```
 
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show woke hit
+   lie win build hold show wake hit bear ride steal show learn/learnt shine
    ```
 
 5. **比较级&最高级**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-   chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit pure ripe lamb cabbage improve stage autumn Germany mild aunt neighbor pool tennis
+   chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit pure ripe lamb cabbage improve stage autumn Germany mild aunt neighbor pool tennis examination picnic colleague divorce village valley golf beard baker accident factory opposite sweater kilometer serious allow garage damage wedding wed foreign explain loud corner channel flu such strange sick
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring swim grow sweep break
+   bring swim grow sweep break catch fall forget wear spent teach sing think fly drive write sent eat run
    ```
 
 8. **复习比较级&最高级**
@@ -48,47 +48,69 @@
 
    ```
 
-9. 所有格形式
+9. **剑桥初级语法**
 
-10. 特殊疑问词
+   ```
+   Unit 22（56，57页）
 
-11. 代词
+   Unit 25（62，63页）
+   ```
 
-12. 梳理冠词内容
+10. **剑桥初级语法练习**
 
-13. grass 和 lawn
+    ```
 
-14. yet 的用法
+    ```
 
-15. to 的用法
+11. 所有格形式
 
-16. 宾语从句、直接引语、间接引语
+12. 特殊疑问词
 
-17. will 和 be going to 的区别
+13. 代词
 
-18. Lesson 101 的反意疑问句中的 Example
+14. 梳理冠词内容
 
-19. would like 的四句型
+15. grass 和 lawn
 
-20. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+16. yet 的用法
 
-21. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+17. to 的用法
 
-22. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+18. 宾语从句、直接引语、间接引语
 
-23. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
+19. will 和 be going to 的区别
 
-24. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+20. Lesson 101 的反意疑问句中的 Example
 
-25. `Jack lives very near us` 这句话中 `near`是什么词性？
+21. would like 的四句型
 
-26. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
+22. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-27. 什么是宾语补足语
+23. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+
+24. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+
+25. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
+
+26. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+
+27. `Jack lives very near us` 这句话中 `near`是什么词性？
+
+28. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
+
+29. 什么是宾语补足语
 
     ```
     I'm going to paint bookcase pink
     // `bookcase` 为宾语。 `pink` 为宾语补足语
     ```
 
-28. `He finished swimming` 是什么时态？
+30. `He finished swimming` 是什么时态？
+
+31. `What time are Jack and Tom coming?` 是什么时态？
+
+32. `They also loved the clothes he wore and the way he moved when he sang` 这句话的`the clothes he wore`和`the way he moved`
+
+33. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
+
+34. `The dish I make for lunch today is a new idea of mine` 分析这句话

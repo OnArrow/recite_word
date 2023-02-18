@@ -108,6 +108,12 @@
    I want the ice cream which has a spoon
    ```
 
+   - 定语从句修饰“地点”的时候，用`where`替代
+
+   ```
+   A garage is a place where cars are repaired
+   ```
+
 3. 定语从句易错点
 
    - 原则：定语从句修饰谁，就紧跟谁

@@ -42,7 +42,7 @@
    What do you do for a living?
    ```
 
-6. 但主语为 `I` 或者 `we` 时，才能用 `shall`
+6. 主语为 `I` 或者 `we` 时，才能用 `shall`
 
    ```
    I shall have a bath at 9 p.m.

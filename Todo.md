@@ -3,7 +3,7 @@
 1. **记单词**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime percent
    ```
 
 2. **代码相关**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit pure ripe lamb cabbage improve stage autumn Germany mild aunt neighbor pool tennis examination picnic colleague divorce village valley golf beard baker accident factory opposite sweater kilometer serious allow garage damage wedding wed foreign explain loud corner channel flu such strange sick
+   chase expect purchase essential silver decline worth intelligent hell permission clip extra protection reasonable boring thread lite quality urgent situation quote speech approval portrait president except foreign integrate inspect convert collapse determiner abbreviation sand stale ankle progressive progress fair weak panel manual tone mutation simulator afford sensational plant framework interest politics tennis lawyer brown island carrot shower sharp medium prefer perfect wardrobe adult explain tennis science depend sketch branch restaurant traffic silent soap pot batch labor glorious cafe hate supermarket fare digit pure ripe lamb cabbage improve stage autumn Germany mild aunt neighbor pool tennis examination picnic colleague divorce village valley golf beard baker accident factory opposite sweater kilometer serious allow garage damage wedding wed foreign explain loud corner channel flu such strange sick exist bread probably extra
    ```
 
 7. **复习过去式&过去分词**
@@ -54,6 +54,8 @@
    Unit 22（56，57页）
 
    Unit 25（62，63页）
+
+   Unit 28 - 33（68-79页）
    ```
 
 10. **剑桥初级语法练习**
@@ -114,3 +116,20 @@
 33. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
 
 34. `The dish I make for lunch today is a new idea of mine` 分析这句话
+
+35. 判断下面的话
+
+    ```
+    What are you doing tomorrow evening?
+    // 为什么不是`What will you do tomorrow evening?`
+    // 或者是`What are you going to do tomorrow evening?`
+
+    Nothing, I'm free
+    ```
+
+36. 现在进行时可以表示事先决定好的事情吗？
+
+    ```
+    I'm working tomorrow
+    // 为什么不用`I will work tomorrow?`
+    ```

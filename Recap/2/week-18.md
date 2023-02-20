@@ -79,7 +79,6 @@ No, they have only just been started
 
 ```
 Someone has asked you to do something. How do you promise that it'll be done soon?
-TODO: `has asked`是什么语法？或者说时态？
 
 It'll be done soon
 ```

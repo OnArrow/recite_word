@@ -66,7 +66,6 @@ But it was too late
 
 Tommy had already swallowed them!
 汤米已经把它们吞下去了！
-TODO: 这句是什么时态？
 
 Later that morning
 那个早晨过后

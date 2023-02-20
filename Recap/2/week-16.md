@@ -89,7 +89,6 @@ TODO:  为什么是`can't mean`不是`can't be mean`
 
 ```
 Who do you think that is? Is it Jack?
-TODO: 为什么用`it`而不用`he`?
 
 No, it can't be Jack. It must be Mike
 ```

@@ -237,3 +237,5 @@
 104. `fed up` 感到厌烦
 
 105. `fly in` （乘飞机）降落
+
+106. `she has to travel in her job` 她不得不出差

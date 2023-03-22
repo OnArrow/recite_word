@@ -10,7 +10,7 @@
    He wants to play with Penny
    ```
 
-2. 和某人说话,交谈 `talk to sb.`
+2. 和某人说话，交谈 `talk to sb.`
 
    ```
    I'm talking to Jack

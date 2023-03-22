@@ -66,9 +66,6 @@
    tidy
    untidy
 
-   install
-   uninstall
-
    happy
    unhappy
    ```
@@ -77,6 +74,7 @@
 
    ```
    We had shoes like this a month ago
+   // `like`当介词
 
    How long ago did you have shoes like this?
    ```

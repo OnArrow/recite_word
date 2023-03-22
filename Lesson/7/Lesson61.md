@@ -39,7 +39,7 @@
 
 3. 一般来说动词后面都加名词，但是感官动词后面可以加形容词
 
-   - 感官动词：feel sound smell taste look
+   - 感官动词：`feel`,`sound`,`smell`,`taste`,`look`
 
      ```
      I feel ill

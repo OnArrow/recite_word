@@ -75,7 +75,7 @@
    ```
 
    ```
-   Example:
+   Examples:
 
    These aren't your books, are they?
 

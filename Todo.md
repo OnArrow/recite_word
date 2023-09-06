@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   suit daughter twelve hundred thousand France French hostess mechanic dirty blouse perhaps evening autumn cattle horse lion chicken leopard giraffe argument usage public config prop brand inspect
+   hostess mechanic blouse perhaps evening cattle horse lion leopard giraffe argument usage prop brand inspect
    ```
 
 7. **复习过去式&过去分词**

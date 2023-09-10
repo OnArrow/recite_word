@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   hostess mechanic blouse perhaps evening cattle horse lion leopard giraffe argument usage prop brand inspect
+   hostess mechanic blouse perhaps evening cattle horse lion leopard giraffe argument usage prop brand inspect beer bear
    ```
 
 7. **复习过去式&过去分词**

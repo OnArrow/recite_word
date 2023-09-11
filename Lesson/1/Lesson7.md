@@ -129,7 +129,7 @@
 
    Where are your grandparents from?
    你爷爷奶奶是哪里人？
-   // `your grandparent`是第三人称复数，用`are`
+   // `your grandparents`是第三人称复数，用`are`
    ```
 
 6. 询问某人的工作
@@ -155,7 +155,7 @@
    ```
    driver
    司机
-   // d`rive`有开车出行的意思，所以加上`er`就成了`driver`。意为开车的人，就是司机
+   // `drive`有开车出行的意思，所以加上`er`就成了`driver`。意为开车的人，就是司机
 
    teacher
    老师

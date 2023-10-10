@@ -116,7 +116,7 @@
     The size of the earth
     地球的大小
 
-    Pictures of children
+    The pictures of children
     小孩的照片
     ```
 

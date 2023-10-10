@@ -111,9 +111,7 @@
    Come downstairs and see it
    到楼下去看看
    // 这里的 `and` 是“目的”的意思。“到楼下”的目的是为了“看它”。起到承上启下的作用
-   ```
 
-   ```
    Come and see me
    来见我
    ```

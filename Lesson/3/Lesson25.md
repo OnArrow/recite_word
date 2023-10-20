@@ -4,7 +4,7 @@
 
    ```
    In the middle of the room
-   // `in the middle`为A，`the room`为B，`of`可以看作“属于”，A属于B。“中间”是属于“房间的”，因此为“房间的中间”
+   // `the middle`为A，`the room`为B，`of`可以看作“属于”，A属于B。“中间”是属于“房间的”，因此为“房间的中间”
 
    On the left of the kitchen
 

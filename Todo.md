@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   hostess mechanic blouse perhaps evening cattle horse lion leopard giraffe argument usage prop brand inspect beer bear operator mechanic engineer employee peace beautiful lady gentleman brown bright grass husband lead
+    brand inspect bear bright grass lead bicycle cabbage lettuce lawn available temperature blunt cupboard wardrobe shelf cigarette refrigerator fridge kitchen armchair
    ```
 
 7. **复习过去式&过去分词**

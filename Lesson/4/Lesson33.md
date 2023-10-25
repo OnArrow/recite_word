@@ -12,6 +12,8 @@
 
 2. `shave` 的核心含义是“剃毛发”，并不是特指刮胡子
 
+3. `What are the man and the woman doing?` 这句话中因为是两个人所以需要用复数`are`
+
 ## A fine day
 
 ```

@@ -24,7 +24,23 @@
 
 3. `There we are` 表示“好了；就这样；okay”的意思
 
-4. 展示某物给某人
+4. `Turn on the light` 相当于 `Turn it on`。用代词的时候才能使用后面一种方式
+
+   ```
+   Turn off the tap
+
+   Turn it off
+
+   Put on your suit
+
+   Put it on
+
+   Take off his shoes
+
+   Take them off
+   ```
+
+5. 展示某物给某人
 
    ```
    Show your passport to me
@@ -40,7 +56,7 @@
    I'm going to show it to Jack
    ```
 
-5. 发送/寄送某物给某人
+6. 发送/寄送某物给某人
 
    ```
    Send a letter to me
@@ -56,7 +72,7 @@
    He's going to send them to his family
    ```
 
-6. 把某物拿给某人
+7. 把某物拿给某人
 
    ```
    Take the coffee to him
@@ -72,7 +88,7 @@
    She's going to take the milk to these cats
    ```
 
-7. 名句
+8. 名句
 
    ```
    I'm careful not to confuse excellence with perfection. Excellence I can reach for, perfection is God's business

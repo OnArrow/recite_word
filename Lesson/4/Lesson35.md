@@ -49,7 +49,7 @@
 7. 名句
 
    ```
-   Don't walk behind me, I way not lead; Don't walk in front of me, I way not follow. Just walk beside me and be my friend
+   Don't walk behind me, I may not lead; Don't walk in front of me, I may not follow. Just walk beside me and be my friend
    不要走在我身后，我可能不会领导；不要走在我前面，我可能不会跟随。走在我身边，做我的朋友
    ```
 

@@ -25,10 +25,6 @@ Now we are doing our homework
 ```
 
 ```
-
-```
-
-```
 What are you both going to do?
 
 We are going to listen to the stereo

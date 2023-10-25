@@ -1,61 +1,63 @@
 # Review
 
-1. temperature **[ˈtemprətʃə(r)]** `n` 温度；体温；发烧
+1. favorite **[ˈfeɪvərɪt]** `adj` 特别喜爱的 `n` 特别喜爱的人（或事物） `v` 把...添加到收藏夹
 
-2. inspect **[ɪnˈspekt]** `v` 检查，检验
+2. daughter **[ˈdɔːtə(r)]** `n` 女儿 `adj` 女儿的
 
-3. lead **[liːd]** `v` 领导；指挥
+3. duty **[ˈdjuːti]** `n` 责任；义务；值班
 
 4. bright **[braɪt]** `adj` 明亮的；鲜艳的；聪明的
 
-5. bear **[beə(r)]** `n` 熊 `v` 忍受，承担
+5. climb **[klaɪm]** `v` 爬；攀登
 
-6. grass **[ɡrɑːs]** `n` 草；草地
+6. tooth **[tuːθ]** `n` 牙齿
 
-7. lawn **[lɔːn]** `n` 草坪；草地
+7. shine **[ʃaɪn]** `v` （太阳或其他光源）发光；照耀 `adj` 光亮；光泽
 
-8. dish **[dɪʃ]** `n` 碟；盘；全部餐具；一盘食物；菜肴 `v` 把（食物）装盘；说...的闲话
+8. bridge **[brɪdʒ]** `n` 桥
 
-9. beer **[bɪə(r)]** `n` 啤酒；一杯啤酒
+9. aeroplane **[ˈeərəpleɪn]** `n` 飞机
 
-10. husband **[ˈhʌzbənd]** `n` 丈夫 `v` 节约使用
+10. shave **[ʃeɪv]** `n` 刮脸；剃毛发 `v` 剃（胡须）；削去
 
-11. cabbage **[ˈkæbɪdʒ]** `n` 卷心菜；洋白菜
+11. photograph **[ˈfəʊtəɡrɑːf]** `n` 照片；相片 `v` 拍照；照相
 
-12. lettuce **[ˈletɪs]** `n` 生菜
+12. village **[ˈvɪlɪdʒ]** `n` 村庄；乡村
 
-13. brown **[braʊn]** `adj` 棕色的
+13. valley **[ˈvæli]** `n` 山谷；流域
 
-14. blunt **[blʌnt]** `adj` 钝的；不锋利的 `v` 减弱
+14. beside **[bɪˈsaɪd]** `prep` 在...旁边；在...附近；紧挨着
 
-15. shelf **[ʃelf]** `n` 架子
+15. branch **[brɑːntʃ]** `n` 树枝；分枝；分店 `v` 分岔；岔开
 
-16. plate **[pleɪt]** `n` 盘子；碟子
+16. bookcase **[ˈbʊkkeɪs]** `n` 书柜；书架
 
-17. cupboard **[ˈkʌbəd]** `n` 橱柜；衣柜
+17. hammer **[ˈhæmə(r)]** `n` 锤子；榔头 `v` （用锤子）敲击；用力拍打；猛踢
 
-18. cigarette **[sɪɡəˈret]** `n` 香烟
+18. paint **[peɪnt]** `n` 油漆；涂料 `v` （给...）上油漆；（给...）涂颜料；（用颜料）绘画
 
-19. wardrobe **[ˈwɔːdrəʊb]** `n` 衣柜；衣橱
+19. behind **[bɪˈhaɪnd]** `prep` 在...后面；跟在...后面 `adv` 在后面；留在原地
 
-20. engineer **[ˌendʒɪˈnɪə(r)]** `n` 工程师；设计师 `v` 设计；建造
+20. lift **[lɪft]** `n` 电梯；免费搭车 `v` 提起；举起
 
-21. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
+21. favorite **[ˈfeɪvərɪt]** `adj` 特别喜爱的
 
-22. cattle **[ˈkæt(ə)l]** `n` 牛
+22. cigarette **[sɪɡəˈret]** `n` 香烟
 
-23. leopard **[ˈlepəd]** `n` 豹
+23. refrigerator **[rɪˈfrɪdʒəreɪtə(r)]** `n` 冰箱；冷藏库
 
-24. giraffe **[dʒəˈrɑːf]** `n` 长颈鹿
+24. untidy **[ʌnˈtaɪdi]** `adj` 不整洁的；懒散的
 
-25. argument **[ˈɑːɡjumənt]** `n` 争吵；辩论，讨论；自变数
+25. wardrobe **[ˈwɔːdrəʊb]** `n` 衣柜；衣橱
 
-26. brand **[brænd]** `n` 品牌；商标
+26. tidy **[ˈtaɪdi]** `adj` 整洁的；有条理的 `v` 使整洁；整理
 
-27. bicycle **[ˈbaɪsɪk(ə)l]** `n` 单车，自行车 `v` 骑自行车
+27. lend **[lend]** `v` 借出，借给；给予，提供
 
-28. beautiful **[ˈbjuːtɪf(ə)l]** `adj` 美丽的；漂亮的
+28. wear **[weə(r)]** `v` 穿（衣服）；戴（首饰） `n` （特定人群、场合或用途穿的）服装
 
-29. available **[əˈveɪləb(ə)l]** `adj` 可用的，可获得的；可购得；有空的，有闲暇的；未婚的，单身的
+29. suitcase **[ˈsuːtkeɪs]** `n` （旅行用的）手提箱，衣箱
 
-30. gentleman **[ˈdʒentlmən]** `n` （尤指不认识的，或表示礼貌的称谓）先生；彬彬有礼的人
+30. fridge **[frɪdʒ]** `n` 冰箱
+
+31. pocket **[ˈpɒkɪt]** `n` 衣袋；口袋；财力 `v` 把...放入口袋

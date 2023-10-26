@@ -43,7 +43,7 @@ Yes, I do. I like bananas, but I don't want any
 ```
 
 ```
-Does Mr. Jones like oranges?
+Does Mr.Jones like oranges?
 
 Yes, he does. He likes oranges, but he doesn't want any
 ```

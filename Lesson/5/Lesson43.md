@@ -10,7 +10,7 @@
    There's a school over there
    那有一个学校
 
-   Quick! bag that table over there
+   Quick! Bag that table over there
    快点占住那边的桌子！
    ```
 

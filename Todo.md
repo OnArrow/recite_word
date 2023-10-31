@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    cigarette branch lend flow bread deliver sand cheese soap chocolate pound quarter tobacco sugar heart kettle teapot boil multiply divide customer president terrible carpet biscuit butter jam whisky wine pea bean really grape aunt pear peach stamp subtract divide cabbage pleasant sometimes always seldom often rain weather climate Greece windy warm snow country exercise Brazil Holland France French Italy interesting mild conversation favorite subject North South East West set early late rise season Australian Australia Canadian Canada Finnish Finland Indian India
+    cigarette branch lend flow bread deliver sand cheese soap chocolate pound quarter tobacco sugar heart kettle teapot boil multiply divide customer president terrible carpet biscuit butter jam whisky wine pea bean really grape aunt pear peach stamp subtract divide cabbage pleasant sometimes always seldom often rain weather climate Greece windy warm snow country exercise Brazil Holland France French Italy interesting mild conversation favorite subject North South East West set early late rise season Australian Australia Canadian Canada Finnish Finland Indian India meal
    ```
 
 7. **复习过去式&过去分词**

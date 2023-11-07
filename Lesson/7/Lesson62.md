@@ -1,52 +1,81 @@
 # Lesson 62
 
-1. 表达生病时通常用`have + 病的名称`
+```
+What's the matter with her? Does she have an earache?
 
-   ```
-   have an toothache
-   牙痛
+She doesn't have an earache, she has a headache
 
-   have a headache
-   头痛
+What must she do?
 
-   have an earache
-   耳朵痛
+She must take an aspirin
+```
 
-   have a temperature
-   发烧
+```
+What's the matter with George? Does he have a headache?
 
-   have a cold
-   感冒
+He doesn't have a headache, he has an earache
 
-   have a stomachache
-   肚子痛
+What must he do?
 
-   I have a temperature
-   我发烧了
-   ```
+He must see a doctor
+```
 
-2. 当`have`后跟一些名词，往往可以做动词短语
+```
+What's the matter with him? Does he have a stomachache?
 
-   ```
-   have a conversation
-   交谈
-   // 如果按字面翻译，应该译为“有一个谈话”，这里的“谈话”实际上是一个名词
-   // 当前面是`have`时，应该理解为“交谈”，是一个动词短语
+He doesn't have a stomachache, he has a toothache
 
-   have lunch
-   吃午餐
-   // 同样，这里不能翻译为“有一个午餐”，应该理解为引申意“吃午餐”这个动词
+What must he do?
 
-   have dinner
-   吃晚餐
-   ```
+He must see a dentist
+```
 
-3. 当表示服用药物时，中文习惯直接说“吃药”，但不能直接翻译成英文`eat medicine`。当用英文表示“吃药”时，应该用`take`
+```
+What's the matter with Jane? Does she have a toothache?
 
-   ```
-   take an aspirin
-   服用阿司匹林
+She doesn't have a toothache, she has a stomachache
 
-   take some medicine
-   服用一些药
-   ```
+What must she do?
+
+She must take some medicine
+```
+
+```
+What's the matter with Sam? Does he have a stomachache?
+
+He doesn't have a stomachache, he has a temperature
+
+What must he do?
+
+He must go to bed
+```
+
+```
+What's the matter with Dave? Does he have a headache?
+
+He doesn't have a headache, he has flu
+
+What must he do?
+
+He must stay in bed
+```
+
+```
+What's matter with Jimmy? Does he have a headache?
+
+He doesn't have a headache, he has a measles
+
+What must we do?
+
+We must call the doctor
+```
+
+```
+What's the matter with Susan? Does she have an earache?
+
+She doesn't have an earache, she has mumps
+
+What must we do?
+
+We must call the doctor
+```

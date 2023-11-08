@@ -21,7 +21,7 @@
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep
+   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep
    ```
 
 5. **比较级&最高级**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    cigarette branch lend flow bread deliver sand cheese soap chocolate pound quarter tobacco sugar heart kettle teapot boil multiply divide customer president terrible carpet biscuit butter jam whisky wine pea bean really grape aunt pear peach stamp subtract divide cabbage pleasant sometimes always seldom often rain weather climate Greece windy warm snow country exercise Brazil Holland France French Italy interesting mild conversation favorite subject North South East West set early late rise season Australian Australia Canadian Canada Finnish Finland Indian India meal
+    cigarette lend flow deliver sand tobacco sugar heart teapot boil divide president carpet biscuit wine pea bean really grape aunt pear peach stamp subtract divide cabbage pleasant climate Greece windy warm exercise mild conversation meal hurt accident hospital taste smell sound feel ill midday stay housework together arrive street blackboard
    ```
 
 7. **复习过去式&过去分词**

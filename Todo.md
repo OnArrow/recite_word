@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    cigarette lend flow deliver sand tobacco sugar heart teapot boil divide president carpet biscuit wine pea bean really grape aunt pear peach stamp subtract divide cabbage pleasant climate Greece windy warm exercise mild conversation meal hurt accident hospital taste smell sound feel ill midday stay housework together arrive street blackboard
+    cigarette lend deliver heart teapot divide president really grape pear peach stamp exercise mild hurt accident excite temperature hear
    ```
 
 7. **复习过去式&过去分词**

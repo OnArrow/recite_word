@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    cigarette lend deliver heart teapot divide president really grape pear peach stamp exercise mild hurt accident excite temperature hear
+   deliver president grape pear exercise accident excite unusual envelope glue chalk change
    ```
 
 7. **复习过去式&过去分词**

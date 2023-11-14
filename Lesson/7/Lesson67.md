@@ -95,3 +95,31 @@
    He spends the weekend in the country
    你在乡下度过周末
    ```
+
+## The weekend
+
+```
+Hello. Were you at the butcher's?
+
+Yes, I was
+
+Were you at the butcher's, too?
+
+No, I wasn't. I was at the greengrocer's
+
+How's Jimmy today?
+
+He's very well, thank you
+
+Was he absent from school last week?
+
+Yes, he was. He was absent on Monday, Tuesday, Wednesday and Thursday
+
+How are you all keeping?
+
+Very well, thank you
+
+We're going to spent three days in the country. We're going to stay at my mother's for the weekend
+
+Friday, Saturday and Sunday in the country! Aren't you lucky!
+```

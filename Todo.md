@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime percent museum politician expedition Britain finance minister European championship final goal unfortunately beginning/n. fantastic literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery ugly panda share shot cushion trade grassland rare upbeat
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime percent museum politician expedition Britain finance minister European championship final goal unfortunately beginning/n. fantastic literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery ugly panda share shot cushion trade grassland rare upbeat drug
    ```
 
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke
    ```
 
 3. **Other**
@@ -21,7 +21,7 @@
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep
+   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep spend
    ```
 
 5. **比较级&最高级**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   deliver president grape pear exercise accident excite unusual envelope glue chalk change
+   deliver exercise accident excite envelope ache headache earache toothache stomachache medicine aspirin match dentist tongue ill mouth flu measles yet smoke noise certainly another rich remain quickly grocer butcher absent spent greengrocer lucky church baker dairy
    ```
 
 7. **复习过去式&过去分词**

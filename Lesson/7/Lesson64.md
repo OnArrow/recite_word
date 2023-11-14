@@ -1,21 +1,55 @@
 # Lesson 64
 
-1. 和某人玩 `play with sb.`
+```
+Don't take any aspirins!
 
-   ```
-   I'm playing with Jack
+You mustn't take any aspirins
+```
 
-   We are going to swim with Tom next week
+```
+Don't take this medicine!
 
-   He wants to play with Penny
-   ```
+You mustn't take this medicine
+```
 
-2. 和某人说话，交谈 `talk to sb.`
+```
+Don't call the doctor!
 
-   ```
-   I'm talking to Jack
+You mustn't call the doctor
+```
 
-   Who are you talking?
+```
+Don't play with matches!
 
-   Does he want to talking to me?
-   ```
+You mustn't play with matches
+```
+
+```
+Don't talk in the library!
+
+You mustn't talk in the library
+```
+
+```
+Don't make a noise!
+
+You mustn't make a noise
+```
+
+```
+Don't drive so quickly!
+
+You mustn't drive so quickly
+```
+
+```
+Don't lean out of the window
+
+You mustn't lean out of the window
+```
+
+```
+Don't break that vase!
+
+You mustn't break that vase
+```

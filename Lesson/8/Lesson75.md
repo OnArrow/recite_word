@@ -3,7 +3,7 @@
 1. `ago` 放在表示时间长度的短语后面时，常与表示一般过去时的动词连用
 
    ```
-   We had some shoes like those two month ago
+   We had some shoes like those two months ago
    两个月前我们有一些像这样的鞋子
    ```
 
@@ -78,3 +78,37 @@
 
    How long ago did you have shoes like this?
    ```
+
+## Uncomfortable shoes
+
+```
+Do you have any shoes like these?
+
+What size?
+
+Size five
+
+What color?
+
+Black
+
+I'm sorry. We don't have any
+
+But my sister bought this pair last month
+
+Did she buy them here?
+
+No, she bought them in the U.S.
+
+We had some shoes like those a month ago, but we don't have any now
+
+Can you get a pair for me, please?
+
+I'm afraid that I can't. They were in fashion last year and the year before last. But they're not in fashion this year
+
+These shoes are in fashion now
+
+They look very uncomfortable
+
+They are very uncomfortable. But women always wear uncomfortable shoes!
+```

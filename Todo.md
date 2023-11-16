@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   remain grocer absent spent church baker dairy finger crowd race stationer assistant awful hurriedly suddenly sudden phrase phrasebook understand pleasantly tourist find slowly appointment thirstily greet warmly afraid ago fashion comfortable uncomfortable pair repair salesman reason
+   remain grocer absent spent church baker dairy finger crowd race stationer assistant awful hurriedly suddenly sudden phrase phrasebook understand pleasantly tourist find slowly appointment thirstily greet warmly afraid ago fashion comfortable uncomfortable pair repair salesman reason roast vegetable restaurant bath nearly till until
    ```
 
 7. **复习过去式&过去分词**

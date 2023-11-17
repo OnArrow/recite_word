@@ -21,7 +21,7 @@
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep spend say take buy speak lose see go give swim wear
+   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep
    ```
 
 5. **比较级&最高级**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-   remain grocer absent spent church baker dairy finger crowd race stationer assistant awful hurriedly suddenly sudden phrase phrasebook understand pleasantly tourist find slowly appointment thirstily greet warmly afraid ago fashion comfortable uncomfortable pair repair salesman reason roast vegetable restaurant bath nearly till until
+    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring swim grow sweep break catch fall forget wear spent teach sing think fly drive write sent eat run
+   bring  grow sweep break catch fall forget spent teach sing think fly write sent run lose see go wear get
    ```
 
 8. **复习比较级&最高级**

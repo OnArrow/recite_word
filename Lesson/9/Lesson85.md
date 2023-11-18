@@ -97,3 +97,33 @@
 
    Lesson 85
    ```
+
+## Paris in the spring
+
+```
+Hello, Ken
+
+Hi, George
+
+Have you just been to the cinema?
+
+Yes, I have
+
+What's on?
+
+'Paris in the Spring'
+
+Oh, I've already seen it. I saw it on television last year. It's an old film, but it's very good
+
+Paris is a beautiful city
+
+I've never been there. Have you ever been there, Ken?
+
+Yes, I have. I was there in April
+
+Paris in the spring, eh?
+
+It was spring, but the weather was awful. It rained all the time
+
+Just like London!
+```

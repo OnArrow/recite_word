@@ -53,3 +53,29 @@
 
    When shall we go next year?
    ```
+
+## Our new neighbor
+
+```
+Nigel is our new next-door neighbor
+
+He's a pilot. He was in the R.A.F.
+
+He will fly to New York next month
+
+The month after next he'll fly to Tokyo
+
+At the moment, he's in Madrid
+
+He flew to Spain a week ago
+
+He'll return to London the week after next
+
+He's only forty-one years old, and he has already been to nearly every country in the world
+
+Nigel is a very lucky man
+
+But his wife isn't very lucky
+
+She usually stays at home!
+```

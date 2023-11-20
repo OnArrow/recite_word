@@ -35,3 +35,35 @@
    ```
    Why will you help me?
    ```
+
+## Poor Ian
+
+```
+Has Ian sold his house yet?
+
+Yes, he has. He sold it last week
+
+Has he moved to his new house yet?
+
+No, not yet. He's still here. He's going to move tomorrow
+
+When? Tomorrow morning?
+
+No, tomorrow afternoon. I'll miss him. He has always been a good neighbor
+
+He's a very nice person. We'll all miss him
+
+When will the new people move into this house?
+
+I think that they'll move in the day after tomorrow
+
+Will you see Ian today, Jenny?
+
+Yes, I will
+
+Please give him my regards
+
+Poor Ian! He didn't want to leave this house
+
+No, he didn't want to leave, but his wife did!
+```

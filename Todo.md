@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping holiday mess already pack Paris cinema sharpen crash garage remember lamp-post mechanic repair breakfast sharp crush manual automatic again haircut lesson leave repost quote bookmark
+    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping holiday mess already pack Paris cinema sharpen crash garage remember lamp post mechanic repair breakfast sharp crush manual automatic again haircut lesson leave repost quote bookmark believe worth retired penny pence sold sell move neighbor people person regard leave pilot Spain Madrid world lucky fly poor platform plenty only bar clock slow fast other describe zip label handle address street wrong slip hurt try sure ray
    ```
 
 7. **复习过去式&过去分词**

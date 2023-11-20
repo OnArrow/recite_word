@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping holiday mess already pack Paris cinema sharpen crash garage remember lamp-post mechanic repair breakfast
+    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping holiday mess already pack Paris cinema sharpen crash garage remember lamp-post mechanic repair breakfast sharp crush manual automatic again haircut lesson leave
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring  grow sweep break catch fall forget spent teach sing think fly write sent run lose see go wear get
+   bring  grow sweep break catch fall forget spent teach sing think fly write sent run lose see go wear get leave
    ```
 
 8. **复习比较级&最高级**

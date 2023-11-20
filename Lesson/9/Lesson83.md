@@ -1,6 +1,6 @@
 # Lesson 83
 
-1. `made a mess` 表示“制造混乱”
+1. `make a mess` 表示“制造混乱”
 
    ```
    Don't make a mess in the room

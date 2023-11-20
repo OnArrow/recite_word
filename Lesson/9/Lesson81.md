@@ -32,7 +32,7 @@
 
    Have fun
 
-   enjoy yourself
+   Enjoy yourself
    ```
 
 4. 在度假用的是介词`on`

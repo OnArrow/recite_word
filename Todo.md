@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart
    ```
 
 3. **Other**
@@ -21,7 +21,7 @@
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal show learn/learnt shine sweep sleep
+   lie win build hold show wake hit bear ride steal learn/learnt shine sleep
    ```
 
 5. **比较级&最高级**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-    absent spend dairy finger crowd stationer assistant awful hurriedly sudden phrase phrasebook pleasantly slowly appointment thirstily greet warmly pair repair salesman reason roast restaurant till until born urgent lot shopping holiday mess already pack Paris cinema sharpen crash garage remember lamp post mechanic repair breakfast sharp crush manual automatic again haircut lesson leave repost quote bookmark believe worth retired penny pence sold sell move neighbor people person regard leave pilot Spain Madrid world lucky fly poor platform plenty only bar clock slow fast other describe zip label handle address street wrong slip hurt try sure ray
+    absent spend greet reason roast restaurant till urgent pack Paris sharpen crash garage lamp post mechanic sharp crush manual repost quote believe worth retire sold sell neighbor regard leave pilot Spain Madrid lucky poor platform plenty other describe zip handle address wrong slip scene loaf description never ever movie dollar fail bring
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring  grow sweep break catch fall forget spent teach sing think fly write sent run lose see go wear get leave
+   bring  grow sweep break catch fall forget spend teach sing think write send run wear get sell hear
    ```
 
 8. **复习比较级&最高级**

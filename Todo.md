@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    absent spend greet reason roast restaurant till urgent pack Paris sharpen crash garage lamp post mechanic sharp crush manual repost quote believe worth retire sold sell neighbor regard leave pilot Spain Madrid lucky poor platform plenty other describe zip handle address wrong slip scene loaf description never ever movie dollar fail bring
+    absent spend greet reason roast restaurant till urgent pack Paris sharpen crash garage lamp post mechanic sharp crush manual repost quote believe worth retire sold sell neighbor regard leave pilot Spain Madrid lucky poor platform plenty other describe zip handle address wrong slip scene loaf description never ever movie dollar fail bring mistake idea little few as happen none neither quiet through cheer enough could would installment
    ```
 
 7. **复习过去式&过去分词**

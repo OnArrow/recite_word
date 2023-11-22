@@ -170,3 +170,23 @@
 
    Which skirts are in fashion now?
    ```
+
+## It's too small
+
+```
+Do you like this dress, madam?
+
+I like the color very much. It's a lovely dress, but it's too small for me
+
+What about this one? It's a lovely dress. It's very smart. Short skirts are in fashion now. Would you like to try it?
+
+All right
+
+I'm afraid this green dress is too small for me as well. It's smaller than the blue one
+
+I don't like the color either. It doesn't suit me at all. I think the blue dress is prettier
+
+Could you show me another blue dress? I want a dress like that one, but it must be my size
+
+I'm afraid I haven't got a large dress. This is the largest dress in the shop
+```

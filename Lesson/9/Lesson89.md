@@ -61,7 +61,7 @@ Yes, of course. Come in
 
 How long have you lived here?
 
-I've lived here fir twenty years
+I've lived here for twenty years
 
 Twenty years! That's a long time
 

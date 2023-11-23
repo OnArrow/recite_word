@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest
    ```
 
 3. **Other**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-    absent spend greet reason roast restaurant till urgent pack Paris sharpen crash garage lamp post mechanic sharp crush manual repost quote believe worth retire sold sell neighbor regard leave pilot Spain Madrid lucky poor platform plenty other describe zip handle address wrong slip scene loaf description never ever movie dollar fail bring mistake idea little few as happen none neither quiet through cheer enough could would installment
+    reason crash garage quote worth regard pilot plenty describe slip scene few neither through cheer enough shape square speech material silent belong youth hostel hotel member association hope speak exam mathematic math fail test hate guy previous difficult rest badly physics chemistry  biology politics geography science intelligent spell mistake present dictionary shall teaspoonful pity instead advice cost decide film
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring  grow sweep break catch fall forget spend teach sing think write send run wear get sell hear
+   bring grow sweep catch fall teach sing think wear sell hear sit read
    ```
 
 8. **复习比较级&最高级**

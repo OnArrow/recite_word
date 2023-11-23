@@ -7,7 +7,7 @@ Yes, and it'll rain again tomorrow
 ```
 
 ```
-He got up yesterday
+He got up late yesterday
 
 Yes, and he'll get up late again tomorrow
 ```

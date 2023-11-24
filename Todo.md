@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    reason crash garage quote worth regard pilot plenty describe slip scene few neither through cheer enough shape square speech material silent belong youth hostel hotel member association hope speak exam mathematic math fail test hate guy previous difficult rest badly physics chemistry  biology politics geography science intelligent spell mistake present dictionary shall teaspoonful pity instead advice cost decide film
+    reason crash garage quote worth regard pilot plenty describe slip scene few neither through cheer enough shape square speech material silent belong youth hostel hotel member association hope speak exam mathematic math fail test hate guy previous difficult rest badly physics chemistry  biology politics geography science intelligent spell mistake present dictionary shall teaspoonful pity instead advice cost decide film collapse comprehension origin example
    ```
 
 7. **复习过去式&过去分词**

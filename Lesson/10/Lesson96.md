@@ -27,7 +27,7 @@ You will go to Russia in a month's time
 ```
 A train left for Paris an hour ago. What about next train?
 
-It will leave for Paris in an hour's ago
+It will leave for Paris in an hour's time
 ```
 
 ```
@@ -43,7 +43,7 @@ We shall go to France in an hour's time
 ```
 
 ```
-A plane left to America three hours ago. What about next plane?
+A plane left for America three hours ago. What about next plane?
 
 It will leave to America in three hours' time
 ```

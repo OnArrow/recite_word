@@ -81,7 +81,7 @@ At eight nineteen
 
 We've got plenty of time
 
-It's only tree minutes to eight
+It's only three minutes to eight
 
 Let's go and have a drink. There's a bar next door to the station
 

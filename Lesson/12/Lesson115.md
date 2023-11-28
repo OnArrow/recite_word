@@ -119,5 +119,4 @@ You can have some lemonade
 Lemonade!
 
 Don't believe her, Jim. She's only joking. Have some beer!
-
 ```

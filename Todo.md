@@ -39,7 +39,7 @@
 7. **复习过去式&过去分词**
 
    ```
-   bring grow sweep catch fall teach sing think wear sell hear sit read
+   bring grow sweep catch fall teach sing think wear sell hear sit read tell
    ```
 
 8. **复习比较级&最高级**

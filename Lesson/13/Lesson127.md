@@ -124,3 +124,35 @@
 
    I hope not
    ```
+
+## A famous actress
+
+```
+Can you recognize that woman, Liz?
+
+I think I can, Kate. It must be Karen Marsh, the actress
+
+I thought so
+
+Who's that beside her?
+
+That must be Conrad Reeves
+
+Conrad Reeves, the actor? It can't be. Let me have another look. I think you're right
+
+Isn't he her third husband?
+
+No, He must be her fourth or fifth
+
+Doesn't Karen Marsh look old!
+
+She does, doesn't she! I read she's twenty-nine, but she must be at least forty
+
+I'm sure she is
+
+She was a famous actress when I was still at school
+
+That was a long time ago, wasn't it?
+
+Not that long ago! I'm not more than twenty-nine myself
+```

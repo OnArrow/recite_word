@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime percent museum politician expedition Britain finance minister European championship final goal unfortunately beginning/n. fantastic literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery ugly panda share shot cushion trade grassland rare upbeat drug crown consider fitness
+   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce steal centre marathon sandwich festival cookery/烹饪术 journey musician flute fed harbour horrible arrange/商定 lunchtime percent museum politician expedition Britain finance minister European championship final goal unfortunately beginning/n. fantastic literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery ugly panda share shot cushion trade grassland rare upbeat drug crown consider fitness sunny
    ```
 
 2. **About**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-   garage quote worth regard pilot plenty describe slip scene neither through speech material youth association mathematic math hate difficult badly physics chemistry  biology politics geography science intelligent present dictionary shall teaspoonful pity instead advice decide collapse comprehension reference preference expensive cheap afford model millionaire fare passenger note knock impossible possible invite lemonade joke coin while swallow story thief enter voice torch parrot smile miss exact
+    speech association intelligent present dictionary pity instead advice decide collapse comprehension reference preference expensive cheap afford model millionaire fare passenger note knock impossible possible lemonade coin swallow thief voice torch parrot exact expand property prototype boat
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   bring grow sweep catch fall teach sing think wear sell hear sit read tell
+    think tell slip
    ```
 
 8. **复习比较级&最高级**

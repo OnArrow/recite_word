@@ -130,6 +130,12 @@
    // 正确
    ```
 
+## Words
+
+```
+exam answer pass mark mathematics maths rest question hate difficult easy enough paper fail low cheer guy top clever stupid cheap expensive fresh stale low loud high hard sweet soft sour
+```
+
 ## The French test
 
 ```

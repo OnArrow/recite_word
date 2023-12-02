@@ -39,13 +39,13 @@
 7. **复习过去式&过去分词**
 
    ```
-    think tell slip
+    think tell slip spell
    ```
 
 8. **复习比较级&最高级**
 
    ```
-
+   little good bad many much
    ```
 
 9. **剑桥初级语法**

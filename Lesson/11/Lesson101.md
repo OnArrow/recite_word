@@ -139,6 +139,12 @@
    I'll come at once
    ```
 
+## Words
+
+```
+Scotland association card soon youth write hostel hotel
+```
+
 ## A card from Jimmy
 
 ```

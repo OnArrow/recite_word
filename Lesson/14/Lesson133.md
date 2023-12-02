@@ -116,3 +116,29 @@
 
    She said that she was going to take a bath
    ```
+
+## Sensational news!
+
+```
+Have you just made a new film, Miss Marsh?
+
+Yes, I have
+
+Are you going to make another?
+
+No, I'm not. I'm going to retire
+
+I feel very tired. I don't want to make another film for a long time
+
+Let's buy a newspaper, Liz. Listen to this!
+
+'Karen Marsh: Sensational News! By out reporter, Alan Jones'
+
+'Karen Marsh arrived at London Airport today. She was wearing a blue dress and a mink coat'
+
+'She told me she had just made a new film. She said she was not going to make another. She said she was going to retire'
+
+'She told reporters she felt very tired and didn't want to make another film for a long time'
+
+I wonder why!
+```

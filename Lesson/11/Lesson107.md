@@ -171,6 +171,12 @@
    Which skirts are in fashion now?
    ```
 
+## Words
+
+```
+madam smart suit pretty
+```
+
 ## It's too small
 
 ```

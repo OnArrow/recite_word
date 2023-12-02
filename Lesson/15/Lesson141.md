@@ -116,3 +116,35 @@
 6. `make up her face` 化妆
 
    - 化谁的妆取决于`her`
+
+## Sally's first train ride
+
+```
+Last week, my four-year-old daughter, Sally, was invited to a children's party
+
+I decided to take her by train
+
+Sally was very excited because she had never traveled on a train before
+
+She sat near the window and asked questions about everything she saw. Suddenly, a middle-aged lady got on the train and sat opposite Sally
+
+'Hello, little girl,' She said
+
+Sally did not answer, but looked at her curiously
+
+The lady was dressed in a blue coat and a large, funny hat
+
+After the train had left the station, the lady opened her handbag and took out her powder compact
+
+She then began to make up her face
+
+'Why are you doing that?' Sally asked
+
+'To make myself beautiful,' the lady answered
+
+She put away her compact and smiled kindly
+
+'But you are still ugly,' Sally said
+
+Sally was amused, but I was very embarrassed!
+```

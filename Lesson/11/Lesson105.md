@@ -36,6 +36,12 @@
    The house was full of sour yesterday
    ```
 
+## Words
+
+```
+spell intelligent mistake present dictionary carry correct keep
+```
+
 ## Full of mistakes
 
 ```

@@ -51,3 +51,21 @@
    Why will the basket be emptied tomorrow?
    为什么这个篮子明天会被清空？
    ```
+
+## A walk through the woods
+
+```
+I live in a very old town which is surrounded by beautiful woods. It is a famous beauty spot
+
+On Sundays, hundreds of people come from the city to see our town and to walk through the woods
+
+Visitors have been asked to keep the woods clean and tidy
+
+Litter baskets have been placed under the trees, but people still throw their rubbish everywhere
+
+Last Wednesday, I went for a walk in the woods. What I saw make me very sad. I counted seven old cars and three old refrigerators
+
+The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins
+
+Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'
+```

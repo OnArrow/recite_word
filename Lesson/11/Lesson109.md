@@ -96,6 +96,12 @@
    I've got few friends, I'm sad and lonely
    ```
 
+## Words
+
+```
+idea teaspoonful pity less instead advice most least best worse worst
+```
+
 ## A good idea
 
 ```

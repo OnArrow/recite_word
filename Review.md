@@ -1,115 +1,81 @@
 # Review
 
-1. collapse **[kəˈlæps]** `v` 折叠；倒塌；崩溃； `n` 倒塌，塌陷
+1. sweet **[swi:t]** `n` 糖果 `adj` 含糖的；甜的
 
-2. knock **[nɒk]** `v` 敲；敲打 `n` 敲打声；敲门声
+2. lemonade **[ˌleməˈneɪd]** `n` 柠檬水
 
-3. impossible **[ɪmˈpɒsəb(ə)l]** `adj` 不可能的 `n` 不可能的事
+3. swallow **[ˈswɒləʊ]** `v` 吞下，咽下 `n` 吞，一口
 
-4. lemonade **[ˌleməˈneɪd]** `n` 柠檬水
+4. thief **[θiːf]** `n` 贼；小偷
 
-5. swallow **[ˈswɒləʊ]** `v` 吞下，咽下 `n` 吞，一口
+5. torch **[tɔːtʃ]** `n` 手电筒；火把 `v` 放火焚烧
 
-6. thief **[θiːf]** `n` 贼；小偷
+6. parrot **[ˈpærət]** `n` 鹦鹉
 
-7. torch **[tɔːtʃ]** `n` 手电筒；火把 `v` 放火焚烧
+7. hard **[hɑːd]** `adj` 硬的；坚固的；努力的；艰苦的 `adv` 努力地；费力地
 
-8. possible **[ˈpɒsəb(ə)l]** `adj` 可能的；合乎事实的 `n` 可能性
+8. fresh **[freʃ]** `adj` 新鲜的；不同的
 
-9. parrot **[ˈpærət]** `n` 鹦鹉
+9. sweet **[swiːt]** `adj` 含糖的；甜的 `n` 糖果；甜食
 
-10. speech **[spiːtʃ]** `v` 演说；发言；口语
+10. top **[tɒp]** `n` 顶部；顶端；最高的级别 `adj` 顶端的；顶部的 `v` 高于，超过（某一数量）
 
-11. story **[ˈstɔːri]** `n` 故事；叙述
+11. decide **[dɪˈsaɪd]** `v` 决定，选定；裁决，判决
 
-12. while **[waɪl]** `n` 一段时间 `conj` 当...的时间；直到...为止 `adv` 在...时候
+12. correct **[kəˈrekt]** `adj` 正确的，无误的；恰当的 `v` 改正，纠正
 
-13. worth **[wɜːθ]** `adj` 值...钱；具有...价值的 `n` 价值，价格；重要性，作用
+13. exact **[ɪɡˈzækt]** `adj` 确切的，精确的；一丝不苟的 `v` 勒索，强取
 
-14. decide **[dɪˈsaɪd]** `v` 决定，选定；裁决，判决
+14. pretty **[ˈprɪti]** `adj` （尤指女孩）漂亮的，标致的；好看的 `adv` 相当；非常 `v` 装饰，使漂亮
 
-15. regard **[rɪˈɡɑːd]** `n` 尊敬，敬佩；关心，关注 `v` 认为，把...看作
+15. association **[əˌsəʊsiˈeɪʃ(ə)n]** `n` 协会，社团，联盟
 
-16. pilot **[ˈpaɪlət]** `n` 飞行员 `v` 试验，试行
+16. low **[ləʊ]** `adj` 低的，矮的 `adv` 在（或向）低的位置 `n` （人生的）低谷
 
-17. shall **[ʃæl]** `aux` 将要，将会
+17. guy **[ɡaɪ]** `n` 家伙；伙计们 `v` 嘲笑；戏弄
 
-18. enter **[ˈentə(r)]** `v` 输入；进入；开始做；参加；登记 `n` 回车键
+18. clever **[ˈklevə(r)]** `adj` 聪明的，机灵的
 
-19. plenty **[ˈplenti]** `n` 富裕；充裕；大量 `adv` 大量，很多
+19. stupid **[ˈstjuːpɪd]** `adj` 笨的，傻的 `n` 傻瓜，笨蛋
 
-20. exact **[ɪɡˈzækt]** `adj` 确切的，精确的；一丝不苟的 `v` 勒索，强取
+20. cheap **[tʃiːp]** `adj` 便宜的，廉价的 `adv` 低价地，便宜地
 
-21. describe **[dɪˈskraɪb]** `v` 描述，形容
+21. stale **[steɪl]** `adj` （食物）不新鲜的，变味的；（因长期从事同一工作而）厌倦的 `adv` （使）不新鲜 `n` 尿
 
-22. slip **[slɪp]** `v` 滑倒，失足；溜走 `n` 滑；滑倒
+22. loud **[laʊd]** `adj` 大声的，响亮的 `adv` 大声地，响亮地
 
-23. youth **[juːθ]** `n` 青年人；青春
+23. high **[haɪ]** `adj` 高的；高级的，先进的 `n` 最高水平；兴奋，高兴 `adv` （成本、价值、音量）高
 
-24. association **[əˌsəʊsiˈeɪʃ(ə)n]** `n` 协会，社团，联盟
+24. soft **[sɒft]** `adj` 软的，柔软的 `adv` 温柔地 `n` 柔软的东西
 
-25. voice **[vɔɪs]** `n` 噪音；声音 `v` 表达，吐露
+25. sour **[ˈsaʊə(r)]** `adj` 酸的；（关系、计划变得）坏的，令人不快的 `v` （使）（关系、情况）变糟；（使）变酸
 
-26. difficult **[ˈdɪfɪkəlt]** `adj` 困难的；费力的；不友好的
+26. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
 
-27. cheap **[tʃiːp]** `adj` 便宜的，廉价的 `adv` 低价地，便宜地
+27. carry **[ˈkæri]** `v` 携带；提，背；运送 `n` 搬运
 
-28. hate **[heɪt]** `v` 厌恶；讨厌；仇恨 `n` 憎恶；憎恨
+28. instead **[ɪnˈsted]** `adv` 代替，顶替
 
-29. expensive **[ɪkˈspensɪv]** `adj` 贵的；（错误或决定）代价高的
+29. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
 
-30. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
+30. coin **[kɔɪn]** `n` 硬币，金属货币 `v` 铸币；投币
 
-31. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的
+31. afford **[əˈfɔːd]** `v` 买得起；有时间做某事；负担得起
 
-32. joke **[dʒəʊk]** `n` 笑话，玩笑 `v` 开玩笑
+32. millionaire **[ˌmɪljəˈneə(r)]** `n` 富豪，百万富翁
 
-33. quote **[kwəʊt]** `v` 引用，引述 `n` 引号；引文，引语
+33. expand **[ɪkˈspænd]** `v` 展开；扩大；扩展
 
-34. teaspoonful **[ˈtiːspuːnfʊl]** `n` 一茶匙的量
+34. fare **[feə(r)]** `n` 车费；交通费用
 
-35. pity **[ˈpɪti]** `n` 遗憾；同情；怜悯 `v` 同情；怜悯
+35. passenger **[ˈpæsɪndʒə(r)]** `n` 乘客，旅客
 
-36. instead **[ɪnˈsted]** `adv` 代替，顶替
+36. dictionary **[ˈdɪkʃənəri]** `n` 字典，词典
 
-37. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
+37. preference **[ˈprefrəns]** `n` 偏好，偏爱；优待，优先
 
-38. coin **[kɔɪn]** `n` 硬币，金属货币 `v` 铸币；投币
+38. reference **[ˈrefrəns]** `n` 参考，查阅；提及，谈到；介绍信，推荐信 `adj` 参考的；用于查阅的 `v` 参考；引用
 
-39. model **[ˈmɒd(ə)l]** `n` 型号；模型；模式 `v` 当模特 `adj` 模范的，榜样的
+39. madam **[ˈmædəm]** `n` 夫人；女士
 
-40. afford **[əˈfɔːd]** `v` 买得起；有时间做某事；负担得起
-
-41. millionaire **[ˌmɪljəˈneə(r)]** `n` 富豪，百万富翁
-
-42. expand **[ɪkˈspænd]** `v` 展开；扩大；扩展
-
-43. fare **[feə(r)]** `n` 车费；交通费用
-
-44. note **[nəʊt]** `n` 纸币；笔记，便笺 `v` 留意，注意
-
-45. passenger **[ˈpæsɪndʒə(r)]** `n` 乘客，旅客
-
-46. neither **[ˈnaɪðə(r)]** `adv` 也不
-
-47. dictionary **[ˈdɪkʃənəri]** `n` 字典，词典
-
-48. garage **[ˈɡærɑːʒ]** `n` 车库；加油站；汽车修理厂 `v` 把...送入车库
-
-49. scene **[siːn]** `n` 事发地；现场；场面；（戏剧、书、电影等的）片段，情节；场景
-
-50. preference **[ˈprefrəns]** `n` 偏好，偏爱；优待，优先
-
-51. reference **[ˈrefrəns]** `n` 参考，查阅；提及，谈到；介绍信，推荐信 `adj` 参考的；用于查阅的 `v` 参考；引用
-
-52. invite **[ɪnˈvaɪt]** `v` 邀请，约请
-
-53. through **[θruː]** `prep` 穿过；，从一端到另一端 `adv` 从一端到另一端；完全的，彻底的 `adj` 完成的，结束的
-
-54. miss **[mɪs]** `v` 未命中，未察觉；思念，怀念；错过
-
-55. comprehension **[ˌkɒmprɪˈhenʃ(ə)n]** `n` 理解力；（听力或阅读）理解测试；包括；包含
-
-56. material **[məˈtɪəriəl]** `n` 衣料；布料；材料 `adj` 物质的；费精神上的
-
-57. smile **[smaɪl]** `v` 微笑；赞许 `n` 微笑；笑容
+40. comprehension **[ˌkɒmprɪˈhenʃ(ə)n]** `n` 理解力；（听力或阅读）理解测试；包括；包含

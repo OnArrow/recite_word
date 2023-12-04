@@ -170,5 +170,5 @@ He says he'll write a letter soon. He hopes we are well. 'Love, Jimmy'
 
 Is that all? He doesn't say very much, does he?
 
-He can't write vert much on a card, Mum
+He can't write very much on a card, Mum
 ```

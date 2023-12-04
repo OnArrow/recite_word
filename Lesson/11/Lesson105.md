@@ -31,7 +31,7 @@
 4. `be full of sth.` 充满了...
 
    ```
-   The letter is full of mistake
+   The letter is full of mistakes
 
    The house was full of sour yesterday
    ```

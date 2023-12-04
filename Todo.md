@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   association intelligent dictionary instead advice decide comprehension reference preference cheap afford millionaire fare passenger lemonade coin swallow thief torch parrot exact expand guy top clever stupid fresh stale low loud high hard sweet soft sour carry correct madam pretty stage license cupboard pork ugly trash record attendant
+   association intelligent dictionary instead advice decide comprehension reference preference cheap afford millionaire fare passenger lemonade coin swallow thief torch parrot exact expand guy top clever stupid fresh stale low loud high hard sweet soft sour carry correct madam pretty stage license cupboard pork ugly trash record attendant deposit tramp except conductor none
    ```
 
 7. **复习过去式&过去分词**

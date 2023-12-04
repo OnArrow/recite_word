@@ -17,6 +17,12 @@
    What a comfortable chair!
    ```
 
+## Words
+
+```
+during trip travel offer job guess grow beard kitten
+```
+
 ## A trip to Australia
 
 ```

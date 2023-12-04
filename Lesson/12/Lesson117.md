@@ -88,6 +88,12 @@
    茶煮沸溢出来了
    ```
 
+## Words
+
+```
+coin mouth swallow later toilet ring
+```
+
 ## Tommy's breakfast
 
 ```

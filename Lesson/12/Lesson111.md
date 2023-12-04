@@ -90,6 +90,12 @@
    Why did you buy the computer on installments?
    ```
 
+## Words
+
+```
+model afford deposit installment price millionaire
+```
+
 ## The most expensive model
 
 ```

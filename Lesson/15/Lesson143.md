@@ -52,6 +52,20 @@
    为什么这个篮子明天会被清空？
    ```
 
+## Words
+
+```
+surround wood hundred city through visitor tidy litter place throw rubbish count cover piece tyre rusty among prosecute
+```
+
+## Expressions
+
+```
+beauty spot 风景点
+
+litter basket 废物筐；垃圾桶
+```
+
 ## A walk through the woods
 
 ```

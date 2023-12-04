@@ -67,6 +67,12 @@
    I'm doing my homework as quick as I can
    ```
 
+## Words
+
+```
+story happen thief enter dark torch voice parrot
+```
+
 ## A true story
 
 ```

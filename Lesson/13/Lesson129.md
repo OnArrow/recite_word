@@ -121,6 +121,12 @@
    火车站在4英里远的地方
    ```
 
+## Words
+
+```
+wave track mile overtake speed limit dream sign driving license charge darling
+```
+
 ## Seventy miles an hour
 
 ```

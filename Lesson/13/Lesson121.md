@@ -191,6 +191,12 @@
    Would you bring a book to me?
    ```
 
+## Words
+
+```
+customer forget manager serve counter recognize road
+```
+
 ## The man in a hat
 
 ```

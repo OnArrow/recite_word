@@ -49,6 +49,18 @@
    Let me introduce my girlfriend to you
    ```
 
+## Words
+
+```
+future hotel latest introduce
+```
+
+## Expressions
+
+```
+get married 结婚
+```
+
 ## The latest report
 
 ```

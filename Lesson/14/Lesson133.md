@@ -117,6 +117,18 @@
    She said that she was going to take a bath
    ```
 
+## Words
+
+```
+reporter sensational mink
+```
+
+## Expressions
+
+```
+mink coat 貂皮大衣
+```
+
 ## Sensational news!
 
 ```

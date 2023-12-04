@@ -117,6 +117,20 @@
 
    - 化谁的妆取决于`her`
 
+## Words
+
+```
+excited opposite curiously funny powder compact kindly ugly amused smile embarrassed worried regularly
+```
+
+## Expressions
+
+```
+get on 登上
+
+middle aged 中年的
+```
+
 ## Sally's first train ride
 
 ```

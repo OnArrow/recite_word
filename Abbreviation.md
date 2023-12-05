@@ -45,3 +45,9 @@
 17. `you'd better` = `you had better`
 
 18. `I'd` = `I would`
+
+    ```
+    I would like some tea
+
+    I'd like some tea
+    ```

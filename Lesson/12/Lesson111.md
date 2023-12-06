@@ -20,7 +20,7 @@
    ```
    She is beautiful
 
-   She is more beautiful that her sister
+   She is more beautiful than her sister
 
    She is the most beautiful in this class
    ```
@@ -79,7 +79,7 @@
 
    The woman is not as tall as the man
 
-   The dog is not cute as my cat
+   The dog is not as cute as my cat
    ```
 
 5. `buy sth. on installments` 用分期付款买某物

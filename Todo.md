@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   advice decide afford millionaire swallow thief torch parrot stupid stale loud sour correct madam pretty stage license ugly trash record attendant deposit tramp except conductor deposit conductor coin mouth swallow later toilet ring story happen enter dark customer forget manager serve counter recognize road during trip travel offer job guess grow beard kitten than crazy such stationery
+   advice decide afford millionaire swallow parrot stale loud sour correct madam trash attendant deposit tramp except deposit conductor swallow later toilet happen customer counter recognize during trip offer guess beard kitten such stationery badge stationer seldom
    ```
 
 7. **复习过去式&过去分词**

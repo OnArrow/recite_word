@@ -33,19 +33,19 @@
 6. **复习**
 
    ```
-   advice decide afford millionaire swallow parrot stale loud sour correct madam trash attendant deposit tramp except deposit conductor swallow later toilet happen customer counter recognize during trip offer guess beard kitten such stationery badge stationer seldom
+   afford millionaire parrot stale sour correct trash attendant deposit tramp conductor toilet happen recognize trip offer beard such stationery badge terribly nuisance mean immediately famous actress actor wave track mile overtake limit sign charge darling strange
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   tell slip spell
+
    ```
 
 8. **复习比较级&最高级**
 
    ```
-   little good bad many much
+   bad
    ```
 
 9. **剑桥初级语法**

@@ -105,7 +105,7 @@
 
    These are the books I bought yesterday
 
-   I want the ice cream which has a spoon
+   I want the ice cream which with a spoon
    ```
 
    - 定语从句修饰“地点”的时候，用`where`替代
@@ -194,7 +194,7 @@
 ## Words
 
 ```
-customer forget manager serve counter recognize road
+customer forget manager serve counter recognize road porter
 ```
 
 ## The man in a hat

@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-   afford millionaire parrot stale sour correct trash attendant deposit tramp conductor toilet happen recognize trip offer beard such stationery badge terribly nuisance mean immediately famous actress actor wave track mile overtake limit sign charge darling strange
+   afford millionaire parrot stale sour correct trash attendant deposit tramp conductor toilet happen recognize trip offer beard such stationery badge terribly nuisance mean immediately famous actress actor wave track mile overtake limit sign charge darling strange wet examination boring
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-
+   know
    ```
 
 8. **复习比较级&最高级**

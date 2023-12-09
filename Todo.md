@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-   afford millionaire parrot stale sour correct trash attendant deposit tramp conductor toilet happen recognize trip offer beard such stationery badge terribly nuisance mean immediately famous actress actor wave track mile overtake limit sign charge darling strange wet examination boring
+    trash attendant deposit tramp conductor  trip beard such stationery terribly nuisance immediately wave track mile overtake charge strange examination boring
    ```
 
 7. **复习过去式&过去分词**

@@ -38,7 +38,6 @@ I don't need to meet her at the station, either
 
 ```
 Tom doesn't have to be there early. What about Alice?
-TODO: 这里为什么要用`be`？
 
 She doesn't need to be there early, either
 ```

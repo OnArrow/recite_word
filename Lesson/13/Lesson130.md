@@ -31,7 +31,7 @@ They can't have been English. They must have been American
 ```
 
 ```
-Was your pencil shape or blunt?
+Was your pencil sharp or blunt?
 
 It can't have been sharp. It must have been blunt
 ```

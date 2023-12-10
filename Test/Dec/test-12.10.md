@@ -120,5 +120,98 @@ They can't be mechanics, they must be engineers
 ```
 
 ```
+He must have been awful, no one cared him
 
+You must have been more than the limit
+```
+
+```
+Look, Jack. The policeman must wave to us, it means we must stop immediately
+
+Don't wave to that bus, it can't stop
+
+The company is twelve kilometers away from my home
+
+Beijing is one thousand two hundreds kilometers away from Shanghai
+
+```
+
+```
+Look, Gary! That policeman is waving to you. He wants you to stop
+
+Where do you think you are? On a race track? You must have been driving at seventy miles an hour
+
+I think I am in my home
+
+Do you think you are in your home?
+
+Where do you think you are?
+
+I can't have been
+
+I was doing eighty when I overtook you
+
+Didn't you see the speed limit?
+
+I'm afraid I didn't, officer, I must have been dreaming
+
+He wasn't dreaming, officer. I was telling him to drive slowly
+
+That's why I didn't see the sign
+
+Let me see your driving license
+
+I won't charge you this time. But you'd better not do it again
+
+Thank you. I'll certainly be more careful
+
+I told you to drive slowly, Gary
+
+You always tell me to drive slowly, darling
+
+Well, next time you had better take my advice
+
+
+```
+
+```
+Was he a conductor or a bus driver?
+
+He can't have been a conductor, he must have been a bus driver
+
+Was she Chinese or Japanese?
+
+She can't have been Chinese, she must have been Japanese
+
+Were they listening to the stereo or watching television?
+
+They can't have been listening to the stereo, they must have been watching television
+
+Was it the twenty-fourth or twenty-fifth yesterday?
+
+It can't have been twenty-fourth, it must have been twenty-fifth
+
+Were they English or American?
+
+They can't have been English, they must have been American
+
+Was your pencil sharp or blunt?
+
+It can't have been sharp, it must have been blunt
+
+Was she dusting the table or sweeping the floor?
+
+She can't have been dusting the table, she must have been sweeping the floor
+
+Was he the oldest or the youngest in the family?
+
+He can't have been the oldest, he must have been the youngest
+
+Was she twenty or twenty-five?
+
+She can't have been twenty, she must have been twenty-five
+
+Were they mechanics or engineers?
+
+They can't have been mechanics, they must have been engineers
 ```

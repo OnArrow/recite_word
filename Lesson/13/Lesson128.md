@@ -21,7 +21,7 @@ They can't be listening to the stereo. They must be watching television
 ```
 Is it the 1st or the 2nd today?
 
-It can't be 1st. It must be 2nd
+It can't be the 1st. It must be the 2nd
 ```
 
 ```

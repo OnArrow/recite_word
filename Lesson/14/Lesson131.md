@@ -200,7 +200,7 @@ Egypt abroad worry
 ## Don't be so sure!
 
 ```
-Where are going to spend your holidays this year, Gary?
+Where are you going to spend your holidays this year, Gary?
 
 We may go abroad. I'm not sure
 
@@ -218,7 +218,7 @@ I'm sure you'll enjoy yourselves
 
 Don't be so sure. We might not go anywhere
 
-My wife always worries too much. Who's going to look after the dog? Who's going to after the house? Who's going to look after the garden?
+My wife always worries too much. Who's going to look after the dog? Who's going to look after the house? Who's going to look after the garden?
 
 We have this problem every year. In the end, we stay at home and look after everything!
 ```

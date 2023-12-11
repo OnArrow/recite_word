@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-     attendant tramp conductor such stationery terribly nuisance immediately wave track charge strange examination boring meter Egypt abroad worry reporter sensational mink future hotel latest introduce football pool win world poor depend extra overseas engineering company line excited opposite curiously funny powder compact kindly ugly amused smile embarrassed worried regularly surround wood hundred city through visitor tidy litter place throw rubbish count cover piece tyre rusty among prosecute
+     attendant tramp conductor stationery terribly nuisance wave track strange Egypt abroad worry reporter sensational mink future introduce pool depend extra overseas engineering excited opposite curiously powder compact kindly amused embarrassed worried regularly surround wood litter place throw rubbish cover piece tyre rusty among prosecute foreign kilometer repository refuse
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   know
+   know win
    ```
 
 8. **复习比较级&最高级**

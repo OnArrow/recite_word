@@ -1,40 +1,40 @@
 # Abbreviation
 
-1. `gonna` = `going to`
+1. `sb.` = `somebody`
 
-2. `can't` = `cannot` = `can not`
+2. `sth.` = `something`
 
-3. `let's` = `let us`
+3. `st.` = `sometime`
 
-4. `o'clock` = `of the clock`
+4. `sw.` = `somewhere`
 
-5. `I've` = `I have`
+5. `gonna` = `going to`
 
-6. `he's got` = `he has got`
+6. `can't` = `cannot` = `can not`
 
-   ```
-   只有当`has got`一起出现时，`has`才能缩写
-   ```
+7. `let's` = `let us`
 
-   ```
-   He has got a car
+8. `o'clock` = `of the clock`
 
-   He's got a car
-   ```
+9. `I've` = `I have`
 
-7. `wasn't` = `was not`
+10. `he's got` = `he has got`
 
-8. `weren't` = `were not`
+    ```
+    只有当`has got`一起出现时，`has`才能缩写
+    ```
 
-9. `wanna` = `want to`
+    ```
+    He has got a car
 
-10. `sb.` = `somebody`
+    He's got a car
+    ```
 
-11. `sth.` = `something`
+11. `wasn't` = `was not`
 
-12. `st.` = `sometime`
+12. `weren't` = `were not`
 
-13. `sw.` = `somewhere`
+13. `wanna` = `want to`
 
 14. `I'll` = `I will`
 

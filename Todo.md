@@ -33,19 +33,19 @@
 6. **复习**
 
    ```
-     attendant tramp conductor stationery terribly nuisance wave track strange Egypt abroad worry reporter sensational mink future introduce pool depend extra overseas engineering excited opposite curiously powder compact kindly amused embarrassed worried regularly surround wood litter place throw rubbish cover piece tyre rusty among prosecute foreign kilometer repository refuse
+     attendant  stationery terribly nuisance track strange Egypt abroad reporter sensational mink future introduce pool depend extra overseas engineering excited opposite curiously powder compact amused embarrassed worried regularly surround wood litter place throw rubbish tyre rusty among prosecute foreign repository refuse report angry urgent Christmas report
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-   know win
+    throw
    ```
 
 8. **复习比较级&最高级**
 
    ```
-   bad
+
    ```
 
 9. **剑桥初级语法**

@@ -138,9 +138,7 @@ Yes, I have
 
 Are you going to make another?
 
-No, I'm not. I'm going to retire
-
-I feel very tired. I don't want to make another film for a long time
+No, I'm not. I'm going to retire. I feel very tired. I don't want to make another film for a long time
 
 Let's buy a newspaper, Liz. Listen to this!
 

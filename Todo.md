@@ -27,13 +27,13 @@
 5. **比较级&最高级**
 
    ```
-   bad
+
    ```
 
 6. **复习**
 
    ```
-     attendant  stationery terribly nuisance track strange Egypt abroad reporter sensational mink future introduce pool depend extra overseas engineering excited opposite curiously powder compact amused embarrassed worried regularly surround wood litter place throw rubbish tyre rusty among prosecute foreign repository refuse report angry urgent Christmas report
+     nuisance track strange abroad reporter sensational mink pool extra opposite curiously powder compact amused embarrassed regularly surround wood litter rubbish tyre rusty among prosecute foreign repository refuse  angry urgent Christmas report dependency space attendance earth
    ```
 
 7. **复习过去式&过去分词**

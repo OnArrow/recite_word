@@ -79,7 +79,7 @@
 
    Where are you from?
 
-   I want to know where you are from?
+   I want to know where you are from
 
 
    What's your job?

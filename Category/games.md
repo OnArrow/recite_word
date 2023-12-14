@@ -12,7 +12,7 @@
 
 6. Penta kill **[ˈpentə kɪl]** 五连杀
 
-7. Ace **[eɪs]** 王牌;团灭
+7. Ace **[eɪs]** 王牌；团灭
 
 8. legendary **[ˈledʒəndri]** 超神
 

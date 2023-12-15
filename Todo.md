@@ -9,13 +9,13 @@
 2. **About**
 
    ```
-   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest encrypt
+   domain cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest encrypt stable
    ```
 
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct staged/暂存的 tamper
+   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct staged/暂存的 tamper registry
    ```
 
 4. **过去式&过去分词**

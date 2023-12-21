@@ -7,3 +7,5 @@
 2. prepay **[ˌpriːˈpeɪ]** `vt` 预付
 
 3. predict **[prɪˈdɪkt]** `v` 预言
+
+4. preview **[ˈpriːvjuː]** `v` 预览

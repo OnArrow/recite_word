@@ -2,6 +2,6 @@
 
 ## Words
 
-- private/.adj conversation/.n theatre/.n seat/.n loudly/.adv angry/.adj angrily/.adv attention/.n bear/.v business/.n rudely/.adv
+- private conversation theatre seat loudly angry angrily attention bear business rudely
 
 - ![Words](../../Images/Part2/words-1.png)

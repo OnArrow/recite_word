@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    abroad sensational mink pool opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas dependency attendance general destroy plant beauty spot ground conversation business
+    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot ground conversation business private theatre attention bear rudely
    ```
 
 7. **复习过去式&过去分词**

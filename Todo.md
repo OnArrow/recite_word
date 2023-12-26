@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot rudely bring until outside ring aunt repeat send sent postcard spoil museum public friendly waiter lend lent decision whole single punch robot almost priority
+    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot rudely bring until outside ring aunt repeat send sent postcard spoil museum public friendly waiter lend lent decision whole single punch robot almost priority rude
    ```
 
 7. **复习过去式&过去分词**

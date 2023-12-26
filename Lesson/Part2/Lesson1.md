@@ -19,3 +19,22 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 
 'It's none of your business,' the young man said rudely. 'This is a private conversation!'
 ```
+
+## Whole
+
+1. 单词造句指南
+
+   - v. + v.变化
+   - 四句型转换
+   - 方式/地点/时间
+   - 结合习惯用法
+   - 其它单词+词性
+   - 原文摘抄+变
+
+2. `take a seat` 请坐
+
+3. `Is this seat taken?` 这座位有人坐吗？
+
+4. `pay attention` 请注意
+
+5. `It's none of your business` 不关你的事

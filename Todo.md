@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   actually lottery loudly regularly mystery bin fact wheat steal sunbathe noisy glad bush outlaw infinity combination chopstick seasoning lane cool stain wake mister round art journalist diamond kilo ski spider whale treat centre laugh dig rob group volleyball degree celsius classical boxing/拳击 horror theatre vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect journey jacket especially cola pint flight depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n. theatre musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce centre marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定 lunchtime percent museum politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery ugly panda share shot cushion trade grassland upbeat drug crown consider fitness sunny lonely mistaken candle
+   actually lottery loudly mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist diamond kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n.  musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定 lunchtime percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery   cushion trade grassland upbeat drug crown consider sunny lonely mistaken candle lobby
    ```
 
 2. **About**
 
    ```
-    cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter copilot implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest encrypt stable
+    cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter  implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest encrypt stable
    ```
 
 3. **Other**
@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot ground conversation business private theatre attention bear rudely
+    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot rudely bring until outside ring aunt repeat send sent postcard spoil museum public friendly waiter lend lent decision whole single punch robot almost priority
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-    throw sweep
+    throw sweep bear send
    ```
 
 8. **复习比较级&最高级**

@@ -31,10 +31,36 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    - 其它单词+词性
    - 原文摘抄+变
 
-2. `take a seat` 请坐
+2. 造一个好句子
 
-3. `Is this seat taken?` 这座位有人坐吗？
+   - +adj.
+   - +adv.
+   - +时间
+   - +地点
 
-4. `pay attention` 请注意
+   ```
+   The man is waiting for a bus
 
-5. `It's none of your business` 不关你的事
+   The tall man is waiting for a bus
+
+   The tall man is waiting for a bus angrily
+
+   The tall man was waiting for a bus angrily at last night
+
+   The tall man was waiting for a bus angrily at the bus stop at last night
+   ```
+
+3. 一个句子的组成方式
+
+   | 1. 主语           | 2. 谓语     | 3. 宾语           | 4. 方式 | 5. 地点         | 6. 时间       |
+   | ----------------- | ----------- | ----------------- | ------- | --------------- | ------------- |
+   | Who? Which? What? | action      | Who? Which? What? | How?    | Where?          | When          |
+   | The tall man      | was waiting | for a bus         | angrily | at the bus stop | at last night |
+
+4. `take a seat` 请坐
+
+5. `Is this seat taken?` 这座位有人坐吗？
+
+6. `pay attention` 请注意
+
+7. `It's none of your business` 不关你的事

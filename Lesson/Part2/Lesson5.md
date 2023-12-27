@@ -2,7 +2,7 @@
 
 ## Words
 
-- pigeon/.n message/.n cover/.v distance/.n request/.n spare/.adj part/.n service/.n
+- pigeon message cover distance request spare part service
 
 - ![Words](../../Images/Part2/words-5.png)
 

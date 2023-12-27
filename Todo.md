@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-    cast outline reactive upgrade sense intellisense simplify constructor banner line dashed transparent maintainer blob timestamp plain cherry gutter  implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent expose increment decrement invoke affect multipart directive indentation nest encrypt stable
+    cast outline reactive upgrade sense intellisense simplify constructor line dashed transparent maintainer plain cherry gutter  implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold indent  affect multipart indentation nest encrypt stable
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    general plant beauty spot rudely aunt  spoil museum friendly decision whole punch robot almost priority
+    general plant beauty spot rudely aunt  spoil museum friendly decision whole punch robot almost priority tramp stamp
    ```
 
 7. **复习过去式&过去分词**

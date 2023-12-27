@@ -2,6 +2,6 @@
 
 ## Words
 
-- beggar/.n food/.n pocket/.b call/.v
+- beggar food pocket call
 
 - ![Words](../../Images/Part2/words-6.png)

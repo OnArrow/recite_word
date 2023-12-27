@@ -7,3 +7,43 @@ throw threw thrown bear bore borne sweep swept swept send sent sent
 
 postcard spoil museum friendly waiter lend lent decision whole centre pigeon boxing fitness group wake infinity panda share shot journey copilot
 ```
+
+```
+Is this seat taken?
+
+This seat is taken
+
+Can I take the seat?
+
+Yes, of course
+
+Pay attention at the play
+
+It's none of your business
+
+Have you been to the theatre?
+
+Yes, I've been to the theatre
+
+tramp
+```
+
+```
+distance beggar detective valuable parcel diamond steal stole stolen main
+```
+
+```
+diamond valuable steal stole stolen main distance detective parcel beggar
+```
+
+```
+diamond steal stole stolen distance detective beggar main parcel valuable
+
+directive invoke banner blob timestamp increment decrement expose upgrade indent
+
+
+```
+
+```
+upgrade increment decrement expose invoke banner indent main steal stole stolen valuable parcel diamond beggar distance detective timestamp
+```

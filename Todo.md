@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-    abroad sensational opposite curiously gender powder compact amused embarrassed regularly wood litter tyre rusty among prosecute foreign Christmas attendance general plant beauty spot rudely bring until outside ring aunt repeat send sent postcard spoil museum public friendly waiter lend lent decision whole single punch robot almost priority
+    general plant beauty spot rudely aunt  spoil museum friendly decision whole punch robot almost priority
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-    throw sweep bear send
+    bear
    ```
 
 8. **复习比较级&最高级**

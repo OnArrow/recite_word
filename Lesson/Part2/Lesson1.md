@@ -64,3 +64,9 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 6. `pay attention` 请注意
 
 7. `It's none of your business` 不关你的事
+
+8. `I get very angry` 我变得非常生气
+
+9. `turn round` 扭过头；转过身
+
+10. `can't bear it` 不能忍受

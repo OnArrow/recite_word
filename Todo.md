@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    general plant beauty spot rudely aunt  spoil museum friendly decision whole punch robot almost priority tramp stamp corner soup match receive through
+   general plant beauty spot rudely aunt spoil museum friendly decision whole punch robot almost priority tramp stamp corner soup match receive through exist recent
    ```
 
 7. **复习过去式&过去分词**

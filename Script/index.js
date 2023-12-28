@@ -51,8 +51,9 @@ async function readWordsFolder() {
 function matchWords(str) {
   // 解析文件内容
   const parseArr = Marked.lexer(str);
-  const list = parseArr.find((item) => item.type === "list").items;
+
   try {
+    const list = parseArr.find((item) => item.type === "list").items;
     for (let item of list) {
       // 得到单词解释的当前行
       const str = item.tokens.find((ele) => ele.type === "text").text;

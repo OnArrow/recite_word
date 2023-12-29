@@ -1,5 +1,4 @@
 # Review
-
 1. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
 
 2. robot **[ˈrəʊbɒt]** `n` 机器人
@@ -38,12 +37,15 @@
 
 19. rudely **[ˈruːdli]** `adv` 无礼地
 
-20. spoil **[spɔɪl]** `v` 破坏，糟蹋；溺爱
+20. recent **[ˈriːsnt]** `adj` 最近的；最新的
 
-21. museum **[mjuˈziːəm]** `n` 博物馆
+21. spoil **[spɔɪl]** `v` 破坏，糟蹋；溺爱
 
-22. friendly **[ˈfrendli]** `adj` 亲切的；（国家或政府）非对抗性的
+22. museum **[mjuˈziːəm]** `n` 博物馆
 
-23. decision **[dɪˈsɪʒ(ə)n]** `n` 决定
+23. friendly **[ˈfrendli]** `adj` 亲切的；（国家或政府）非对抗性的
 
-24. whole **[həʊl]** `adj` 全部的；主旨
+24. decision **[dɪˈsɪʒ(ə)n]** `n` 决定
+
+25. whole **[həʊl]** `adj` 全部的；主旨
+

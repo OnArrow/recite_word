@@ -51,3 +51,13 @@
 
     I'd like some tea
     ```
+
+19. `etcetera` = `etc.`
+
+    ```
+    表示省略
+
+    There are apples, bananas, peaches etcetera
+
+    There are apples, bananas, peaches etc.
+    ```

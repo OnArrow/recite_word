@@ -33,13 +33,13 @@
 6. **复习**
 
    ```
-   general plant beauty spot rudely aunt spoil museum friendly decision whole punch robot almost priority tramp stamp corner soup match receive through exist recent travel hit
+    plant spoil decision whole robot priority tramp stamp corner receive exist recent grade attendant register ring security sand field path pool crowd possible
    ```
 
 7. **复习过去式&过去分词**
 
    ```
-    bear think
+
    ```
 
 8. **复习比较级&最高级**

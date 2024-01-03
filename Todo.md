@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    spoil whole priority tramp stamp corner receive exist recent grade attendant ring security sand field path pool crowd possible absolute relative hand shout recently damage allow touch stage pattern
+    spoil whole priority tramp stamp corner receive exist recent grade attendant ring security sand field path pool crowd possible absolute relative hand shout recently damage allow touch stage pattern valid verify
    ```
 
 7. **复习过去式&过去分词**

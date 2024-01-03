@@ -2,6 +2,6 @@
 
 ## Words
 
-- jazz/.n musical/.adj instrument/.n clavichord/.n recently/.adv damage/.v key/.n string/.n shock/.v allow/.v touch/.v
+- jazz musical instrument clavichord recently damage key string shock allow touch
 
 - ![Words](../../Images/Part2/words-10.png)

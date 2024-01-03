@@ -2,6 +2,6 @@
 
 ## Words
 
-- welcome/.n crowd/.n gather/.v hand/.n shout/.v refuse/.v laugh/.v
+- welcome crowd gather hand shout refuse laugh
 
 - ![Words](../../Images/Part2/words-9.png)

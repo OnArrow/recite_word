@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   actually lottery loudly mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist diamond kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n.  musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定 lunchtime percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery   cushion trade grassland upbeat drug crown consider sunny lonely mistaken candle lobby spoilt
+   actually lottery loudly mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist diamond kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n.  musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定 lunchtime percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery   cushion trade grassland upbeat drug crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct staged/暂存的 tamper
+   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct  tamper
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    plant spoil decision whole robot priority tramp stamp corner receive exist recent grade attendant register ring security sand field path pool crowd possible
+    spoil whole priority tramp stamp corner receive exist recent grade attendant ring security sand field path pool crowd possible absolute relative hand shout recently damage allow touch stage pattern
    ```
 
 7. **复习过去式&过去分词**

@@ -6,6 +6,20 @@
 
 - ![Words](../../Images/Part2/words-2.png)
 
+## Breakfast or lunch?
+
+```
+It was Sunday. I never get up early on Sundays. I sometime stay in bed until lunchtime.
+
+Last Sunday I got up very late. I looked out of the window. It was dark outside.
+
+'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my Aunt Lucy.
+
+'I've just arrived by train,' she said. 'I'm coming to see you.' 'But I'm still having breakfast,' I said.
+
+'What are you doing?' she asked. 'I'm having breakfast,' I repeated. 'Dear me!' she said. 'Do you usually get up so late? It's one o'clock!'
+```
+
 ## Whole
 
 1. 现在进行时也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
@@ -80,3 +94,5 @@
    I never get up early on Sundays
    // v. 前面
    ```
+
+5. `look out` 当心；小心

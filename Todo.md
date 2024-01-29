@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-    cast outline reactive sense intellisense simplify constructor line dashed transparent maintainer plain cherry gutter  implements unexpected syntax float prune cycle popup tray ratio scanner random spread integer protect abstract implement adapter frame decimal shallow optimize tutorial threshold  affect multipart indentation nest encrypt stable carousel
+    cast  sense intellisense simplify  line dashed transparent maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray ratio scanner spread  protect abstract  adapter frame decimal   tutorial threshold  affect multipart indentation nest encrypt stable carousel interval
    ```
 
 3. **Other**

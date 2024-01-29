@@ -15,3 +15,15 @@ random integer float constructor optimize reactive implement shallow outline log
 ```
 constructor random float optimize outline implement shallow logic integer reactive
 ```
+
+```
+random implement constructor shallow reactive integer optimize outline logic float
+```
+
+```
+I sometimes stay in bed until 9 a.m.
+
+How often do you stay in bed until 9 a.m. ?
+
+aunt uncle
+```

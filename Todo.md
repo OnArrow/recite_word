@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude
    ```
 
 3. **Other**

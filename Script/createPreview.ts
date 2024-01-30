@@ -1,20 +1,23 @@
-const Marked = require("marked");
+import * as Marked from "marked";
 
-const { fsWrite, fsRead, fsReadFolder } = require("./utils");
+import * as nodePath from "path";
 
-const targetFilePath = "../Review.md";
+import { fsWrite, fsRead, fsReadFolder } from "./utils";
 
-const readFolderPath = "../Words";
+const targetFilePath = nodePath.resolve(__dirname, "../Review.md");
+
+const readFolderPath = nodePath.resolve(__dirname, "../Words");
 
 // 需要复习的单词
-let strArr = [];
+let strArr: string[] = [];
 
-let index = 1;
+let index: number = 1;
 
 // 读取Todo文件
 async function readTodoFile() {
   // 读取文件内容
-  const result = await fsRead("../Todo.md");
+  const result = await fsRead(nodePath.resolve(__dirname, "../Todo.md"));
+
   // 解析文件内容
   const parseArr = Marked.lexer(result);
   // 找出复习那一栏
@@ -27,13 +30,14 @@ async function readTodoFile() {
   strArr = targetData.text.split(" ").filter((item) => item);
 
   // 写入文件标题
-  fsWrite(targetFilePath, "# Review\n", "w");
+  await fsWrite(targetFilePath, "# Review\n", "w");
 }
 
 // 读取目录下所有md文件
 async function readWordsFolder() {
   // 拿到目录下所有文件列表
   const fileArr = await fsReadFolder(readFolderPath);
+
   // console.log(fileArr)
   for (let fileName of fileArr) {
     if (fileName.includes(".md")) {
@@ -70,7 +74,9 @@ function matchWords(str) {
       const regex = /(.*?)\*\*\[/g;
 
       // 得到当前解释的单词
-      const word = regex.exec(str)[1].trim();
+
+      const word = regex.exec(str)![1].trim();
+
       // console.log(word);
 
       if (strArr.includes(word)) {
@@ -78,9 +84,12 @@ function matchWords(str) {
         fsWrite(targetFilePath, `${index++}. ${str}\n\n`, "a");
       }
     }
-  } catch (err) {}
+  } catch (err) {
+    console.log(err);
+  }
 }
 
-readTodoFile();
-
-readWordsFolder();
+export default () => {
+  readTodoFile();
+  readWordsFolder();
+};

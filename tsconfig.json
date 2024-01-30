@@ -1,8 +1,8 @@
 {
   /* 编译选项 */
   "compilerOptions": {
-    "target": "es6", // 指定 EECMAScript 的目标版本, 这里我们采用 es6
-    "module": "commonjs", // 指定编译生成哪个模块的系统代码，考虑到兼容性，这里我们设置成 commonjs
+    "target": "ES2020", // 指定 EECMAScript 的目标版本, 这里我们采用 es6
+    "module": "CommonJS", // 指定编译生成哪个模块的系统代码，考虑到兼容性，这里我们设置成 commonjs
     "outDir": "dist", // 编译输出目录，即 .ts 文件编译成 .js 文件后的输出目录。这里设置为根目录下的 /dist 目录
     "strict": true, // 严格模式
     // 是否检查只声明但未使用的局部变量(只提示不报错)

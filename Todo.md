@@ -3,19 +3,19 @@
 1. **Word**
 
    ```
-   actually lottery  mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist diamond kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore feed rare get/到达 overlap brother-in-law jacket ladder kick horror frighten wonderful competition nervous exhibition tango cruise apartment flight unfortunately usual bill guitar truck lots cousin painting/n.  musical fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel distance healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定 lunchtime percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery   cushion trade grassland upbeat drug crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel lunchtime disagree inside lately
+   actually lottery  mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist  kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick horror frighten competition nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat  crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel   inside lately
    ```
 
 2. **About**
 
    ```
-    cast  sense intellisense simplify  line dashed transparent maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray ratio scanner spread  protect abstract  adapter frame decimal   tutorial threshold  affect multipart indentation nest encrypt stable carousel interval
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel
    ```
 
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation horizontal vertical correction findable steal even/甚至 functionality recipient wealth average respect bill inbox authorize discussion conduct  tamper
+   additional offsite schedule substitution detector replacement soulless orientation  correction findable steal even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-     priority exist attendant crowd shout damage pattern valid extract pretty
+    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring
    ```
 
 7. **复习过去式&过去分词**
@@ -80,56 +80,35 @@
 
 18. 宾语从句、直接引语、间接引语
 
-19. will 和 be going to 的区别
+19. `had better` 的特殊疑问句（Lesson 95）
 
-20. `had better` 的特殊疑问句（Lesson 95）
+20. Lesson 101 的反意疑问句中的 Example
 
-21. Lesson 101 的反意疑问句中的 Example
+21. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-22. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+22. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
 
-23. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+23. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
 
-24. `last month I went on a long trip to America` 为什么用`trip`不用`travel`
+24. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
 
-25. Lesson 141 课文中的`she then began to make up her face`中 `then`表示什么？
+25. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-26. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+26. `Jack lives very near us` 这句话中 `near`是什么词性？
 
-27. `Jack lives very near us` 这句话中 `near`是什么词性？
+27. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
 
-28. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
-
-29. 什么是宾语补足语
+28. 什么是宾语补足语
 
     ```
     I'm going to paint bookcase pink
     // `bookcase` 为宾语。 `pink` 为宾语补足语
     ```
 
-30. `He finished swimming` 是什么时态？
+29. `He finished swimming` 是什么时态？
 
-31. `What time are Jack and Tom coming?` 是什么时态？
+30. `They also loved the clothes he wore and the way he moved when he sang` 这句话的`the clothes he wore`和`the way he moved`
 
-32. `They also loved the clothes he wore and the way he moved when he sang` 这句话的`the clothes he wore`和`the way he moved`
+31. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
 
-33. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
-
-34. `The dish I make for lunch today is a new idea of mine` 分析这句话
-
-35. 判断下面的话
-
-    ```
-    What are you doing tomorrow evening?
-    // 为什么不是`What will you do tomorrow evening?`
-    // 或者是`What are you going to do tomorrow evening?`
-
-    Nothing, I'm free
-    ```
-
-36. 现在进行时可以表示事先决定好的事情吗？
-
-    ```
-    I'm working tomorrow
-    // 为什么不用`I will work tomorrow?`
-    ```
+32. `The dish I make for lunch today is a new idea of mine` 分析这句话

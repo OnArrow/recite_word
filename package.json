@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preview": "ts-node ./Script/index.ts"
+    "preview": "ts-node ./Script/index.ts",
+    "docs:dev": "vitepress dev --host",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +17,7 @@
     "marked": "^4.2.5"
   },
   "devDependencies": {
-    "@types/node": "^20.11.10"
+    "@types/node": "^20.11.10",
+    "vitepress": "1.0.0-rc.40"
   }
 }

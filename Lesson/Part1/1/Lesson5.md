@@ -133,7 +133,7 @@
     各位，这是杰克
     ```
 
-    - ![everybody](../../images/Lesson6/1.png)
+    - ![everybody](/images/Lesson6/1.png)
 
 12. 欢迎你到某地的短语
 

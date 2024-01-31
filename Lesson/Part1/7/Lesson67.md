@@ -68,7 +68,7 @@
 
 5. `was` 在用于一些价格时，可以表达出“之前；过去”的意思。`was`是过去的价格，`now`是现在的价格
 
-   ![sale](../../images/Lesson67/sale.png)
+   ![sale](/images/Lesson67/sale.png)
 
 6. `be absent from` 某人缺席了...（活动或者地点）
 

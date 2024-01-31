@@ -4,4 +4,4 @@
 
 - competition neat path wooden pool
 
-- ![Words](../../Images/Part2/words-8.png)
+- ![Words](/images/Part2/words-8.png)

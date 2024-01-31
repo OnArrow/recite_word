@@ -9,6 +9,7 @@ import fs from "fs";
 export default defineConfig({
   title: "English",
   description: "A website for English by Jack",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

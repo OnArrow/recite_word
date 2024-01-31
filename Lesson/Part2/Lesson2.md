@@ -4,7 +4,7 @@
 
 - until outside ring aunt repeat
 
-- ![Words](../../Images/Part2/words-2.png)
+- ![Words](/images/Part2/words-2.png)
 
 ## Breakfast or lunch?
 

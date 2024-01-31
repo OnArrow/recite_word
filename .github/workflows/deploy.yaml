@@ -26,11 +26,11 @@ jobs:
 
       # 安装依赖
       - name: 安装依赖
-        run: pnpm install
+        run: npm install
 
       # 打包
       - name: 打包
-        run: pnpm run build
+        run: npm run build
       # 上传到腾讯云
       - name: 发布到腾讯云
         uses: easingthemes/ssh-deploy@main

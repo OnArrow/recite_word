@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "preview": "ts-node ./Script/index.ts",
-    "docs:dev": "vitepress dev --host",
+    "docs:dev": "vitepress dev --host --port 10324",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },

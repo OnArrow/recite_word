@@ -4,4 +4,4 @@
 
 - beggar food pocket call
 
-- ![Words](/images/Part2/words-6.png)
+- ![Words](http://120.25.124.101:9111/EImages/Part2/words-6.png)

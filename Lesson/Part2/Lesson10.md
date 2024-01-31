@@ -4,4 +4,4 @@
 
 - jazz musical instrument clavichord recently damage key string shock allow touch
 
-- ![Words](/images/Part2/words-10.png)
+- ![Words](http://120.25.124.101:9111/EImages/Part2/words-10.png)

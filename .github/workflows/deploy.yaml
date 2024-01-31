@@ -23,7 +23,7 @@ jobs:
           node-version: lts/*
 
       - name: 安装pnpm
-        - uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v2
         with:
           version: 8
 

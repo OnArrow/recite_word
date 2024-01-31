@@ -13,14 +13,14 @@ jobs:
     steps:
       # 获取代码
       - name: 迁出代码
-        # 使用action库 action/checkout获取代码0
+        # 使用action库 action/checkout获取代码
 
-        uses: actions/checkout@main
+        uses: actions/checkout@master
       # 安装Node环境
 
       - name: 安装node.js
         # 使用action库  actions/setup-node安装node
-        uses: actions/setup-node@main
+        uses: actions/setup-node@master
         with:
           node-version: lts/*
 

@@ -34,7 +34,7 @@ jobs:
       # 上传到服务器
       - name: 发布到服务器
         uses: easingthemes/ssh-deploy@main
-        env:
+        with:
           # 私钥
           SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
           # SCP参数

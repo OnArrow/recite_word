@@ -31,8 +31,8 @@ jobs:
       # 打包
       - name: 打包
         run: npm run docs:build
-      # 上传到腾讯云
-      - name: 发布到腾讯云
+      # 上传到服务器
+      - name: 发布到服务器
         uses: easingthemes/ssh-deploy@main
         env:
           # 私钥

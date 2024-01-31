@@ -2,7 +2,7 @@ name: 更新博客到服务器
 
 on:
   push:
-    # push 代码的时候 哪个分支会受到影响 这里是 main 主分支
+    # push 代码的时候，监听该分支的改变
     branches:
       - master
 
@@ -14,29 +14,32 @@ jobs:
       # 获取代码
       - name: 迁出代码
         # 使用action库 action/checkout获取代码
-
         uses: actions/checkout@master
       # 安装Node环境
-
       - name: 安装node.js
         # 使用action库  actions/setup-node安装node
         uses: actions/setup-node@master
         with:
           node-version: lts/*
 
+      - name: 安装pnpm
+        - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
       # 安装依赖
       - name: 安装依赖
-        run: npm install
+        run: pnpm install
 
       # 打包
       - name: 打包
-        run: npm run docs:build
+        run: pnpm run docs:build
       # 上传到服务器
       - name: 发布到服务器
         uses: easingthemes/ssh-deploy@main
         with:
           # 私钥
-          SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          SSH_PRIVATE_KEY: ${{ secrets.MAC_PRIVATE_KEY }}
           # SCP参数
           ARGS: "-avzr --delete"
           # 源目录

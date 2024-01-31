@@ -67,7 +67,7 @@
    这是我的钱
    ```
 
-   - <video src="/video/Lesson4/1.mp4" width="50%" ></video>
+   - <video src="http://120.25.124.101:9111/EVideo/Lesson4/1.mp4" width="50%" ></video>
 
    - 如果只是单纯的介绍某物就用`this is __`
 

@@ -15,12 +15,12 @@ jobs:
       - name: 迁出代码
         # 使用action库 action/checkout获取代码0
 
-        uses: actions/checkout@master
+        uses: actions/checkout@main
       # 安装Node环境
 
       - name: 安装node.js
         # 使用action库  actions/setup-node安装node
-        uses: actions/setup-node@master
+        uses: actions/setup-node@main
         with:
           node-version: lts/*
 

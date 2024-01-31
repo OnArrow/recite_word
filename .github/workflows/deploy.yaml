@@ -1,5 +1,7 @@
 name: 更新博客到服务器
 
+# uses表示使用一些第三方库
+
 on:
   push:
     # push 代码的时候，监听该分支的改变
@@ -21,20 +23,20 @@ jobs:
         uses: actions/setup-node@master
         with:
           node-version: lts/*
-
+      # 安装pnpm
       - name: 安装pnpm
         uses: pnpm/action-setup@v2
         with:
           version: 8
 
-      # 安装依赖
+      # 安装项目依赖
       - name: 安装依赖
         run: pnpm install
 
-      # 打包
+      # 项目打包
       - name: 打包
         run: pnpm run docs:build
-      # 上传到服务器
+      # 将打包后的文件上传到服务器
       - name: 发布到服务器
         uses: easingthemes/ssh-deploy@main
         with:
@@ -45,7 +47,7 @@ jobs:
           # 源目录
           SOURCE: ".vitepress/dist/"
           # 服务器ip
-          REMOTE_HOST: ${{ secrets.REMOTE_TXHOST }}
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST_120 }}
           # 用户
           REMOTE_USER: "root"
           # 目标地址

@@ -6,7 +6,14 @@ const directoryPath = path.resolve(__dirname, ".."); // 请将路径替换为你
 // 项目名称
 const projectName: any = directoryPath.split("\\").pop();
 
-const excludeArr: string[] = ["Video", "Images", "Script", "node_modules"];
+const excludeArr: string[] = [
+  "Video",
+  "Images",
+  "Script",
+  "node_modules",
+  "Grammars",
+  "Comparison",
+];
 const files = fs.readdirSync(directoryPath);
 
 const resultFiles = files.filter((item) => {

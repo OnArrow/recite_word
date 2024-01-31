@@ -57,5 +57,5 @@ welcome competition precious stone gather neat wonderful guard wooden airfield
 ```
 
 ```
-wooden welcome gather together neat guard precious stone wonderful competition airfield ssss
+wooden welcome gather together neat guard precious stone wonderful competition airfield sssss
 ```

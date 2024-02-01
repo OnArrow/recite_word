@@ -5,6 +5,21 @@
 import path from 'path'
 import fs from 'fs'
 
+const months = [
+  'Jan',
+  'Feb',
+  'Mar',
+  'Apr',
+  'May',
+  'Jun',
+  'Jul',
+  'Aug',
+  'Sep',
+  'Oct',
+  'Nov',
+  'Dec'
+]
+
 const directoryPath = path.resolve(__dirname, '..') // 请将路径替换为你的实际路径
 
 // 项目名称
@@ -42,6 +57,14 @@ function generateDirectoryArray(dirPath) {
   // console.log(dirPath);
 
   const files = fs.readdirSync(dirPath)
+
+  files.sort((a, b) => {
+    const monthOrder = months
+
+    return monthOrder.indexOf(a) - monthOrder.indexOf(b)
+  })
+
+  console.log(files)
 
   // 遍历目录中的每个文件/文件夹
   for (const file of files) {

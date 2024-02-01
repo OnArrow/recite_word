@@ -13,9 +13,9 @@
 
 7. snooze **[snuːz]** `n` 小睡；打盹 `v` 打盹
 
-8. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
+8. disagree **[ˌdɪsəˈɡriː]** `v` 不同意；意见不合
 
-9. disagree **[ˌdɪsəˈɡriː]** `v` 不同意；意见不合
+9. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
 
 10. expire **[ɪkˈspaɪə(r)]** `v` 到期；（任期）届满
 

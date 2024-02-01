@@ -25,11 +25,11 @@ function renameFilesInDirectory(directoryPath) {
           // 如果是子目录，递归调用函数
           renameFilesInDirectory(oldFilePath);
         } else {
-          console.log(file);
-
           // 如果是文件，修改文件名
-          const newFileName = `new_${file}`;
+          const newFileName = file.replace("-", " ");
           const newFilePath = path.join(directoryPath, newFileName);
+
+          console.log(newFileName);
 
           // fs.rename(oldFilePath, newFilePath, (err) => {
           //   if (err) {
@@ -44,5 +44,5 @@ function renameFilesInDirectory(directoryPath) {
   });
 }
 
-const directoryPath = path.resolve(__dirname, "../Lesson/Part-01");
+const directoryPath = path.resolve(__dirname, "../Lesson/Part 02");
 renameFilesInDirectory(directoryPath);

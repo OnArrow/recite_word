@@ -11,6 +11,7 @@ export default defineConfig({
   description: "A website for English by Jack",
 
   themeConfig: {
+    logo: "/English.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },

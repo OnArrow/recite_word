@@ -31,13 +31,13 @@ function renameFilesInDirectory(directoryPath) {
 
           console.log(newFileName);
 
-          // fs.rename(oldFilePath, newFilePath, (err) => {
-          //   if (err) {
-          //     console.error('Error renaming file:', err);
-          //     return;
-          //   }
-          //   console.log(`Renamed ${oldFilePath} to ${newFilePath}`);
-          // });
+          fs.rename(oldFilePath, newFilePath, (err) => {
+            if (err) {
+              console.error("Error renaming file:", err);
+              return;
+            }
+            console.log(`Renamed ${oldFilePath} to ${newFilePath}`);
+          });
         }
       });
     });

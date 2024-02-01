@@ -7,9 +7,9 @@
 
 4. valid **[ˈvælɪd]** `adj` 有效的；正当的
 
-6. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
-
 5. target **[ˈtɑːɡɪt]** `n` 目标；指标
+
+6. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
 
 7. snooze **[snuːz]** `n` 小睡；打盹 `v` 打盹
 

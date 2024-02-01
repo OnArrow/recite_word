@@ -89,7 +89,5 @@ function matchWords(str) {
   }
 }
 
-export default () => {
-  readTodoFile();
-  readWordsFolder();
-};
+readTodoFile();
+readWordsFolder();

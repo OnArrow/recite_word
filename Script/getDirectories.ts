@@ -1,3 +1,7 @@
+/**
+ * Generate sider bar by directory
+ */
+
 import path from "path";
 import fs from "fs";
 

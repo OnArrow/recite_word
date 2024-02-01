@@ -1,9 +1,5 @@
-import createPreview from "./createPreview";
-
 import path from "path";
 import fs from "fs";
-
-createPreview();
 
 function renameFilesInDirectory(directoryPath) {
   fs.readdir(directoryPath, (err, files) => {
@@ -26,7 +22,7 @@ function renameFilesInDirectory(directoryPath) {
           renameFilesInDirectory(oldFilePath);
         } else {
           // 如果是文件，修改文件名
-          const newFileName = file.replace("-", " ");
+          const newFileName = file.replace(/([a-zA-Z])(\d)/g, "$1 $2");
           const newFilePath = path.join(directoryPath, newFileName);
 
           console.log(newFileName);
@@ -44,5 +40,7 @@ function renameFilesInDirectory(directoryPath) {
   });
 }
 
-const directoryPath = path.resolve(__dirname, "../Lesson/Part 02");
+const targetDirectory = "../Lesson/Part 01";
+
+const directoryPath = path.resolve(__dirname, targetDirectory);
 renameFilesInDirectory(directoryPath);

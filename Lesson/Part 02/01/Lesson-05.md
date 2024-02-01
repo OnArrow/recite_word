@@ -4,7 +4,7 @@
 
 - pigeon message cover distance request spare part service
 
-- ![Words](../../Images/Part2/words-5.png)
+- ![Words](../../../Images/Part2/words-5.png)
 
 ## Expressions
 

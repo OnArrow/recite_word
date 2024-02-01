@@ -14,7 +14,6 @@ function renameFilesInDirectory(directoryPath) {
 
     files.forEach((file) => {
       const oldFilePath = path.join(directoryPath, file);
-      console.log(oldFilePath);
 
       fs.stat(oldFilePath, (err, stats) => {
         if (err) {
@@ -26,10 +25,11 @@ function renameFilesInDirectory(directoryPath) {
           // 如果是子目录，递归调用函数
           renameFilesInDirectory(oldFilePath);
         } else {
+          console.log(file);
+
           // 如果是文件，修改文件名
           const newFileName = `new_${file}`;
           const newFilePath = path.join(directoryPath, newFileName);
-          console.log(newFileName);
 
           // fs.rename(oldFilePath, newFilePath, (err) => {
           //   if (err) {
@@ -44,5 +44,5 @@ function renameFilesInDirectory(directoryPath) {
   });
 }
 
-const directoryPath = path.resolve(__dirname, "../Lesson/");
+const directoryPath = path.resolve(__dirname, "../Lesson/Part-01");
 renameFilesInDirectory(directoryPath);

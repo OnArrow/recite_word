@@ -1,46 +1,46 @@
-import path from "path";
-import fs from "fs";
+import path from 'path'
+import fs from 'fs'
 
 function renameFilesInDirectory(directoryPath) {
   fs.readdir(directoryPath, (err, files) => {
     if (err) {
-      console.error("Error reading directory:", err);
-      return;
+      console.error('Error reading directory:', err)
+      return
     }
 
     files.forEach((file) => {
-      const oldFilePath = path.join(directoryPath, file);
+      const oldFilePath = path.join(directoryPath, file)
 
       fs.stat(oldFilePath, (err, stats) => {
         if (err) {
-          console.error("Error getting file stats:", err);
-          return;
+          console.error('Error getting file stats:', err)
+          return
         }
 
         if (stats.isDirectory()) {
           // 如果是子目录，递归调用函数
-          renameFilesInDirectory(oldFilePath);
+          renameFilesInDirectory(oldFilePath)
         } else {
           // 如果是文件，修改文件名
-          const newFileName = file.replace(/([a-zA-Z])(\d)/g, "$1 $2");
-          const newFilePath = path.join(directoryPath, newFileName);
+          const newFileName = file.replace('-', ' ')
+          const newFilePath = path.join(directoryPath, newFileName)
 
-          console.log(newFileName);
+          console.log(newFileName)
 
           fs.rename(oldFilePath, newFilePath, (err) => {
             if (err) {
-              console.error("Error renaming file:", err);
-              return;
+              console.error('Error renaming file:', err)
+              return
             }
-            console.log(`Renamed ${oldFilePath} to ${newFilePath}`);
-          });
+            console.log(`Renamed ${oldFilePath} to ${newFilePath}`)
+          })
         }
-      });
-    });
-  });
+      })
+    })
+  })
 }
 
-const targetDirectory = "../Lesson/Part 01";
+const targetDirectory = '../Test'
 
-const directoryPath = path.resolve(__dirname, targetDirectory);
-renameFilesInDirectory(directoryPath);
+const directoryPath = path.resolve(__dirname, targetDirectory)
+renameFilesInDirectory(directoryPath)

@@ -4,6 +4,9 @@ unpackage/
 dist/
 doc/
 
+/.vitepress/cache
+/.vitepress/.temp
+
 # local env files
 .env.local
 .env.*.local

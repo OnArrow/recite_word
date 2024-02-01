@@ -1,6 +1,6 @@
-name: 更新博客到服务器
-
 # uses表示使用一些第三方库
+
+name: 更新文档到服务器
 
 on:
   push:
@@ -38,6 +38,7 @@ jobs:
         run: pnpm run docs:build
       # 将打包后的文件上传到服务器
       - name: 发布到服务器
+        # https://github.com/easingthemes/ssh-deploy
         uses: easingthemes/ssh-deploy@main
         with:
           # 私钥

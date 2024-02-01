@@ -17,20 +17,13 @@ export default defineConfig({
       { text: "Todo", link: "/Todo" },
     ],
 
-    // sidebar: [
-    //   {
-    //     text: "Examples",
-    //     items: [
-    //       { text: "Markdown Examples", link: "/markdown-examples" },
-    //       { text: "Runtime API Examples", link: "/api-examples" },
-    //     ],
-    //   },
-    // ],
-
     sidebar: directoryArray,
 
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
+    search: {
+      provider: "local",
+    },
   },
 });

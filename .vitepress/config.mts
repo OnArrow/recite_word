@@ -21,9 +21,12 @@ export default defineConfig({
       {
         text: 'Material',
         items: [
-          { text: 'New Concept English 2', link: '/item-2' },
-          { text: 'New Concept English 1', link: '/item-3' },
-          { text: 'New Concept English 2', link: '/item-1' }
+          {
+            text: 'New Concept English 1',
+            link: 'http://120.25.124.101:9111/recite_word/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%20%E7%AC%AC2%E5%86%8C.pdf'
+          },
+          { text: 'New Concept English 2', link: '/item-3' },
+          { text: 'New Concept English 3', link: '/item-1' }
         ]
       }
     ],

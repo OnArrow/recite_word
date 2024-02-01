@@ -37,7 +37,7 @@
    往返票
    ```
 
-   ![图1](http://120.25.124.101:9111/EImages/Lesson3/1.jpg)
+   ![图1](../../../Images/Lesson3/1.jpg)
 
 4. 当你想买去某地的票时，使用`one ticket to 某地`，当你想买去某地的往返票时，使用`one return ticket to 某地`
 
@@ -67,7 +67,7 @@
    这是我的钱
    ```
 
-   - <video src="http://120.25.124.101:9111/EVideo/Lesson4/1.mp4" width="50%" ></video>
+   - <video src="../../../Videos/Lesson4/1.mp4" width="50%" ></video>
 
    - 如果只是单纯的介绍某物就用`this is __`
 

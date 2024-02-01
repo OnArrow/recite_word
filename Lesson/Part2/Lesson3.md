@@ -4,7 +4,7 @@
 
 - send sent postcard spoil museum public friendly waiter lend lent decision whole single
 
-- ![Words](http://120.25.124.101:9111/EImages/Part2/words-3.png)
+- ![Words](../../Images/Part2/words-3.png)
 
 ## Please send me a card
 

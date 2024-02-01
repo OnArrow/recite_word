@@ -133,7 +133,7 @@
     各位，这是杰克
     ```
 
-    - ![everybody](http://120.25.124.101:9111/EImages/Lesson6/1.png)
+    - ![everybody](../../../Images/Lesson6/1.png)
 
 12. 欢迎你到某地的短语
 
@@ -186,7 +186,7 @@
       希望有机会在中国见面
       ```
 
-    - **参考连接**<https://www.bilibili.comhttp://120.25.124.101:9111/EVideo/BV1534y1Y7u4?spm_id_from=333.880.my_history.page.click>
+    - **参考连接**<https://www.bilibili.com/Video/BV1534y1Y7u4?spm_id_from=333.880.my_history.page.click>
 
 13. 一般情况下，不是用`make`去表达品牌，而是用`brand`
 

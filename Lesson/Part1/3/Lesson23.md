@@ -33,7 +33,7 @@
 
 3. `cupboard` 通常指装锅碗瓢盆的橱柜
 
-   ![cupboard](http://120.25.124.101:9111/EImages/Lesson23/cupboard.png)
+   ![cupboard](../../../Images/Lesson23/cupboard.png)
 
 ## Which glasses?
 

@@ -10,7 +10,7 @@
    无需报关；绿色通道
    ```
 
-   ![custom](http://120.25.124.101:9111/EImages/Lesson15/customs.png)
+   ![custom](../../../Images/Lesson15/customs.png)
 
 2. `officer` 是由 `office` 引申出来的，因为一般官员或长官之类的都是坐在办公室工作的，所以是 `office` 加上了 `er` 变成了 `officer`。一般如果以 `er` 结尾的单词都表示`人`或者`职业`
 

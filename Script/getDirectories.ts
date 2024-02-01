@@ -30,7 +30,8 @@ const excludeArr: string[] = [
   'Images',
   'Script',
   'node_modules',
-  'public'
+  'public',
+  'Material'
 ]
 const files = fs.readdirSync(directoryPath)
 
@@ -54,17 +55,14 @@ const resultFiles = files.filter((item) => {
 
 function generateDirectoryArray(dirPath) {
   const result: any[] = []
-  // console.log(dirPath);
 
   const files = fs.readdirSync(dirPath)
 
+  // 按照固定格式排序
   files.sort((a, b) => {
     const monthOrder = months
-
     return monthOrder.indexOf(a) - monthOrder.indexOf(b)
   })
-
-  console.log(files)
 
   // 遍历目录中的每个文件/文件夹
   for (const file of files) {

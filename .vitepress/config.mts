@@ -38,9 +38,7 @@ export default defineConfig({
 
     sidebar: directoryArray,
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ],
+    socialLinks: [],
     search: {
       provider: 'local'
     }

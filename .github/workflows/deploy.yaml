@@ -1,5 +1,6 @@
 # uses表示使用一些第三方库
 
+# actions的名称
 name: 更新文档到服务器
 
 on:
@@ -44,13 +45,13 @@ jobs:
           # 私钥
           SSH_PRIVATE_KEY: ${{ secrets.MAC_PRIVATE_KEY }}
           # SCP参数
-          ARGS: "-avzr --delete"
-          # 源目录
-          SOURCE: ".vitepress/dist/"
+          ARGS: '-avzr --delete'
           # 服务器ip
           REMOTE_HOST: ${{ secrets.REMOTE_HOST_120 }}
           # 用户
-          REMOTE_USER: "root"
+          REMOTE_USER: 'root'
+          # 源目录
+          SOURCE: '.vitepress/dist/'
           # 目标地址
-          TARGET: "/var/www/html/english"
-          SCRIPT_BEFORE: "ls"
+          TARGET: '/var/www/html/english'
+          SCRIPT_BEFORE: 'ls'

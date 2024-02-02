@@ -7,7 +7,9 @@ import fs from 'fs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/english',
   lastUpdated: true,
+
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   title: 'English',
   description: 'A website for English by Jack',

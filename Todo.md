@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret
+    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare
    ```
 
 7. **复习过去式&过去分词**

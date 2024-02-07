@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   actually lottery  mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist  kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick horror frighten competition nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat  crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel   inside lately affixes
+   actually lottery  mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist  kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick horror frighten competition nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat  crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel   inside lately affixes waitress grain
    ```
 
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound
+    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound thread neighbor own
    ```
 
 7. **复习过去式&过去分词**

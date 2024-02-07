@@ -9,13 +9,13 @@
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常
    ```
 
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation  correction findable steal even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper
+   additional offsite schedule substitution detector replacement soulless orientation  correction findable steal even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare
+    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound
    ```
 
 7. **复习过去式&过去分词**

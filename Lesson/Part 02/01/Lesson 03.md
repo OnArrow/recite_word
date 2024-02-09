@@ -57,3 +57,9 @@ I spent the whole day in my room, but I did not write a single card!
 5. `She's single` 她是单身
 
 6. `make a decision` 下定决心
+
+7. `think about sth./sb.` 思考某事/某人。想某事/某人
+
+   ```
+   Every day I thought about my homework
+   ```

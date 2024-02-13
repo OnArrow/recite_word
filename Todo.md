@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic flush/冲洗/刷新 crawler/网络爬虫 runnable daemon/守护进程 yield synchronized
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound thread neighbor own extension rose though firm abroad foreign
+    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound thread neighbor own extension rose though firm abroad foreign without language compile vision version task notify
    ```
 
 7. **复习过去式&过去分词**

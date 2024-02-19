@@ -3,19 +3,19 @@
 1. **Word**
 
    ```
-   actually lottery  mystery bin fact wheat steal sunbathe noisy glad bush outlaw combination chopstick seasoning lane cool stain  mister round art journalist  kilo ski spider whale treat  laugh dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick horror frighten competition nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister European championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat  crown consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel   inside lately affixes waitress grain dumb repetition pyramid
+    chopstick seasoning lane cool stain  mister round art journalist  kilo ski spider whale treat   dig rob volleyball degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick horror frighten competition nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays concert usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister  championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel   inside lately affixes waitress grain dumb repetition pyramid spider
    ```
 
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle popup tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic flush/冲洗/刷新 crawler/网络爬虫 runnable daemon/守护进程 yield synchronized
+    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic flush/冲洗/刷新 crawler/网络爬虫 runnable daemon/守护进程 yield synchronized
    ```
 
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation  correction findable steal even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
+   additional offsite schedule substitution detector replacement soulless orientation  correction findable  even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **复习**
 
    ```
-    exist crowd shout pattern valid extract snooze pause expire disagree throttle debounce above target bring auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound thread neighbor own extension rose though firm abroad foreign without language compile vision version task notify
+    exist shout pattern valid extract snooze pause expire disagree throttle debounce above target auxiliary opposite repository secret declare spot contain absent duplicate actress actor except bound thread neighbor own extension rose though firm abroad foreign without language compile vision version task notify expect thought brought spare conductor fair dusty
    ```
 
 7. **复习过去式&过去分词**

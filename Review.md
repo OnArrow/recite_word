@@ -30,60 +30,74 @@
 
 15. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
 
-16. opposite **[ˈɒpəzɪt]** `prep` 在...对面 `adv` 在对面
+16. fair **[feə(r)]** `adj` 公平的；合理的；（头发）金色的 `adv` 公平地
 
-17. spot **[spɒt]** `n` 地点，场所
+17. opposite **[ˈɒpəzɪt]** `prep` 在...对面 `adv` 在对面
 
-18. version **[ˈvɜːʃ(ə)n]** `n` 版本；型号
+18. spot **[spɒt]** `n` 地点，场所
 
-19. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
+19. dusty **[ˈdʌsti]** `adj` 布满灰尘的；枯燥无味的
 
-20. neighbor **[ˈneɪbə(r)]** `n` 邻居；邻国 `vt` （地方、物体）位于...的附近 `adj` 邻居的
+20. version **[ˈvɜːʃ(ə)n]** `n` 版本；型号
 
-21. compile **[kəmˈpaɪl]** `v` 汇编；编译；收集（信息，资料）
+21. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
 
-22. firm **[fɜːm]** `n` 公司，商行 `adj` 坚硬的，结实的 `v` 使强壮 `adv` 坚定地，坚决地
+22. neighbor **[ˈneɪbə(r)]** `n` 邻居；邻国 `vt` （地方、物体）位于...的附近 `adj` 邻居的
 
-23. contain **[kənˈteɪn]** `v` 包容，容纳
+23. compile **[kəmˈpaɪl]** `v` 汇编；编译；收集（信息，资料）
 
-24. extension **[ɪkˈstenʃ(ə)n]** `n` 扩展；文件扩展名
+24. firm **[fɜːm]** `n` 公司，商行 `adj` 坚硬的，结实的 `v` 使强壮 `adv` 坚定地，坚决地
 
-25. rose **[rəʊz]** `v` （rise 的过去式） `n` 玫瑰花
+25. contain **[kənˈteɪn]** `v` 包容，容纳
 
-26. vision **[ˈvɪʒn]** `n` 视觉；视力；幻想
+26. extension **[ɪkˈstenʃ(ə)n]** `n` 扩展；文件扩展名
 
-27. expire **[ɪkˈspaɪə(r)]** `v` 到期；（任期）届满
+27. rose **[rəʊz]** `v` （rise 的过去式） `n` 玫瑰花
 
-28. foreign **[ˈfɒrən]** `adj` 外国的，来自国外的；外来的，外地的
+28. thought **[θɔːt]** `v` （think 的过去式） `n` 想法，看法；思考
 
-29. own **[əʊn]** `v` 有，拥有 `adj` 自己的，属于自己的 `pron` 自己的
+29. vision **[ˈvɪʒn]** `n` 视觉；视力；幻想
 
-30. duplicate **[ˈdjuːplɪkeɪt]** `v` 复制，复印 `n` 副本，复制品 `adj` 完全一样的，复制的
+30. expire **[ɪkˈspaɪə(r)]** `v` 到期；（任期）届满
 
-31. notify **[ˈnəʊtɪfaɪ]** `v` 通告；通知
+31. own **[əʊn]** `v` 有，拥有 `adj` 自己的，属于自己的 `pron` 自己的
 
-32. pause **[pɔːz]** `v` 暂停，停顿 `n` 暂停，停顿
+32. notify **[ˈnəʊtɪfaɪ]** `v` 通告；通知
 
-33. task **[tɑːsk]** `n` （尤指困难的或必须定期做的）工作，任务
+33. foreign **[ˈfɒrən]** `adj` 外国的，来自国外的；外来的，外地的
 
-34. thread **[θred]** `n` （计算机）线程；同主题帖子；线
+34. duplicate **[ˈdjuːplɪkeɪt]** `v` 复制，复印 `n` 副本，复制品 `adj` 完全一样的，复制的
 
-35. exist **[ɪɡˈzɪst]** `v` 存在；持续存在
+35. expect **[ɪkˈspekt]** `v` 期待；预计
 
-36. except **[ɪkˈsept]** `prep` 除...外，不包括
+36. pause **[pɔːz]** `v` 暂停，停顿 `n` 暂停，停顿
 
-37. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+37. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-38. repository **[rɪˈpɒzət(ə)ri]** `n` 仓库；储藏室
+38. task **[tɑːsk]** `n` （尤指困难的或必须定期做的）工作，任务
 
-39. pattern **[ˈpæt(ə)n]** `n` 模式，方式；（声音或词汇有规则排列的）模式，语法 `v` 用图案装饰，给...加上花样
+39. exist **[ɪɡˈzɪst]** `v` 存在；持续存在
 
-40. auxiliary **[ɔːɡˈzɪliəri]** `n` 助动词；助手，辅助人员；雇佣兵 `adj` 辅助的；备用的
+40. thread **[θred]** `n` （计算机）线程；同主题帖子；线
 
-41. language **[ˈlæŋɡwɪdʒ]** `n` 语言
+41. conductor **[kənˈdʌktə(r)]** `n` 售票员；（乐队等）指挥
 
-42. bring **[brɪŋ]** `v` 拿来；带来；移动
+42. except **[ɪkˈsept]** `prep` 除...外，不包括
 
-43. absent **[ˈæbsənt]** `adj` 缺勤的；缺席的；心不在焉的 `prep` 缺乏；没有 `v` 离开；缺席
+43. spare **[speə(r)]** `adj` 备用的；空闲的 `v` 节约
 
-44. crowd **[kraʊd]** `n` 人群；（尤指体育赛事的）观众 `v` 聚集；群集
+44. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+
+45. repository **[rɪˈpɒzət(ə)ri]** `n` 仓库；储藏室
+
+46. pattern **[ˈpæt(ə)n]** `n` 模式，方式；（声音或词汇有规则排列的）模式，语法 `v` 用图案装饰，给...加上花样
+
+47. brought **[brɔːt]** `v` （bring 的过去式）
+
+48. fix **[fɪks]** `v` 固定；（注意力）集中在，专心考虑；修理 `n` （尤指简单、暂时的）解决方法；困境
+
+49. auxiliary **[ɔːɡˈzɪliəri]** `n` 助动词；助手，辅助人员；雇佣兵 `adj` 辅助的；备用的
+
+50. language **[ˈlæŋɡwɪdʒ]** `n` 语言
+
+51. absent **[ˈæbsənt]** `adj` 缺勤的；缺席的；心不在焉的 `prep` 缺乏；没有 `v` 离开；缺席

@@ -1,4 +1,4 @@
-# 词性
+# Word Class 词性
 
 1. `n` 名词，全称 `noun`
 

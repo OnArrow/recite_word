@@ -19,3 +19,25 @@ He will soon visit Darwin. From there, he will fly to Perth.
 
 My brother has never been abroad before, so he is finding this trip very exciting.
 ```
+
+## Whole
+
+1. `have a great trip` 旅途愉快
+
+2. `A be different from B` 表示 A 和 B 不一样
+
+   ```
+   I am different from you
+   我和你不同/我们不一样
+
+
+   My glass is different from your glass
+   我的杯子和你的不一样
+   ```
+
+3. `receive sth. from sb.` 收到某人的某物
+
+   ```
+   I received a red pocket from my mother last Chinese New Year
+   去年春节我收到我妈妈的红包
+   ```

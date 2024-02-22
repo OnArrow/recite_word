@@ -30,10 +30,10 @@
 
    ```
 
-6. **复习**
+6. **Review**
 
    ```
-    exist shout pattern valid extract snooze disagree throttle debounce auxiliary repository secret declare spot contain absent except bound thread neighbor extension rose though firm abroad foreign compile task notify expect thought brought spare conductor fair dusty fix experience improve salt wide cloth meter collapse explain expand garage urgent minus minute happiness recognize difficult August
+   shout extract snooze throttle debounce repository secret declare except bound neighbor extension though foreign notify expect thought spare conductor fair dusty experience improve salt wide cloth collapse explain expand garage urgent happiness recognize difficult
    ```
 
 7. **复习过去式&过去分词**

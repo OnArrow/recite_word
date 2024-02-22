@@ -24,7 +24,7 @@ On the last day I made a big decision. I got up early and bought thirty seven ca
 I spent the whole day in my room, but I did not write a single card!
 ```
 
-## Whole
+## Notes
 
 1. `waiter`更多指的是男服务员，`waitress`指的是女服务员
 

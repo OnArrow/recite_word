@@ -83,3 +83,31 @@ degree celsius insect yoga capital wipe sanitize horror comedy population redemp
 ```
 vegetarian repetition redemption degree celsius comb classical horror comedy hydrant novel findable capital population sanitize wipe wheel capsule yoga insect
 ```
+
+```
+vegetarian wheel capital capsule degree celsius redemption repetition insect hydrant comb horror comedy novel classical findable population sanitize wipe yoga
+```
+
+```
+hydrant insect repetition redemption novel horror comedy capital capsule wheel degree celsius population comb vegetarian findable sanitize wipe yoga classical
+```
+
+```
+He has just received a bottle of water from his friend
+
+He receives a letter from the post office every day
+
+I received sanitizing wipe from the teacher yesterday
+
+I always receive a present from my mum every birthday
+
+I have worked for this firm for half year
+
+He has worked for the firm since last year
+
+There is a great number of restaurants in Beijing
+
+How many restaurants is there in Beijing?
+
+There is a great number of spots in Asia
+```

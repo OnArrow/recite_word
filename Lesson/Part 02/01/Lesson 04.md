@@ -49,6 +49,24 @@ My brother has never been abroad before, so he is finding this trip very excitin
    他已经度假了
    ```
 
+5. `a great number of cn.` 大量的某物
+
+   ```
+   A great number of different places
+   很多不同的地方
+   ```
+
+6. `find n. adj.` 认为什么事物/人怎么怎么样
+
+   ```
+   I finds the cat so cute
+   我觉得这只猫很可爱
+
+   He's finding the train very fast
+
+   I found her very beautiful on the stage last night
+   ```
+
 ## Whole
 
 1. `现在完成时`表达的意思比较含蓄，而`一般过去式`表达的意思比较直接
@@ -64,3 +82,7 @@ My brother has never been abroad before, so he is finding this trip very excitin
    ```
 
 2. `现在完成时`和`一般过去时`并不是泾渭分明的，它们大多数时候可以互相替换
+
+3. `He has been there for six months` 说这句话的时候`Tim`还在那里
+
+4. `He is finding this trip very exciting` 可以替换为 `He finds this trip very exciting`。时态与时态之间并不是泾渭分明的，有时可以互相替换

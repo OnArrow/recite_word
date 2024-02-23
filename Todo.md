@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract snooze repository secret declare except bound though foreign notify expect thought spare conductor dusty experience improve salt wide explain garage happiness recognize stranger hear heart heard sentence correct explorer within temperature environment swallow
+   shout extract snooze repository secret declare except bound though foreign notify expect thought spare conductor dusty experience improve salt wide explain garage happiness recognize stranger hear heart heard sentence correct explorer within temperature environment swallow always restaurant
    ```
 
 7. **复习过去式&过去分词**

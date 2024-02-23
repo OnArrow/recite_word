@@ -20,7 +20,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 'What are you doing?' she asked. 'I'm having breakfast,' I repeated. 'Dear me!' she said. 'Do you usually get up so late? It's one o'clock!'
 ```
 
-### Notes
+### Expressions
 
 1. `what a day!` 大致意思：什么破天气
 
@@ -33,6 +33,12 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 3. `I'm coming to see you` 现在进行时表计划、打算的用法
 
 4. `Dear me` 我的天啊！跟`Oh my god`差不多
+
+5. `look out` 当心；小心
+
+6. `get inside` 进来
+
+7. `get outside` 出去
 
 ## Whole
 
@@ -108,9 +114,3 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    I never get up early on Sundays
    // v. 前面
    ```
-
-5. `look out` 当心；小心
-
-6. `get inside` 进来
-
-7. `get outside` 出去

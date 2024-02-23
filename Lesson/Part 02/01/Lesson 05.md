@@ -24,6 +24,8 @@ Up to now, Mr. Scott has sent a great many requests for spare parts and other ur
 In this way, he has begun his own private 'telephone' service.
 ```
 
-## Whole
+## Expressions
 
 1. `up to now` 迄今为止
+
+2. `so far` 到目前为止

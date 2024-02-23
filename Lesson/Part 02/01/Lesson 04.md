@@ -20,7 +20,7 @@ He will soon visit Darwin. From there, he will fly to Perth.
 My brother has never been abroad before, so he is finding this trip very exciting.
 ```
 
-## Notes
+## Expressions
 
 1. `have a great trip` 旅途愉快
 

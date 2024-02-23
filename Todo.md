@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-     redemption comb repetition  degree celsius classical horror  vegetarian glasses sitting room comedy findable capital population wheel capsule yoga concert insect  jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual novel healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister  championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally novel inside lately affixes waitress grain dumb pyramid claim assemble
+   concert jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister  championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally inside lately affixes waitress grain dumb pyramid claim assemble
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation  correction findable  even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
+   additional offsite schedule substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract snooze throttle debounce repository secret declare except bound neighbor extension though foreign notify expect thought spare conductor fair dusty experience improve salt wide cloth collapse explain expand garage urgent happiness recognize difficult stranger hear heart heard
+   shout extract snooze repository secret declare except bound though foreign notify expect thought spare conductor dusty experience improve salt wide explain garage happiness recognize stranger hear heart heard sentence correct explorer within temperature environment swallow
    ```
 
 7. **复习过去式&过去分词**

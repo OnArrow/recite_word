@@ -29,3 +29,30 @@ In this way, he has begun his own private 'telephone' service.
 1. `up to now` 迄今为止
 
 2. `so far` 到目前为止
+
+3. `leave sb. sth.` 留下某物
+
+   ```
+   I left him a message
+   我给他留下了一条信息
+
+   He's just left me some money
+   ```
+
+4. `cover the distance in st.` 花费了多长时间走过这段距离
+
+   ```
+   He covers the distance from the school in two hours
+   ```
+
+5. `send a request for sth.` 请求某物
+
+   ```
+   He's already sent a request for a new computer
+   ```
+
+6. `customer service` 顾客服务；客服
+
+   ```
+   She's in the customer service department, it's difficult work
+   ```

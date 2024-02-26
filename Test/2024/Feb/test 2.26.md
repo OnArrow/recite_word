@@ -33,3 +33,7 @@ coast rogue flush shuffle yield simplify horrible shirt inside concert
 ```
 coast rogue yield concert inside simplify horrible shuffle flush shirt
 ```
+
+```
+coast simplify concert yield rogue horrible shirt flush shuffle inside
+```

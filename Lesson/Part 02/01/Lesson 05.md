@@ -42,7 +42,7 @@ In this way, he has begun his own private 'telephone' service.
 4. `cover the distance in st.` 花费了多长时间走过这段距离
 
    ```
-   He covers the distance from the school in two hours
+   He covered the distance from the school in two hours
    ```
 
 5. `send a request for sth.` 请求某物

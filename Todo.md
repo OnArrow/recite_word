@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   concert jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute fed harbour horrible arrange/商定  percent  politician expedition Britain finance minister  championship final goal unfortunately beginning/n. literature exactly roof ski salty castle fed preferred disappear safely flight department leather indirect engine negative shirt grip grand commodity triangle mystery  trade grassland upbeat consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally inside lately affixes waitress grain dumb pyramid claim assemble avenger protocol
+   concert jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby  spoilt etcetera rarely frequently occasionally generally lately affixes waitress grain dumb pyramid claim assemble avenger
    ```
 
 2. **About**
 
    ```
-    cast  sense intellisense simplify  maintainer plain cherry gutter   unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char character shuffle/打乱顺序 distinct exception/异常 arithmetic flush/冲洗/刷新 crawler/网络爬虫 runnable daemon/守护进程 yield synchronized
+    cast sense intellisense  maintainer plain cherry gutter   unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char distinct  arithmetic  crawler/网络爬虫 runnable daemon/守护进程 synchronized
    ```
 
 3. **Other**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract snooze repository secret declare except bound though foreign notify expect thought spare conductor dusty experience improve salt wide explain garage happiness recognize stranger hear heart heard sentence correct explorer within temperature environment swallow always restaurant
+   shout extract secret except bound though foreign notify thought conductor experience salt wide explain recognize stranger sentence correct explorer within temperature environment restaurant motion order intelligent character comfortable
    ```
 
 7. **复习过去式&过去分词**

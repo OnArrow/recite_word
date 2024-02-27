@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   necklace ruin jacket especially cola pint  depart pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately affixes waitress grain dumb pyramid claim assemble avenger
+    forbade pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately affixes waitress grain dumb pyramid claim assemble avenger
    ```
 
 2. **About**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract secret except bound though foreign notify thought conductor experience salt wide explain recognize stranger sentence correct explorer within temperature environment restaurant motion order intelligent character comfortable prize accident
+   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special
    ```
 
 7. **复习过去式&过去分词**

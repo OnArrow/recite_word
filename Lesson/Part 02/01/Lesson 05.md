@@ -8,7 +8,7 @@
 
 ## Expressions
 
-- spare part 备件
+-
 
 ## No wrong numbers
 
@@ -30,7 +30,9 @@ In this way, he has begun his own private 'telephone' service.
 
 2. `so far` 到目前为止
 
-3. `leave sb. sth.` 留下某物
+3. `spare part` 备用零件；备件
+
+4. `leave sb. sth.` 留下某物
 
    ```
    I left him a message
@@ -39,19 +41,19 @@ In this way, he has begun his own private 'telephone' service.
    He's just left me some money
    ```
 
-4. `cover the distance in st.` 花费了多长时间走过这段距离
+5. `cover the distance in st.` 花费了多长时间走过这段距离
 
    ```
    He covered the distance from the school in two hours
    ```
 
-5. `send a request for sth.` 请求某物
+6. `send a request for sth.` 请求某物
 
    ```
    He's already sent a request for a new computer
    ```
 
-6. `customer service` 顾客服务；客服
+7. `customer service` 顾客服务；客服
 
    ```
    She's in the customer service department, it's difficult work

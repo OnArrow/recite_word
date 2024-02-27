@@ -15,7 +15,7 @@
 3. **Other**
 
    ```
-   additional offsite substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average bill authorize discussion conduct  tamper judge
+   additional offsite substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average bill authorize discussion conduct  tamper judge son daughter
    ```
 
 4. **过去式&过去分词**

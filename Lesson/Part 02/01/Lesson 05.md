@@ -51,10 +51,48 @@ In this way, he has begun his own private 'telephone' service.
 
    ```
    He's already sent a request for a new computer
+
+   I sent a request for some paper ten days ago
    ```
 
 7. `customer service` 顾客服务；客服
 
    ```
    She's in the customer service department, it's difficult work
+   ```
+
+8. `a great many cn.` 大量的某物
+
+   ```
+   Last night, we said a great many things
+   ```
+
+9. `A is five miles from B` A 到 B 有 5 英里
+
+   ```
+   The school is ten miles from my home
+   ```
+
+10. `get sth. for sb.` 获得某物给某人
+
+    ```
+    He got the toy for his son
+    ```
+
+11. `in this way` 用这样一种方式
+
+    ```
+    In this way, I always have a good seat in the cinema
+    ```
+
+## Whole
+
+1. `other`通常指三个及以上，而`another`通常指两个中的一个
+
+2. `get a telephone` 在这里`get`表示`拥有；得到`
+
+3. `up to now` 往往和现在完成时一起出现
+
+   ```
+   I've sent a great number of postcards to him up to now
    ```

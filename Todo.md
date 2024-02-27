@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special quality feature
+   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special quality feature stand stood sing sang
    ```
 
 7. **复习过去式&过去分词**

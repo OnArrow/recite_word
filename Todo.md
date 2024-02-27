@@ -3,19 +3,19 @@
 1. **Word**
 
    ```
-    forbade pullover bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment flight unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem waitress robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately affixes waitress grain dumb pyramid claim assemble avenger
+   bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately affixes grain dumb pyramid
    ```
 
 2. **About**
 
    ```
-    cast sense intellisense maintainer plain cherry gutter unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char distinct  arithmetic  crawler/网络爬虫 runnable daemon/守护进程 synchronized
+    cast sense intellisense maintainer plain cherry gutter unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char distinct arithmetic  crawler/网络爬虫 runnable daemon/守护进程 synchronized
    ```
 
 3. **Other**
 
    ```
-   additional offsite schedule substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average  bill inbox authorize discussion conduct  tamper sum judge
+   additional offsite substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average bill authorize discussion conduct  tamper judge
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special
+   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special quality feature
    ```
 
 7. **复习过去式&过去分词**

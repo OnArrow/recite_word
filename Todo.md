@@ -3,19 +3,19 @@
 1. **Word**
 
    ```
-   exhibition tango cruise apartment unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent robbery robber education paragraph painful hang drama director usual illness crocodile canoe invent injure bite pronounce  marathon sandwich cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight leather indirect engine negative grip grand commodity  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately grain dumb pyramid
+
    ```
 
 2. **About**
 
    ```
-    cast sense intellisense maintainer plain cherry gutter unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt  carousel exclude char distinct arithmetic runnable daemon/守护进程 synchronized
+
    ```
 
 3. **Other**
 
    ```
-   additional offsite substitution detector replacement soulless orientation  correction  even/甚至 functionality recipient wealth average bill authorize discussion conduct  tamper judge son daughter
+
    ```
 
 4. **过去式&过去分词**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout secret though experience sentence within motion order intelligent character accident trend entertainment packet enemy special quality feature sing sang parrot stupid clever fall fell fallen act score festival adjective noun verb adverb pronoun insert deliver divide flex steal stole stolen
+   shout though experience sentence motion order character accident trend entertainment enemy special quality feature parrot stupid clever fall fell fallen festival insert deliver divide imagine depend dependency land event son daughter pilot fill sound crush surprise worth college discount
    ```
 
 7. **复习过去式&过去分词**

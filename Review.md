@@ -1,51 +1,79 @@
 # Review
+1. trend **[trend]** `n` 趋势，动态；热门话题
 
-1. entertainment **[ˌentəˈteɪnmənt]** `n` 娱乐；娱乐表演；招待
+2. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
 
-2. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
+3. depend **[dɪˈpend]** `v` 依赖；依靠
 
-3. packet **[ˈpækɪt]** `n` 包装袋，包装盒 `v` 把...打包
+4. festival **[ˈfestɪv(ə)l]** `n` 节日；活动日期
 
-4. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
-
-5. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
+5. special **[ˈspeʃ(ə)l]** `adj` 特殊的，特别的
 
 6. feature **[ˈfiːtʃə(r)]** `n` 特点；特征 `v` 由...主演
 
-7. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
+7. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
 
-8. trend **[trend]** `n` 趋势，动态；热门话题
+8. divide **[dɪˈvaɪd]** `v` (使)分开；分配；除以 `n` 差异
 
-9. special **[ˈspeʃ(ə)l]** `adj` 特殊的，特别的
+9. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
 
-10. stand **[stænd]** `v` 站立；直立 `n` 立场；见解
+10. enemy **[ˈenəmi]** `n` 敌人，反对者 `adj` 敌人的
 
-11. stood **[stʊd]** `v` （stand 的过去式）
+11. parrot **[ˈpærət]** `n` 鹦鹉
 
-12. explain **[ɪkˈspleɪn]** `v` 解释，说明
+12. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-13. quality **[ˈkwɒləti]** `adj` 优质的，高质量的 `n` 质量，品质
+13. fill **[fɪl]** `v` 填补；（使）充满，占满；弥漫 `n` 总量，（某人的）需求总量；（容器的）最大容量
 
-14. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
+14. event **[ɪˈvent]** `n` 事件；（尤指）大事；社交场合
 
-15. enemy **[ˈenəmi]** `n` 敌人，反对者 `adj` 敌人的
+15. pilot **[ˈpaɪlət]** `n` 飞行员 `v` 试验，试行
 
-16. within **[wɪˈðɪn]** `prep` 在（某段时间）之内 `adv` 在里面，在内部
+16. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-17. parrot **[ˈpærət]** `n` 鹦鹉
+17. quality **[ˈkwɒləti]** `adj` 优质的，高质量的 `n` 质量，品质
 
-18. stand **[stænd]** `v` 站立；竖放；起立 `n` 架；座；台；立场
+18. land **[lænd]** `n` 陆地，地面；地产，地皮；国土 `v` 着陆，降落
 
-19. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
+19. fallen **[ˈfɔːlən]** `v` （fall 的过去分词）
 
 20. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
 
-21. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
+21. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
 
-22. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
+22. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
 
-23. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
+23. imagine **[ɪˈmædʒɪn]** `v` 想象；设想；误认为
 
-24. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+24. crush **[krʌʃ]** `v` 使心烦意乱；碾成粉末 `n` 迷恋对象
 
-25. prize **[praɪz]** `n` 奖品，奖项 `adj` 优等的，可获奖的 `v` 珍视，高度重视
+25. son **[sʌn]** `n` 儿子；孩子（长者对男孩或年轻男孩的称呼）
+
+26. deliver **[dɪˈlɪvə(r)]** `v` 投递；发出；（计算计程序）发布；分娩
+
+27. worth **[wɜːθ]** `adj` 值...钱；具有...价值的 `n` 价值，价格；重要性，作用
+
+28. stupid **[ˈstjuːpɪd]** `adj` 笨的，傻的 `n` 傻瓜，笨蛋
+
+29. surprise **[səˈpraɪz]** `n` 意外之事；惊讶 `v` 使（某人）吃惊 `int` 感到惊奇吧！
+
+30. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
+
+31. dependency **[dɪˈpendənsi]** `n` 依赖；从属；从属物
+
+32. fell **[fel]** `v` （fall 的过去式）
+
+33. daughter **[ˈdɔːtə(r)]** `n` 女儿 `adj` 女儿的
+
+34. insert **[ɪnˈsɜːt]** `v` 插入，嵌入 `n` 附加页
+
+35. discount **[ˈdɪskaʊnt]** `n` 折扣 `adj` 打折的 `v` 打折，减价
+
+36. entertainment **[ˌentəˈteɪnmənt]** `n` 娱乐；娱乐表演；招待
+
+37. fall **[fɔːl]** `v` 降落；倒塌；（水平、数量、价格等）下跌，减少 `n` 落下，跌倒；失败，垮台
+
+38. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
+
+39. clever **[ˈklevə(r)]** `adj` 聪明的，机灵的
+

@@ -6,10 +6,6 @@
 
 - ![Words](../../../Images/Part2/words-5.png)
 
-## Expressions
-
--
-
 ## No wrong numbers
 
 ```
@@ -36,7 +32,6 @@ In this way, he has begun his own private 'telephone' service.
 
    ```
    I left him a message
-   我给他留下了一条信息
 
    He's just left me some money
    ```
@@ -88,6 +83,12 @@ In this way, he has begun his own private 'telephone' service.
 ## Whole
 
 1. `other`通常指三个及以上，而`another`通常指两个中的一个
+
+   ```
+   There were four letters in my drawer, one was from America, the others were from France
+
+   I have two brothers, one is an engineer, the another is a mechanic
+   ```
 
 2. `get a telephone` 在这里`get`表示`拥有；得到`
 

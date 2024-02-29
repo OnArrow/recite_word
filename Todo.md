@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   recite bore rare get/到达 overlap brother-in-law jacket ladder kick frighten nervous exhibition tango cruise apartment unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent poem robbery robber education paragraph painful hang act/n. drama director nowadays usual  healthy illness crocodile canoe invent injure bite pronounce  marathon sandwich festival cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship final goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight department leather indirect engine negative grip grand commodity triangle  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately affixes grain dumb pyramid
+   exhibition tango cruise apartment unfortunately bill guitar truck lots cousin painting/n.  fantastic bit empire helicopter lorry earlier independent robbery robber education paragraph painful hang drama director usual illness crocodile canoe invent injure bite pronounce  marathon sandwich cookery/烹饪术 musician flute harbour arrange/商定  percent  politician expedition Britain finance minister  championship goal beginning/n. literature exactly roof salty castle fed preferred disappear safely flight leather indirect engine negative grip grand commodity  trade grassland upbeat consider sunny lonely mistaken candle lobby spoilt etcetera rarely frequently occasionally generally lately grain dumb pyramid
    ```
 
 2. **About**
 
    ```
-    cast sense intellisense maintainer plain cherry gutter unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt stable carousel exclude char distinct arithmetic  crawler/网络爬虫 runnable daemon/守护进程 synchronized
+    cast sense intellisense maintainer plain cherry gutter unexpected syntax  prune cycle  tray   spread    adapter frame decimal   tutorial  affect multipart indentation nest encrypt  carousel exclude char distinct arithmetic runnable daemon/守护进程 synchronized
    ```
 
 3. **Other**
@@ -21,7 +21,7 @@
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal learn/learnt shine sleep
+   lie win build hold show wake hit bear ride steal learn/learnt shine sleep hide
    ```
 
 5. **比较级&最高级**
@@ -33,7 +33,7 @@
 6. **Review**
 
    ```
-   shout extract secret though conductor experience explain stranger sentence correct within temperature environment restaurant motion order intelligent character prize accident trend entertainment packet enemy special quality feature stand stood sing sang
+   shout secret though experience sentence within motion order intelligent character accident trend entertainment packet enemy special quality feature sing sang parrot stupid clever fall fell fallen act score festival adjective noun verb adverb pronoun insert deliver divide flex steal stole stolen
    ```
 
 7. **复习过去式&过去分词**

@@ -1,61 +1,51 @@
 # Review
-1. correct **[kəˈrekt]** `adj` 正确的，无误的；恰当的 `v` 改正，纠正
 
-2. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
+1. entertainment **[ˌentəˈteɪnmənt]** `n` 娱乐；娱乐表演；招待
 
-3. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
+2. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-4. salt **[sɔːlt]** `n` 盐 `v` 给（食物）加盐调味 `adj` 咸的；含盐的
+3. packet **[ˈpækɪt]** `n` 包装袋，包装盒 `v` 把...打包
 
-5. restaurant **[ˈrestrɒnt]** `n` 餐馆，饭店
+4. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
 
-6. within **[wɪˈðɪn]** `prep` 在（某段时间）之内 `adv` 在里面，在内部
+5. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
 
-7. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
+6. feature **[ˈfiːtʃə(r)]** `n` 特点；特征 `v` 由...主演
 
-8. bound **[baʊnd]** `v` （bind 的过去式）`n` 界限
+7. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
 
-9. explain **[ɪkˈspleɪn]** `v` 解释，说明
+8. trend **[trend]** `n` 趋势，动态；热门话题
 
-10. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
+9. special **[ˈspeʃ(ə)l]** `adj` 特殊的，特别的
 
-11. except **[ɪkˈsept]** `prep` 除...外，不包括
+10. stand **[stænd]** `v` 站立；直立 `n` 立场；见解
 
-12. prize **[praɪz]** `n` 奖品，奖项 `adj` 优等的，可获奖的 `v` 珍视，高度重视
+11. stood **[stʊd]** `v` （stand 的过去式）
 
-13. temperature **[ˈtemprətʃə(r)]** `n` 温度；体温；发烧
+12. explain **[ɪkˈspleɪn]** `v` 解释，说明
 
-14. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+13. quality **[ˈkwɒləti]** `adj` 优质的，高质量的 `n` 质量，品质
 
-15. conductor **[kənˈdʌktə(r)]** `n` 售票员；（乐队等）指挥
+14. intelligent **[ɪnˈtelɪdʒənt]** `adj` 聪明的；有智慧的
 
-16. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
+15. enemy **[ˈenəmi]** `n` 敌人，反对者 `adj` 敌人的
 
-17. comfortable **[ˈkʌmfətəbl]** `adj` 令人舒适的；感到舒服的；自信的；宽裕的
+16. within **[wɪˈðɪn]** `prep` 在（某段时间）之内 `adv` 在里面，在内部
 
-18. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
+17. parrot **[ˈpærət]** `n` 鹦鹉
 
-19. notify **[ˈnəʊtɪfaɪ]** `v` 通告；通知
+18. stand **[stænd]** `v` 站立；竖放；起立 `n` 架；座；台；立场
 
-20. thought **[θɔːt]** `v` （think 的过去式） `n` 想法，看法；思考
+19. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
 
-21. foreign **[ˈfɒrən]** `adj` 外国的，来自国外的；外来的，外地的
+20. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
 
-22. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
+21. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
 
-23. stranger **[ˈstreɪndʒə(r)]** `n` 陌生人；异乡人
+22. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
 
-24. explorer **[ɪkˈsplɔːrə(r)]** `n` 资源管理器；探险者
+23. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
 
-25. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
+24. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
 
-26. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
-
-27. wide **[waɪd]** `adj` 宽的；广泛的
-
-28. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
-
-29. environment **[ɪnˈvaɪrənmənt]** `n` 环境；软件包；自然环境；环保
-
-30. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
-
+25. prize **[praɪz]** `n` 奖品，奖项 `adj` 优等的，可获奖的 `v` 珍视，高度重视

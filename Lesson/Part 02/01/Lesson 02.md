@@ -67,7 +67,6 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
    ```
    Jack is driving very fast these days, he doesn't usually drive very fast
-   这些天他开车开得很快，通常他不开这么快的
    // `these days`表示现阶段，一段时间。但是说这句话时，Jack不一定正在开得很快
 
    She's writing a novel

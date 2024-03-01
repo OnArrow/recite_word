@@ -4,7 +4,7 @@
 
 - exciting receive firm different centre abroad
 
-- ![Words](../../../Images/Part2/words-4.png)
+- ![Words](../../../Images/Part2/01/words-4.png)
 
 ## An exciting trip
 

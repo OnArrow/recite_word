@@ -9,7 +9,8 @@
     "rename": "ts-node ./Script/renameFiles.ts",
     "docs:dev": "vitepress dev --host --port 10324",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.10",
+    "husky": "^9.0.11",
     "sass": "^1.70.0",
     "vitepress": "1.0.0-rc.40",
     "vue": "^3.4"

@@ -16,6 +16,9 @@ devDependencies:
   '@types/node':
     specifier: ^20.11.10
     version: 20.11.10
+  husky:
+    specifier: ^9.0.11
+    version: 9.0.11
   sass:
     specifier: ^1.70.0
     version: 1.70.0
@@ -863,6 +866,12 @@ packages:
     engines: {node: '>= 6'}
     dependencies:
       is-glob: 4.0.3
+    dev: true
+
+  /husky@9.0.11:
+    resolution: {integrity: sha512-AB6lFlbwwyIqMdHYhwPe+kjOC3Oc5P3nThEoW/AaO2BX3vJDjWPFxYLxokUZOo6RNX20He3AaT8sESs9NJcmEw==}
+    engines: {node: '>=18'}
+    hasBin: true
     dev: true
 
   /immutable@4.3.5:

@@ -1,39 +1,39 @@
 # Todo
 
-1. **Word**
+1. **Review**
+
+   ```
+   shout though experience sentence motion order character accident trend entertainment enemy special quality feature parrot stupid clever fall fell fallen festival insert deliver divide imagine depend dependency land event son daughter pilot fill sound crush surprise worth college discount
+   ```
+
+2. **Word**
 
    ```
 
    ```
 
-2. **About**
+3. **About**
 
    ```
 
    ```
 
-3. **Other**
+4. **Other**
 
    ```
 
    ```
 
-4. **过去式&过去分词**
+5. **过去式&过去分词**
 
    ```
    lie win build hold show wake hit bear ride steal learn/learnt shine sleep hide
    ```
 
-5. **比较级&最高级**
+6. **比较级&最高级**
 
    ```
 
-   ```
-
-6. **Review**
-
-   ```
-   shout though experience sentence motion order character accident trend entertainment enemy special quality feature parrot stupid clever fall fell fallen festival insert deliver divide imagine depend dependency land event son daughter pilot fill sound crush surprise worth college discount
    ```
 
 7. **复习过去式&过去分词**

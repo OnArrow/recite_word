@@ -1,85 +1,87 @@
 # Review
-1. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
+1. fell **[fel]** `v` （fall 的过去式）
 
-2. imagine **[ɪˈmædʒɪn]** `v` 想象；设想；误认为
+2. stupid **[ˈstjuːpɪd]** `adj` 笨的，傻的 `n` 傻瓜，笨蛋
 
-3. fallen **[ˈfɔːlən]** `v` （fall 的过去分词）
+3. daughter **[ˈdɔːtə(r)]** `n` 女儿 `adj` 女儿的
 
-4. stupid **[ˈstjuːpɪd]** `adj` 笨的，傻的 `n` 傻瓜，笨蛋
+4. enemy **[ˈenəmi]** `n` 敌人，反对者 `adj` 敌人的
 
-5. pilot **[ˈpaɪlət]** `n` 飞行员 `v` 试验，试行
+5. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
 
-6. parrot **[ˈpærət]** `n` 鹦鹉
+6. university **[ˌjuːnɪˈvɜːsəti]** `n` 大学；综合性大学
 
-7. enemy **[ˈenəmi]** `n` 敌人，反对者 `adj` 敌人的
+7. surprise **[səˈpraɪz]** `n` 意外之事；惊讶 `v` 使（某人）吃惊 `int` 感到惊奇吧！
 
-8. trend **[trend]** `n` 趋势，动态；热门话题
+8. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
 
-9. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
+9. fall **[fɔːl]** `v` 降落；倒塌；（水平、数量、价格等）下跌，减少 `n` 落下，跌倒；失败，垮台
 
-10. land **[lænd]** `n` 陆地，地面；地产，地皮；国土 `v` 着陆，降落
+10. dependency **[dɪˈpendənsi]** `n` 依赖；从属；从属物
 
-11. discount **[ˈdɪskaʊnt]** `n` 折扣 `adj` 打折的 `v` 打折，减价
+11. fill **[fɪl]** `v` 填补；（使）充满，占满；弥漫 `n` 总量，（某人的）需求总量；（容器的）最大容量
 
-12. sentence **[ˈsentəns]** `n` 句子；判决；命题 `v` 判决
+12. insert **[ɪnˈsɜːt]** `v` 插入，嵌入 `n` 附加页
 
-13. daughter **[ˈdɔːtə(r)]** `n` 女儿 `adj` 女儿的
+13. quality **[ˈkwɒləti]** `adj` 优质的，高质量的 `n` 质量，品质
 
-14. university **[ˌjuːnɪˈvɜːsəti]** `n` 大学；综合性大学
+14. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序 `v` 订购，订货
 
-15. fell **[fel]** `v` （fall 的过去式）
+15. divide **[dɪˈvaɪd]** `v` (使)分开；分配；除以 `n` 差异
 
-16. fill **[fɪl]** `v` 填补；（使）充满，占满；弥漫 `n` 总量，（某人的）需求总量；（容器的）最大容量
+16. crush **[krʌʃ]** `v` 使心烦意乱；碾成粉末 `n` 迷恋对象
 
-17. quality **[ˈkwɒləti]** `adj` 优质的，高质量的 `n` 质量，品质
+17. inspect **[ɪnˈspekt]** `v` 检查，检验
 
-18. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
+18. son **[sʌn]** `n` 儿子；孩子（长者对男孩或年轻男孩的称呼）
 
-19. crush **[krʌʃ]** `v` 使心烦意乱；碾成粉末 `n` 迷恋对象
+19. discount **[ˈdɪskaʊnt]** `n` 折扣 `adj` 打折的 `v` 打折，减价
 
-20. convert **[kənˈvɜːt]** `v` 转换；转变
+20. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
 
-21. worth **[wɜːθ]** `adj` 值...钱；具有...价值的 `n` 价值，价格；重要性，作用
+21. imagine **[ɪˈmædʒɪn]** `v` 想象；设想；误认为
 
-22. motion **[ˈməʊʃn]** `n` 运动，移动；手势，动作 `v` 打手势，示意
+22. parrot **[ˈpærət]** `n` 鹦鹉
 
-23. special **[ˈspeʃ(ə)l]** `adj` 特殊的，特别的
+23. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
 
-24. festival **[ˈfestɪv(ə)l]** `n` 节日；活动日期
+24. convert **[kənˈvɜːt]** `v` 转换；转变
 
-25. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+25. clever **[ˈklevə(r)]** `adj` 聪明的，机灵的
 
-26. insert **[ɪnˈsɜːt]** `v` 插入，嵌入 `n` 附加页
+26. fallen **[ˈfɔːlən]** `v` （fall 的过去分词）
 
-27. event **[ɪˈvent]** `n` 事件；（尤指）大事；社交场合
+27. land **[lænd]** `n` 陆地，地面；地产，地皮；国土 `v` 着陆，降落
 
-28. divide **[dɪˈvaɪd]** `v` (使)分开；分配；除以 `n` 差异
+28. event **[ɪˈvent]** `n` 事件；（尤指）大事；社交场合
 
-29. son **[sʌn]** `n` 儿子；孩子（长者对男孩或年轻男孩的称呼）
+29. deliver **[dɪˈlɪvə(r)]** `v` 投递；发出；（计算计程序）发布；分娩
 
-30. entertainment **[ˌentəˈteɪnmənt]** `n` 娱乐；娱乐表演；招待
+30. worth **[wɜːθ]** `adj` 值...钱；具有...价值的 `n` 价值，价格；重要性，作用
 
-31. concept **[ˈkɒnsept]** `n` 概念，观念，理念
+31. trend **[trend]** `n` 趋势，动态；热门话题
 
-32. surprise **[səˈpraɪz]** `n` 意外之事；惊讶 `v` 使（某人）吃惊 `int` 感到惊奇吧！
+32. depend **[dɪˈpend]** `v` 依赖；依靠
 
-33. deliver **[dɪˈlɪvə(r)]** `v` 投递；发出；（计算计程序）发布；分娩
+33. pilot **[ˈpaɪlət]** `n` 飞行员 `v` 试验，试行
 
-34. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
+34. concept **[ˈkɒnsept]** `n` 概念，观念，理念
 
-35. dependency **[dɪˈpendənsi]** `n` 依赖；从属；从属物
+35. entertainment **[ˌentəˈteɪnmənt]** `n` 娱乐；娱乐表演；招待
 
-36. depend **[dɪˈpend]** `v` 依赖；依靠
+36. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-37. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
+37. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
 
-38. feature **[ˈfiːtʃə(r)]** `n` 特点；特征 `v` 由...主演
+38. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
 
-39. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
+39. special **[ˈspeʃ(ə)l]** `adj` 特殊的，特别的
 
-40. fall **[fɔːl]** `v` 降落；倒塌；（水平、数量、价格等）下跌，减少 `n` 落下，跌倒；失败，垮台
+40. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-41. clever **[ˈklevə(r)]** `adj` 聪明的，机灵的
+41. feature **[ˈfiːtʃə(r)]** `n` 特点；特征 `v` 由...主演
 
-42. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
+42. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
+
+43. festival **[ˈfestɪv(ə)l]** `n` 节日；活动日期
 

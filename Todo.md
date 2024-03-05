@@ -15,7 +15,7 @@
 3. **About**
 
    ```
-   deprecate
+   deprecate parameter
    ```
 
 4. **过去式&过去分词**

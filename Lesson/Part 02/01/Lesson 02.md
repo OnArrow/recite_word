@@ -30,15 +30,21 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
 2. `just then` 就在那时
 
-3. `I'm coming to see you` 现在进行时表计划、打算的用法
+   ```
+   Just then, my mother came into my bedroom quickly.
+   ```
 
-4. `Dear me` 我的天啊！跟`Oh my god`差不多
+3. `dear me` 我的天啊！跟`oh my god`差不多
 
-5. `look out` 当心；小心
+   ```
+   Dear me! The dog is running across the garden!
+   ```
 
-6. `get inside` 进来
+4. `look out` 当心；小心
 
-7. `get outside` 出去
+5. `get inside` 进来
+
+6. `get outside` 出去
 
 ## Whole
 
@@ -73,7 +79,9 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 这段时间里她正在写小说，但是说这句话的她不一定正在写，可能在休息一会
    ```
 
-3. 感叹句
+3. `I'm coming to see you` 现在进行时表计划、打算的用法
+
+4. 感叹句
 
    - 结构：`What + （形容词） + n + （主语 + 谓语）`
 
@@ -100,9 +108,9 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 复数情况下不要加`a/an`
    ```
 
-4. 频率 adv.
+5. 频率 adv.
 
-   - 例如： always & sometimes & usually & seldom
+   - 例如： `always & sometimes & usually & seldom`
 
    - 规则：
      1. v. 前面

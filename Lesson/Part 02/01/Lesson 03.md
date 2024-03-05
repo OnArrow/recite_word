@@ -50,7 +50,7 @@ I spent the whole day in my room, but I did not write a single card!
 
 ## Whole
 
-1. `waiter`更多指的是男服务员，`waitress`指的是女服务员
+1. `waiter` 更多指的是男服务员，`waitress` 指的是女服务员
 
 2. `lend` 借出，`borrow` 借入
 

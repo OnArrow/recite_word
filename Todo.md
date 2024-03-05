@@ -3,7 +3,7 @@
 1. **Review**
 
    ```
-   shout though experience sentence motion order character accident trend entertainment enemy special quality feature parrot stupid clever fall fell fallen festival insert deliver divide imagine depend dependency land event son daughter pilot fill sound crush surprise worth college discount university convert concept inspect
+   enemy insert imagine pilot convert concept inspect detective valuable diamond instrument clavichord turn lawyer immediately forever sail proud group club performance param
    ```
 
 2. **Word**
@@ -15,13 +15,13 @@
 3. **About**
 
    ```
-   deprecate parameter
+   union
    ```
 
 4. **过去式&过去分词**
 
    ```
-   lie win build hold show wake hit bear ride steal learn/learnt shine sleep hide
+   build hold show wake hit bear ride steal learn/learnt shine sleep hide
    ```
 
 5. **比较级&最高级**

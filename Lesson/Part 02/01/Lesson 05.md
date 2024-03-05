@@ -28,7 +28,13 @@ In this way, he has begun his own private 'telephone' service.
 
 3. `spare part` 备用零件；备件
 
-4. `leave sb. sth.` 留下某物
+4. `A is five miles from B` A 到 B 有 5 英里
+
+   ```
+   The school is ten miles from my home
+   ```
+
+5. `leave sb. sth.` 留下某物
 
    ```
    I left him a message
@@ -36,13 +42,13 @@ In this way, he has begun his own private 'telephone' service.
    He's just left me some money
    ```
 
-5. `cover the distance in st.` 花费了多长时间走过这段距离
+6. `cover the distance in st.` 花费了多长时间走过这段距离
 
    ```
    He covered the distance from the school in two hours
    ```
 
-6. `send a request for sth.` 请求某物
+7. `send a request for sth.` 请求某物
 
    ```
    He's already sent a request for a new computer
@@ -50,22 +56,16 @@ In this way, he has begun his own private 'telephone' service.
    I sent a request for some paper ten days ago
    ```
 
-7. `customer service` 顾客服务；客服
+8. `customer service` 顾客服务；客服
 
    ```
    She's in the customer service department, it's difficult work
    ```
 
-8. `a great many cn.` 大量的某物
+9. `a great many cn.` 大量的某物
 
    ```
    Last night, we said a great many things
-   ```
-
-9. `A is five miles from B` A 到 B 有 5 英里
-
-   ```
-   The school is ten miles from my home
    ```
 
 10. `get sth. for sb.` 获得某物给某人

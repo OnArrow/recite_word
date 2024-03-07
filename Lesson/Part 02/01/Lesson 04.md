@@ -24,6 +24,10 @@ My brother has never been abroad before, so he is finding this trip very excitin
 
 1. `have a great trip` 旅途愉快
 
+   ```
+   He hopes that you have a great trip
+   ```
+
 2. `A be different from B` 表示 A 和 B 不一样
 
    ```
@@ -32,21 +36,18 @@ My brother has never been abroad before, so he is finding this trip very excitin
 
 
    My glass is different from your glass
-   我的杯子和你的不一样
    ```
 
 3. `receive sth. from sb.` 收到某人的某物
 
    ```
    I received a red pocket from my mother last Chinese New Year
-   去年春节我收到我妈妈的红包
    ```
 
 4. `take a holiday` 度假
 
    ```
    He's already taken a holiday
-   他已经度假了
    ```
 
 5. `a great number of cn.` 大量的某物

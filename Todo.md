@@ -3,7 +3,7 @@
 1. **Review**
 
    ```
-   enemy insert imagine pilot convert concept inspect detective valuable diamond instrument clavichord turn lawyer immediately forever sail proud group club performance param
+   enemy insert imagine pilot convert concept inspect detective valuable diamond instrument clavichord turn lawyer immediately forever sail proud group club performance param roast interest noisy wave lift reply afford weak interrupt traffic fail appear bright stage sock hurry pity
    ```
 
 2. **Word**
@@ -15,13 +15,13 @@
 3. **About**
 
    ```
-   union
+   union override
    ```
 
 4. **过去式&过去分词**
 
    ```
-   build hold show wake hit bear ride steal learn/learnt shine sleep hide
+   hit ride learn/learnt shine sleep hide
    ```
 
 5. **比较级&最高级**
@@ -33,7 +33,7 @@
 6. **复习过去式&过去分词**
 
    ```
-   come set
+
    ```
 
 7. **复习比较级&最高级**

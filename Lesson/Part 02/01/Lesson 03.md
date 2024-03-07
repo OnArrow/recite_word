@@ -42,6 +42,10 @@ I spent the whole day in my room, but I did not write a single card!
 
 4. `make a decision` 下定决心
 
+   ```
+   He's just made a decision to start losing weight
+   ```
+
 5. `think about sth./sb.` 思考某事/某人。想某事/某人
 
    ```

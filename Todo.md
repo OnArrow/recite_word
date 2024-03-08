@@ -3,7 +3,7 @@
 1. **Review**
 
    ```
-   enemy insert imagine pilot convert concept inspect detective valuable diamond instrument clavichord turn lawyer immediately forever sail proud group club performance param roast interest noisy wave lift reply afford weak interrupt traffic fail appear bright stage sock hurry pity
+   enemy insert imagine pilot convert concept inspect detective valuable diamond instrument clavichord turn lawyer immediately forever sail proud group club performance param roast interest noisy wave lift reply afford weak interrupt traffic fail appear bright stage sock hurry pity regular
    ```
 
 2. **Word**
@@ -15,7 +15,7 @@
 3. **About**
 
    ```
-   union override
+   union override external participate blink
    ```
 
 4. **过去式&过去分词**

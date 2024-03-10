@@ -19,3 +19,81 @@ Two man took the parcel off the plane and carried it into the Customs House.
 
 While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!
 ```
+
+## Expressions
+
+1. `keep guard` 守卫在某个地方
+
+   ```
+   He's keeping guard at the door
+
+   He kept guard at the door for two hours last night
+   ```
+
+2. `knock over` 打翻
+
+   ```
+   I've just knocked over the vase
+   ```
+
+3. `I hope you don't mind` 我希望你别介意
+
+   ```
+   I've just had the juice, I hope you don't mind
+   ```
+
+4. `to sb.'s surprise` 令某人感到意外的事
+
+   ```
+   To his surprise, the light suddenly turned off after he had entered the room
+
+   To my surprise, he didn't get angry at all
+   ```
+
+5. `a few hours earlier` 几个小时前
+
+   ```
+   A few hours earlier he was standing on his head next door
+   ```
+
+6. `a parcel of sth.` 一包裹的某物
+
+   ```
+   He sent a request for a parcel of sugar for his sons
+   ```
+
+7. `try to do sth.` 尝试去做某事
+
+   ```
+   I tried to make myself better, but I failed
+
+   I tried to pay attention, but I couldn't bear it
+   ```
+
+8. `A be full of B`
+
+   ```
+   My house was full of people last evening
+
+   The bottles are full of water
+   ```
+
+## Whole
+
+1. `valuable` & `precious`
+
+   - `valuable`
+
+   - `precious` 主要跟意义有关系。如
+
+2. `just as` 正当...的时候。和`when`、`while`类似
+
+   ```
+   Just as he was getting into the bath, someone knocked at the door
+
+   When he was getting into the bath, someone knocked at the door
+
+   Just as she was getting off the bus, she slipped and hurt her foot
+
+   While she getting off the bus, she slipped and hurt her foot
+   ```

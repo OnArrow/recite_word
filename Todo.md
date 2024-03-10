@@ -1,33 +1,33 @@
 # Todo
 
-1. **Review**
+1. **Word**
 
    ```
-   convert instrument clavichord turn lawyer immediately forever sail proud interest noisy wave afford weak interrupt traffic fail appear bright sock pity regular elevator early tell told thief invalid
+   blink flour mineral soda coca collar visa/信用卡 international bodyguard accuracy fluency essay babysit
    ```
 
-2. **Word**
+2. **About**
 
    ```
-
+   union override external participate reflect
    ```
 
-3. **About**
+3. **过去式&过去分词**
 
    ```
-   union override external participate blink
+   hit ride learn/learnt shine sleep hide spoil tear
    ```
 
-4. **过去式&过去分词**
-
-   ```
-   hit ride learn/learnt shine sleep hide
-   ```
-
-5. **比较级&最高级**
+4. **比较级&最高级**
 
    ```
 
+   ```
+
+5. **Review**
+
+   ```
+   convert instrument clavichord turn lawyer immediately forever sail proud interest noisy wave afford weak interrupt traffic fail appear bright sock pity regular elevator early tell told thief invalid hungry ink fridge bridge pot glue paint cupboard petrol oil cigarette juice smell flower church village coat plate shelf farmer practice reduce almost versus slip shut ski thumb mountain evening tidy tear notice bad worse worst customs
    ```
 
 6. **复习过去式&过去分词**

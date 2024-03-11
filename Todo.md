@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   strike
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   sail proud interest noisy wave afford weak interrupt traffic appear bright sock pity regular thief invalid fridge pot paint cupboard petrol oil cigarette smell church village coat  shelf farmer practice reduce almost versus slip ski thumb mountain tidy tear notice customs comment valley coast wardrobe refrigerator grow deny alarm blink credit debit
+   sail proud interest noisy wave afford weak interrupt traffic appear bright sock pity regular thief invalid fridge pot paint cupboard petrol oil cigarette smell church village coat  shelf farmer practice reduce almost versus slip ski thumb mountain tidy tear notice customs comment valley coast wardrobe refrigerator grow deny alarm blink credit debit hall
    ```
 
 6. **复习过去式&过去分词**

@@ -1,4 +1,4 @@
-# un - in - im - dis - ab - il
+# un - in - im - dis - ab - il - mis
 
 ## 含义：与原单词完全相反，表示否定
 

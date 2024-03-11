@@ -36,7 +36,7 @@ While two detectives were keeping guard at the door, two others opened the parce
    I've just knocked over the vase
    ```
 
-3. `I hope you don't mind` 我希望你别介意
+3. `I hope sb. don't mind` 希望某人别介意
 
    ```
    I've just had the juice, I hope you don't mind
@@ -80,11 +80,28 @@ While two detectives were keeping guard at the door, two others opened the parce
 
 ## Whole
 
-1. `valuable` & `precious`
+1. `valuable` & `precious` & `expensive`
 
-   - `valuable`
+   - `expensive` 指价格上的昂贵
 
-   - `precious` 主要跟意义有关系。如
+     ```
+     This watch is very expensive
+     // 手表卖得贵
+     ```
+
+   - `valuable` 主要体现在价值上的贵重
+
+     ```
+     He has a valuable collection of stamps
+     // 邮票收藏品的价值贵重
+     ```
+
+   - `precious` 具有纪念意义的珍贵或极难获得的
+
+     ```
+     He has sent me a most precious gift
+     // 礼物的珍贵，因为是对我很重要的人送给我的
+     ```
 
 2. `just as` 正当...的时候。和`when`、`while`类似
 
@@ -95,5 +112,5 @@ While two detectives were keeping guard at the door, two others opened the parce
 
    Just as she was getting off the bus, she slipped and hurt her foot
 
-   While she getting off the bus, she slipped and hurt her foot
+   While she was getting off the bus, she slipped and hurt her foot
    ```

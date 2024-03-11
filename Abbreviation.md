@@ -8,17 +8,23 @@
 
 4. `sw.` = `somewhere`
 
-5. `gonna` = `going to`
+5. `eg.` = `例如`
 
-6. `can't` = `cannot` = `can not`
+   ```
+   `eg.` 是拉丁文 `exempli gratia` 的缩写
+   ```
 
-7. `let's` = `let us`
+6. `gonna` = `going to`
 
-8. `o'clock` = `of the clock`
+7. `can't` = `cannot` = `can not`
 
-9. `I've` = `I have`
+8. `let's` = `let us`
 
-10. `he's got` = `he has got`
+9. `o'clock` = `of the clock`
+
+10. `I've` = `I have`
+
+11. `he's got` = `he has got`
 
     ```
     只有当`has got`一起出现时，`has`才能缩写
@@ -30,21 +36,21 @@
     He's got a car
     ```
 
-11. `wasn't` = `was not`
+12. `wasn't` = `was not`
 
-12. `weren't` = `were not`
+13. `weren't` = `were not`
 
-13. `wanna` = `want to`
+14. `wanna` = `want to`
 
-14. `I'll` = `I will`
+15. `I'll` = `I will`
 
-15. `won't` = `will not`
+16. `won't` = `will not`
 
-16. `shan't` = `shall not`
+17. `shan't` = `shall not`
 
-17. `you'd better` = `you had better`
+18. `you'd better` = `you had better`
 
-18. `I'd` = `I would`
+19. `I'd` = `I would`
 
     ```
     I would like some tea
@@ -52,7 +58,7 @@
     I'd like some tea
     ```
 
-19. `etcetera` = `etc.`
+20. `etcetera` = `etc.`
 
     ```
     表示省略

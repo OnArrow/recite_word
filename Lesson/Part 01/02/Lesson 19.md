@@ -97,8 +97,6 @@
    我们关门了
    ```
 
-   ![close](../../../Images/Lesson20/open_and_close.png)
-
 10. `Look at them`
 
     ```

@@ -37,8 +37,6 @@
    往返票
    ```
 
-   ![图1](../../../Images/Lesson3/1.jpg)
-
 4. 当你想买去某地的票时，使用`one ticket to 某地`，当你想买去某地的往返票时，使用`one return ticket to 某地`
 
    ```

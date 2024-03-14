@@ -2,6 +2,8 @@ import * as Marked from 'marked'
 
 import * as nodePath from 'path'
 
+import dayjs from 'dayjs'
+
 import { fsWrite, fsRead, fsReadFolder } from './utils'
 
 const targetFilePath = nodePath.resolve(__dirname, '../Review.md')
@@ -97,6 +99,7 @@ async function writeContent(arr: string[]) {
     // 追加进文件
     await fsWrite(targetFilePath, `${index + 1}. ${item}\n\n`, 'a')
   }
+  console.timeEnd('abc')
 }
 
 // 数组乱序
@@ -107,6 +110,8 @@ function shuffle(a: any[]) {
   }
   return a
 }
+
+console.time('abc')
 
 readTodoFile()
 readWordsFolder()

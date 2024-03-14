@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   sail proud weak interrupt appear bright sock fridge pot petrol oil farmer practice reduce almost slip thumb tear comment valley grow deny alarm blink credit debit hall grew grown sleep slept hidden
+   proud interrupt appear bright sock pot petrol practice almost slip comment valley grow deny alarm credit debit hall grew grown crumb crash transitive envelope patch
    ```
 
 6. **复习过去式&过去分词**

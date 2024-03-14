@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   strike
+
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **过去式&过去分词**
 
    ```
-   hit ride learn/learnt shine sleep hide spoil tear
+
    ```
 
 4. **比较级&最高级**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   sail proud interest noisy wave afford weak interrupt traffic appear bright sock pity regular thief invalid fridge pot paint cupboard petrol oil cigarette smell church village coat  shelf farmer practice reduce almost versus slip ski thumb mountain tidy tear notice customs comment valley coast wardrobe refrigerator grow deny alarm blink credit debit hall
+   sail proud weak interrupt appear bright sock fridge pot petrol oil farmer practice reduce almost slip thumb tear comment valley grow deny alarm blink credit debit hall grew grown sleep slept hidden
    ```
 
 6. **复习过去式&过去分词**

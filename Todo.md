@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-
+   synonym genius
    ```
 
 2. **About**
 
    ```
-
+   deploy
    ```
 
 3. **过去式&过去分词**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   proud interrupt appear bright sock pot petrol practice almost slip comment valley grow deny alarm credit debit hall grew grown crumb crash transitive envelope patch
+   proud appear pot petrol practice comment deny alarm debit hall crumb crash transitive envelope patch solid dashed tick reason season dream age male female gender channel throw threw thrown complete stranger manager complain contain railway foreign wonder art pattern aside material notice abroad trash alone reference
    ```
 
 6. **复习过去式&过去分词**

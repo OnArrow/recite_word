@@ -17,3 +17,27 @@ He has made neat paths and has built a wooden bridge over a pool. I like gardens
 
 Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
 ```
+
+## Expressions
+
+1. `enter the competition` 参加比赛
+
+   ```
+   He enters the competition every year
+   ```
+
+2. `That's neat` 和 `That's cool` 表达意思相近，在这里`neat`不表示`整齐；整洁`
+
+   ```
+   有一件事很酷就可以用。如跳起来直接扣篮就可以
+
+   That's neat!
+   ```
+
+3. `swimming pool` 游泳池
+
+   ```
+   The swimming pool is cleaned every day
+
+   There are a great many swimming pools in this district
+   ```

@@ -1,9 +1,14 @@
+/**
+ * 乱序指定月份内的文件
+ */
+
 import * as Marked from 'marked'
 
 import * as nodePath from 'path'
 
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
+// 需要乱序的文件
 const shuffleMonths = ['2024/Apr']
 
 const readFolderPath = nodePath.resolve(__dirname, '../Words')
@@ -40,6 +45,7 @@ async function shuffleContent(fileName: string) {
     // 得到单词解释的当前行
     const str: string = item.tokens.find((ele) => ele.type === 'text').text
 
+    // 得到单词的例句
     let code = ''
     let v = item.tokens.find((ele) => ele.type === 'code')
     if (v) {
@@ -57,12 +63,15 @@ async function shuffleContent(fileName: string) {
     }
     arr.push(obj)
   }
-  writeContent(title, arr)
+  writeContent(title, arr, fileName)
 }
 
 // 写入内容
-async function writeContent(title, arr: string[]) {
+async function writeContent(title, arr: string[], fileName: string) {
   const newArr = shuffle(arr)
+
+  // 写入文件标题
+  await fsWrite(fileName, `${title}`, 'w')
 
   for (const [index, item] of newArr.entries()) {
     let codeArr = []
@@ -70,7 +79,6 @@ async function writeContent(title, arr: string[]) {
     if (item.code) {
       codeArr = item.code.split('\n')
       content = `
-${index === 0 ? title : ''}
 ${index + 1}. ${item.top}
     \`\`\`
     ${codeArr[0] || ''}
@@ -79,17 +87,12 @@ ${index + 1}. ${item.top}
 `
     } else {
       content = `
-${index === 0 ? title : ''}
 ${index + 1}. ${item.top}
 `
     }
 
     // 追加进文件
-    await fsWrite(
-      'D:/Jack/personal/recite_word/Words/2024/Mar/3.21.md',
-      content,
-      'a'
-    )
+    await fsWrite(fileName, content, 'a')
   }
 }
 

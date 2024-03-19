@@ -4,7 +4,7 @@ import * as nodePath from 'path'
 
 import dayjs from 'dayjs'
 
-import { fsWrite, fsRead, fsReadFolder } from './utils'
+import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
 const targetFilePath = nodePath.resolve(__dirname, '../Review.md')
 
@@ -100,15 +100,6 @@ async function writeContent(arr: string[]) {
     await fsWrite(targetFilePath, `${index + 1}. ${item}\n\n`, 'a')
   }
   console.timeEnd('abc')
-}
-
-// 数组乱序
-function shuffle(a: any[]) {
-  for (let i = a.length; i; i--) {
-    let j = Math.floor(Math.random() * i)
-    ;[a[i - 1], a[j]] = [a[j], a[i - 1]]
-  }
-  return a
 }
 
 console.time('abc')

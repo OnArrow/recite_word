@@ -41,3 +41,21 @@ Every year I enter for the garden competition too, and I always win a little pri
 
    There are a great many swimming pools in this district
    ```
+
+4. `I agree with sb.` 我同意某人的话/观点
+
+   ```
+   Jack is shorter than Tom
+
+   I agree with you, Tom's taller
+
+   I don't agree with you, Jack's taller
+   ```
+
+## Whole
+
+1. 单音节指只有一个元音
+
+   ```
+   small new old
+   ```

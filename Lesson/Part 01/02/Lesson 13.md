@@ -136,11 +136,7 @@
 
     - 一般语气，无特殊强调
 
-      <video src="../../../Videos/Lesson13/am.aac" width="40%" ></video>
-
     - 重读语气，强调“我”的身份是学生
-
-      <video src="../../../Videos/Lesson13/am^.aac" width="40%"></video>
 
 12. 名句
 

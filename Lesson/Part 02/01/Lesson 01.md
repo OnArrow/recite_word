@@ -4,8 +4,6 @@
 
 - private conversation theatre seat loudly angry angrily attention bear bore borne business rudely
 
-- ![Words](../../../Images/Part2/01/words-1.png)
-
 ## A private conversation
 
 ```

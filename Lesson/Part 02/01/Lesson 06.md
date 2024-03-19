@@ -4,8 +4,6 @@
 
 - beggar food pocket call
 
-- ![Words](../../../Images/Part2/01/words-6.png)
-
 ## Percy Buttons
 
 ```

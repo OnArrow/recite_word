@@ -4,7 +4,7 @@ import * as nodePath from 'path'
 
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
-const arr = ['2024/3.19']
+const shuffleMonths = ['2024/Apr']
 
 const readFolderPath = nodePath.resolve(__dirname, '../Words')
 
@@ -12,24 +12,21 @@ const readFolderPath = nodePath.resolve(__dirname, '../Words')
 async function readWordsFolder() {
   // 拿到目录下所有文件列表
   const fileArr = await fsReadFolder(readFolderPath)
-  console.log(fileArr.length)
 
   // console.log(fileArr)
   for (let fileName of fileArr) {
     if (fileName.includes('.md')) {
-      const fileResult = await fsRead(fileName)
-      // const fileResult = await fsRead(
-      //   '/Users/jack/code/单词/Words/November/11.14.md'
-      // )
-      // console.log(fileResult)
+      for (let shuffleMonth of shuffleMonths) {
+        if (fileName.includes(shuffleMonth)) {
+          shuffleContent(fileName)
+        }
+      }
     }
   }
 }
 
-async function shuffleContent() {
-  const fileResult = await fsRead(
-    'D:/Jack/personal/recite_word/Words/2024/Mar/3.20.md'
-  )
+async function shuffleContent(fileName: string) {
+  const fileResult = await fsRead(fileName)
   const parseArr = Marked.lexer(fileResult)
   const title = parseArr.find((item) => item.type === 'heading').raw
 
@@ -94,13 +91,6 @@ ${index + 1}. ${item.top}
       'a'
     )
   }
-  // for (const [index, item] of [1, 2, 34, 332, 432, 4325, 23].entries()) {
-  //   await fsWrite(
-  //     'D:/Jack/personal/recite_word/Words/2024/Mar/3.21.md',
-  //     '大撒大撒\n',
-  //     'a'
-  //   )
-  // }
 }
 
-shuffleContent()
+readWordsFolder()

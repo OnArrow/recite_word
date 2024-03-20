@@ -4,8 +4,6 @@
 
 - welcome crowd gather hand shout refuse laugh
 
-- ![Words](../../../Images/Part2/01/words-9.png)
-
 ## A cold welcome
 
 ```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   powerful pale mattress useful talented relation jewel
    ```
 
 2. **About**
@@ -28,6 +28,7 @@
 
    ```
    appear practice deny hall crumb crash envelope patch dashed tick channel stranger complain pattern trash overview process split fan resolve stream form employee decline rare impossible trouble effect taxi land block flat
+   proud appear pot petrol practice comment deny alarm debit hall crumb crash envelope patch dashed tick channel stranger complain contain pattern material notice trash reference point overview process field split wonderful comfortable asset fan resolve heavy stream form windy right framework employee spoon kind ripe thick heard heart patient
    ```
 
 6. **复习过去式&过去分词**

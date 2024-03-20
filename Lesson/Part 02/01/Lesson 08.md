@@ -52,10 +52,23 @@ Every year I enter for the garden competition too, and I always win a little pri
    I don't agree with you, Jack's taller
    ```
 
+5. `enter for` 参加
+
+   ```
+   Last night I entered for the party with Jack
+   ```
+
 ## Whole
 
 1. 单音节指只有一个元音
 
    ```
    small new old
+   ```
+
+2. `everybody` 虽然说的是每一个人，但它是一个单数人称代词
+
+   ```
+   Everybody enters for the competition
+   // 因为是单数，所以`enter`需要变成三单`enters`
    ```

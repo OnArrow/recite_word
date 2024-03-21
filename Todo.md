@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   powerful pale mattress useful talented relation jewel
+   powerful pale mattress useful talented relation jewel staff
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   appear practice deny hall crumb crash envelope patch dashed tick channel stranger complain pattern trash overview process split fan resolve stream form employee decline rare impossible trouble effect taxi land block flat proud comment asset windy  framework kind ripe thick heard heart patient during deprecate recently damage
+   deny patch tick complain pattern trash process split fan resolve form decline trouble effect land flat proud thick patient deprecate recently damage trial extra trousers preface quite afraid privacy cut row kick towards nearly born
 
    ```
 

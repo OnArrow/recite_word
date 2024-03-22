@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   nephew niece teatime
+   nephew niece teatime guitar
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   deny patch tick complain pattern trash process split fan resolve form decline trouble effect land flat proud thick patient deprecate recently damage trial extra trousers preface quite afraid privacy cut row kick towards nearly born advice artist tense square suggest concert supper midday autumn
+   patch tick complain proud thick patient deprecate trial extra trousers preface quite privacy cut row kick towards nearly born advice artist tense square suggest concert supper midday autumn reject quiet support dismiss description describe charge
 
    ```
 
@@ -95,5 +95,3 @@
 24. `He finished swimming` 是什么时态？
 
 25. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
-
-26. `The dish I make for lunch today is a new idea of mine` 分析这句话

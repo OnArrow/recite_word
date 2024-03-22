@@ -18,7 +18,7 @@ Later a neighbor told me about him. Everybody knows him. His name is Percy Butto
 He calls at every house in the street once a month and always asks for a meal and a glass of beer.
 ```
 
-## Expressions
+## Whole
 
 1. `pocket money` 零用钱
 
@@ -82,19 +82,17 @@ He calls at every house in the street once a month and always asks for a meal an
     Once a year, he sends flowers to someone with his visa card
     ```
 
-## Whole
+11. `call at` 和 `visit` 类似。近义词
 
-1. `call at` 和 `visit` 类似。近义词
+    ```
+    He calls at every house in the Street once a month
 
-   ```
-   He calls at every house in the Street once a month
+    He visits every house in the Street once a month
+    ```
 
-   He visits every house in the Street once a month
-   ```
+12. `a/an` 泛指。 `the` 特指
 
-2. `a/an` 泛指。 `the` 特指
-
-   ```
-   I'm not a big fat panda, I'm the big fat panda
-   // 我不是随便的一只又大又胖的熊猫，我就是那个独一无二的又大又胖的熊猫
-   ```
+    ```
+    I'm not a big fat panda, I'm the big fat panda
+    // 我不是随便的一只又大又胖的熊猫，我就是那个独一无二的又大又胖的熊猫
+    ```

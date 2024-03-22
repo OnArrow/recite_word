@@ -18,7 +18,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 'It's none of your business,' the young man said rudely. 'This is a private conversation!'.
 ```
 
-## Expressions
+## Whole
 
 1. `take a seat` 请坐
 
@@ -64,9 +64,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    They were very noisy shouting, I couldn't bear them.
    ```
 
-## Whole
-
-1. 单词造句指南
+8. 单词造句指南
 
    - v. + v.变化
    - 四句型转换
@@ -75,7 +73,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    - 其它单词+词性
    - 原文摘抄+变
 
-2. 造一个好句子
+9. 造一个好句子
 
    - +adj.
    - +adv.
@@ -94,9 +92,9 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    The tall man was waiting for a bus angrily at the bus stop at last night.
    ```
 
-3. 一个句子的组成方式
+10. 一个句子的组成方式
 
-   | 1. 主语           | 2. 谓语     | 3. 宾语           | 4. 方式 | 5. 地点         | 6. 时间       |
-   | ----------------- | ----------- | ----------------- | ------- | --------------- | ------------- |
-   | Who? Which? What? | action      | Who? Which? What? | How?    | Where?          | When          |
-   | The tall man      | was waiting | for a bus         | angrily | at the bus stop | at last night |
+    | 1. 主语           | 2. 谓语     | 3. 宾语           | 4. 方式 | 5. 地点         | 6. 时间       |
+    | ----------------- | ----------- | ----------------- | ------- | --------------- | ------------- |
+    | Who? Which? What? | action      | Who? Which? What? | How?    | Where?          | When          |
+    | The tall man      | was waiting | for a bus         | angrily | at the bus stop | at last night |

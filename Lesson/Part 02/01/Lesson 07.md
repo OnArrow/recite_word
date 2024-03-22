@@ -18,7 +18,7 @@ Two man took the parcel off the plane and carried it into the Customs House.
 While two detectives were keeping guard at the door, two others opened the parcel. To their surprise, the precious parcel was full of stones and sand!
 ```
 
-## Expressions
+## Whole
 
 1. `keep guard` 守卫在某个地方
 
@@ -76,9 +76,7 @@ While two detectives were keeping guard at the door, two others opened the parce
    The bottles are full of water
    ```
 
-## Whole
-
-1. `valuable` & `precious` & `expensive`
+9. `valuable` & `precious` & `expensive`
 
    - `expensive` 指价格上的昂贵
 
@@ -101,14 +99,14 @@ While two detectives were keeping guard at the door, two others opened the parce
      // 礼物的珍贵，因为是对我很重要的人送给我的
      ```
 
-2. `just as` 正当...的时候。和`when`、`while`类似
+10. `just as` 正当...的时候。和`when`、`while`类似
 
-   ```
-   Just as he was getting into the bath, someone knocked at the door
+    ```
+    Just as he was getting into the bath, someone knocked at the door
 
-   When he was getting into the bath, someone knocked at the door
+    When he was getting into the bath, someone knocked at the door
 
-   Just as she was getting off the bus, she slipped and hurt her foot
+    Just as she was getting off the bus, she slipped and hurt her foot
 
-   While she was getting off the bus, she slipped and hurt her foot
-   ```
+    While she was getting off the bus, she slipped and hurt her foot
+    ```

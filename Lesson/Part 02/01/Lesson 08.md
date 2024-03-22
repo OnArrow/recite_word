@@ -16,7 +16,7 @@ He has made neat paths and has built a wooden bridge over a pool. I like gardens
 Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
 ```
 
-## Expressions
+## Whole
 
 1. `enter the competition` 参加比赛
 
@@ -29,7 +29,7 @@ Every year I enter for the garden competition too, and I always win a little pri
    ```
    有一件事很酷就可以用。如跳起来直接扣篮就可以
 
-   That's neat!
+   That's neat! It's impossible for you to do it!
    ```
 
 3. `swimming pool` 游泳池
@@ -56,15 +56,13 @@ Every year I enter for the garden competition too, and I always win a little pri
    Last night I entered for the party with Jack
    ```
 
-## Whole
-
-1. 单音节指只有一个元音
+6. 单音节指只有一个元音
 
    ```
    small new old
    ```
 
-2. `everybody` 虽然说的是每一个人，但它是一个单数人称代词
+7. `everybody` 虽然说的是每一个人，但它是一个单数人称代词
 
    ```
    Everybody enters for the competition

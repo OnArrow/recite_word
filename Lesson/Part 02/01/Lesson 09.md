@@ -16,7 +16,7 @@ We waited and waited, but nothing happened. Suddenly someone shouted, 'It's two 
 I looked at my watch. It was true. The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing.
 ```
 
-## Expressions
+## Whole
 
 1. `a crowd of sb./sth.` 一大群的...
 
@@ -48,9 +48,7 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
    His nephew was born in 2008
    ```
 
-## Whole
-
-1. `shout at sb.` && `shout to sb.`
+6. `shout at sb.` && `shout to sb.`
 
    - `shout at sb.` 我很愤怒，对着别人大喊。主要表达的是愤怒地喊
 
@@ -65,7 +63,7 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
      He made his voice low, so he had to shout to him
      ```
 
-2. `on/in/at` + 时间
+7. `on/in/at` + 时间
 
    - `on` + 具体某一天
 

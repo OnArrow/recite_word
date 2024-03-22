@@ -18,7 +18,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 'What are you doing?' she asked. 'I'm having breakfast,' I repeated. 'Dear me!' she said. 'Do you usually get up so late? It's one o'clock!'
 ```
 
-### Expressions
+### Whole
 
 1. `what a day!` 大致意思：什么破天气
 
@@ -44,9 +44,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
 6. `get outside` 出去
 
-## Whole
-
-1. 现在进行时也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
+7. 现在进行时也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
 
    ```
    I'm meeting my friends
@@ -67,7 +65,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 下周的计划。安排好了下周要发生“开派对”这个动作
    ```
 
-2. 现在进行时表示现阶段正在进行的动作，但说话的时候不一定正在进行
+8. 现在进行时表示现阶段正在进行的动作，但说话的时候不一定正在进行
 
    ```
    Jack is driving very fast these days, he doesn't usually drive very fast
@@ -77,45 +75,45 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 这段时间里她正在写小说，但是说这句话的她不一定正在写，可能在休息一会
    ```
 
-3. `I'm coming to see you` 现在进行时表计划、打算的用法
+9. `I'm coming to see you` 现在进行时表计划、打算的用法
 
-4. 感叹句
+10. 感叹句
 
-   - 结构：`What + （形容词） + n + （主语 + 谓语）`
+    - 结构：`What + （形容词） + n + （主语 + 谓语）`
 
-   ```
-   This is a beautiful picture
+    ```
+    This is a beautiful picture
 
-   What a beautiful picture this is!
-   // 完整的感叹句
+    What a beautiful picture this is!
+    // 完整的感叹句
 
-   What a beautiful picture!
-   // 通常会把主语和谓语省略掉
+    What a beautiful picture!
+    // 通常会把主语和谓语省略掉
 
-   It's a terrible day
+    It's a terrible day
 
-   What a terrible day it is!
+    What a terrible day it is!
 
-   What a terrible day!
+    What a terrible day!
 
-   They are wonderful actors
+    They are wonderful actors
 
-   What wonderful actors they are!
+    What wonderful actors they are!
 
-   What wonderful actors!
-   // 复数情况下不要加`a/an`
-   ```
+    What wonderful actors!
+    // 复数情况下不要加`a/an`
+    ```
 
-5. 频率 adv.
+11. 频率 adv.
 
-   - 例如： `always & sometimes & usually & seldom`
+    - 例如： `always & sometimes & usually & seldom`
 
-   - 规则：
-     1. v. 前面
-     2. be 后面
-     3. 很多例外情况
+    - 规则：
+      1. v. 前面
+      2. be 后面
+      3. 很多例外情况
 
-   ```
-   I never get up early on Sundays
-   // v. 前面
-   ```
+    ```
+    I never get up early on Sundays
+    // v. 前面
+    ```

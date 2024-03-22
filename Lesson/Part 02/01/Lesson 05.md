@@ -18,7 +18,7 @@ Up to now, Mr. Scott has sent a great many requests for spare parts and other ur
 In this way, he has begun his own private 'telephone' service.
 ```
 
-## Expressions
+## Whole
 
 1. `up to now` 迄今为止
 
@@ -78,20 +78,18 @@ In this way, he has begun his own private 'telephone' service.
     In this way, I always have a good seat in the cinema
     ```
 
-## Whole
+12. `other`通常指三个及以上，而`another`通常指两个中的一个
 
-1. `other`通常指三个及以上，而`another`通常指两个中的一个
+    ```
+    There were four letters in my drawer, one was from America, the others were from France
 
-   ```
-   There were four letters in my drawer, one was from America, the others were from France
+    I have two brothers, one is an engineer, the another is a mechanic
+    ```
 
-   I have two brothers, one is an engineer, the another is a mechanic
-   ```
+13. `get a telephone` 在这里`get`表示`拥有；得到`
 
-2. `get a telephone` 在这里`get`表示`拥有；得到`
+14. `up to now` 往往和现在完成时一起出现
 
-3. `up to now` 往往和现在完成时一起出现
-
-   ```
-   I've sent a great number of postcards to him up to now
-   ```
+    ```
+    I've sent a great number of postcards to him up to now
+    ```

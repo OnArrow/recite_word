@@ -18,7 +18,7 @@ He will soon visit Darwin. From there, he will fly to Perth.
 My brother has never been abroad before, so he is finding this trip very exciting.
 ```
 
-## Expressions
+## Whole
 
 1. `have a great trip` 旅途愉快
 
@@ -66,9 +66,7 @@ My brother has never been abroad before, so he is finding this trip very excitin
    I found her very beautiful on the stage last night
    ```
 
-## Whole
-
-1. `现在完成时`表达的意思比较含蓄，而`一般过去式`表达的意思比较直接
+7. `现在完成时`表达的意思比较含蓄，而`一般过去式`表达的意思比较直接
 
    ```
    你想和我们一起吃晚饭吗？
@@ -80,8 +78,8 @@ My brother has never been abroad before, so he is finding this trip very excitin
    // `一般过去时`，我吃过饭了，不吃了，拒绝别人的邀请
    ```
 
-2. `现在完成时`和`一般过去时`并不是泾渭分明的，它们大多数时候可以互相替换
+8. `现在完成时`和`一般过去时`并不是泾渭分明的，它们大多数时候可以互相替换
 
-3. `He has been there for six months` 说这句话的时候`Tim`还在那里
+9. `He has been there for six months` 说这句话的时候`Tim`还在那里
 
-4. `He is finding this trip very exciting` 可以替换为 `He finds this trip very exciting`。时态与时态之间并不是泾渭分明的，有时可以互相替换
+10. `He is finding this trip very exciting` 可以替换为 `He finds this trip very exciting`。时态与时态之间并不是泾渭分明的，有时可以互相替换

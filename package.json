@@ -19,13 +19,14 @@
   "dependencies": {
     "dayjs": "^1.11.10",
     "marked": "^4.2.5",
-    "medium-zoom": "^1.1.0"
+    "medium-zoom": "^1.1.0",
+    "pdf2html": "^3.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.10",
     "husky": "^9.0.11",
     "sass": "^1.70.0",
-    "vitepress": "1.0.0-rc.40",
+    "vitepress": "1.0.0",
     "vue": "^3.4"
   }
 }

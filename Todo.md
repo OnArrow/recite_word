@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   band deadline pepper
+   band deadline pepper vibration blonde
    ```
 
 2. **About**

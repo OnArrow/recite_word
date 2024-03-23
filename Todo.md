@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   nephew niece teatime guitar
+   band deadline pepper
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   patch tick complain proud thick patient deprecate trial extra trousers preface quite privacy cut row kick towards nearly born advice artist tense square suggest concert supper midday autumn reject quiet support dismiss description describe charge
+   thick patient deprecate trial extra preface quite privacy towards advice artist tense suggest concert supper midday autumn quiet dismiss charge legend
 
    ```
 

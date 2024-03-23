@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   band deadline pepper vibration blonde
+   band deadline pepper vibration blonde nursery anyway
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   thick patient deprecate trial extra preface quite privacy towards advice artist tense suggest concert supper midday autumn quiet dismiss charge legend
+   thick patient deprecate trial extra preface quite privacy towards advice artist tense suggest concert supper midday autumn quiet dismiss charge legend fall fell fallen feel felt strange
 
    ```
 

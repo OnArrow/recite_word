@@ -34,21 +34,29 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
 
    ```
    She always refuses to get up early
+
+   He has refused to work for that big firm
    ```
 
-4. `laugh at sb.` 嘲笑某人（不是非常过分地那种嘲笑）
+4. `begin to do sth.` 开始做某事
+
+   ```
+   While we were having breakfast, it began to rain
+   ```
+
+5. `laugh at sb.` 嘲笑某人（不是非常过分地那种嘲笑）
 
    ```
    Don't laugh at your friend!
    ```
 
-5. `was born st.` 出生于
+6. `was born st.` 出生于
 
    ```
    His nephew was born in 2008
    ```
 
-6. `shout at sb.` && `shout to sb.`
+7. `shout at sb.` && `shout to sb.`
 
    - `shout at sb.` 我很愤怒，对着别人大喊。主要表达的是愤怒地喊
 
@@ -63,7 +71,7 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
      He made his voice low, so he had to shout to him
      ```
 
-7. `on/in/at` + 时间
+8. `on/in/at` + 时间
 
    - `on` + 具体某一天
 

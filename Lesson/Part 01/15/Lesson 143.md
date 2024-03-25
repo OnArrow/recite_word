@@ -52,6 +52,36 @@
    为什么这个篮子明天会被清空？
    ```
 
+5. `be` 的现在分词形式 `being`
+
+6. 现在进行时的被动语态
+
+   - 结构：`am/is/are being + done`
+
+   ```
+   Somebody is painting the door
+
+   The door is being painted by somebody
+   这个门正在被某人上漆
+
+   The door isn't being painted by somebody
+
+   Is the door being painted by somebody?
+
+   Who is the door being painted by?
+
+
+   They are building those bridge
+
+   Those bridge are being built by them
+
+   Those bridge aren't being built by them
+
+   Are those bridge being built by them?
+
+   Who are those bridge being built?
+   ```
+
 ## Words
 
 ```

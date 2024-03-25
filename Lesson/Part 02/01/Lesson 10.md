@@ -17,3 +17,41 @@ Recently it was damaged by a visitor. She tried to play jazz on it! She struck t
 
 My father was shocked. Now we are not allowed to touch it. It is being repaired by a friend of my father's.
 ```
+
+## Whole
+
+1. `be allowed to do sth.` 某人被允许去做某事
+
+   ```
+   I was allowed to watch TV every Friday when I was young
+   ```
+
+2. `be` 的现在分词形式 `being`
+
+3. 现在进行时的被动语态
+
+   - 结构：`am/is/are being + done`
+
+   ```
+   Somebody is painting the door
+
+   The door is being painted by somebody
+   这个门正在被某人上漆
+
+   The door isn't being painted by somebody
+
+   Is the door being painted by somebody?
+
+   Who is the door being painted by?
+
+
+   They are building those bridge
+
+   Those bridge are being built by them
+
+   Those bridge aren't being built by them
+
+   Are those bridge being built by them?
+
+   Who are those bridge being built?
+   ```

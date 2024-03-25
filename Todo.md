@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   bore
+   bore bet matrix being invent Hovercraft
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   patient trial extra preface quite privacy towards advice artist tense suggest dismiss charge legend strange vanilla float vertical cushion horizontal threshold pork
+   patient trial extra preface quite privacy towards advice artist tense suggest dismiss charge legend strange vanilla float vertical cushion horizontal threshold pork instrument piano
 
    ```
 

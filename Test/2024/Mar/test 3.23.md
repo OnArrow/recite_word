@@ -13,5 +13,61 @@ tick patch privacy supper preface midday artist square nearly row cut cut cut ex
 ```
 
 ```
+overtime vibration band deadline pepper blonde anyway lounge caution
+```
 
+```
+The phone was stolen
+
+The phone has been stolen
+
+The phone will be stolen
+
+The phone is stolen every day
+```
+
+```
+Somebody cleans the office everyday
+
+The office is cleaned by someone everyday
+
+Stamps are sold in a post office
+
+They built this house in 1921
+
+This house was built by them in 1921
+
+Was this house built by them in 1921?
+
+This house wasn't built by them in 1921
+
+I was invited to the party
+```
+
+```
+The new road is being built by them outside your house?
+
+The newspapers are delivered by them every morning
+
+His work has been finished by him
+
+The letter was brought by him this morning
+
+The bridge was built by them in 1942
+
+My watch has been damaged by them
+
+These books are sent to them by post
+
+My car is being repaired by them
+
+My telephone has been repaired by him
+
+Those trees are being cut down by them
+
+
+```
+
+```
+band deadline pepper vibration blonde nursery anyway overtime lounge caution
 ```

@@ -1,6 +1,6 @@
 # duce
 
-## 含义：引；引导
+## meaning: 引；引导
 
 1. produce **[prəˈdjuːs]** `v` 生产；引起；产生
 

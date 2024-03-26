@@ -1,6 +1,6 @@
 # super - over - sur
 
-## 含义：超过/在...上面
+## meaning: 超过/在...上面
 
 1. surrealism **[səˈriːəlɪzəm]** `n` 超现实主义
 

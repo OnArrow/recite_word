@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   bore bet matrix being invent Hovercraft
+   mend/修理
    ```
 
 2. **About**
 
    ```
-
+   buffer
    ```
 
 3. **过去式&过去分词**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   patient trial extra preface quite privacy towards advice artist tense suggest dismiss charge legend strange vanilla float vertical cushion horizontal threshold pork instrument piano
+   patient trial extra preface quite privacy towards advice artist tense suggest dismiss charge legend strange vanilla float vertical cushion horizontal threshold pork instrument piano sell sold motorbike wood terrible observe discover rubbish German Germany
 
    ```
 

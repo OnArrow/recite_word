@@ -1,6 +1,6 @@
 # inter
 
-## 含义：相互之间
+## meaning: 相互之间
 
 1. internet **[ˈɪntənet]** `n` 互联网
 

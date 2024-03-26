@@ -1,6 +1,6 @@
 # tract
 
-## 含义：拉；抽
+## meaning: 拉；抽
 
 1. extract **[ˈekstrækt]** `vt` 拔出；抽出 `n` 提取物
 

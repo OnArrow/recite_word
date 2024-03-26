@@ -33,7 +33,7 @@ My brother has never been abroad before, so he is finding this trip very excitin
    我和你不同/我们不一样
 
 
-   My glass is different from your glass
+   My glass is different from yours
    ```
 
 3. `receive sth. from sb.` 收到某人的某物

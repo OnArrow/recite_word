@@ -1,6 +1,6 @@
 # in - im
 
-## 含义：向内/进入
+## meaning: 向内/进入
 
 1. inject **[ɪnˈdʒekt]** `v` 注射
 

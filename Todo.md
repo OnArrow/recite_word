@@ -9,7 +9,7 @@
 2. **About**
 
    ```
-   buffer
+   buffer binary captcha
    ```
 
 3. **过去式&过去分词**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   patient trial extra preface quite privacy towards advice artist tense suggest dismiss charge legend strange vanilla float vertical cushion horizontal threshold pork instrument piano sell sold motorbike wood terrible observe discover rubbish German Germany deserve
+   patient towards advice artist charge legend vanilla cushion motorbike wood terrible observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy
 
    ```
 

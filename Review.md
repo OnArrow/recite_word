@@ -1,69 +1,49 @@
 # Review
-1. extra **[ˈekstrə]** `adj` 额外的 `adv` 额外；格外
+1. artist **[ˈɑːtɪst]** `n` 艺术家
 
-2. strange **[streɪndʒ]** `adj` 奇怪的；陌生的；不寻常的 `adv` 奇怪地，不寻常地
+2. determined **[dɪˈtɜːmɪnd]** `adj` 下定决心的；坚定的
 
-3. observe **[əbˈzɜːv]** `v` 监视；观察
+3. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者；承受者
 
-4. horizontal **[ˌhɒrɪˈzɒnt(ə)l]** `adj` 水平的；横向的 `n` 水平线
+4. vanilla **[vəˈnɪlə]** `adj` 无特色的，普通的
 
-5. quite **[kwaɪt]** `adv` 相当；很；完全地
+5. noise **[nɔɪz]** `n` 噪音；嘈杂声 `v` 议论；传开
 
-6. wood **[wʊd]** `n` 木材；木料；树林 `adj` 木制的 `v` 收集木材
+6. district **[ˈdɪstrɪkt]** `n` 地区
 
-7. threshold **[ˈθreʃhəʊld]** `n` 门槛；阈值
+7. motorbike **[ˈməʊtəbaɪk]** `n` 摩托车
 
-8. artist **[ˈɑːtɪst]** `n` 艺术家
+8. exclaim **[ɪkˈskleɪm]** `v` 大声说；惊叫
 
-9. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
+9. deserve **[dɪˈzɜːv]** `v` 值得；应该得到
 
-10. German **[ˈdʒɜːmən]** `n` 德国人；德语 `adj` 德国的
+10. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
 
-11. legend **[ˈledʒənd]** `n` 传说；传奇人物；传奇故事；（图片或地图的）图例，文字说明 `adj` 十分出名的
+11. wood **[wʊd]** `n` 木材；木料；树林 `adj` 木制的 `v` 收集木材
 
-12. sold **[səʊld]** `v` （sell 的过去式）
+12. rubbish **[ˈrʌbɪʃ]** `n` 垃圾，废弃物
 
-13. privacy **[ˈprɪvəsi]** `n` 隐私，秘密
+13. discover **[dɪˈskʌvə(r)]** `v` 发现；找到
 
-14. discover **[dɪˈskʌvə(r)]** `v` 发现；找到
+14. charge **[tʃɑːdʒ]** `v` 充电；罚款 `n` 电量；费用，价钱
 
-15. rubbish **[ˈrʌbɪʃ]** `n` 垃圾，废弃物
+15. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏
 
-16. float **[fləʊt]** `v` （使）漂浮；浮动 `n` 鱼漂
+16. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
 
-17. instrument **[ˈɪnstrəmənt]** `n` 乐器
+17. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
 
-18. Germany **[ˈdʒɜːməni]** `n` 德国
+18. obey **[əˈbeɪ]** `v` 服从
 
-19. cushion **[ˈkʊʃ(ə)n]** `n` 垫子，坐垫；缓冲垫 `v` 减轻...的影响
+19. pretend **[prɪˈtend]** `v` 假装，伪装
 
-20. pork **[pɔːk]** `n` 猪肉
+20. observe **[əbˈzɜːv]** `v` 监视；观察
 
-21. vertical **[ˈvɜːtɪk(ə)l]** `adj` 垂直的；纵向的 `n` 垂直线
+21. terrible **[ˈterəb(ə)l]** `adj` 糟糕的；令人激不愉快的；可怕的
 
-22. dismiss **[dɪsˈmɪs]** `v` 停止受理；不考虑，不理会；驳回；开除，解雇
+22. cushion **[ˈkʊʃ(ə)n]** `n` 垫子，坐垫；缓冲垫 `v` 减轻...的影响
 
-23. motorbike **[ˈməʊtəbaɪk]** `n` 摩托车
+23. honesty **[ˈɒnəsti]** `n` 诚信，诚实
 
-24. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
-
-25. preface **[ˈprefəs]** `n` （书）前言；开场白 `v` 以...为开端
-
-26. charge **[tʃɑːdʒ]** `v` 充电；罚款 `n` 电量；费用，价钱
-
-27. trial **[ˈtraɪəl]** `v` 测验，试验；试用 `n` 试用；审判，审理
-
-28. piano **[piˈænəʊ]** `n` 钢琴
-
-29. tense **[tens]** `n` （动词的）时态 `adj` 紧张的，焦虑的
-
-30. sell **[sel]** `v` 出让，转让；出售 `n` 销售
-
-31. suggest **[səˈdʒest]** `v` 建议，提议；推荐，举荐
-
-32. terrible **[ˈterəb(ə)l]** `adj` 糟糕的；令人激不愉快的；可怕的
-
-33. vanilla **[vəˈnɪlə]** `adj` 无特色的，普通的
-
-34. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者；承受者
+24. legend **[ˈledʒənd]** `n` 传说；传奇人物；传奇故事；（图片或地图的）图例，文字说明 `adj` 十分出名的
 

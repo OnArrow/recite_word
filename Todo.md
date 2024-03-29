@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   mend/修理
+
    ```
 
 2. **About**
 
    ```
-   buffer binary captcha
+
    ```
 
 3. **过去式&过去分词**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   patient towards advice artist charge legend vanilla cushion motorbike wood terrible observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy
+   observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy lottery fact wheat bin combination mystery stain seasoning treat spider journalist whale garbage rob concierge volleyball depart classical celsius comedy capsule findable wipe capital insect horrible pardon clipboard along sail plenty
 
    ```
 

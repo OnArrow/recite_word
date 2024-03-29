@@ -12,6 +12,8 @@
 
 5. I watched him from my bedroom window, and I smiled at how carefully he was putting the fruit onto the table. He was like an artist, not a shop assistant. Then, as I watched, a big motorbike went up the street. The young man looked up and smiled as he watched it go past. I saw the motorbike go past, but he heard it first, then saw it.
 
+   - `go past` 经过
+
 6. After the motorbike was gone, he went back to his fruit. But then a small girl fell off her bicycle close to the shop and he ran to help her. He knew she wanted help because he heard her.
 
 7. In only one minute, I already knew four things about him.
@@ -43,6 +45,8 @@
 18. When I took my newspaper to him to pay for it, he smiled. But when I tried to smile back at him, my mouth felt like wood. Then he said something to me. I watched his mouth closely. We had lessons at school to help us lip-read - to watch people's mouths to read their words when they talk. I can lip-read quite well. So I watched the young man's mouth and I thought he was talking about a fire. A big fire. Then I looked down at my newspaper and saw a picture of a house on fire.
 
     - `my mouth felt like wood` 嘴巴像木头一样木讷，说不出话来
+
+    - `closely` 仔细地
 
     - `lip read` 唇读；唇语
 

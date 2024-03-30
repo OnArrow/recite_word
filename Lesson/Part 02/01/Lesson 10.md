@@ -24,6 +24,8 @@ My father was shocked. Now we are not allowed to touch it. It is being repaired 
 
    ```
    I was allowed to watch TV every Friday when I was young
+
+   We're not allowed to run night ops
    ```
 
 2. `be` 的现在分词形式 `being`
@@ -54,4 +56,10 @@ My father was shocked. Now we are not allowed to touch it. It is being repaired 
    Are those bridge being built by them?
 
    Who are those bridge being built?
+   ```
+
+4. `sth. belong to sb.` 某物属于某人
+
+   ```
+   The beautiful glass that is on the table is belong to me
    ```

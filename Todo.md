@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy lottery fact wheat bin combination mystery stain seasoning treat spider journalist whale garbage rob concierge volleyball depart classical celsius comedy capsule findable wipe capital insect horrible pardon clipboard along sail plenty
+   observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy lottery fact wheat bin combination mystery stain seasoning treat spider journalist whale garbage rob concierge volleyball depart classical celsius comedy capsule findable wipe capital insect horrible pardon clipboard along sail plenty avatar
 
    ```
 

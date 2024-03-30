@@ -35,3 +35,21 @@ To my surprise, he gave me the money immediately. 'I have never borrowed any mon
    ```
 
 4. `salary` 更多地指月薪
+
+5. `pay for sth.` 为某物付钱
+
+   ```
+   He paid for my dinner immediately
+   ```
+
+6. `pay it back` 还回来
+
+   ```
+   I gave him some money and asked him to never pay it back
+   ```
+
+7. 两个介词可以连起来用
+
+   ```
+   The dinner was paid for by someone
+   ```

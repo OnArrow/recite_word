@@ -1,6 +1,6 @@
 # vers(t)
 
-## meaning: 转
+## Meaning: 转
 
 1. reverse **[rɪˈvɜːs]** `v` 逆转；反转
 

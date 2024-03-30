@@ -1,6 +1,6 @@
 # co - com - con - col
 
-## meaning: 聚集，或者说一起，共同
+## Meaning: 聚集，或者说一起，共同
 
 1. company **[ˈkʌmpəni]** `n` 公司
 

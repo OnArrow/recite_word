@@ -1,6 +1,6 @@
 # nounce
 
-## meaning: 说
+## Meaning: 说
 
 1. announce **[əˈnaʊns]** `v` 宣布；（尤指通过广播）通知
 

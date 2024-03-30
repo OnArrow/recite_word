@@ -1,6 +1,6 @@
 # form
 
-## meaning: 形式
+## Meaning: 形式
 
 1. conform **[kənˈfɔːm]** `v` 与...一致；符合；遵守
 

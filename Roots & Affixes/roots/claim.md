@@ -1,6 +1,6 @@
 # claim
 
-## meaning: 喊
+## Meaning: 喊
 
 1. proclaim **[prəˈkleɪm]** `v` （公开）声明；（正式）宣告
 

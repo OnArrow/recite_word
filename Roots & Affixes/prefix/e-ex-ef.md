@@ -1,6 +1,6 @@
 # e - ex - ef
 
-## meaning: 向外/出去
+## Meaning: 向外/出去
 
 1. export **[ɪkˈspɔːt]** `n` 出口，输出
 

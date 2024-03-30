@@ -1,6 +1,6 @@
 # ject
 
-## meaning: 射
+## Meaning: 射
 
 1. inject **[ɪnˈdʒekt]** `v` 注射；注入
 

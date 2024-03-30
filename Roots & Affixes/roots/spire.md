@@ -1,6 +1,6 @@
 # spire
 
-## meaning: 气；气体
+## Meaning: 气；气体
 
 1. inspire **[ɪnˈspaɪə(r)]** `v` 鼓舞；吸气
 

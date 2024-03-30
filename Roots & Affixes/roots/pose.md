@@ -1,6 +1,6 @@
 # pose
 
-## meaning: 摆放
+## Meaning: 摆放
 
 1. expose **[ɪkˈspəʊz]** `v` 暴露，使显露
 

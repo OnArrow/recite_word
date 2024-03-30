@@ -1,6 +1,6 @@
 # trans
 
-## meaning: 转移/变化/转变
+## Meaning: 转移/变化/转变
 
 1. transfer **[trænsˈfɜː(r)]** `v` 转移
 

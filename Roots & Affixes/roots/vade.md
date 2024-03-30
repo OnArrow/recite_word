@@ -1,6 +1,6 @@
 # vade
 
-## meaning: 走
+## Meaning: 走
 
 1. invade **[ɪnˈveɪd]** `v` 侵略；入侵
 

@@ -1,6 +1,6 @@
 # un - in - im - dis - ab - il - mis
 
-## meaning: 与原单词完全相反，表示否定
+## Meaning: 与原单词完全相反，表示否定
 
 1. impossible **[ɪmˈpɒsəb(ə)l]** `adj` 不可能的
 

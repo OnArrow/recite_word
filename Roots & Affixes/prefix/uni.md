@@ -1,6 +1,6 @@
 # uni
 
-## meaning: 单一；统一
+## Meaning: 单一；统一
 
 1. uniform **[ˈjuːnɪfɔːm]** `n` 制服，校服 `adj` 统一的；一致的 `v` 使一致
 

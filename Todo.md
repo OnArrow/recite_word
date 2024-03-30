@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   sort continuous
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   observe discover rubbish deserve pretend district determined appreciate honesty exclaim secretary obey noise usual noisy lottery fact wheat bin combination mystery stain seasoning treat spider journalist whale garbage rob concierge volleyball depart classical celsius comedy capsule findable wipe capital insect horrible pardon clipboard along sail plenty avatar
+   observe rubbish pretend district determined appreciate honesty exclaim secretary obey usual noisy lottery fact wheat bin combination mystery stain seasoning treat spider journalist whale garbage rob concierge volleyball depart classical celsius comedy capsule wipe capital insect horrible pardon clipboard along sail plenty avatar pyramid crawler poem frighten pullover forbid forbade forbidden assemble incorrect ruin especially sanitize badge present such dictionary loud
 
    ```
 

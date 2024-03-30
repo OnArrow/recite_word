@@ -1,6 +1,6 @@
 # op - ob
 
-## meaning: 相对立的方向
+## Meaning: 相对立的方向
 
 1. opposite **[ˈɒpəzɪt]** `adj` 对面的
 

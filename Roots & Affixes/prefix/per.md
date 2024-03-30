@@ -1,6 +1,6 @@
 # per
 
-## meaning: 每一；每个
+## Meaning: 每一；每个
 
 1. pervade **[pəˈveɪd]** `vt` 遍及；弥漫
 

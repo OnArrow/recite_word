@@ -1,6 +1,6 @@
 # sub - sup - de -under
 
-## meaning: 不足/在...下面/向下
+## Meaning: 不足/在...下面/向下
 
 1. decrease **[dɪˈkriːs]** `v` 减少；降低
 

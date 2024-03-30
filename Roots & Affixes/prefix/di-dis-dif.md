@@ -1,6 +1,6 @@
 # di - dis - dif
 
-## meaning: 分散/分开
+## Meaning: 分散/分开
 
 1. divorce **[dɪˈvɔːs]** `v` 离婚
 

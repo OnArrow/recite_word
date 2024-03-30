@@ -1,6 +1,6 @@
 # gress
 
-## meaning: 走
+## Meaning: 走
 
 1. congress **[ˈkɒŋɡres]** `n` 国会，议会
 

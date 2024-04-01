@@ -1,5 +1,37 @@
 # Lesson 27
 
+## Mrs.Smith's living room
+
+```
+Mrs.Smith's living room is large
+
+There is a television in the room
+
+The television is near the window
+
+There are some magazines on the television
+
+There is a table in the room
+
+There are some newspapers on the table
+
+There are some armchairs in the room
+
+The armchairs are near the table
+
+There is a stereo in the room
+
+The stereo is near the door
+
+There are some books on the stereo
+
+There are some pictures in the room
+
+The pictures are on the wall
+```
+
+## Whole
+
 1. `How many` 多少； 特殊疑问词
 
    ```
@@ -34,11 +66,11 @@
 
    ```
 
-3. `There be`句型中的 `some` 和 `any`
+3. `There be` 句型中的 `some` 和 `any`
 
    - 都表示“一些”
 
-   - `some` 用在肯定句，`any`用在否定句/疑问句
+   - `some` 用在肯定句，`any` 用在否定句/疑问句
 
 4. 名句
 
@@ -46,33 +78,3 @@
    If you don't know where you are going, you might wind up someplace else
    如果你不知道你要去哪里，你可能会去别的地方
    ```
-
-## Mrs.Smith's living room
-
-```
-Mrs.Smith's living room is large
-
-There is a television in the room
-
-The television is near the window
-
-There are some magazines on the television
-
-There is a table in the room
-
-There are some newspapers on the table
-
-There are some armchairs in the room
-
-The armchairs are near the table
-
-There is a stereo in the room
-
-The stereo is near the door
-
-There are some books on the stereo
-
-There are some pictures in the room
-
-The pictures are on the wall
-```

@@ -1,5 +1,29 @@
 # Lesson 3
 
+## Sorry, sir
+
+```
+My coat and my umbrella, please. Here is my ticket
+
+Thank you, sir. Number five
+
+Here's your umbrella and your coat
+
+This is not my umbrella. Sorry, sir
+
+Is this your umbrella?
+
+No, it isn't
+
+Is this it?
+
+Yes, it is
+
+Thank you very much
+```
+
+## Whole
+
 1. `here`
 
    ```
@@ -37,7 +61,7 @@
    往返票
    ```
 
-4. 当你想买去某地的票时，使用`one ticket to 某地`，当你想买去某地的往返票时，使用`one return ticket to 某地`
+4. 当你想买去某地的票时，使用 `one ticket to sw.`，当你想买去某地的往返票时，使用 `one return ticket to sw.`
 
    ```
    one ticket to China
@@ -50,7 +74,7 @@
    一张去纽约的往返票
    ```
 
-5. 当你做错一件非常严重的事需要道歉时，用`I'm so sorry`来表达更加强烈的抱歉
+5. 当你做错一件非常严重的事需要道歉时，用 `I'm so sorry` 来表达更加强烈的抱歉
 
 6. 当使用`here is ___`时，通常伴随着有肢体语言，如说话的同时把东西递过去
 
@@ -74,7 +98,7 @@
 
      ```
 
-7. 肯定句变否定句时，`not`放在`be`动词后面
+7. 肯定句变否定句时，`not` 放在 `be` 动词后面
 
    ```
    This is my umbrella
@@ -99,7 +123,7 @@
    杰克不在这里
    ```
 
-8. `suit`也可以用来表达合适
+8. `suit` 也可以用来表达 `合适`
 
    ```
    It suits me
@@ -141,25 +165,3 @@
     A house is not a home
     房子不是家
     ```
-
-## Sorry, sir
-
-```
-My coat and my umbrella, please. Here is my ticket
-
-Thank you, sir. Number five
-
-Here's your umbrella and your coat
-
-This is not my umbrella. Sorry, sir
-
-Is this your umbrella?
-
-No, it isn't
-
-Is this it?
-
-Yes, it is
-
-Thank you very much
-```

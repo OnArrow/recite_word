@@ -1,5 +1,31 @@
 # Lesson 13
 
+## A new dress
+
+```
+What color's your new dress?
+
+It's green
+
+Come upstairs and see it
+
+Thank you
+
+Look! Here it is!
+
+That's a nice dress! It's very smart
+
+My hat's new, too
+
+What color is it?
+
+It's the same color. It's green, too
+
+That's a lovely hat
+```
+
+## Whole
+
 1. `come here` 来这里
 
    ```
@@ -144,27 +170,3 @@
     No man ever steps in the same river twice, for it's not the same river and he's not the same man
     没有人会两次踏进同一条河，因为这条河不同，他也不是同一个人
     ```
-
-## A new dress
-
-```
-What color's your new dress?
-
-It's green
-
-Come upstairs and see it
-
-Thank you
-
-Look! Here it is!
-
-That's a nice dress! It's very smart
-
-My hat's new, too
-
-What color is it?
-
-It's the same color. It's green, too
-
-That's a lovely hat
-```

@@ -1,5 +1,25 @@
 # Lesson 1
 
+## Excuse me
+
+```
+Excuse me?
+
+Yes?
+
+Is this your handbag?
+
+Pardon?
+
+Is this your handbag?
+
+Yes, it's
+
+Thank you very much
+```
+
+## Whole
+
 1. `this`，`that`都是代词，代词可以理解为，比如一本书在你面前，你说“这本书是谁的？”，其中的“这”就代表了你面前这本书，这就叫代词，代表的词
 
 2. `this`说明这东西离你比较近，这东西是什么。`that`说明这东西离你比较远，那东西是什么？
@@ -122,11 +142,11 @@
 
 11. 当你做错某事而向别人道歉时，用 `sorry` 而不是用 `excuse me`
 
-12. 当你没听清楚别人说的话时,想让别人再说一遍,这时可以用`pardon?`/`sorry?`/`come again?`/`what`
+12. 当你没听清楚别人说的话时,想让别人再说一遍,这时可以用 `pardon?`/`sorry?`/`come again?`/`what`
 
-13. `Thank you very much`和`Thank you so much`等价
+13. `Thank you very much` 和 `Thank you so much` 等价
 
-14. `please` 可放在句首也可放在句尾，同时`please`也有求求你的意思
+14. `please` 可放在句首也可放在句尾，同时`please`也有`求求你`的意思
 
     ```
     Come in please
@@ -155,7 +175,7 @@
     ```
     My ticket is here
     我的票在这
-    // is是谓语，my ticket是主语
+    // `is` 是谓语，`my ticket` 是主语
 
     Here is my ticket
     这是我的票
@@ -182,9 +202,11 @@
     ```
     telephone number
     电话号码
+    ```
 
-    number + 基数词 = 第...
+19. `number + 基数词 = 第...`
 
+    ```
     number one
     第一
 
@@ -195,23 +217,23 @@
     我是第一名
     ```
 
-19. `Mr.`是`mister`的缩写，必须要与姓氏连用，不能单独使用
+20. `Mr.`是`mister`的缩写，必须要与姓氏连用，不能单独使用
 
-20. `sir` 表示对不相识的男子，年长者或者上级的一种尊称，一般单独使用，不与姓氏连用
+21. `sir` 表示对不相识的男子，年长者或者上级的一种尊称，一般单独使用，不与姓氏连用
 
     ```
     Can I help you, sir?
     我能帮你什么呢？先生
     ```
 
-21. `gentleman`绅士，对男性比较有礼貌的称呼，在公众场合最得体的称呼
+22. `gentleman` 绅士，对男性比较有礼貌的称呼，在公众场合最得体的称呼
 
     ```
     Lady and gentleman
     女士们先生们
     ```
 
-22. `guy` 家伙；伙计们； 对男性一种不正式的称呼
+23. `guy` 家伙；伙计们； 对男性一种不正式的称呼
 
     ```
     Hi, guy!
@@ -219,11 +241,11 @@
 
     ```
 
-23. 物主代词：物品的主人，表示谁的什么东西
+24. 物主代词：物品的主人，表示谁的什么东西
 
-24. 形容词：形容词后面跟名词，它是用来修饰名词的
+25. 形容词：形容词后面跟名词，它是用来修饰名词的
 
-25. 形容词性物主代词：既是一个形容词，又表示物品的主人，所以后面跟的必须是名词，不能单独使用
+26. 形容词性物主代词：既是一个形容词，又表示物品的主人，所以后面跟的必须是名词，不能单独使用
 
     ```
     My mother
@@ -237,7 +259,7 @@
     你的衬衫
     ```
 
-26. 名词性物主代词：本身是一个名词，又表示物品的主人。因为本身是一个名词了，所以后面不能再跟名词
+27. 名词性物主代词：本身是一个名词，又表示物品的主人。因为本身是一个名词了，所以后面不能再跟名词
 
     ```
     This pen is mine
@@ -248,9 +270,9 @@
     这只狗不是她的
     ```
 
-27. 一般`house`用来表示像别墅那样的房子
+28. 一般 `house` 用来表示像别墅那样的房子
 
-28. `it's free` 和 `on the house`都是免费的意思
+29. `it's free` 和 `on the house`都是免费的意思
 
     ```
     How much is this cup of coffee?
@@ -260,9 +282,9 @@
     那是免费的
     ```
 
-29. 如果你想去搭讪某人,可以开头先夸赞对方,如`nice hair`,`nice coat`
+30. 如果你想去搭讪某人,可以开头先夸赞对方,如 `nice hair` , `nice coat`
 
-30. 名句
+31. 名句
 
     ```
     If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!
@@ -271,21 +293,3 @@
     Books are the ladder of human progress
     书籍是人类进步的阶梯
     ```
-
-## Excuse me
-
-```
-Excuse me?
-
-Yes?
-
-Is this your handbag?
-
-Pardon?
-
-Is this your handbag?
-
-Yes, it's
-
-Thank you very much
-```

@@ -1,6 +1,36 @@
 # Lesson 17
 
-1. `sales rep`并不常见，一般会说`salesman`或者`saleswoman`，意思是一样的都表示销售员
+## How do you do?
+
+```
+Come and meet our employees, Mr.Richards
+
+Thank you, Mr.Jackson
+
+This is Nicola Grey, and this is Claire Taylor
+
+How do you do?
+
+Those women are very hardworking. What are their jobs?
+
+They are keyboard operators
+
+This is Michael Baker, and this is Jeremy Short
+
+How do you do?
+
+They aren't very busy! What are their jobs?
+
+They are sales reps. They are very lazy
+
+Who is this young man?
+
+This is Jim. He's our office assistant
+```
+
+## Whole
+
+1. `sales rep` 并不常见，一般会说 `salesman` 或者 `saleswoman`，意思是一样的都表示销售员
 
    ```
    sales rep
@@ -43,31 +73,3 @@
 
    Who is this young man?
    ```
-
-## How do you do?
-
-```
-Come and meet our employees, Mr.Richards
-
-Thank you, Mr.Jackson
-
-This is Nicola Grey, and this is Claire Taylor
-
-How do you do?
-
-Those women are very hardworking. What are their jobs?
-
-They are keyboard operators
-
-This is Michael Baker, and this is Jeremy Short
-
-How do you do?
-
-They aren't very busy! What are their jobs?
-
-They are sales reps. They are very lazy
-
-Who is this young man?
-
-This is Jim. He's our office assistant
-```

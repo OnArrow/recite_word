@@ -1,5 +1,27 @@
 # Lesson 9
 
+## How are you today?
+
+```
+Hello, Helen
+
+Hi, Steven
+
+How are you today?
+
+I'm very well, thank you. And you?
+
+I'm fine, thanks. How is Tony?
+
+He's fine, thanks. How's Emma?
+
+She's very well, too. Helen. Goodbye, Helen. Nice to see you
+
+Nice to see you, too, Steven. Goodbye
+```
+
+## Whole
+
 1. `特殊疑问句` **=** `特殊疑问词` **+** `一般疑问句（去掉答案）`
 
    ```
@@ -74,7 +96,7 @@
    没事，我很好我很好
    ```
 
-7. 形容词（.adj）后面跟的一定是名词（.n）
+7. `adj.` 后面跟的一定是 `n.`
 
    ```
    a tall policeman
@@ -101,23 +123,3 @@
    Keep yourself busy if you want to avoid depression. For me, inactivity is the enemy
    如果你想避免抑郁，就让自己忙碌起来。对我来说，无所作为是敌人
    ```
-
-## How are you today?
-
-```
-Hello, Helen
-
-Hi, Steven
-
-How are you today?
-
-I'm very well, thank you. And you?
-
-I'm fine, thanks. How is Tony?
-
-He's fine, thanks. How's Emma?
-
-She's very well, too. Helen. Goodbye, Helen. Nice to see you
-
-Nice to see you, too, Steven. Goodbye
-```

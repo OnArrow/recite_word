@@ -1,5 +1,37 @@
 # Lesson 19
 
+## Tired and thirsty
+
+```
+What's the matter, children?
+
+We're tired...
+
+And thirsty, Mum
+
+Sit down here
+
+Are you all right, now?
+
+No, we aren't
+
+Look! There's an ice cream man
+
+Two ice creams, please
+
+Here you are, children
+
+Thanks, Mum
+
+These ice creams are nice
+
+Are you all right, now?
+
+Yes, we are, thank you
+```
+
+## Whole
+
 1. `What's the matter?` 和 `What's wrong?` 意思相等，都表示“怎么了？”
 
    ```
@@ -12,7 +44,7 @@
    We're tired and thirsty
    ```
 
-2. `sit down`中的`sit`后面的`t`可以省略不读，这种叫做“失去爆破音”（音标`[t]`为爆破音，`[d]`也是）
+2. `sit down` 中的 `sit` 后面的 `t` 可以省略不读，这种叫做“失去爆破音”（音标`[t]`为爆破音，`[d]`也是）
 
 3. `right`
 
@@ -85,9 +117,9 @@
    来见见我们的雇员
    ```
 
-8. `Those`读作“豆子”
+8. `Those` 读作 “豆子”
 
-9. 在表示商店不营业的时候，通常用`close`多于`shut`
+9. 在表示商店不营业的时候，通常用 `close` 多于 `shut`
 
    ```
    We are closed
@@ -111,33 +143,3 @@
     You're never too old to start learning, and you're never too young to aim high and achieve great things
     你永远不会太老而不能开始学习，也永远不会太年轻而不能志存高远，成就伟业
     ```
-
-## Tired and thirsty
-
-```
-What's the matter, children?
-
-We're tired...
-
-And thirsty, Mum
-
-Sit down here
-
-Are you all right, now?
-
-No, we aren't
-
-Look! There's an ice cream man
-
-Two ice creams, please
-
-Here you are, children
-
-Thanks, Mum
-
-These ice creams are nice
-
-Are you all right, now?
-
-Yes, we are, thank you
-```

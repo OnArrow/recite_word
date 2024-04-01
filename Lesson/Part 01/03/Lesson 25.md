@@ -1,5 +1,33 @@
 # Lesson 25
 
+## Mrs.Smith's kitchen
+
+```
+Mrs.Smith's kitchen is small
+
+There is a refrigerator in the kitchen
+
+The refrigerator is white
+
+It's on the right
+
+There is an electric cooker in the kitchen
+
+The cooker is blue
+
+It's on the left
+
+There is a table in the middle of the room
+
+There is a bottle on the table
+
+The bottle is empty
+
+There is a cup on the table, too
+
+The cup is clean
+```
+
 1. `A of B`
 
    ```
@@ -72,7 +100,7 @@
    // 这里的`one`指的是第一句的`cup`
    ```
 
-6. `cooker` 不是厨师，而是厨具。而`cook`作名词时表示厨师
+6. `cooker` 不是厨师，而是厨具。而 `cook` 作名词时表示厨师
 
 7. 名句
 
@@ -80,31 +108,3 @@
    Your present circumstances don't determine where you can go, they merely determine where you start
    你目前的情况不能决定你能去哪里，它们只是决定你从哪里开始
    ```
-
-## Mrs.Smith's kitchen
-
-```
-Mrs.Smith's kitchen is small
-
-There is a refrigerator in the kitchen
-
-The refrigerator is white
-
-It's on the right
-
-There is an electric cooker in the kitchen
-
-The cooker is blue
-
-It's on the left
-
-There is a table in the middle of the room
-
-There is a bottle on the table
-
-The bottle is empty
-
-There is a cup on the table, too
-
-The cup is clean
-```

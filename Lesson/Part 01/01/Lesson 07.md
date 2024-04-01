@@ -1,6 +1,34 @@
 # Lesson 7
 
-1. `am`: `be`的第一人称单数现在时
+## Are you a teacher?
+
+```
+I'm a new student. My name's Robert
+
+Nice to meet you. My name's Sophie
+
+Are you French?
+
+Yes, I am. Are you French, too?
+
+No, I am not
+
+What nationality are you?
+
+I'm Italian. Are you a teacher?
+
+No, I'm not
+
+What's your job?
+
+I'm a keyboard operator. What's your job?
+
+I'm an engineer
+```
+
+## Whole
+
+1. `am` : `be` 的第一人称单数现在时
 
    ```
    I am Jack
@@ -34,7 +62,7 @@
    我是中国人吗？
    ```
 
-2. `are`：`be` 的第二人称单复数现在时
+2. `are` ：`be` 的第二人称单复数现在时
 
    ```
    You are Tom
@@ -68,7 +96,7 @@
    你是美国人吗？
    ```
 
-3. `is`： `be` 的第三人称单数
+3. `is` ： `be` 的第三人称单数
 
    ```
    He is my brother
@@ -102,7 +130,7 @@
    它是他们的宠物吗？
    ```
 
-4. 口诀： 我用`am`，你用`are`，`it`跟着他她它。单数`is`，复数`are`
+4. 口诀： 我用 `am`，你用 `are`，`it` 跟着他她它。单数 `is`，复数 `are`
 
 5. 询问某人的国籍或者从哪里来
 
@@ -148,9 +176,9 @@
    编写程序
    ```
 
-7. `key`作为动词时有键入的意思，而`board`有黑板、板的意思，所以`keyboard`键盘可以理解为可以键入的板子
+7. `key` 作为动词时有键入的意思，而 `board` 有黑板、板的意思，所以 `keyboard` 键盘可以理解为可以键入的板子
 
-8. 很多时候，当表示做某项工作的人时，通常为`工作 + or/er`
+8. 很多时候，当表示做某项工作的人时，通常为 `工作 + or/er`
 
    ```
    driver
@@ -224,7 +252,7 @@
    // 肯定句
    ```
 
-10. 一般疑问句都是用`Yes`或者`No`来回答，而特殊疑问句的回答是没有固定形式的
+10. 一般疑问句都是用 `Yes` 或者 `No` 来回答，而特殊疑问句的回答是没有固定形式的
 
     ```
     小明： 你今天去游泳吗？
@@ -270,29 +298,3 @@
     知道怎么做的人总是有工作
     知道为什么的人永远是他的老板
     ```
-
-## Are you a teacher?
-
-```
-I'm a new student. My name's Robert
-
-Nice to meet you. My name's Sophie
-
-Are you French?
-
-Yes, I am. Are you French, too?
-
-No, I am not
-
-What nationality are you?
-
-I'm Italian. Are you a teacher?
-
-No, I'm not
-
-What's your job?
-
-I'm a keyboard operator. What's your job?
-
-I'm an engineer
-```

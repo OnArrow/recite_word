@@ -1,5 +1,37 @@
 # Lesson 5
 
+## Nice to meet you
+
+```
+Good morning
+
+Good morning Mr.Black
+
+This is Miss Sophie Dupont. Sophie is a new student. She is French
+
+Sophie, this is Hans. He is German
+
+Nice to meet you
+
+And this is Naoko. She's Japanese
+
+Nice to meet you
+
+And this is Chang-woo. He's Korean
+
+Nice to meet you
+
+And this is Luming. He's Chinese
+
+Nice to meet you
+
+And this is Xiaohui. She's Chinese, too
+
+Nice to meet you
+```
+
+## Whole
+
 1. 英文中的姓名组成
 
    ```
@@ -41,7 +73,7 @@
    她是一名新学生吗？
    ```
 
-4. `French`作为形容词时，翻译为法国的，而作为名词时，翻译为法国人
+4. `French` 作为形容词时，翻译为法国的，而作为名词时，翻译为法国人
 
    ```
    He's French
@@ -57,7 +89,7 @@
    他不是
    ```
 
-5. `Nice to meet you`一般只用于两个人第一次（first time）见面时打招呼，如果两个人比较熟络了可以使用`What's up, man`来打招呼，或者`How are you?`都可以。同时如果在比较正式的场合，可以使用`How do you do?`来打招呼，意为“你好”。
+5. `Nice to meet you` 一般只用于两个人第一次（first time）见面时打招呼，如果两个人比较熟络了可以使用 `What's up, man` 来打招呼，或者 `How are you?` 都可以。同时如果在比较正式的场合，可以使用 `How do you do?` 来打招呼，意为“你好”。
 
    ```
    Hello, Jack. Long time
@@ -78,7 +110,7 @@
    他们是日本人吗？
    ```
 
-7. `me too`我也是
+7. `me too` 我也是
 
    ```
    I like this skirt
@@ -98,14 +130,14 @@
    这是莉萨，她很漂亮
    ```
 
-9. 不定冠词`a/an`后面一般跟名词
+9. 不定冠词 `a/an` 后面一般跟名词
 
    ```
    Jack is a teacher
    杰克是一名老师
    ```
 
-10. 元音音标开头的单词，前面跟`an`，辅音音标开头的单词前面跟`a`。注意这里的音标不是从单词本身的第一个字母来判断，而是要从这个单词的音标读音来判断
+10. 元音音标开头的单词，前面跟 `an`，辅音音标开头的单词前面跟 `a`。注意这里的音标不是从单词本身的第一个字母来判断，而是要从这个单词的音标读音来判断
 
     ```
     There is an apple on the table
@@ -123,7 +155,7 @@
     // 同理，这里的`university`中虽然以辅音`u`开头，但实际上音标是以辅音`[j]`开始的，所以用`a`
     ```
 
-11. `everybody`和`everyone`等价，都表示“每个人，各位”的意思
+11. `everybody` 和 `everyone` 等价，都表示“每个人，各位”的意思
 
     ```
     Jack! This is everybody
@@ -135,7 +167,7 @@
 
 12. 欢迎你到某地的短语
 
-    - `welcome to 某地`，这个短语适用于某人来到了（到达了）某地，而你也在某地
+    - `welcome to sw.`，这个短语适用于某人来到了（到达了）某地，而你也在某地
 
       ```
       Welcome to China
@@ -147,7 +179,7 @@
       // 你是麦当劳的员工，此时汤姆来这里吃饭
       ```
 
-    - `you should visit 某地`，这个短语是通用表达，和说话人的位置，说话人与这个地方的关系无关
+    - `you should visit sw.`，这个短语是通用表达，和说话人的位置，说话人与这个地方的关系无关
 
       ```
       You should visit London next summer
@@ -158,7 +190,7 @@
       你下个月应该去北京看看
       ```
 
-    - `you're welcome to visit 某地`，这个短句适用于我的国家，或者我的家乡和我住的地方。但是这句话是比较真诚的邀请，而不是客套话，所以一般只和关系比较好的人说
+    - `you're welcome to visit sw.`，这个短句适用于我的国家，或者我的家乡和我住的地方。但是这句话是比较真诚的邀请，而不是客套话，所以一般只和关系比较好的人说
 
       ```
       You're welcome to visit China anytime
@@ -170,14 +202,14 @@
       // 汤臣一品是我的家，我欢迎朋友来我家玩
       ```
 
-    - `I hope you can come to 某地`，这句话和`you're welcome to visit`意思差不多，都是比较真诚的邀请
+    - `I hope you can come to sw.`，这句话和 `you're welcome to visit` 意思差不多，都是比较真诚的邀请
 
       ```
       I hope you can come to China one day, if we ever get a grip on rona
       希望你有机会去中国玩，如果疫情能控制下来的话
       ```
 
-    - `I hope to see you in 某地`，这句话和`you're welcome to visit`意思差不多，都是比较真诚的邀请
+    - `I hope to see you in sw.`，这句话和`you're welcome to visit`意思差不多，都是比较真诚的邀请
 
       ```
       I hope to see you in China
@@ -186,39 +218,9 @@
 
     - **参考连接**<https://www.bilibili.com/Video/BV1534y1Y7u4?spm_id_from=333.880.my_history.page.click>
 
-13. 一般情况下，不是用`make`去表达品牌，而是用`brand`
+13. 一般情况下，不是用 `make` 去表达品牌，而是用 `brand`
 
     ```
     What brand is this?
     这是哪个牌子的？
     ```
-
-## Nice to meet you
-
-```
-Good morning
-
-Good morning Mr.Black
-
-This is Miss Sophie Dupont. Sophie is a new student. She is French
-
-Sophie, this is Hans. He is German
-
-Nice to meet you
-
-And this is Naoko. She's Japanese
-
-Nice to meet you
-
-And this is Chang-woo. He's Korean
-
-Nice to meet you
-
-And this is Luming. He's Chinese
-
-Nice to meet you
-
-And this is Xiaohui. She's Chinese, too
-
-Nice to meet you
-```

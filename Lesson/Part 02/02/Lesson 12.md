@@ -17,3 +17,7 @@ Captain Alison will set out at eight o'clock, so we'll have plenty of time. We'l
 
 He will be away for two months. We are very proud of him. He will take part in an important race across the Atlantic.
 ```
+
+## Whole
+
+1. `set out` 启程；出发

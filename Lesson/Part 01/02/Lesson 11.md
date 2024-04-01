@@ -1,5 +1,33 @@
 # Lesson 11
 
+## Is this your shirt?
+
+```
+Whose shirt is that?
+
+Is this your shirt, Dave?
+
+No, sir. It's not my shirt. This is my shirt, My shirt's blue
+
+Is this shirt Tim's?
+
+Perhaps it is, sir. Tim's shirt's white
+
+Tim!
+
+Yes, sir?
+
+Is this your shirt?
+
+Yes, sir
+
+Here you are. Catch!
+
+Thank you, sir
+```
+
+## Whole
+
 1. ```
    My keyboard is blue
 
@@ -8,7 +36,7 @@
    What color is your keyboard?
 
    The color of my keyboard is blue
-   // ... of ...  为无生命的名词所有格
+   // `... of ...` 为无生命的名词所有格
    ```
 
 2. `perhaps` “可能吧”
@@ -53,7 +81,7 @@
    // 我们是想对`her`进行提问，所以把答案`her`去掉用特殊疑问词`whose`来替代，然后把第三部分提到句首就变成了特殊疑问句
    ```
 
-5. `is` 有时候表示`是`，有时候表示`的`
+5. `is` 有时候表示 `是`，有时候表示 `的`
 
    ```
    Jack's computer
@@ -107,7 +135,7 @@
 
 9. `shirt` 男士的衬衫；`blouse` 女士的衬衫
 
-10. 名词所有格 `名词 of 名词`， 前面的名词属于后面的名词
+10. 名词所有格 `n. of n.`， 前面的名词属于后面的名词
 
     ```
     The color of cat
@@ -119,29 +147,3 @@
     The pictures of children
     小孩的照片
     ```
-
-## Is this your shirt?
-
-```
-Whose shirt is that?
-
-Is this your shirt, Dave?
-
-No, sir. It's not my shirt. This is my shirt, My shirt's blue
-
-Is this shirt Tim's?
-
-Perhaps it is, sir. Tim's shirt's white
-
-Tim!
-
-Yes, sir?
-
-Is this your shirt?
-
-Yes, sir
-
-Here you are. Catch!
-
-Thank you, sir
-```

@@ -1,5 +1,25 @@
 # Lesson 21
 
+## Which book?
+
+```
+Give me a book please, Jane
+
+Which book? This one?
+
+No, not that one. The red one
+
+This one?
+
+Yes, please
+
+Here you are
+
+Thank you
+```
+
+## Whole
+
 1. `give`
 
    ```
@@ -64,21 +84,3 @@
    Education's purpose is to replace an empty mind with an open one
    教育是目的是用开放的思想代替空虚的思想
    ```
-
-## Which book?
-
-```
-Give me a book please, Jane
-
-Which book? This one?
-
-No, not that one. The red one
-
-This one?
-
-Yes, please
-
-Here you are
-
-Thank you
-```

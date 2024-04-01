@@ -89,20 +89,20 @@ function matchWords(str) {
     }
   } catch (err) {
     console.log(err)
+    console.log(11)
+    console.log(str)
   }
 }
 
 // 写入内容
 async function writeContent(arr: string[]) {
   const newArr = shuffle(arr)
+
   for (const [index, item] of newArr.entries()) {
     // 追加进文件
     await fsWrite(targetFilePath, `${index + 1}. ${item}\n\n`, 'a')
   }
-  console.timeEnd('abc')
 }
-
-console.time('abc')
 
 readTodoFile()
 readWordsFolder()

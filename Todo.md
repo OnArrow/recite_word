@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   sort continuous equal bit footprint
+   sort continuous equal bit footprint wistfully occasionally
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   pretend district honesty exclaim secretary obey usual lottery fact wheat combination mystery stain seasoning treat whale rob concierge volleyball depart classical celsius comedy capsule wipe capital insect horrible pardon sail plenty pyramid crawler poem frighten pullover assemble incorrect ruin especially sanitize present such dictionary loud nationality avoid tourist relative hug street kitchen refrigerator electric storage jean
+   pretend district honesty exclaim secretary obey usual lottery fact wheat combination mystery stain seasoning treat whale rob concierge volleyball depart classical celsius comedy capsule wipe capital insect horrible pardon sail plenty pyramid crawler poem frighten pullover assemble incorrect ruin especially sanitize present such dictionary loud nationality avoid tourist relative hug street kitchen refrigerator electric storage jean prepare popular golf tennis
    ```
 
 6. **复习过去式&过去分词**

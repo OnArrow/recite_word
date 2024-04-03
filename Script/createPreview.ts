@@ -1,14 +1,14 @@
-import * as Marked from 'marked'
+import Marked from 'marked'
 
-import * as nodePath from 'path'
+import path from 'path'
 
 import dayjs from 'dayjs'
 
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
-const targetFilePath = nodePath.resolve(__dirname, '../Review.md')
+const targetFilePath = path.resolve(__dirname, '../Review.md')
 
-const readFolderPath = nodePath.resolve(__dirname, '../Words')
+const readFolderPath = path.resolve(__dirname, '../Words')
 
 // 需要复习的单词
 let strArr: string[] = []
@@ -18,7 +18,7 @@ const resultArr: string[] = []
 // 读取Todo文件
 async function readTodoFile() {
   // 读取文件内容
-  const result = await fsRead(nodePath.resolve(__dirname, '../Todo.md'))
+  const result = await fsRead(path.resolve(__dirname, '../Todo.md'))
 
   // 解析文件内容
   const parseArr = Marked.lexer(result)

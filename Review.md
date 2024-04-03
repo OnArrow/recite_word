@@ -1,109 +1,121 @@
 # Review
-1. crawler **[ˈkrɔːlə(r)]** `n` 网络爬虫
+1. milkshake **[ˈmɪlkʃeɪk]** `n` 奶昔
 
-2. sanitize **[ˈsænɪtaɪz]** `vt` 给...消毒；对...采取卫生措施
+2. rob **[rɒb]** `v` 抢劫，盗取
 
-3. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
+3. crawler **[ˈkrɔːlə(r)]** `n` 网络爬虫
 
-4. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
+4. refrigerator **[rɪˈfrɪdʒəreɪtə(r)]** `n` 冰箱；冷藏库
 
-5. pyramid **[ˈpɪrəmɪd]** `n` 金字塔
+5. plenty **[ˈplenti]** `n` 富裕；充裕；大量 `adv` 大量，很多
 
-6. wipe **[waɪp]** `n` （湿）纸巾；抹布 `v` （用布、手等）擦干净
+6. lottery **[ˈlɒtəri]** `n` 彩票；博彩
 
-7. plenty **[ˈplenti]** `n` 富裕；充裕；大量 `adv` 大量，很多
+7. stomach **[ˈstʌmək]** `n` 胃；腹部 `v` 忍受
 
-8. depart **[dɪˈpɑːt]** `v` 启程，出发
+8. storage **[ˈstɔːrɪdʒ]** `n` 存储空间；存储 `adj` 储存的
 
-9. such **[sʌtʃ]** `det` 如此的，这等的；这样的 `adv` 这么，如此（用于加强叙述语气）
+9. stain **[steɪn]** `n` 污渍，污点 `v` 被...留下污渍
 
-10. fact **[fækt]** `n` 事实；真相
+10. combination **[ˌkɒmbɪˈneɪʃ(ə)n]** `n` 结合体；联合体；联合
 
 11. exclaim **[ɪkˈskleɪm]** `v` 大声说；惊叫
 
-12. volleyball **[ˈvɒlibɔːl]** `n` 排球
+12. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的
 
-13. tourist **[ˈtʊərɪst]** `n` 旅行者；观光者
+13. pretend **[prɪˈtend]** `v` 假装，伪装
 
-14. refrigerator **[rɪˈfrɪdʒəreɪtə(r)]** `n` 冰箱；冷藏库
+14. insect **[ˈɪnsekt]** `n` 昆虫；卑鄙的人
 
-15. sail **[seɪl]** `v` （船）航行 `n` 帆
+15. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
 
-16. ruin **[ˈruːɪn]** `n` 废墟 `v` 毁灭；破坏
+16. concierge **[ˈkɒnsieəʒ]** `n` 礼宾部；看门人
 
-17. avoid **[əˈvɔɪd]** `v` 避免，防止；撤销；避开
+17. obey **[əˈbeɪ]** `v` 服从
 
-18. hug **[hʌɡ]** `v` 拥抱；抱住 `n` 拥抱
+18. incorrect **[ˌɪnkəˈrekt]** `adj` 错误的
 
-19. insect **[ˈɪnsekt]** `n` 昆虫；卑鄙的人
+19. mystery **[ˈmɪst(ə)ri]** `adj` 神秘的 `n` 神秘的人或事物；难以理解的事物
 
 20. comedy **[ˈkɒmədi]** `n` 喜剧
 
-21. district **[ˈdɪstrɪkt]** `n` 地区
+21. frighten **[ˈfraɪt(ə)n]** `v` （使）惊吓，（使）惊恐
 
-22. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
+22. pyramid **[ˈpɪrəmɪd]** `n` 金字塔
 
-23. pullover **[ˈpʊləʊvə(r)]** `n` 毛衣
+23. avoid **[əˈvɔɪd]** `v` 避免，防止；撤销；避开
 
-24. nationality **[ˌnæʃəˈnæləti]** `n` 民族；国籍
+24. ruin **[ˈruːɪn]** `n` 废墟 `v` 毁灭；破坏
 
-25. kitchen **[ˈkɪtʃɪn]** `n` 厨房
+25. such **[sʌtʃ]** `det` 如此的，这等的；这样的 `adv` 这么，如此（用于加强叙述语气）
 
-26. frighten **[ˈfraɪt(ə)n]** `v` （使）惊吓，（使）惊恐
+26. flown **[fləʊn]** `v` （fly 的过去分词）
 
-27. wheat **[wiːt]** `n` 小麦
+27. pardon **[ˈpɑːd(ə)n]** `n` 赦免；宽恕 `v` 赦免；宽恕 `int` （用于请求别人重复某事）什么，请再说一遍
 
-28. electric **[ɪˈlektrɪk]** `adj` 带电的；令人激动的
+28. hug **[hʌɡ]** `v` 拥抱；抱住 `n` 拥抱
 
-29. lottery **[ˈlɒtəri]** `n` 彩票；博彩
+29. flew **[fluː]** `v` （fly 的过去式）
 
-30. assemble **[əˈsemb(ə)l]** `v` （使）集合；组装
+30. sanitize **[ˈsænɪtaɪz]** `vt` 给...消毒；对...采取卫生措施
 
-31. pardon **[ˈpɑːd(ə)n]** `n` 赦免；宽恕 `v` 赦免；宽恕 `int` （用于请求别人重复某事）什么，请再说一遍
+31. electric **[ɪˈlektrɪk]** `adj` 带电的；令人激动的
 
-32. treat **[triːt]** `v` 治疗
+32. onion **[ˈʌnjən]** `n` 洋葱
 
-33. storage **[ˈstɔːrɪdʒ]** `n` 存储空间；存储 `adj` 储存的
+33. treat **[triːt]** `v` 治疗
 
-34. seasoning **[ˈsiːzənɪŋ]** `n` 调味品
+34. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-35. capsule **[ˈkæpsjuːl]** `n` 胶囊
+35. uncle **[ˈʌŋk(ə)l]** `n` 叔叔
 
-36. classical **[ˈklæsɪk(ə)l]** `adj` 经典的，传统的；古典的
+36. reach **[riːtʃ]** `v` 能伸到，能够到；到达，抵达；达到（特定的水平或数量） `n` 可到达的距离
 
-37. poem **[ˈpəʊɪm]** `n` 诗
+37. honesty **[ˈɒnəsti]** `n` 诚信，诚实
 
-38. concierge **[ˈkɒnsieəʒ]** `n` 礼宾部；看门人
+38. poem **[ˈpəʊɪm]** `n` 诗
 
-39. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
+39. wheat **[wiːt]** `n` 小麦
 
-40. incorrect **[ˌɪnkəˈrekt]** `adj` 错误的
+40. dictionary **[ˈdɪkʃənəri]** `n` 字典，词典
 
-41. celsius **[ˈselsiəs]** `n` 摄氏度
+41. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
 
-42. street **[striːt]** `n` 街道 `adj` 街道的
+42. awful **[ˈɔːf(ə)l]** `adj` 让人讨厌的；糟糕的；可怕的
 
-43. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
+43. district **[ˈdɪstrɪkt]** `n` 地区
 
-44. dictionary **[ˈdɪkʃənəri]** `n` 字典，词典
+44. fly **[flaɪ]** `n` 苍蝇 `v` 飞；航行
 
-45. mystery **[ˈmɪst(ə)ri]** `adj` 神秘的 `n` 神秘的人或事物；难以理解的事物
+45. assemble **[əˈsemb(ə)l]** `v` （使）集合；组装
 
-46. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的
+46. volleyball **[ˈvɒlibɔːl]** `n` 排球
 
-47. loud **[laʊd]** `adj` 大声的，响亮的 `adv` 大声地，响亮地
+47. excuse **[ɪkˈskjuːs]** `n` 借口；托词 `v` 原谅；宽恕
 
-48. honesty **[ˈɒnəsti]** `n` 诚信，诚实
+48. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
 
-49. combination **[ˌkɒmbɪˈneɪʃ(ə)n]** `n` 结合体；联合体；联合
+49. pullover **[ˈpʊləʊvə(r)]** `n` 毛衣
 
-50. pretend **[prɪˈtend]** `v` 假装，伪装
+50. whale **[weɪl]** `n` 鲸鱼
 
-51. rob **[rɒb]** `v` 抢劫，盗取
+51. depart **[dɪˈpɑːt]** `v` 启程，出发
 
-52. whale **[weɪl]** `n` 鲸鱼
+52. ginger **[ˈdʒɪndʒə(r)]** `n` 生姜
 
-53. stain **[steɪn]** `n` 污渍，污点 `v` 被...留下污渍
+53. celsius **[ˈselsiəs]** `n` 摄氏度
 
-54. obey **[əˈbeɪ]** `v` 服从
+54. fact **[fækt]** `n` 事实；真相
+
+55. nationality **[ˌnæʃəˈnæləti]** `n` 民族；国籍
+
+56. classical **[ˈklæsɪk(ə)l]** `adj` 经典的，传统的；古典的
+
+57. sail **[seɪl]** `v` （船）航行 `n` 帆
+
+58. wipe **[waɪp]** `n` （湿）纸巾；抹布 `v` （用布、手等）擦干净
+
+59. capsule **[ˈkæpsjuːl]** `n` 胶囊
+
+60. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
 

@@ -9,7 +9,7 @@ import * as nodePath from 'path'
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
 // 需要乱序的文件
-const shuffleMonths = ['2022']
+const shuffleMonths = ['2024']
 
 const readFolderPath = nodePath.resolve(__dirname, '../Words')
 

@@ -1,9 +1,9 @@
 // 导入文件模块
 
-import * as fs from 'fs'
+import fs from 'fs'
 
 // node path模块
-import * as nodePath from 'path'
+import nodePath from 'path'
 
 // 封装一个异步读取文件的函数
 export function fsRead(path): Promise<any> {

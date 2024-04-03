@@ -1,10 +1,10 @@
 # Word Class 词性
 
-1. `n` 名词，全称 `noun`
+1. `n` 名词，全称 `nouns`
 
    - 表示人、地、事、物等名称的词、如篮球、大树、李白、南宁等都是名词
 
-   - 在英语中如 pen、time、China、London、people 等都是名词
+   - 在英语中如 `pen、time、China、London、people` 等都是名词
 
      ```
      a pen
@@ -12,11 +12,11 @@
      don't have time
      ```
 
-2. `cn` 可数名词，全称 `countable noun`
+2. `cn` 可数名词，全称 `countable nouns`
 
-3. `un` 不可数名词，全称 `uncountable noun`
+3. `un` 不可数名词，全称 `uncountable nouns`
 
-4. `v` 动词，全称 `verb`
+4. `v` 动词，全称 `verbs`
 
    - 表示动作的词、如看、听、走、推、跑、思考、开始等都是动词
 
@@ -46,7 +46,7 @@
      I'm playing basketball
      ```
 
-5. `vt` 及物动词，全称 `transitive verb`
+5. `vt` 及物动词，全称 `transitive verbs`
 
    - 需要动作承受者的动词
 
@@ -55,7 +55,7 @@
    // `have`为及物动词，这个“吃”的动作后面必须跟动作的承受者而不能单独使用
    ```
 
-6. `vi` 不及物动词，全称 `intransitive verb`
+6. `vi` 不及物动词，全称 `intransitive verbs`
 
    - 不需要动作承受者的动词
 
@@ -64,7 +64,7 @@
    // `eat` 为不及物动词，后面可以加动作承受者也可以不加。吃什么不管，我只是准备去吃
    ```
 
-7. `prep` 介词，全称 `preposition`
+7. `prep` 介词，全称 `prepositions`
 
    - 汉语前置词，在语法里是一个用来表现一个字的文法功能的词汇或字缀。一般用在代词和名词性质的短语前面，和这些词合起来组成介词结构，以表示处所、时间、状态、方式、原因、目的、比较对象等的词，如果把介词去掉，原句的意思会发生改变
 
@@ -89,9 +89,9 @@
 
    - 在英语中，介词表示词与词、词与句之间关系的词，在句子中不能单独存在
 
-     - 常用的介词有：on、by、at、in、with、from 等；
-     - 常用的合成类介词有：inside、outside 等；
-     - 常用的短语类介词有：along with、according to 等；
+     - 常用的介词有：`on、by、at、in、with、from` 等；
+     - 常用的合成类介词有：`inside、outside` 等；
+     - 常用的短语类介词有：`along with、according to` 等；
 
      ```
      the winter in America
@@ -107,7 +107,7 @@
      我和你玩
      ```
 
-8. `adj` 形容词，全称 `adjective`
+8. `adj` 形容词，全称 `adjectives`
 
    - 形容词是一种主要用来描写或修饰名词和代词的词类，可以用来表示人或事物的性质、状态、特征或属性。
 
@@ -135,7 +135,7 @@
      桌子是干净的
      ```
 
-9. `pron` 代词，全称 `pronoun`
+9. `pron` 代词，全称 `pronouns`
 
    - 代替名词、动词、形容词、数量词、副词的词类
 
@@ -163,7 +163,7 @@
 
    - 参考链接：<https://baijiahao.baidu.com/s?id=1718389245122052307&wfr=spider&for=pc>
 
-10. `adv` 副词，全称 `adverb`
+10. `adv` 副词，全称 `adverbs`
 
     - 副词一般修饰形容词，动词，句子和其他副词
 
@@ -178,7 +178,7 @@
     // “非常”，“轻易地”为副词，分别修饰形容词“小的“和动词”钻进“
     ```
 
-11. `det` 限定词，全称 `determiner`
+11. `det` 限定词，全称 `determiners`
 
 12. `aux` 助动词，全称 `auxiliary`
 
@@ -194,15 +194,15 @@
     // 而第二个`do`则是动词，它有具体的含义
     ```
 
-13. `int` 感叹词，全称 `interjection`
+13. `int` 感叹词，全称 `interjections`
 
-14. `conj` 连词，全称 `conjunction`
+14. `conj` 连词，全称 `conjunctions`
 
     - 它不能独立担任句子成分而只起连接词与词，短语与短语以及句与句的作用。
 
-15. `comb` 合成词，全称 `combine`
+15. `comb` 合成词，全称 `combines`
 
-16. `abbr` 缩写词，全称 `abbreviation`
+16. `abbr` 缩写词，全称 `abbreviations`
 
     - 某个单词的简写形式
 
@@ -214,7 +214,7 @@
     auth
     ```
 
-17. `num` 数词，全称 `numeral`
+17. `num` 数词，全称 `numerals`
 
 #### 参考链接
 

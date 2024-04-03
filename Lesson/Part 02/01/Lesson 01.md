@@ -46,7 +46,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    You had better get outside, it's none of your business.
    ```
 
-5. `I get very angry` 我变得非常生气
+5. `get very angry` 变得非常生气
 
    ```
    Tom has just lost his stamp and he got very angry.

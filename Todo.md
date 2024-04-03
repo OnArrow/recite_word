@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   sort continuous equal bit footprint
+   apart
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **过去式&过去分词**
 
    ```
-   feed nod
+
    ```
 
 4. **比较级&最高级**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   pretend district honesty exclaim secretary obey usual lottery fact wheat combination mystery stain treat whale rob concierge volleyball depart classical celsius comedy capsule wipe insect horrible pardon sail plenty pyramid crawler poem frighten pullover assemble incorrect ruin especially sanitize present such dictionary nationality avoid relative hug  refrigerator electric storage jean prepare popular golf tennis awful onion ginger milkshake excuse million billion thousand uncle experience reach fly flew flown stomach prepare popular golf tennis
+   pretend district honesty exclaim secretary obey usual lottery fact wheat combination mystery stain treat whale rob concierge volleyball depart classical celsius comedy capsule wipe insect horrible pardon sail plenty pyramid crawler poem frighten pullover assemble incorrect ruin especially sanitize present such dictionary nationality avoid relative hug  refrigerator electric storage jean prepare popular golf tennis awful onion ginger milkshake excuse million billion thousand uncle experience reach fly flew flown stomach prepare popular golf tennis mechanic hostess engineer blouse Wednesday cattle rabbit carrot elephant leopard giraffe destroy prototype scope render profile follow launch bind bound amuse interrupt
    ```
 
 6. **复习过去式&过去分词**

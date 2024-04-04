@@ -55,14 +55,18 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 正在发生的事
    ```
 
+   - 如果现在进行时需要用来表示计划打算，那么最好在后面加上未来时间
+
    ```
    I'm meeting my friends tonight
    今晚我要见我的朋友
    // 今晚要做的事。按照计划我要见我的朋友
+   // `tonight` 未来时间
 
    We're having a party next week
    下周我们有一个派对
    // 下周的计划。安排好了下周要发生“开派对”这个动作
+   // `next week` 未来时间
    ```
 
 8. 现在进行时表示现阶段正在进行的动作，但说话的时候不一定正在进行
@@ -75,7 +79,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // 这段时间里她正在写小说，但是说这句话的她不一定正在写，可能在休息一会
    ```
 
-9. `I'm coming to see you` 现在进行时表计划、打算的用法
+9. `I'm coming to see you` 是现在进行时表示计划、打算的用法
 
 10. 感叹句
 

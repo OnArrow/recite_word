@@ -58,7 +58,13 @@
     I'd like some tea
     ```
 
-20. `etcetera` = `etc.`
+20. `I'd done` = `I had done`， `he'd done` = `he had done`
+
+    ```
+    He'd already done his homework
+    ```
+
+21. `etcetera` = `etc.`
 
     ```
     表示省略

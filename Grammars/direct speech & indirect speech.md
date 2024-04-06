@@ -119,7 +119,11 @@ can -> could
 
 will -> would
 
+shall -> should
+
 may -> might
+
+must -> had to
 ```
 
 ```

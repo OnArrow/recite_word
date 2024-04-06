@@ -69,3 +69,5 @@ If you receive a request like this, you cannot fail to obey it!
 
    I've just failed to pass the Maths exam
    ```
+
+8. `sports ground` 和 `sports field` 都表示 `操场`。而 `playground` 表示儿童玩耍的地方

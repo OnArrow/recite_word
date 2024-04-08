@@ -17,3 +17,21 @@ Last year in another play, she had to wear short socks and a bright, orange-colo
 
 If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'
 ```
+
+## Whole
+
+1. `grown up` 成年人。通常是大人和小孩之间才这样称呼
+
+   ```
+   'I'm scared, Dad'
+
+   'Yes, I know, and sometimes grown ups get scared and worried too, you know'
+
+
+   I don't want to sit with the grown ups. I want to go and play with the other kids
+
+
+   'Tom, don't try to grow up too fast'
+
+   'But I'm grown up'
+   ```

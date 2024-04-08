@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   apart invitation usual hitchhike belt fasten annoy headmaster properly exhibition burn however Sweden minister discussion wage tow dare curtain spite
+   apart invitation usual hitchhike belt fasten annoy headmaster properly exhibition burn however Sweden minister discussion wage tow dare curtain spite certificate fax occupied/忙于 cop attractive scare
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   usual lottery fact wheat treat whale volleyball capsule wipe insect assemble ruin especially sanitize avoid jean prepare popular tennis awful onion ginger excuse million billion thousand experience hostess carrot leopard giraffe amuse iron exercise drill forward guest prepare report realize polite thief leave draft article fare sock bright several lite prosecute shock discard stairs Dutch rep hardworking trousers spoon blunt mention motion cupboard dressing cigarette magazine recap festival
+   usual lottery fact wheat treat whale volleyball capsule wipe insect assemble ruin especially sanitize avoid jean prepare popular tennis awful onion ginger excuse million billion thousand experience hostess carrot leopard giraffe amuse iron exercise drill forward guest prepare report realize polite thief leave draft article fare sock bright several lite prosecute shock discard stairs Dutch rep hardworking trousers spoon blunt mention motion cupboard dressing cigarette magazine recap festival disturb boat
    ```
 
 6. **复习过去式&过去分词**

@@ -4,8 +4,6 @@
 
 - park traffic ticket note area sign reminder fail obey
 
-- ![Words](../../../Images/Part2/02/words-16.png)
-
 ## A polite request
 
 ```
@@ -71,3 +69,9 @@ If you receive a request like this, you cannot fail to obey it!
    ```
 
 8. `sports ground` 和 `sports field` 都表示 `操场`。而 `playground` 表示儿童玩耍的地方
+
+9. `park sb's car` 某人停车
+
+   ```
+   She parked her car in front of the museum last night
+   ```

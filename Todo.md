@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   pretend district honesty secretary obey usual lottery fact wheat combination mystery stain treat whale rob concierge volleyball depart classical comedy capsule wipe insect horrible pardon plenty pyramid crawler frighten pullover assemble incorrect ruin especially sanitize present such avoid jean prepare popular tennis awful onion ginger excuse million billion thousand experience reach stomach tennis mechanic hostess cattle carrot leopard giraffe destroy prototype scope render profile amuse iron exercise university drill lift forward tongue guest prepare upset report realize polite thief leave draft article fare sock bright several lite cheap prosecute
+   usual lottery fact wheat treat whale volleyball capsule wipe insect assemble ruin especially sanitize avoid jean prepare popular tennis awful onion ginger excuse million billion thousand experience hostess carrot leopard giraffe amuse iron exercise drill forward guest prepare report realize polite thief leave draft article fare sock bright several lite prosecute shock discard stairs Dutch rep hardworking trousers spoon blunt mention motion cupboard dressing cigarette magazine recap festival
    ```
 
 6. **复习过去式&过去分词**

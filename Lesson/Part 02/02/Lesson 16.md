@@ -36,7 +36,7 @@ If you receive a request like this, you cannot fail to obey it!
    Don't park here, you'll get a traffic ticket for that
    ```
 
-3. `heave traffic` 和 `traffic jam` 都表示车流量很大，交通拥堵
+3. `heavy traffic` 和 `traffic jam` 都表示车流量很大，交通拥堵
 
    - `traffic jam` 交通堵得像果酱似的
 

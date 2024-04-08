@@ -137,3 +137,7 @@ I had nearly reached the town, when the young man suddenly said, very slowly, 'D
     - `both of ...` 两者都...
 
 16. `as I soon learnt` 中的 `learnt` 表示 `意识到`。这个意思也比较常用
+
+## Question
+
+1. `As I soon learnt` 的 `as`

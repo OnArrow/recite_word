@@ -6,11 +6,11 @@
 
 3. The snowball fight was a week ago now. A week is a long time if you're in love. It was sunny and the snow was gone now. I was sorry about that.
 
-4. 'Haven't you finished this room, Sam?' Mum stood ni front of me, signing. She couldn't understand why I was still cleaning my room. I'm usually quite quick at cleaning. When I'm not looking out of windows and remembering snowballs.
+4. 'Haven't you finished this room, Sam?' Mum stood in front of me, signing. She couldn't understand why I was still cleaning my room. I'm usually quite quick at cleaning. When I'm not looking out of windows and remembering snowballs.
 
 5. 'Sorry,' I answered, and she smiled.
 
-6. "That's OK. Actually, can you go to hte shop to get a bottle of window cleaner for me? I forgot to buy some.'
+6. "That's OK. Actually, can you go to the shop to get a bottle of window cleaner for me? I forgot to buy some.'
 
 7. I couldn't believe it! She was sending me to the shop! 'Do you feel OK, Sam?' Mum asked me. 'You look hot.'
 
@@ -18,7 +18,7 @@
 
 9. 'Are you sure?' she said. 'I'll go to the shop if you want.'
 
-10. 'No!' I signed. 'T'll go.' And I quickly went downstairs and left the house.
+10. 'No!' I signed. 'I'll go.' And I quickly went downstairs and left the house.
 
 11. Jim was busy when I went into the shop. He was standing near the bottles of wine with a man. He was helping the man to decide which wine to buy. The man was quite short. Jim smiled at me over his head.
 
@@ -38,7 +38,7 @@
 
 19. Jim understood me without any problem. Or I think he did, because he smiled. 'Do you want to meet me tomorrow night?' he said, and he moved his mouth carefully so I could lip-read his words.
 
-20. 'Yes,' I said. T' d' like that.'
+20. 'Yes,' I said. I'd' like that.'
 
 21. 'How long does it take to buy window cleaner, Sam?' Mum asked me when I got back to the house, but I only smiled.
 

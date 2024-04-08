@@ -4,8 +4,6 @@
 
 - amusing experience wave lift reply language journey apart
 
-- ![Words](../../../Images/Part2/02/words-14.png)
-
 ## Do you speak English?
 
 ```

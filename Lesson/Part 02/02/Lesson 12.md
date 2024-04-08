@@ -76,6 +76,10 @@ He will be away for two months. We are very proud of him. He will take part in a
 
 9. `sail from sw.` 从某地出发航行
 
+   ```
+   He'll be sailing from the big port to another country
+   ```
+
 10. `say goodbye to sb.` 对某人说再见
 
     ```

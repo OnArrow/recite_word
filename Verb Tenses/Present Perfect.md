@@ -68,7 +68,7 @@ I lived in Beijing for 10 years
 
 ## 句型
 
-- 现在完成时（肯定句）结构：`主语 + have + done（v.过去分词） + 其它`
+- 现在完成时（肯定句）结构：`主语 + have done（v.过去分词） + 其它`
 
   ```
   I have had lunch
@@ -88,7 +88,7 @@ I lived in Beijing for 10 years
   I've lived in China for twenty years ago
   ```
 
-- 现在完成时（否定句）结构：`主语 + have + not + done（v.过去分词） + 其它`
+- 现在完成时（否定句）结构：`主语 + have not done（v.过去分词） + 其它`
 
   ```
   I have not had lunch

@@ -4,8 +4,6 @@
 
 - group club performance occasion
 
-- ![Words](../../../Images/Part2/02/words-13.png)
-
 ## The Greenwood Boys
 
 ```
@@ -42,7 +40,6 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 
    ```
    I've just joined the golf club
-
    ```
 
 5. `performance` 本身是 `n.`，可以通过 `give` 来使它变成一个动词短语。和 `have a conversation` 类似

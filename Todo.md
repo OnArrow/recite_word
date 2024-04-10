@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   fasten annoy headmaster properly exhibition burn however Sweden minister discussion wage tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema
+   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **过去式&过去分词**
 
    ```
-   burn
+
    ```
 
 4. **比较级&最高级**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   usual volleyball avoid jean popular tennis onion ginger million billion thousand leopard exercise guest realize polite draft sock bright several prosecute shock discard Dutch rep trousers spoon blunt mention motion cigarette recap disturb boat meal lawn river cloudy cloud aeroplane beside bookcase loaf piece chocolate sugar kettle choice honey grape truth cabbage peach steak pear lettuce bean mince raw
+   usual volleyball avoid jean million billion thousand exercise guest polite draft sock bright several prosecute shock discard rep trousers spoon blunt mention motion cigarette recap disturb meal river aeroplane beside bookcase loaf piece chocolate sugar kettle choice honey grape truth cabbage peach steak pear lettuce bean mince raw permit climate pleasant better subject mild ante meridiem chalk through measles medicine temperature slay slain sharp shape
    ```
 
 6. **复习过去式&过去分词**

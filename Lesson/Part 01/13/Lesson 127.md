@@ -73,6 +73,13 @@
    He must be sweeping the floor
    ```
 
+   ```
+   He must drink a lot of milk
+   他必须喝很多牛奶
+   他一定喝了很多牛奶
+   // 两句话都对，但要看具体情况翻译
+   ```
+
 2. `can't be`
 
    - 与`must be`刚好相反，但表达的是“一定不是”
@@ -89,6 +96,10 @@
    Can't he be Jack?
 
    Why can't he be Jack?
+   ```
+
+   ```
+
    ```
 
 3. `at least` 至少。`more than` 超过

@@ -42,15 +42,17 @@
 
 14. `wanna` = `want to`
 
-15. `I'll` = `I will`
+15. `gotta` = `got to`
 
-16. `won't` = `will not`
+16. `I'll` = `I will`
 
-17. `shan't` = `shall not`
+17. `won't` = `will not`
 
-18. `you'd better` = `you had better`
+18. `shan't` = `shall not`
 
-19. `I'd` = `I would`
+19. `you'd better` = `you had better`
+
+20. `I'd` = `I would`
 
     ```
     I would like some tea
@@ -58,13 +60,13 @@
     I'd like some tea
     ```
 
-20. `I'd done` = `I had done`， `he'd done` = `he had done`
+21. `I'd done` = `I had done`， `he'd done` = `he had done`
 
     ```
     He'd already done his homework
     ```
 
-21. `etcetera` = `etc.`
+22. `etcetera` = `etc.`
 
     ```
     表示省略

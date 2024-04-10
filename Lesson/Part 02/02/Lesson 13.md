@@ -48,6 +48,8 @@ As usual, the police have a difficult time. They will be trying to keep order. I
    They are giving a performance
 
    She was giving a performance while the police came in
+
+   They are giving a concert
    ```
 
 6. `occasionally` 和 `sometimes` 类似

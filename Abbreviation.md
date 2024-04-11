@@ -44,6 +44,12 @@
 
 15. `gotta` = `got to`
 
+    ```
+    You have got to clean your house
+
+    You've gotta clean your house
+    ```
+
 16. `I'll` = `I will`
 
 17. `won't` = `will not`
@@ -66,7 +72,7 @@
     He'd already done his homework
     ```
 
-22. `etcetera` = `etc.`
+22. `etc.` = `etcetera`
 
     ```
     表示省略

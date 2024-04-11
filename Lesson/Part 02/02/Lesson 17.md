@@ -4,8 +4,6 @@
 
 - appear stage bright sock stocking spite
 
-- ![Words](../../../Images/Part2/02/words-17.png)
-
 ## Always young
 
 ```

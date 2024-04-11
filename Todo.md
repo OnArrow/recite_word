@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   usual volleyball avoid jean million billion thousand exercise guest polite draft sock bright several prosecute shock discard rep trousers spoon blunt mention motion cigarette recap disturb meal river aeroplane beside bookcase loaf piece chocolate sugar kettle choice honey grape truth cabbage peach steak pear lettuce bean mince raw permit climate pleasant better subject mild ante meridiem chalk through measles medicine temperature slay slain sharp shape doorbell essay sailor
+   avoid jean million billion thousand sock several prosecute discard disturb beside choice grape cabbage pear lettuce mince permit climate pleasant subject mild ante meridiem chalk through measles medicine temperature slay slain doorbell essay sailor classmate garbage bell silent device wallet liberation super keep shopkeeper screen salt chapter soap soup comprehension disagree spell accept unusual dairy unite material grocer comparison greengrocer phonetics absent alone complete multiply hobby security cough studio fold authorization phrasebook hurriedly greet license plant sharpen
    ```
 
 6. **复习过去式&过去分词**

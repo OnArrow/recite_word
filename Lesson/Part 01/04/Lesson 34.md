@@ -31,7 +31,7 @@ They are shaving
 ```
 
 ```
-What are they children doing?
+What are the children doing?
 
 Are they sleeping?
 

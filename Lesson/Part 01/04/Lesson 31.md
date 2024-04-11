@@ -1,8 +1,38 @@
 # Lesson 31
 
-1. “时&态”指动作发生的时间和动作的状态
+## Where's Sally?
 
-2. “现在进行时”是时态的一种，它表示一个动作现在正在进行
+```
+Where's Sally, Jack?
+
+She's in the garden, Jane
+
+What's she doing?
+
+She's sitting under the tree
+
+Is Tim in the garden, too?
+
+Yes, he is. He's climbing the tree
+
+I beg your pardon? Who's climbing the tree?
+
+Tim is
+
+What about the dog?
+
+The dog's in the garden, too
+
+It's running across the garden
+
+It's running after a cat
+```
+
+## Whole
+
+1. `时&态` 指动作发生的时间和动作的状态
+
+2. `现在进行时` 是时态的一种，它表示一个动作现在正在进行
 
 3. 现在进行时（肯定句）结构：`主语 + am/are/is + doing(v.ing 现在分词)`
 
@@ -72,7 +102,7 @@
    谁在厨房里？
    ```
 
-8. `tooth` 一颗牙齿 `teeth` 一排牙齿
+8. `tooth` 一颗牙齿， `teeth` 一排牙齿
 
 9. 不可数名词前面不能加`a`
 
@@ -99,31 +129,3 @@
     You have got to clean your own house first before you tell other people that they aren't doing it right
     在你告诉别人他们做得不对之前，你必须先打扫自己的房子
     ```
-
-## Where's Sally?
-
-```
-Where's Sally, Jack?
-
-She's in the garden, Jane
-
-What's she doing?
-
-She's sitting under the tree
-
-Is Tim in the garden, too?
-
-Yes, he is. He's climbing the tree
-
-I beg your pardon? Who's climbing the tree?
-
-Tim is
-
-What about the dog?
-
-The dog's in the garden, too
-
-It's running across the garden
-
-It's running after a cat
-```

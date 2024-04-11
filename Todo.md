@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission rehearse doubt rescue mountaineer attend
+   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission rehearse doubt rescue mountaineer attend lord shell ashtray heaven fond wealthy lecture
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   avoid jean million billion thousand sock several prosecute discard disturb beside choice grape cabbage pear lettuce mince permit climate pleasant subject mild ante meridiem chalk through measles medicine temperature slay slain doorbell essay sailor classmate garbage bell silent device wallet liberation super keep shopkeeper screen salt chapter soap soup comprehension disagree spell accept unusual dairy unite material grocer comparison greengrocer phonetics absent alone complete multiply hobby security cough studio fold authorization phrasebook hurriedly greet license plant sharpen
+   avoid jean million billion thousand sock several prosecute discard disturb beside choice grape cabbage pear lettuce mince permit climate pleasant subject mild ante meridiem chalk through measles medicine temperature slay slain doorbell essay sailor classmate garbage bell silent device wallet liberation super keep shopkeeper screen salt chapter soap soup comprehension disagree spell accept unusual dairy unite material grocer comparison greengrocer phonetics absent alone complete multiply hobby security cough studio fold authorization phrasebook hurriedly greet license plant sharpen remind
    ```
 
 6. **复习过去式&过去分词**

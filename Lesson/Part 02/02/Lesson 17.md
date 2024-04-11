@@ -128,6 +128,8 @@ If anyone ever asks her how old she is, she always answers, 'Darling, it must be
    尽管那样
 
    The sun is shine, in spite of this, they went on a journey
+
+   In spite of rain, we looked for my dog on the street for 4 hours
    ```
 
 10. `at least` 至少

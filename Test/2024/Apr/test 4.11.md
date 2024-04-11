@@ -27,3 +27,89 @@ both ever alone lady gentlemen times iced complete global plus minus multiply se
 ```
 fold auto studio save recent client count lie lie lie lie lying lie lied native browser authorization authorization remove add resolve choose select folder copy terminal replace reject London born quiet phrasebook phrase age speak spoke spoken hurry hurriedly pocket hand greet wonder thirstily lose lost agree disagree suddenly borrow pleasantly pleasantly smile slowly understand understood understood
 ```
+
+```
+I like this shell
+
+You can have it if you want it. I've got lots of them
+
+I like this tie
+
+You can have it if you want it. I've got lots of them
+
+I like these flowers
+
+You can have them if you want them. I've got lot of them
+
+I like this ashtray
+
+You can have it if you want it. I've got lots of them
+
+I like this photograph
+
+You can have it if you want it. I've got lots of them
+
+Have you got the tickets?
+
+Good heavens. Where are they? I had them a minute ago
+
+Have you got the stamps?
+
+Good heavens. Where are they? I had them a minute ago
+
+Have you got the biscuits?
+
+Good heavens. Where are they? I had some a minute ago
+
+Have you got the bill?
+
+Good heavens. Where is it? I had it a minute ago
+
+Have you got the map?
+
+Good heavens. Where is it? I had it a minute ago
+```
+
+```
+That's Jack. He's the man who has five cars
+
+He must be very rich to have five cars
+
+That's Jack. He's the man who has six dogs
+
+He must be very fond of animals to has six dogs
+
+That's Jack. He's the man who has two degrees
+
+He must be very clever to have two degrees
+
+That's Jack. He's the man who has two houses in French
+
+He must be very wealthy to have two houses in French
+
+That's Jack. He's the man who has a big car
+
+He must be very important to have a big car
+```
+
+```
+Have you had a car from Jack yet?
+
+Yes, I had a car from Jack yesterday
+
+Have you had a lecture on Picasso yet?
+
+Yes, I had a lecture on Picasso yesterday
+
+Have you had a letter from Tom yet?
+
+Yes, I had a letter from Tom yesterday
+
+Have you had a cable from Lucy yet?
+
+Yes, I had a cable from Lucy yesterday
+
+Have you had a present from Jack yet?
+
+Yes, I had a present from Jack yesterday
+```

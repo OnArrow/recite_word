@@ -4,8 +4,6 @@
 
 - pub landlord bill
 
-- ![Words](../../../Images/Part2/02/words-18.png)
-
 ## He often does this!
 
 ```
@@ -21,3 +19,32 @@ The landlord smiled and immediately went out. In a few minutes he returned with 
 
 'I'm very sorry,' he said. 'My dog had taken it into the garden. He often does this!'
 ```
+
+## Whole
+
+1. `good heavens` 天啊。和 `oh my god` 类似
+
+   ```
+   Good heavens! My bag has been taken by the dog!
+   ```
+
+2. `pay the bill` 支付账单
+
+   ```
+   He must just have paid the bill
+
+   Who pay the bill?
+   ```
+
+3. `look for` 寻找
+
+   ```
+   I'm looking for the sailor
+   ```
+
+4. `as` 放句首时，最常见的翻译成 `when`、`while`，或者 `because`
+
+   ```
+   As I was looking for it
+   // 这翻译成`when`
+   ```

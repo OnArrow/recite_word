@@ -67,7 +67,7 @@ Some of them are going into the park
    // `another month` 另一个月
    ```
 
-5. `on` 在配合“江、河、湖、海”时，**有时** 表达的是 `near` 的意思
+5. `on` 在配合 `江、河、湖、海` 时，有时表达的是 `near` 的意思
 
    ```
    On the river

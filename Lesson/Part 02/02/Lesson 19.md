@@ -37,3 +37,5 @@ I went back to the ticket office at once.
 ## Whole
 
 1. `ticket office` 售票处
+
+2. `just then` 就在那时

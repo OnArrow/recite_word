@@ -1,10 +1,52 @@
 # Lesson 37
 
-1. `be going to` 表示“打算”，“准备” 在最近做某事，这件事还没去做，只是准备要去做
+## Making a bookcase
+
+```
+You're working hard, George. What are you doing?
+
+I'm making a bookcase
+
+Give me that hammer please, Dan
+
+Which hammer? This one?
+
+No, not that one, the big one
+
+Here you are
+
+Thank you, Dan
+
+What are you going to do now, George?
+
+I'm going to paint it
+
+What color are you going to paint it?
+
+I'm going to paint it pink
+
+Pink!
+
+This bookcase isn't for me
+
+It's for my daughter, Susan
+
+Pink's her favorite color
+```
+
+## Whole
+
+1. `be going to` 表示 `打算`、`准备` 在最近做某事，这件事还没去做，只是准备要去做
 
 2. 在口语中，经常会使用 `gonna do` 来替代 `going to do`，但是书面表达时还是需要用 `going to do`
 
-3. `hard` 可以用来加强动作的强度，表达为“拼命地”
+   ```
+   I'm going to play basketball in a few minutes
+
+   I'm gonna play basketball in a few minutes
+   ```
+
+3. `hard` 可以用来加强动作的强度，表达为 `拼命地`
 
    ```
    try hard
@@ -77,7 +119,7 @@
    你妈妈准备做什么？
    ```
 
-8. `for sb.` 表示“为了某人；给某人”
+8. `for sb.` 表示 `为了某人；给某人`
 
    ```
    This apple is for me
@@ -114,37 +156,3 @@
     I'm washing these dishes
     我在洗这些餐具
     ```
-
-## Making a bookcase
-
-```
-You're working hard, George. What are you doing?
-
-I'm making a bookcase
-
-Give me that hammer please, Dan
-
-Which hammer? This one?
-
-No, not that one, the big one
-
-Here you are
-
-Thank you, Dan
-
-What are you going to do now, George?
-
-I'm going to paint it
-
-What color are you going to paint it?
-
-I'm going to paint it pink
-
-Pink!
-
-This bookcase isn't for me
-
-It's for my daughter, Susan
-
-Pink's her favorite color
-```

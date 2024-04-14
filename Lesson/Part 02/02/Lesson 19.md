@@ -4,8 +4,6 @@
 
 - hurry pity exclaim return sadly
 
-- ![Words](../../../Images/Part2/02/words-19.png)
-
 ## Sold out
 
 ```
@@ -79,7 +77,8 @@ I went back to the ticket office at once.
    ```
    我们要去吃火锅，但是去到商场发现其它好吃的火锅店都已经打烊，只有海底捞还营业着，但是海底捞我们几天前就已经吃过了。但因为好吃的火锅店全都打烊了，只能选择海底捞这个不太差的。类似于中文语境的`来都来了`
 
-   If no one wants it, we might as well give it to him
+   If no one wants it, we might as well give it to that man
+   如果没人想要它，我们不妨把它给那个男人
 
    I might as well take part in the new play
    // 没有其它更好的话剧找我了，只好选择这个话剧团了

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission rehearse doubt rescue mountaineer attend lord shell ashtray heaven fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry
+   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission rehearse doubt rescue mountaineer attend lord shell ashtray heaven fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
    ```
 
 2. **About**

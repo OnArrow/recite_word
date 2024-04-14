@@ -109,3 +109,119 @@ Can you tell me if my wife rang my secretary last week?
 
 She might have rung her, but she hasn't mentioned it
 ```
+
+```
+a pair of boots
+
+This pair of boots is red
+
+She must have sold out her boots
+
+She can't have sold out her boots
+
+She must sell out her boots
+
+She can't sell out her boots
+
+She may sell out her boots
+
+She may not sell out her boots
+
+You might as well wear that pair of boots
+```
+
+```
+John's keen on walking
+
+Really? I'm keen on walking too
+
+Jack's keen on acting
+
+Really? I'm keen on acting too
+
+Jack's interested on acting
+
+Really? I'm interested on acting too
+
+Jack's keen on sailing
+
+Really? I'm keen on sailing too
+
+Jack's capable of doing the job
+
+Really? I'm capable of doing the job too
+
+Jack's tired of staying here
+
+Really? I'm tired of staying here too
+```
+
+```
+Why don't you give up smoking?
+
+Because smoking is fun
+
+Why don't you give up sleeping on the floor?
+
+Because sleeping on the floor is fun
+
+Why don't you give up collecting birds' eggs?
+
+Because collecting birds' eggs is fun
+
+Why don't you give up walking to school?
+
+Because walking to school is fun
+
+Why don't you give up writing poetry?
+
+Because writing poetry is fun
+
+Why don't you give up learning English?
+
+Because learning English is fun
+```
+
+```
+Why don't you listen to him?
+
+Because I can't listen to him without getting bored
+
+Why don't you ride a bike?
+
+Because I can't ride a bike without getting tired
+
+Why don't you watch TV?
+
+Because I can't watch TV without falling asleep
+
+Why don't you go by plane?
+
+Because I can't go by plane without feeling sick
+
+Why don't you speak to him?
+
+Because I can't speak to him without being rude
+```
+
+```
+Congratulate me! I've just got a job!
+
+Congratulations on getting a job!
+
+Congratulate me! I've just won the match!
+
+Congratulations on winning the match!
+
+Congratulate me! I've just created a new record!
+
+Congratulations on creating a new record!
+
+Congratulate me! I've just passed my exams!
+
+Congratulations on passing your exams!
+
+Congratulate me! I've just got a rise in salary!
+
+Congratulations on getting a rise in salary
+```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   tow dare curtain spite certificate fax occupied/忙于 cop attractive scare schema mission rehearse doubt rescue mountaineer attend lord shell ashtray heaven fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
+   heaven fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
    ```
 
 2. **About**
@@ -15,7 +15,7 @@
 3. **过去式&过去分词**
 
    ```
-   ring
+
    ```
 
 4. **比较级&最高级**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   avoid jean million billion thousand several prosecute permit climate pleasant mild ante meridiem measles essay garbage device wallet liberation shopkeeper comprehension disagree spell accept dairy unite comparison phonetics absent multiply hobby security cough authorization phrasebook hurriedly greet license plant sharpen remind album emergency even
+    jean million billion thousand permit wallet liberation absent multiply hobby security authorization phrasebook greet plant album emergency even curtain strike struck band
    ```
 
 6. **复习过去式&过去分词**
@@ -60,37 +60,33 @@
 
 10. 所有格形式
 
-11. 特殊疑问词
+11. 梳理冠词内容
 
-12. 代词
+12. yet 的用法
 
-13. 梳理冠词内容
+13. to 的用法
 
-14. grass 和 lawn
+14. 宾语从句、直接引语、间接引语
 
-15. yet 的用法
+15. `wards` 是单词后缀吗？
 
-16. to 的用法
+    ```
+    towards forwards afterwords
+    ```
 
-17. 宾语从句、直接引语、间接引语
+16. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-18. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+17. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-19. `what can Jim have instead of beer?` 为什么副词 `instead` 可以这样用？
+18. `Jack lives very near us` 这句话中 `near`是什么词性？
 
-20. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+19. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
 
-21. `Jack lives very near us` 这句话中 `near`是什么词性？
-
-22. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
-
-23. 什么是宾语补足语
+20. 什么是宾语补足语
 
     ```
     I'm going to paint bookcase pink
     // `bookcase` 为宾语。 `pink` 为宾语补足语
     ```
 
-24. `He finished swimming` 是什么时态？
-
-25. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
+21. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）

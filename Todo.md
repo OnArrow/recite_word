@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-    jean million billion thousand permit wallet liberation absent multiply hobby security authorization phrasebook greet plant album emergency even curtain strike struck band
+    jean million billion thousand permit wallet liberation absent multiply hobby security authorization phrasebook greet plant album emergency even curtain strike struck band fasten exhibition nationality expression
    ```
 
 6. **复习过去式&过去分词**

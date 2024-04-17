@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   heaven fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
+   fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-    jean million billion thousand permit wallet liberation absent multiply hobby security authorization phrasebook greet plant album emergency even curtain strike struck band fasten exhibition nationality expression
+   permit phrasebook album curtain band fasten exhibition nationality expression debit credit deprecate mineral participate whether appreciate ancient plough talented mattress niece nephew blonde nursery lounge hovercraft bore
    ```
 
 6. **复习过去式&过去分词**

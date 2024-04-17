@@ -1,53 +1,57 @@
 # Review
-1. million **[ˈmɪljən]** `n` 百万
+1. whether **[ˈweðə(r)]** `conj` 是否（表示选择）；无论
 
-2. phrasebook **[ˈfreizbuk]** `n` 常用语手册
+2. deprecate **[ˈdeprəkeɪt]** `vt` 反对；否决
 
-3. emergency **[ɪˈmɜːdʒənsi]** `n` 紧急情况；急诊病人 `adj` 紧急情况下的
+3. blonde **[blɒnd]** `adj` 金黄色的
 
-4. permit **[pəˈmɪt]** `v` 批准；许可 `n` 许可证
+4. phrasebook **[ˈfreizbuk]** `n` 常用语手册
 
-5. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
+5. talented **[ˈtæləntɪd]** `adj` 有天赋的；有才能的
 
-6. even **[ˈiːv(ə)n]** `adv` 甚至，即使；更加，愈加
+6. nationality **[ˌnæʃəˈnæləti]** `n` 民族；国籍
 
-7. multiply **[ˈmʌltɪplaɪ]** `v` 倍增；乘以；大大增加 `adv` 多样地；多方面地
+7. album **[ˈælbəm]** `n` 唱片；相册；专辑
 
-8. billion **[ˈbɪljən]** `n` 十亿
+8. lounge **[laʊndʒ]** `n` 休息室；（机场等）等候室
 
-9. nationality **[ˌnæʃəˈnæləti]** `n` 民族；国籍
+9. bore **[bɔː(r)]** `v` 使厌烦，使讨厌
 
-10. wallet **[ˈwɒlɪt]** `n` 钱包；皮夹
+10. band **[bænd]** `n` 乐队
 
-11. band **[bænd]** `n` 乐队
+11. credit **[ˈkredɪt]** `n` 信用，信贷；存款金额 `v` 把钱记入总账
 
-12. expression **[ɪkˈspreʃn]** `n` 词语；表达式
+12. mineral **[ˈmɪnərəl]** `n` 矿物质
 
-13. greet **[ɡriːt]** `v` 欢迎；迎接
+13. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
 
-14. liberation **[ˌlɪbəˈreɪʃ(ə)n]** `n` 解放；解放运动；解脱
+14. nursery **[ˈnɜːsəri]** `n` 托儿所；幼儿园
 
-15. security **[sɪˈkjʊərəti]** `n` 安全；保护措施；保安部门；保证金；证券；债券
+15. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏
 
-16. jean **[dʒiːn]** `n` 牛仔裤
+16. participate **[pɑːˈtɪsɪpeɪt]** `v` 参加，参与
 
-17. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
+17. debit **[ˈdebɪt]** `n` 借记；借款 `v` （从银行账户中）取款
 
-18. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
+18. permit **[pəˈmɪt]** `v` 批准；许可 `n` 许可证
 
-19. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+19. plough **[plaʊ]** `v` 耕地
 
-20. struck **[strʌk]** `v` （strick 的过去式）
+20. expression **[ɪkˈspreʃn]** `n` 词语；表达式
 
-21. strike **[straɪk]** `v` 撞，击
+21. bore **[bɔː(r)]** `v` （bear 的过去式）
 
-22. hobby **[ˈhɒbi]** `n` 业余爱好
+22. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
 
-23. album **[ˈælbəm]** `n` 唱片；相册；专辑
+23. mattress **[ˈmætrəs]** `n` 床垫
 
-24. absent **[ˈæbsənt]** `adj` 缺勤的；缺席的；心不在焉的 `prep` 缺乏；没有 `v` 离开；缺席
+24. nephew **[ˈnefjuː]** `n` 侄子，外甥
 
-25. thousand **[ˈθaʊz(ə)nd]** `num` 一千
+25. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
 
-26. authorization **[ˌɔːθəraɪˈzeɪʃ(ə)n]** `n` 授权；批准；授权书
+26. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+
+27. hovercraft **[ˈhɒvəkrɑːft]** `n` 气垫船
+
+28. niece **[niːs]** `n` 侄女，外甥女
 

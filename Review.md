@@ -1,57 +1,219 @@
 # Review
-1. bore **[bɔː(r)]** `v` （bear 的过去式）
+1. leaf **[liːf]** `n` 叶子；纸页，书页 `v` 长新叶
 
-2. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
+2. worn **[wɔːn]** `v` （wear 的过去分词）
 
-3. debit **[ˈdebɪt]** `n` 借记；借款 `v` （从银行账户中）取款
+3. combine **[kəmˈbaɪn]** `n` 合成词；联盟；联合体 `v` （使）结合，组合；兼备
 
-4. bore **[bɔː(r)]** `v` 使厌烦，使讨厌
+4. configuration **[kənˌfɪɡəˈreɪʃ(ə)n]** `n` 布局；配置
 
-5. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
+5. furniture **[ˈfɜːnɪtʃə(r)]** `n` 家具；装置
 
-6. participate **[pɑːˈtɪsɪpeɪt]** `v` 参加，参与
+6. whether **[ˈweðə(r)]** `conj` 是否（表示选择）；无论
 
-7. nationality **[ˌnæʃəˈnæləti]** `n` 民族；国籍
+7. deprecate **[ˈdeprəkeɪt]** `vt` 反对；否决
 
-8. permit **[pəˈmɪt]** `v` 批准；许可 `n` 许可证
+8. Microsoft **[ˈmaɪkrəsɒft]** `n` 微软公司
 
-9. phrasebook **[ˈfreizbuk]** `n` 常用语手册
+9. apply **[əˈplaɪ]** `v` 应用，运用；适用，适合；申请
 
-10. plough **[plaʊ]** `v` 耕地
+10. participate **[pɑːˈtɪsɪpeɪt]** `v` 参加，参与
 
-11. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏
+11. scene **[siːn]** `n` 事发地；现场；场面；（戏剧、书、电影等的）片段，情节；场景
 
-12. band **[bænd]** `n` 乐队
+12. flew **[fluː]** `v` （fly 的过去式）
 
-13. album **[ˈælbəm]** `n` 唱片；相册；专辑
+13. till **[tɪl]** `prep` 直到，到...为止 `conj` 直到，到...为止 `v` 耕地，犁地
 
-14. lounge **[laʊndʒ]** `n` 休息室；（机场等）等候室
+14. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期；到期，期满；条款 `v` 把...称为
 
-15. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+15. repository **[rɪˈpɒzət(ə)ri]** `n` 仓库；储藏室
 
-16. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
+16. suitcase **[ˈsuːtkeɪs]** `n` （旅行用的）手提箱，衣箱
 
-17. nursery **[ˈnɜːsəri]** `n` 托儿所；幼儿园
+17. prefer **[prɪˈfɜː(r)]** `v` 更喜爱；宁可；情愿
 
-18. expression **[ɪkˈspreʃn]** `n` 词语；表达式
+18. drank **[dræŋk]** `v` （drink 的过去式）
 
-19. mattress **[ˈmætrəs]** `n` 床垫
+19. bean **[biːn]** `n` 豆角
 
-20. credit **[ˈkredɪt]** `n` 信用，信贷；存款金额 `v` 把钱记入总账
+20. abbreviation **[əˌbriːviˈeɪʃn]** `n` 缩略词，缩写形式；缩略，缩写
 
-21. mineral **[ˈmɪnərəl]** `n` 矿物质
+21. compass **[ˈkʌmpəs]** `n` 指南针
 
-22. deprecate **[ˈdeprəkeɪt]** `vt` 反对；否决
+22. clavichord **[ˈklævɪkɔːd]** `n` 古钢琴
 
-23. talented **[ˈtæləntɪd]** `adj` 有天赋的；有才能的
+23. installment **[ɪnˈstɔːlmənt]** `n` 分期付款；安装
 
-24. nephew **[ˈnefjuː]** `n` 侄子，外甥
+24. each **[iːtʃ]** `det` 每；各 `pron` 每个；各个 `adv` 给每个，对各个 `adj` 每个的，各自的
 
-25. blonde **[blɒnd]** `adj` 金黄色的
+25. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
 
-26. niece **[niːs]** `n` 侄女，外甥女
+26. beach **[biːtʃ]** `n` 海滩，海滨 `v` 把（船）拖上岸；搁浅
 
-27. whether **[ˈweðə(r)]** `conj` 是否（表示选择）；无论
+27. permit **[pəˈmɪt]** `v` 批准；许可 `n` 许可证
 
-28. hovercraft **[ˈhɒvəkrɑːft]** `n` 气垫船
+28. reference **[ˈrefrəns]** `n` 参考，查阅；提及，谈到；介绍信，推荐信 `adj` 参考的；用于查阅的 `v` 参考；引用
+
+29. auxiliary **[ɔːɡˈzɪliəri]** `n` 助动词；助手，辅助人员；雇佣兵 `adj` 辅助的；备用的
+
+30. command **[kəˈmɑːnd]** `v` 命令，下令；统率，指挥 `n` （计算机的）指令；命令，指示
+
+31. mattress **[ˈmætrəs]** `n` 床垫
+
+32. debit **[ˈdebɪt]** `n` 借记；借款 `v` （从银行账户中）取款
+
+33. extension **[ɪkˈstenʃ(ə)n]** `n` 扩展；文件扩展名
+
+34. enable **[ɪˈneɪb(ə)l]** `v` 激活，启动；使能够；准许，授权
+
+35. supper **[ˈsʌpə(r)]** `n` 晚餐（尤指在家吃的非正式晚餐）；夜宵，宵夜 `v` 吃晚饭；给...供餐
+
+36. gather **[ˈɡæðə(r)]** `v` 聚集
+
+37. conjunction **[kənˈdʒʌŋkʃ(ə)n]** `n` 连词；结合；组合
+
+38. available **[əˈveɪləb(ə)l]** `adj` 可用的，可获得的；可购得；有空的，有闲暇的；未婚的，单身的
+
+39. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+
+40. attendant **[əˈtendənt]** `n` 服务人员；接待员；随从 `adj` 伴随的；随之产生的
+
+41. lounge **[laʊndʒ]** `n` 休息室；（机场等）等候室
+
+42. countable **[ˈkaʊntəbl]** `adj` （名词）可数的，可计算的
+
+43. known **[nəʊn]** `adj` 已知的，已发现的 `v` （know 的过去分词）
+
+44. chant **[tʃɑːnt]** `v` 反复唱；诵经文 `n` 反复喊的话
+
+45. context **[ˈkɒntekst]** `n` 上下文，语境；背景；环境；
+
+46. attribute **[əˈtrɪbjuːt]** `n` 属性，特质；标志；象征 `v` 把...归因于；认为...具有某种特质
+
+47. blonde **[blɒnd]** `adj` 金黄色的
+
+48. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者；承受者
+
+49. knew **[njuː]** `v` （know 的过去式）
+
+50. tape **[teɪp]** `n` 磁带，录音带；胶带，胶布 `v` （用磁带）录音，录像；用胶带粘贴
+
+51. though **[ðəʊ]** `adv` 不过，可是，然而 `conj` 虽然，尽管
+
+52. support **[səˈpɔːt]** `n` 支持；帮助 `v` 支持，拥护；帮助；救援
+
+53. theme **[θiːm]** `n` 主题，（谈话、书籍、电影等的）题目；主题曲
+
+54. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
+
+55. perfect **[ˈpɜːfɪkt]** `adj` 完美的；理想的；完全正确的 `v` 完善，使完美 `n` （语法）完成时
+
+56. plough **[plaʊ]** `v` 耕地
+
+57. drink **[drɪŋk]** `v` 喝；饮 `n` 饮料
+
+58. haircut **[ˈheəkʌt]** `n` 理发；发型
+
+59. transitive **[ˈtrænsətɪv]** `n` 及物动词
+
+60. talented **[ˈtæləntɪd]** `adj` 有天赋的；有才能的
+
+61. able **[ˈeɪb(ə)l]** `adj` 能够；有能力的；聪明能干的，精通（某事）的
+
+62. drunk **[drʌŋk]** `v` （drink 的过去分词）
+
+63. rainy **[ˈreɪni]** `adj` 多雨的；下雨的
+
+64. improve **[ɪmˈpruːv]** `v` 改善，变得更好；康复，健康好转
+
+65. far **[fɑː(r)]** `adv` 遥远的；非常，很大程度上 `adj` 遥远的；极端的，偏远的
+
+66. premium **[ˈpriːmiəm]** `adj` 高价的，高品质的 `n` 保险费；津贴；额外价值
+
+67. lose **[luːz]** `v` 遗失；丢失；输掉（比赛、战斗、争论等）
+
+68. community **[kəˈmjuːnəti]** `n` 社区，社会
+
+69. void **[vɔɪd]** `n` 空白，空虚 `adj` 不合法的，无效的 `v` 使无效，使作废；排泄
+
+70. bore **[bɔː(r)]** `v` （bear 的过去式）；使厌烦，使讨厌
+
+71. packet **[ˈpækɪt]** `n` 包装袋，包装盒 `v` 把...打包
+
+72. option **[ˈɒpʃ(ə)n]** `n` （计算机程序中的）选项；可选择的事物；选择，选择权
+
+73. loss **[lɒs]** `n` （比赛等的）失败，失利；死亡，去世；失去，丧失
+
+74. wore **[wɔː(r)]** `v` （wear 的过去式）
+
+75. credit **[ˈkredɪt]** `n` 信用，信贷；存款金额 `v` 把钱记入总账
+
+76. hovercraft **[ˈhɒvəkrɑːft]** `n` 气垫船
+
+77. determiner **[dɪˈtɜːmɪnə(r)]** `n` 限定词；决定因素
+
+78. revision **[rɪˈvɪʒ(ə)n]** `n` 修订本；复习，温习
+
+79. nursery **[ˈnɜːsəri]** `n` 托儿所；幼儿园
+
+80. agent **[ˈeɪdʒənt]** `n` 代理人，代理商；经纪人；间谍，特工
+
+81. repair **[rɪˈpeə(r)]** `v` 修理；补救 `n` 修理
+
+82. fame **[feɪm]** `n` 名誉，名气 `v` 使闻名
+
+83. niece **[niːs]** `n` 侄女，外甥女
+
+84. interjection **[ˌɪntəˈdʒekʃ(ə)n]** `n` 感叹词；插入语；突然的发声
+
+85. court **[kɔːt]** `n` 法院，法庭；宫廷；庭院 `v` 奉承，讨好
+
+86. defined **[dɪˈfaɪnd]** `adj` 轮廓分明的，外形清晰的
+
+87. accessibility **[əkˌsesəˈbɪləti]** `n` 无障碍环境；易用性，易懂性
+
+88. preference **[ˈprefrəns]** `n` 偏好，偏爱；优待，优先
+
+89. weekday **[ˈwiːkdeɪ]** `n` 工作日
+
+90. initialization **[ɪˌnɪʃəlaɪˈzeɪʃn]** `n` （计算机）初始化
+
+91. chemist **[ˈkemɪst]** `n` 化学家；药剂师
+
+92. fashionable **[ˈfæʃənəb(ə)l]** `adj` 时髦的，流行的
+
+93. flown **[fləʊn]** `v` （fly 的过去分词）
+
+94. trash **[træʃ]** `n` 垃圾，废物；垃圾桶 `v` 损坏，毁坏
+
+95. mood **[muːd]** `n` 心境；气氛
+
+96. sanitize **[ˈsænɪtaɪz]** `vt` 给...消毒；对...采取卫生措施
+
+97. ground **[ɡraʊnd]** `n` 地面；土地，土壤；话题，知识领域 `adj` 切碎的，磨碎的
+
+98. mineral **[ˈmɪnərəl]** `n` 矿物质
+
+99. bound **[baʊnd]** `v` （bind 的过去式）`n` 界限
+
+100. know **[nəʊ]** `v` 知道；认识到；懂得
+
+101. picnic **[ˈpɪknɪk]** `n` 野餐 `v` 参加野餐
+
+102. wear **[weə(r)]** `v` 穿（衣服）；戴（首饰） `n` （特定人群、场合或用途穿的）服装
+
+103. nephew **[ˈnefjuː]** `n` 侄子，外甥
+
+104. fly **[flaɪ]** `n` 苍蝇 `v` 飞；航行
+
+105. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
+
+106. numeral **[ˈnjuːmərəl]** `n` 数词；数字 `adj` 数字的
+
+107. Christmas **[ˈkrɪsməs]** `n` 圣诞节；圣诞节期间
+
+108. define **[dɪˈfaɪn]** `v` 给...下定义，解释；阐明，使清楚
+
+109. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
 

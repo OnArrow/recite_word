@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   fond wealthy lecture adventure yell mood typewrite typewriter sew sewing laundry nonsense keen capable poetry bored/无聊的 congratulate congratulation
+
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   permit phrasebook album curtain band fasten exhibition nationality expression debit credit deprecate mineral participate whether appreciate ancient plough talented mattress niece nephew blonde nursery lounge hovercraft bore
+   permit curtain fasten exhibition debit credit deprecate mineral participate whether ancient plough talented mattress niece nephew blonde nursery lounge hovercraft bore installment clavichord gather sanitize rainy lose loss scene bean beach perfect chant attribute reference preference bound support till though repository revision command option weekday ground packet picnic wear wore worn agent chemist drink drank drunk stationary each fly flew flown court supper haircut patient tape college term theme community extension able define suitcase prefer leaf furniture fame improve defined void enable know knew known context far available apply premium repair attendant initialization Christmas countable conjunction determiner interjection auxiliary combine transitive Microsoft numeral fashionable abbreviation mood trash configuration accessibility compass
    ```
 
 6. **复习过去式&过去分词**

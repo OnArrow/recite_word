@@ -1,6 +1,6 @@
 # The party
 
-1.  Later I was looking at all my clothes when Mum came into my bedroom. I had a green dress in one hand and a short black skirt in the other hand. wasn't happy with the dress or the skirt.
+1.  Later I was looking at all my clothes when Mum came into my bedroom. I had a green dress in one hand and a short black skirt in the other hand. I wasn't happy with the dress or the skirt.
 
 2.  Mum took a blue jumper from the bed and gave it to me. 'The weather man on the television says that it will snow,' she said. Then she smiled and kissed me, and I felt bad that she didn't know about Jim. I decided to tell her as soon as there was anything to tell. If there was anything to tell.
 

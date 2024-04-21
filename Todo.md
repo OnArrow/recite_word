@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   blur
+   blur pupil plaza inform settle fault instruction serious accurately thoroughly particular
    ```
 
 2. **About**

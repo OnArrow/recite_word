@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   permit curtain debit credit deprecate mineral participate whether ancient plough talented mattress blonde nursery lounge bore installment sanitize rainy loss scene beach perfect chant attribute support till though repository revision command option weekday ground packet picnic agent chemist stationary court supper haircut patient tape college term community extension define suitcase prefer leaf furniture fame improve defined void enable far available apply premium repair attendant initialization Christmas countable conjunction determiner interjection auxiliary combine transitive numeral fashionable abbreviation mood configuration accessibility compass preserve
+   permit curtain debit credit deprecate mineral participate whether ancient plough talented mattress blonde nursery lounge bore installment sanitize rainy loss scene beach perfect chant attribute support till though repository revision command option weekday ground packet picnic agent chemist stationary court supper haircut patient tape college term community extension define suitcase prefer leaf furniture fame improve defined void enable far available apply premium repair attendant initialization Christmas countable conjunction determiner interjection auxiliary combine transitive numeral fashionable abbreviation mood configuration accessibility compass preserve memory
    ```
 
 6. **复习过去式&过去分词**

@@ -4,8 +4,6 @@
 
 - mad sum reason determined
 
-- ![Words](../../../Images/Part2/03/words-21.png)
-
 ## Mad or not?
 
 ```

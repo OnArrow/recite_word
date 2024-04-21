@@ -4,8 +4,6 @@
 
 - manager upset sympathetic complain wicked contain honesty
 
-- ![Words](../../../Images/Part2/03/words-24.png)
-
 ## It could be worse
 
 ```
@@ -17,3 +15,29 @@ He started to complain about this wicked world but was interrupted by a knock at
 
 'I found this outside this gentleman's room,' she said. 'Well,' I said to the manager, 'There is still some honesty in this world!'
 ```
+
+## Whole
+
+1. `be/get upset about sth./sb.` 对某人/某事感到不安
+
+   ```
+   He's upset about the dinner
+
+   The manager got upset about that girl
+   ```
+
+2. `complain about sth.` 抱怨某事
+
+   ```
+   She complains about the weather all the time
+
+   He is complaining about the wicked world
+   ```
+
+3. `start to do sth.` 开始做某事
+
+   ```
+   He started to yell at the assistant
+
+   They started to play jazz on the street
+   ```

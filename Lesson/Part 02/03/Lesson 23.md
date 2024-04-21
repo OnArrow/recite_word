@@ -2,9 +2,7 @@
 
 ## Words
 
-- complete modern stranger district
-
-- ![Words](../../../Images/Part2/03/words-23.png)
+- complete modern strange district
 
 ## A new House
 
@@ -17,3 +15,9 @@ In my letter, I told her that she could stay with us.
 
 The house has many large rooms and there is a lovely garden. It is a very modern house, so it looks strange to some people. It must be the only modern house in the district.
 ```
+
+## Whole
+
+1. `you complete me` 你使我完美。情话
+
+2. `Futian/Nanshan District` 福田区/南山区。`district` 更多指的是 `行政区`

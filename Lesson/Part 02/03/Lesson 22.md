@@ -39,7 +39,7 @@ Both girls write to each other regularly now. However, they have decided to use 
    At my father's age, he gets up very early
    ```
 
-3. `English Channel` 英吉利海峡。地理上英法之间的海峡
+3. `English Channel` 英吉利海峡。地理上英法之间的海峡，文中的 `the Channel` 指的就是英吉利海峡
 
 4. `throw away` 扔掉
 

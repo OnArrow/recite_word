@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   blur pupil plaza inform settle fault instruction serious accurately thoroughly particular circular
+   blur pupil plaza inform settle fault instruction serious accurately thoroughly particular circular weep
    ```
 
 2. **About**
@@ -27,7 +27,7 @@
 5. **Review**
 
    ```
-   permit curtain deprecate participate whether ancient talented scene chant attribute support though repository revision  packet agent chemist court supper patient tape college term    suitcase prefer furniture fame mood accessibility compass preserve pretty claim
+   permit curtain deprecate participate whether ancient talented scene chant attribute support though repository revision  packet agent chemist court supper patient tape college term president suitcase prefer furniture fame mood accessibility compass preserve pretty claim
    ```
 
 6. **复习过去式&过去分词**

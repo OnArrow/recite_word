@@ -23,3 +23,11 @@ discussion exhibition burn burnt burnt fasten fasten belt properly minister mini
 ```
 There's a foul smell in the room
 ```
+
+```
+The railway station must have been built years ago
+
+The porter will be meeting his girlfriend tonight
+
+He spoke neither slowly nor clearly
+```

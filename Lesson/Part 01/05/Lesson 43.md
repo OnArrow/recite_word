@@ -32,7 +32,7 @@ Hurry up! Sam. The kettle's boiling
 
 ## Whole
 
-1. `over there` 指“在那边”，指比较远的地方，一般是两米以上的距离。问的时候需要配合身体的某个部位去指明
+1. `over there` 指 `在那边`，指比较远的地方，一般是两米以上的距离。问的时候需要配合身体的某个部位去指明
 
    ```
    That's my father over there
@@ -46,7 +46,7 @@ Hurry up! Sam. The kettle's boiling
    快点占住那边的桌子！
    ```
 
-2. `hurry up` 意为“赶快”，在祈使语气中用来催促他人
+2. `hurry up` 意为 `赶快`，在祈使语气中用来催促他人
 
    ```
    Hurry up and try it！

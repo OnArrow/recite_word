@@ -2,9 +2,6 @@ import { defineConfig } from 'vitepress'
 
 import { directoryArray } from '../Script/getDirectories'
 
-import path from 'path'
-import fs from 'fs'
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/english',

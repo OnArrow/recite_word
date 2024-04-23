@@ -1,6 +1,34 @@
 # Lesson 55
 
-1. 如果在姓氏后面加`s`，前面加定冠词`the`，用来指一家人。特别是丈夫和妻子
+## The Sawyer family
+
+```
+The Sawyers live at 87 King Street
+
+In the morning, Mr. Sawyer goes to work and the children go to school
+
+Their father takes them to school every day
+
+Mrs. Sawyer stays at home every day. She does the housework
+
+She always eats her lunch at noon
+
+In the afternoon, she usually sees her friends. They often drink tea together
+
+In the evening, the children come home from school. They arrive home early
+
+Mr. Sawyer comes home from work. He arrives home late
+
+At night, the children always do their homework
+
+Then they go to bed
+
+Mr. Sawyer usually reads his newspaper, and sometimes he and his wife watch television
+```
+
+## Whole
+
+1. 如果在姓氏后面加 `s`，前面加定冠词 `the`，用来指 `一家人`。特别是丈夫和妻子
 
    ```
    the Sawyers
@@ -33,29 +61,3 @@
 
    He sometimes sleeps in his office at midday
    ```
-
-## The Sawyer family
-
-```
-The Sawyers live at 87 King Street
-
-In the morning, Mr. Sawyer goes to work and the children go to school
-
-Their father takes them to school every day
-
-Mrs. Sawyer stays at home every day. She does the housework
-
-She always eats her lunch at noon
-
-In the afternoon, she usually sees her friends. They often drink tea together
-
-In the evening, the children come home from school. They arrive home early
-
-Mr. Sawyer comes home from work. He arrives home late
-
-At night, the children always do their homework
-
-Then they go to bed
-
-Mr. Sawyer usually reads his newspaper, and sometimes he and his wife watch television
-```

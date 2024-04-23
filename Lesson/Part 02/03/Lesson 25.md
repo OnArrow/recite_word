@@ -22,12 +22,6 @@ The porter and I looked at each other and smiled. Then he said something and I u
 I wonder. In England, each person speaks a different language. The English understand each other, but I don't understand them! Do they speak English?
 ```
 
-## Questions
-
-1. `I not only spoke English very carefully` 的 `I not only`，为什么可以接 `not`?
-
-2. `but he spoke neither slowly nor clearly` 的 `nor`
-
 ## Whole
 
 1. `no wonder` 怪不得

@@ -1,6 +1,32 @@
 # Lesson 57
 
-1. 在英语中常用`it`来指“时间”，“天气”，“温度”，“距离”。 这种情况下的`it`被称为”虚主语“
+## An unusual day
+
+```
+It is eight o'clock
+
+The children go to school by car every day, but today, they are going to school on foot
+
+It is ten o'clock
+
+Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops
+
+It is four o'clock
+
+In the afternoon, Mrs. Sawyer usually drinks tea in the living room, but this afternoon, she is drinking tea in the garden
+
+It is six o'clock
+
+In the evening, the children usually do their homework, but this evening, they are not doing their homework. At the moment, they are playing in the garden
+
+It is nine o'clock
+
+Mr. Sawyer usually reads his newspaper at night, but he's not reading his newspaper tonight. At the moment, he's reading an interesting book
+```
+
+## Whole
+
+1. 在英语中常用 `it` 来指 `时间`，`天气`，`温度`，`距离`。 这种情况下的 `it` 被称为 `虚主语`
 
    ```
    It's mild, but it rains sometimes
@@ -38,12 +64,12 @@
 
    ```
    When does he usually read a book?
-   // `when`通常表示问什么时候，可以回答大概的时间也可以回答具体的时间
+   // `when` 通常表示问什么时候，可以回答大概的时间也可以回答具体的时间
 
    He usually reads a book in the evening
 
    What time does he usually read a book?
-   // `what time`通常表示问具体的几点钟
+   // `what time` 通常表示问具体的几点钟
 
    He usually reads a book at 8 o'clock
 
@@ -67,7 +93,7 @@
 
    - 分钟 past 小时
 
-   - 当分钟数大于 30 分时不能用 past
+   - 当分钟数 `大于30分`时不能用 `past`
 
    ```
    twenty nine past ten
@@ -84,7 +110,7 @@
 
    - 差多少分钟到几点
 
-   - to 用于分钟数大于 30 分的情况
+   - `to` 用于分钟数 `大于30分` 的情况
 
    ```
    a quarter to 12
@@ -97,7 +123,7 @@
    2:32
    ```
 
-5. `you all` 表示“你们”。通常三个或三个以上才用
+5. `you all` 表示 `你们`。通常三个或三个以上才用
 
    ```
    What are you all doing?
@@ -109,27 +135,3 @@
 
    You all can't go to swim
    ```
-
-## An unusual day
-
-```
-It is eight o'clock
-
-The children go to school by car every day, but today, they are going to school on foot
-
-It is ten o'clock
-
-Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops
-
-It is four o'clock
-
-In the afternoon, Mrs. Sawyer usually drinks tea in the living room, but this afternoon, she is drinking tea in the garden
-
-It is six o'clock
-
-In the evening, the children usually do their homework, but this evening, they are not doing their homework. At the moment, they are playing in the garden
-
-It is nine o'clock
-
-Mr. Sawyer usually reads his newspaper at night, but he's not reading his newspaper tonight. At the moment, he's reading an interesting book
-```

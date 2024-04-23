@@ -1,6 +1,34 @@
 # Lesson 49
 
-1. `to tell you the truth` 和 `to tell the truth` 都表示“说实话；老实说”
+## At the butcher's
+
+```
+Do you want any meat today, Mrs.Bird?
+
+Yes, please.
+
+Do you want beef or lamb?
+
+Beef, please.
+
+This lamb's very good.
+
+I like lamb, but my husband doesn't.
+
+What about some steak? This is a nice piece.
+
+Give me that piece, please. And a pound of mince, too.
+
+Do you want a chicken, Mrs.Bird? They are very nice.
+
+No, thank you. My husband likes steak, but he doesn't like chicken.
+
+To tell you the truth, Mrs.Bird, I don't like chicken, either!
+```
+
+## Whole
+
+1. `to tell you the truth` 和 `to tell the truth` 都表示 `说实话；老实说`
 
    ```
    To tell you the truth, I don't like coffee
@@ -13,13 +41,16 @@
    ```
    I like lamb, I like steak, too
 
+   Your mother likes fish, do you like it too?
+
    I don't like pea, I don't like bean, either
    ```
 
-3. `sheep` 表示“羊”，而 `lamb` 表示“小羊”。如果没有特定指羊的大小的话，一般使用 `sheep`
+3. `sheep` 表示 `羊`，而 `lamb` 表示 `小羊`。如果没有特定指羊的大小的话，一般使用 `sheep`
 
    ```
    Those sheep are in the grassland
+   // `sheep` 的复数形式也是 `sheep`
 
    This lamb is really small
    ```
@@ -47,7 +78,7 @@
    You want this job
 
    He wants this job
-   // 当动词搭配第三人称单数时，自己需要变成第三人称单数。`want` -> `wants`
+   // 当动词搭配第三人称单数时，需要变成第三人称单数。`want` -> `wants`
 
    He does want this job
    他确实想要这份工作
@@ -62,7 +93,7 @@
    It does love it
 
    He washes the dishes every day
-   // `every day` 说明每天都洗，习惯性动作，所以时态为一般现在时，同时，主语为第三人称单数，所以`wash`就要变成第三人称单数形式
+   // `every day` 说明每天都洗，习惯性动作，所以时态为一般现在时，同时，主语为第三人称单数，所以 `wash` 就要变成第三人称单数形式
 
    He doesn't wash the dishes every day
    ```
@@ -73,29 +104,3 @@
    If you tell the truth, you don't have to remember everything
    如果你说实话，你就不必记住所有的事情
    ```
-
-## At the butcher's
-
-```
-Do you want any meat today, Mrs.Bird?
-
-Yes, please
-
-Do you want beef or lamb?
-
-Beef, please
-
-This lamb's very good
-
-I like lamb, but my husband doesn't
-
-What about some steak? This is a nice piece
-
-Give me that piece, please. And a pound of mince, too
-
-Do you want a chicken, Mrs.Bird? They are very nice
-
-No, thank you. My husband likes steak, but he doesn't like chicken
-
-To tell you the truth, Mrs.Bird, I don't like chicken, either!
-```

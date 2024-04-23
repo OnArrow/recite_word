@@ -27,3 +27,29 @@ I looked at it again. She was right! It was!
 ## Whole
 
 1. `upside down` 上下颠倒地
+
+2. `sb. pretend that ...` 某人假装...
+
+   ```
+   He always pretends that he is interested in fishing
+
+   You pretended that you pay attention to my words
+   ```
+
+3. `whether` 用法类似于 `if` 在疑问句中的用法
+
+   ```
+   My grandmother often asked me whether I was hungry when I was a kid
+
+   My grandmother often asked me if I was hungry when I was a kid
+   ```
+
+4. `I really appreciate your help` 口语中经常用来表示 `感谢`
+
+   ```
+   Can you give me another hand?
+
+   Yes, why not?
+
+   Thank you, I really appreciate your help
+   ```

@@ -24,14 +24,16 @@ I wonder. In England, each person speaks a different language. The English under
 
 ## Whole
 
-1. `no wonder` 怪不得
+1. `at last` 最终
+
+2. `no wonder` 怪不得
 
    ```
    No wonder you're stupid
    难怪你是笨蛋
    ```
 
-2. `conj.` 并列连词
+3. `conj.` 并列连词
 
    - 用于连接两个句子或单词
 

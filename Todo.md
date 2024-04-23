@@ -6,43 +6,37 @@
 
    ```
 
-2. **About**
+2. **过去式&过去分词**
+
+   ```
+   draw
+   ```
+
+3. **比较级&最高级**
 
    ```
 
    ```
 
-3. **过去式&过去分词**
+4. **Review**
+
+   ```
+   scene chant though agent chemist court tape term president prefer fame mood accessibility compass preserve claim optimize serious retire save employee once yield article wrap draw
+   ```
+
+5. **复习过去式&过去分词**
 
    ```
 
    ```
 
-4. **比较级&最高级**
+6. **复习比较级&最高级**
 
    ```
 
    ```
 
-5. **Review**
-
-   ```
-   scene chant though agent chemist court tape term president prefer fame mood accessibility compass preserve claim optimize serious retire save employee once yield article wrap
-   ```
-
-6. **复习过去式&过去分词**
-
-   ```
-
-   ```
-
-7. **复习比较级&最高级**
-
-   ```
-
-   ```
-
-8. **剑桥初级语法**
+7. **剑桥初级语法**
 
    ```
    Unit 22（56，57页）
@@ -52,47 +46,47 @@
    Unit 28 - 33（68-79页）
    ```
 
-9. **剑桥初级语法练习**
+8. **剑桥初级语法练习**
 
    ```
 
    ```
 
-10. 所有格形式
+9. 所有格形式
 
-11. 梳理冠词内容
+10. 梳理冠词内容
 
-12. yet 的用法
+11. yet 的用法
 
-13. to 的用法
+12. to 的用法
 
-14. 宾语从句、直接引语、间接引语
+13. 宾语从句、直接引语、间接引语
 
-15. `wards` 是单词后缀吗？
+14. `wards` 是单词后缀吗？
 
     ```
     towards forwards afterwords
     ```
 
-16. `cular` 是单词后缀吗？
+15. `cular` 是单词后缀吗？
 
     ```
     particular circular
     ```
 
-17. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+16. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-18. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+17. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-19. `Jack lives very near us` 这句话中 `near`是什么词性？
+18. `Jack lives very near us` 这句话中 `near`是什么词性？
 
-20. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
+19. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
 
-21. 什么是宾语补足语
+20. 什么是宾语补足语
 
     ```
     I'm going to paint bookcase pink
     // `bookcase` 为宾语。 `pink` 为宾语补足语
     ```
 
-22. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
+21. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）

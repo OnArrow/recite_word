@@ -1,5 +1,9 @@
 # Lesson 1
 
+## Words
+
+- excuse me yes is this your handbag pardon it pen pencil book watch coat dress skirt shirt car house
+
 ## Excuse me
 
 ```
@@ -20,9 +24,13 @@ Thank you very much
 
 ## Whole
 
-1. `this`，`that`都是代词，代词可以理解为，比如一本书在你面前，你说“这本书是谁的？”，其中的“这”就代表了你面前这本书，这就叫代词，代表的词
+1. `thank you` 谢谢你
 
-2. `this`说明这东西离你比较近，这东西是什么。`that`说明这东西离你比较远，那东西是什么？
+2. `very much` 非常地
+
+3. `this`，`that` 都是代词，代词可以理解为，比如一本书在你面前，你说 `这本书是谁的？`，其中的 `这` 就代表了你面前这本书，这就叫代词，代表的词
+
+4. `this` 说明这东西离你比较近，这东西是什么。`that` 说明这东西离你比较远，那东西是什么？
 
    ```
    This is a dog
@@ -39,25 +47,25 @@ Thank you very much
 
    ```
 
-3. `your`、`my`、`his`、`her` 都是物主代词，表示物品的主人
+5. `your`、`my`、`his`、`her` 都是物主代词，表示物品的主人
 
-4. `pardon` = `pardon me` = `I beg your pardon` 都表示原谅，请再说一次的意思
+6. `pardon` = `pardon me` = `I beg your pardon` 都表示原谅，请再说一次的意思
 
-5. `it` 它（用于指代一切单数事物）
+7. `it` 它（用于指代一切单数事物）
 
    ```
    It's an egg
    它是一个鸡蛋
    ```
 
-6. 宾语是动作的承受者
+8. 宾语是动作的承受者
 
    ```
    Thank you
    // `thank`是一个动词，`you`是这个动词的承受者，所以是宾语
    ```
 
-7. `very much` 非常地
+9. `very much` 非常地
 
    ```
    I love you very much
@@ -67,36 +75,36 @@ Thank you very much
    我也是
    ```
 
-8. 一般疑问句：肯定句变一般疑问句时，就把系动词 `be（is、am、are）`放在句首
+10. 一般疑问句：肯定句变一般疑问句时，就把系动词 `be（is、am、are）` 放在句首
 
-   ```
-   This is your handbag
-   这是你的手提包
-   // 肯定句
+    ```
+    This is your handbag
+    这是你的手提包
+    // 肯定句
 
-   Is this your handbag?
-   这是你的手提包吗？
-   // 一般疑问句
+    Is this your handbag?
+    这是你的手提包吗？
+    // 一般疑问句
 
-   Yes, it's
-   是的
-   // 这里的代词`it`代表的就是手提包
+    Yes, it's
+    是的
+    // 这里的代词`it`代表的就是手提包
 
-   No, it isn't
-   不，不是
-   ```
+    No, it isn't
+    不，不是
+    ```
 
-9. 否定句：肯定句变否定句时，把`not`加在系动词的后面
+11. 否定句：肯定句变否定句时，把 `not` 加在系动词的后面
 
-   ```
-   This is a dog
-   // 肯定句
+    ```
+    This is a dog
+    // 肯定句
 
-   This is not a dog
-   // 否定句
-   ```
+    This is not a dog
+    // 否定句
+    ```
 
-10. `Excuse me` 用法
+12. `Excuse me` 用法
 
     - 为了要引起别人的注意
 
@@ -140,13 +148,13 @@ Thank you very much
       对不起，我失陪一下
       ```
 
-11. 当你做错某事而向别人道歉时，用 `sorry` 而不是用 `excuse me`
+13. 当你做错某事而向别人道歉时，用 `sorry` 而不是用 `excuse me`
 
-12. 当你没听清楚别人说的话时,想让别人再说一遍,这时可以用 `pardon?`/`sorry?`/`come again?`/`what`
+14. 当你没听清楚别人说的话时,想让别人再说一遍,这时可以用 `pardon?`/`sorry?`/`come again?`/`what`
 
-13. `Thank you very much` 和 `Thank you so much` 等价
+15. `Thank you very much` 和 `Thank you so much` 等价
 
-14. `please` 可放在句首也可放在句尾，同时`please`也有`求求你`的意思
+16. `please` 可放在句首也可放在句尾，同时 `please` 也有 `求求你` 的意思
 
     ```
     Come in please
@@ -160,7 +168,7 @@ Thank you very much
 
     ```
 
-15. `here`（这里）和 `there`（那里），这两个词都是副词（adv.）
+17. `here`（这里）和 `there`（那里），这两个词都是副词（adv.）
 
     ```
     Come here
@@ -170,7 +178,7 @@ Thank you very much
     到那里去
     ```
 
-16. 当副词置于句首时，后面的主谓要倒装
+18. 当副词置于句首时，后面的主谓要倒装
 
     ```
     My ticket is here
@@ -181,7 +189,7 @@ Thank you very much
     这是我的票
     ```
 
-17. `ticket`
+19. `ticket`
 
     ```
     an air ticket
@@ -197,14 +205,14 @@ Thank you very much
     一张电影票
     ```
 
-18. `number`
+20. `number`
 
     ```
     telephone number
     电话号码
     ```
 
-19. `number + 基数词 = 第...`
+21. `number + 基数词 = 第...`
 
     ```
     number one
@@ -217,23 +225,23 @@ Thank you very much
     我是第一名
     ```
 
-20. `Mr.`是`mister`的缩写，必须要与姓氏连用，不能单独使用
+22. `Mr.` 是 `mister` 的缩写，必须要与姓氏连用，不能单独使用
 
-21. `sir` 表示对不相识的男子，年长者或者上级的一种尊称，一般单独使用，不与姓氏连用
+23. `sir` 表示对不相识的男子，年长者或者上级的一种尊称，一般单独使用，不与姓氏连用
 
     ```
     Can I help you, sir?
     我能帮你什么呢？先生
     ```
 
-22. `gentleman` 绅士，对男性比较有礼貌的称呼，在公众场合最得体的称呼
+24. `gentleman` 绅士，对男性比较有礼貌的称呼，在公众场合最得体的称呼
 
     ```
     Lady and gentleman
     女士们先生们
     ```
 
-23. `guy` 家伙；伙计们； 对男性一种不正式的称呼
+25. `guy` 家伙；伙计们； 对男性一种不正式的称呼
 
     ```
     Hi, guy!
@@ -241,11 +249,11 @@ Thank you very much
 
     ```
 
-24. 物主代词：物品的主人，表示谁的什么东西
+26. 物主代词：物品的主人，表示谁的什么东西
 
-25. 形容词：形容词后面跟名词，它是用来修饰名词的
+27. 形容词：形容词后面跟名词，它是用来修饰名词的
 
-26. 形容词性物主代词：既是一个形容词，又表示物品的主人，所以后面跟的必须是名词，不能单独使用
+28. 形容词性物主代词：既是一个形容词，又表示物品的主人，所以后面跟的必须是名词，不能单独使用
 
     ```
     My mother
@@ -259,7 +267,7 @@ Thank you very much
     你的衬衫
     ```
 
-27. 名词性物主代词：本身是一个名词，又表示物品的主人。因为本身是一个名词了，所以后面不能再跟名词
+29. 名词性物主代词：本身是一个名词，又表示物品的主人。因为本身是一个名词了，所以后面不能再跟名词
 
     ```
     This pen is mine
@@ -270,9 +278,9 @@ Thank you very much
     这只狗不是她的
     ```
 
-28. 一般 `house` 用来表示像别墅那样的房子
+30. 一般 `house` 用来表示像别墅那样的房子
 
-29. `it's free` 和 `on the house`都是免费的意思
+31. `it's free` 和 `on the house` 都是免费的意思
 
     ```
     How much is this cup of coffee?
@@ -282,9 +290,9 @@ Thank you very much
     那是免费的
     ```
 
-30. 如果你想去搭讪某人,可以开头先夸赞对方,如 `nice hair` , `nice coat`
+32. 如果你想去搭讪某人,可以开头先夸赞对方,如 `nice hair` , `nice coat`
 
-31. 名句
+33. 名句
 
     ```
     If somebody offers you an amazing opportunity but you are not sure you can do it, say yes - then learn how to do it later!

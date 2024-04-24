@@ -1,5 +1,9 @@
 # Lesson 59
 
+## Words
+
+- envelope paper size pad glue chalk change
+
 ## Is that all?
 
 ```
@@ -38,4 +42,8 @@ I want my change
 
 ## Whole
 
-1. `What else do you want？` 表示 `你还要什么吗？`。`What else...?` 可以看作一个表示疑问的短语，意思是 `还有什么？`
+1. `writing paper` 信纸
+
+2. `shop assistant` 售货员
+
+3. `What else do you want？` 表示 `你还要什么吗？`。`What else...?` 可以看作一个表示疑问的短语，意思是 `还有什么？`

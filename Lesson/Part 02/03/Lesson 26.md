@@ -2,9 +2,7 @@
 
 ## Words
 
-- art critic paint pretend pattern curtain material appreciate notice whether hang hung critically
-
-- ![Words](../../../Images/Part2/03/words-26.png)
+- art critic critically paint pretend pattern curtain material appreciate notice whether hang hung
 
 ## The best art critics
 
@@ -27,6 +25,10 @@ I looked at it again. She was right! It was!
 ## Whole
 
 1. `upside down` 上下颠倒地
+
+   ```
+   The picture looks upside down
+   ```
 
 2. `sb. pretend that ...` 某人假装...
 

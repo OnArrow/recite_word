@@ -1,5 +1,9 @@
 # Lesson 11
 
+## Words
+
+- whose blue perhaps white catch father mother blouse sister tie brother his her
+
 ## Is this your shirt?
 
 ```

@@ -91,7 +91,7 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 
 11. 将来进行时 `will be doing`
 
-    - Usage 1: 未来进行的动作
+    - Usage 1: `未来进行的动作`
 
       ```
       我明天下午将会打一下午的篮球
@@ -111,7 +111,7 @@ As usual, the police have a difficult time. They will be trying to keep order. I
       Why will you be sleeping?
       ```
 
-    - Usage 2: 计划打算
+    - Usage 2: `计划打算`
 
       ```
       I will be meeting him tomorrow

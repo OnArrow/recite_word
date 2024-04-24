@@ -1,5 +1,9 @@
 # Lesson 13
 
+## Words
+
+- color colour green come upstairs smart hat same lovely case carpet dog
+
 ## A new dress
 
 ```

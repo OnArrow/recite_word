@@ -1,5 +1,9 @@
 # Lesson 49
 
+## Words
+
+- butcher meat beef lamb husband steak mince chicken tell truth either tomato potato cabbage lettuce pea bean pear grape peach
+
 ## At the butcher's
 
 ```

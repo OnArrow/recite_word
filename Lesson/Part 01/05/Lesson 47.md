@@ -1,5 +1,9 @@
 # Lesson 47
 
+## Words
+
+- like want fresh egg butter pure honey ripe banana jam sweet orange Scotch choice apple wine beer blackboard
+
 ## A cup of coffee
 
 ```

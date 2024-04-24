@@ -4,8 +4,6 @@
 
 - railway porter several foreigner wonder
 
-- ![Words](../../../Images/Part2/03/words-25.png)
-
 ## Do the English speak English?
 
 ```
@@ -24,7 +22,11 @@ I wonder. In England, each person speaks a different language. The English under
 
 ## Whole
 
-1. `at last` 最终
+1. `at last` 终于
+
+   ```
+
+   ```
 
 2. `no wonder` 怪不得
 
@@ -123,7 +125,7 @@ I wonder. In England, each person speaks a different language. The English under
        // 医生不知道也就算了，病人也不知道。感情上有递进
 
        You must not only wash the dishes but sweep the floor as well
-       // `but sweep the floor` 等于 `but also sweep the floor`
+       // `but sweep the floor as well` 等于 `but also sweep the floor`
 
        He was not only a writer but also an actor
        ```

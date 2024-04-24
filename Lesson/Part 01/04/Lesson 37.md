@@ -1,5 +1,9 @@
 # Lesson 37
 
+## Words
+
+- work hard make bookcase hammer paint pink favorite favourite homework listen dish
+
 ## Making a bookcase
 
 ```

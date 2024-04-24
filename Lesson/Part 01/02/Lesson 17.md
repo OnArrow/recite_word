@@ -1,5 +1,9 @@
 # Lesson 17
 
+## Words
+
+- employee hardworking man office assistant
+
 ## How do you do?
 
 ```
@@ -30,7 +34,7 @@ This is Jim. He's our office assistant
 
 ## Whole
 
-1. `sales rep` 并不常见，一般会说 `salesman` 或者 `saleswoman`，意思是一样的都表示销售员
+1. `sales rep` 并不常见，一般会说 `salesman` 或者 `saleswoman`，意思都表示 `销售员`
 
    ```
    sales rep

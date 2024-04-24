@@ -1,5 +1,9 @@
 # Lesson 9
 
+## Words
+
+- hello hi how today well fine thanks goodbye see fat woman thin tall short dirty clean hot cold old young busy lazy
+
 ## How are you today?
 
 ```

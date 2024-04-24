@@ -1,5 +1,9 @@
 # Lesson 53
 
+## Words
+
+- mild always north east wet west south season best night rise early set late interesting subject conversation Australia Australian Austrian Austria Canada Canadian China Finland Finnish India Indian Japan Nigeria Nigerian Turkey Turkish Korea Polish Poland Thai Thailand
+
 ## An interesting climate
 
 ```

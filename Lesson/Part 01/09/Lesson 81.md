@@ -1,5 +1,11 @@
 # Lesson 81
 
+## Words
+
+- bath nearly ready dinner restaurant roast breakfast haircut party holiday
+
+## Whole
+
 1. `then` 在交谈或者陈述时，也有“那么”的意思，用来转折句子
 
    ```

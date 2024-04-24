@@ -1,5 +1,9 @@
 # Lesson 33
 
+## Words
+
+- day cloud sky sun shine with family walk over bridge boat river ship aeroplane fly sleep shave cry wash wait jump
+
 ## A fine day
 
 ```

@@ -1,5 +1,11 @@
 # Lesson 79
 
+## Words
+
+- shopping list vegetable need hope thing money groceries fruit stationary newsagent chemist
+
+## Whole
+
 1. `make a shopping list` 和 `write a shopping list` 都可以表示“制作一张购物清单”
 
    ```

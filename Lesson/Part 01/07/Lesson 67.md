@@ -1,5 +1,11 @@
 # Lesson 67
 
+## Words
+
+- greengrocer absent Monday Tuesday Wednesday Thursday Friday Saturday Sunday keep spend weekend country lucky church dairy baker grocer
+
+## Whole
+
 1. 表示某一种商店的短语中，往往可以把`shop`这个词省略
 
    ```

@@ -1,5 +1,9 @@
 # Lesson 3
 
+## Words
+
+- umbrella please here my ticket number five sorry sir cloakroom suit school teacher son daughter
+
 ## Sorry, sir
 
 ```

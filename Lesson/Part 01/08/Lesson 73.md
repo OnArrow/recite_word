@@ -1,6 +1,14 @@
 # Lesson 73
 
-1. `lose ... way` 表示迷失了去某个地方地路
+## Words
+
+- week London suddenly bus stop smile pleasantly understand understood speak spoke hand pocket phrasebook phrase slowly hurriedly cut thirsty go went greet
+
+## Whole
+
+1. `bus stop` 公交车站
+
+2. `lose ... way` 表示迷失了去某个地方地路
 
    ```
    I lost my way
@@ -10,7 +18,7 @@
    他迷失了去图书馆的路
    ```
 
-2. 以`ly`结尾的很可能是副词
+3. 以`ly`结尾的很可能是副词
 
    ```
    slowly

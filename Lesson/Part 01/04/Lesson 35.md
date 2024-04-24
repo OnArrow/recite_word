@@ -1,5 +1,9 @@
 # Lesson 35
 
+## Words
+
+- photograph village valley between hill another wife along bank water swim building park into beside off
+
 ## Our village
 
 ```

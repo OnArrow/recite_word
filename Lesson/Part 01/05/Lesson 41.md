@@ -1,5 +1,9 @@
 # Lesson 41
 
+## Words
+
+- cheese bread soap chocolate sugar coffee tea tobacco bird any some
+
 ## Penny's bag
 
 ```

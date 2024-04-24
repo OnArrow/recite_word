@@ -1,5 +1,9 @@
 # Lesson 7
 
+## Words
+
+- I am are name what nationality job keyboard operator engineer policeman policewoman taxi driver air hostess postman nurse mechanic hairdresser housewife milkman
+
 ## Are you a teacher?
 
 ```

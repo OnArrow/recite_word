@@ -1,5 +1,9 @@
 # Lesson 29
 
+## Words
+
+- shut bedroom untidy must open air put clothes wardrobe dust sweep empty read sharpen turn off put take
+
 ## Come in, Amy
 
 ```
@@ -24,7 +28,15 @@ Then sweep the floor
 
 ## Whole
 
-1. 有时候某个单词前面是以 `un` 开头的，它往往和剩余单词的意思是相反的
+1. `put on` 穿上
+
+2. `take off` 脱掉
+
+3. `turn on` 开
+
+4. `turn off` 关
+
+5. 有时候某个单词前面是以 `un` 开头的，它往往和剩余单词的意思是相反的
 
    ```
    tidy
@@ -40,7 +52,7 @@ Then sweep the floor
    卸载
    ```
 
-2. `put` 放置
+6. `put` 放置
 
    ```
    Put it in the refrigerator

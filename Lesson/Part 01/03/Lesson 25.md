@@ -1,5 +1,9 @@
 # Lesson 25
 
+## Words
+
+- Mrs. kitchen refrigerator right electric left cooker middle of room cup where in
+
 ## Mrs.Smith's kitchen
 
 ```

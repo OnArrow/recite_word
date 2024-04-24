@@ -1,5 +1,9 @@
 # Lesson 27
 
+## Words
+
+- near window armchair door picture wall trouser
+
 ## Mrs.Smith's living room
 
 ```
@@ -32,7 +36,9 @@ The pictures are on the wall
 
 ## Whole
 
-1. `How many` 多少； 特殊疑问词
+1. `living room` 客厅
+
+2. `How many` 多少； 特殊疑问词
 
    ```
    There are three armchairs in the living room
@@ -47,7 +53,7 @@ The pictures are on the wall
    这有多少只猫？
    ```
 
-2. `any` 否定句
+3. `any` 否定句
 
    ```
    There is a cat on the desk of the bedroom
@@ -66,13 +72,13 @@ The pictures are on the wall
 
    ```
 
-3. `There be` 句型中的 `some` 和 `any`
+4. `There be` 句型中的 `some` 和 `any`
 
    - 都表示“一些”
 
    - `some` 用在肯定句，`any` 用在否定句/疑问句
 
-4. 名句
+5. 名句
 
    ```
    If you don't know where you are going, you might wind up someplace else

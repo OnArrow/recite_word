@@ -1,5 +1,9 @@
 # Lesson 39
 
+## Words
+
+- front careful vase drop flower show send take
+
 ## Don't drop it
 
 ```
@@ -24,7 +28,9 @@ Those flowers are lovely, too
 
 ## Whole
 
-1. `Don't` 为 `Do not` 的缩写，可以理解为 `别；不要`
+1. `in front of` 在...的前面
+
+2. `Don't` 为 `Do not` 的缩写，可以理解为 `别；不要`
 
    ```
    Don't drop it
@@ -38,7 +44,7 @@ Those flowers are lovely, too
    Don't jump on the desk
    ```
 
-2. `give sb. sth.` = `give sth. to sb.` 把某物给某人
+3. `give sb. sth.` = `give sth. to sb.` 把某物给某人
 
    ```
    Give me some flowers
@@ -46,9 +52,9 @@ Those flowers are lovely, too
    Give some flowers to me
    ```
 
-3. `there we are` 表示 `好了；就这样；okay` 的意思
+4. `there we are` 表示 `好了；就这样；okay` 的意思
 
-4. `turn on the light` 相当于 `turn it on`。用代词的时候才能使用后面一种方式
+5. `turn on the light` 相当于 `turn it on`。用代词的时候才能使用后面一种方式
 
    ```
    Turn off the tap
@@ -64,7 +70,7 @@ Those flowers are lovely, too
    Take them off
    ```
 
-5. `show sth. to sb.`，`show sb. sth.` 展示某物给某人
+6. `show sth. to sb.`，`show sb. sth.` 展示某物给某人
 
    ```
    Show your passport to me
@@ -80,7 +86,7 @@ Those flowers are lovely, too
    I'm going to show it to Jack
    ```
 
-6. `send sth. to sb.`，`send sb. sth.` 发送/寄送某物给某人
+7. `send sth. to sb.`，`send sb. sth.` 发送/寄送某物给某人
 
    ```
    Send a letter to me
@@ -96,7 +102,7 @@ Those flowers are lovely, too
    He's going to send them to his family
    ```
 
-7. `take sth. to sb.`，`take sb. sth.` 把某物拿给某人
+8. `take sth. to sb.`，`take sb. sth.` 把某物拿给某人
 
    ```
    Take the coffee to him
@@ -112,7 +118,7 @@ Those flowers are lovely, too
    She's going to take the milk to these cats
    ```
 
-8. 名句
+9. 名句
 
    ```
    I'm careful not to confuse excellence with perfection. Excellence I can reach for, perfection is God's business

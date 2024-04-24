@@ -61,7 +61,7 @@ He must stay in bed
 ```
 
 ```
-What's matter with Jimmy? Does she have a headache?
+What's the matter with Jimmy? Does she have a headache?
 
 She doesn't have a headache, she has a measles
 

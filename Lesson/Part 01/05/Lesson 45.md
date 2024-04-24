@@ -1,5 +1,9 @@
 # Lesson 45
 
+## Words
+
+- can boss minute ask handwriting terrible lift cake biscuit
+
 ## The boss's letter
 
 ```

@@ -1,5 +1,11 @@
 # Lesson 71
 
+## Words
+
+- awful telephone time answer last phone again say
+
+## Whole
+
 1. `time` 也可以表示“次数”
 
    ```

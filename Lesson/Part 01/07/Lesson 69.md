@@ -1,5 +1,11 @@
 # Lesson 69
 
+## Words
+
+- year race town crowd stand exciting just finish winner behind way stationer Denmark
+
+## Whole
+
 1. `hundreds of ...` 表示“数以百计的...”。用来表示不确定数量的复数形式
 
    ```

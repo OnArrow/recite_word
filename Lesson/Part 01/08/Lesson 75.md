@@ -1,5 +1,11 @@
 # Lesson 75
 
+## Words
+
+- ago buy bought pair fashion uncomfortable wear
+
+## Whole
+
 1. `ago` 放在表示时间长度的短语后面时，常与表示一般过去时的动词连用
 
    ```

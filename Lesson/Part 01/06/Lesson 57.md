@@ -1,5 +1,9 @@
 # Lesson 57
 
+## Words
+
+- clock shop moment
+
 ## An unusual day
 
 ```

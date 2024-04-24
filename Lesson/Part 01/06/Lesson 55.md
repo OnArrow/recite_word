@@ -1,5 +1,9 @@
 # Lesson 55
 
+## Words
+
+- live stay home housework lunch afternoon usually together evening arrive night
+
 ## The Sawyer family
 
 ```

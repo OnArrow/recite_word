@@ -1,5 +1,9 @@
 # Lesson 51
 
+## Words
+
+- Greece climate country pleasant weather spring windy warm rain sometimes summer autumn winter snow January February March April May June July August September October November December Brazil Holland England France Germany Italy Norway Russia Spain Sweden
+
 ## A pleasant climate
 
 ```
@@ -30,14 +34,16 @@ It's often cold in December, January and February. It snows sometimes
 
 ## Whole
 
-1. `sweet` 与 `pleasant` 也可以用来形容人
+1. `the U.S.` 美国
+
+2. `sweet` 与 `pleasant` 也可以用来形容人
 
    ```
    She is sweet, she is pleasant, she is upbeat
    她很可爱，很讨人喜欢，也很乐观
    ```
 
-2. 针对 `sometimes`，`always`，`every day` 等频率副词，需要用 `How often` 去提问
+3. 针对 `sometimes`，`always`，`every day` 等频率副词，需要用 `How often` 去提问
 
    ```
    The weather rains in spring sometimes
@@ -54,7 +60,7 @@ It's often cold in December, January and February. It snows sometimes
    How often do you drink milk?
    ```
 
-3. 如果存在 `be` 动词，那么 `often` 和 `always` 要放在 `be` 动词后面。 `be + often/always`
+4. 如果存在 `be` 动词，那么 `often` 和 `always` 要放在 `be` 动词后面。 `be + often/always`
 
    ```
    She is often cute

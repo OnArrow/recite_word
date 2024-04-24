@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   chunk August
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   scene chant though agent chemist court tape term president prefer fame mood accessibility compass preserve claim optimize serious retire save employee once yield article wrap draw
+   chemist tape president prefer fame mood preserve serious retire save employee once yield article wrap draw ugly owner own gate passport bedroom stationer stationary
    ```
 
 5. **复习过去式&过去分词**

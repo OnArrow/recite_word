@@ -1,5 +1,9 @@
 # Lesson 21
 
+## Words
+
+- give one which empty full large little sharp small big blunt box glass cup bottle tin knife fork spoon
+
 ## Which book?
 
 ```

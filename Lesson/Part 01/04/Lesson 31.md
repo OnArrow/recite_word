@@ -1,5 +1,9 @@
 # Lesson 31
 
+## Words
+
+- garden under tree climb who run grass after across cat type letter basket eat bone clean tooth teeth cook milk meal drink tap
+
 ## Where's Sally?
 
 ```

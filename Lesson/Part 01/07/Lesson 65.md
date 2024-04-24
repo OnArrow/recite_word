@@ -1,5 +1,11 @@
 # Lesson 65
 
+## Words
+
+- Dad key baby hear enjoy yourself ourselves mum myself themselves himself herself
+
+## Whole
+
 1. `enjoy` 这个动词后面往往跟一个反身代词
 
    ```

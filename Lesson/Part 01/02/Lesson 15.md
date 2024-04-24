@@ -1,5 +1,9 @@
 # Lesson 15
 
+## Words
+
+- customs officer girl Danish friend Norwegian passport brown tourist Russian Dutch these red grey gray yellow black orange
+
 ## Your passports, please
 
 ```

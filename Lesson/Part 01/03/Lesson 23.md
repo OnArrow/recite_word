@@ -1,5 +1,9 @@
 # Lesson 23
 
+## Words
+
+- on shelf desk table plate cupboard cigarette television floor magazine bed newspaper stereo
+
 ## Which glasses?
 
 ```
@@ -22,6 +26,8 @@ Thanks
 
 ## Whole
 
+1. `dressing table` 梳妆台
+
 1. `Where` 特殊疑问词
 
    ```
@@ -38,7 +44,7 @@ Thanks
    Where is your new cupboard?
    ```
 
-2. `table` 常常用来表示吃饭的桌子，而 `table for 数量` 表示几人桌
+1. `table` 常常用来表示吃饭的桌子，而 `table for 数量` 表示几人桌
 
    ```
    当你去吃饭的时候，人家问你几位，你可以说
@@ -53,7 +59,7 @@ Thanks
    我想要一张四人桌
    ```
 
-3. `cupboard` 通常指装锅碗瓢盆的橱柜
+1. `cupboard` 通常指装锅碗瓢盆的橱柜
 
    ```
    The cupboard is full broken plate

@@ -21,3 +21,9 @@ Now he has put an ugly stone head over the gate. It is one of the ugliest faces 
 
 Jasper hopes that she will turn cars and their owners to stone. But none of them has been turned to stone yet!
 ```
+
+## Questions
+
+1. `but ever since he moved in`
+
+2. `even once` 哪怕一次？

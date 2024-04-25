@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   chunk August
+   chunk dangerous
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   chemist tape president prefer fame mood preserve serious retire save employee once yield article wrap draw ugly owner own gate passport bedroom stationer stationary
+   prefer mood preserve serious retire save once yield article wrap draw ugly owner own gate passport stationer stationary August focus sick secret least decide hockey below sleepy neighbor oblique believe regard mute access roll pilot rise rose risen kitten seem directory lowercase network administration compile successfully resource frequently quadruple double subtotal passenger cancellation porter cater cash discount colleague report desktop exact blank quintuple recommend triple royal transparency desert island whale
    ```
 
 5. **复习过去式&过去分词**

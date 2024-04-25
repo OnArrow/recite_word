@@ -27,3 +27,15 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
 1. `but ever since he moved in`
 
 2. `even once` 哪怕一次？
+
+## Whole
+
+1. `have trouble with sth.` 在某方面有麻烦
+
+   ```
+   When I was still in school, I had trouble with math
+
+   You will have trouble with your teacher if you are late
+   ```
+
+2. `have trouble doing sth.`

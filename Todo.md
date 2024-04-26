@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   chunk dangerous worm outstanding brilliant fantastic apartment Rome
+   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   prefer mood preserve serious retire save once yield article wrap draw ugly owner own gate passport stationer stationary August focus sick secret least decide hockey below sleepy neighbor oblique believe regard mute access roll pilot rise rose risen kitten seem directory lowercase network administration compile successfully resource frequently quadruple double subtotal passenger cancellation porter cater cash discount colleague report desktop exact blank quintuple recommend triple royal transparency desert island whale farmer excellent sympathetic synonym
+   prefer mood serious yield article wrap draw ugly owner own gate passport stationer stationary sick secret least decide hockey below sleepy neighbor oblique believe regard mute access roll pilot rise rose risen kitten seem directory lowercase administration compile successfully resource frequently quadruple subtotal passenger cancellation porter cater cash discount colleague report desktop exact blank quintuple recommend triple royal transparency desert island whale farmer excellent sympathetic synonym insufficient vender inject provide stick sufficient information require stash stack nearby composition attempt format lead environment cascade calculator task explain coast cafe towards rock light hospital station most while far rush act straight
    ```
 
 5. **复习过去式&过去分词**

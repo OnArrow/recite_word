@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur
+   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur swagger
    ```
 
 2. **过去式&过去分词**

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur swagger
+   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur swagger dull/枯燥 silly/愚蠢 violin ceiling then/当时 peel farm maid ocean
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   prefer mood serious yield article wrap draw ugly owner own gate passport stationer stationary sick secret least decide hockey below sleepy neighbor oblique believe regard mute access roll pilot rise rose risen kitten seem directory lowercase administration compile successfully resource frequently quadruple subtotal passenger cancellation porter cater cash discount colleague report desktop exact blank quintuple recommend triple royal transparency desert island whale farmer excellent sympathetic synonym insufficient vender inject provide stick sufficient information require stash stack nearby composition attempt format lead environment cascade calculator task explain coast cafe towards rock light hospital station most while far rush act straight
+   prefer mood serious yield article wrap draw ugly owner own gate passport stationer stationary sick secret least decide hockey below sleepy neighbor oblique believe regard mute access roll pilot rise rose risen kitten seem directory lowercase administration compile successfully resource frequently quadruple subtotal passenger cancellation porter cater cash discount colleague report desktop exact blank quintuple recommend triple royal transparency desert island whale farmer excellent sympathetic synonym insufficient vender inject provide stick sufficient information require stash stack nearby composition attempt format lead environment cascade calculator task explain coast cafe towards rock light hospital station most while far rush act straight noisy own diary wake woke woken
    ```
 
 5. **复习过去式&过去分词**

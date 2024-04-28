@@ -36,7 +36,17 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
 
 3. `so far` 到目前为止
 
+   ```
+   I have had no car so far
+   ```
+
 4. `ever since` 自从。和 `since` 用法一致
+
+   ```
+   He's lived here since 1990
+
+   He's lived here ever since 1990
+   ```
 
 5. `stone head` 石像
 

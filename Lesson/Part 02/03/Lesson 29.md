@@ -4,8 +4,6 @@
 
 - taxi Pilatus land plough lonely Welsh roof block flat desert
 
-- ![Words](../../../Images/Part2/03/words-29.png)
-
 ## Taxi!
 
 ```
@@ -22,16 +20,13 @@ Since then, Captain Fawcett has flown passengers to many unusual places. Once he
 Captain Fawcett has just refused a strange request from a businessman. The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous
 ```
 
-## Questions
-
-2. `Since then` 从那以后？
-
 ## Whole
 
 1. `take a taxi` 打车
 
    ```
    The taxi you took last night broke down this morning
+   // `that` 可以省略，因为这里替代的是宾语。`you took the taxi` 中的 `the taxi` 是宾语，`that` 是替代它的
 
    If you take a taxi there, then you don't have to get up so early
    ```

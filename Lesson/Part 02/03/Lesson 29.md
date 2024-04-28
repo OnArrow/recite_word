@@ -41,7 +41,7 @@ Captain Fawcett has just refused a strange request from a businessman. The man w
 
 6. `done(v. 的过去分词)` 做定语
 
-   - 当 `done` 做定语时，表示形容词
+   - 当 `done` 做定语时，类似于 `adj.`
 
      ```
      a broken machine

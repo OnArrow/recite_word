@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur swagger dull/枯燥 silly/愚蠢 violin ceiling then/当时 peel farm maid ocean honest
+   chunk dangerous worm outstanding brilliant fantastic apartment Rome measure dinosaur swagger dull/枯燥 silly/愚蠢 violin ceiling then/当时 peel farm maid ocean honest sink ass/屁股
    ```
 
 2. **过去式&过去分词**

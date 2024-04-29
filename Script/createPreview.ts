@@ -13,6 +13,8 @@ const readFolderPath = path.resolve(__dirname, '../Words')
 // 需要复习的单词
 let strArr: string[] = []
 
+let joinedWords: string[] = []
+
 const resultArr: string[] = []
 
 // 读取Todo文件
@@ -40,13 +42,9 @@ async function readWordsFolder() {
   // 拿到目录下所有文件列表
   const fileArr = await fsReadFolder(readFolderPath)
 
-  // console.log(fileArr)
   for (let fileName of fileArr) {
     if (fileName.includes('.md')) {
       const fileResult = await fsRead(fileName)
-      // const fileResult = await fsRead(
-      //   '/Users/jack/code/单词/Words/November/11.14.md'
-      // )
 
       matchWords(fileResult)
     }
@@ -62,6 +60,7 @@ function matchWords(str) {
 
   try {
     const list = parseArr.find((item) => item.type === 'list').items
+
     for (let item of list) {
       // 得到单词解释的当前行
       const str = item.tokens.find((ele) => ele.type === 'text').text
@@ -81,15 +80,13 @@ function matchWords(str) {
 
       const word = regex.exec(str)![1].trim()
 
-      // console.log(word);
-
       if (strArr.includes(word)) {
         resultArr.push(str)
+        joinedWords.push(word)
       }
     }
   } catch (err) {
     console.log(err)
-    console.log(11)
     console.log(str)
   }
 }
@@ -101,6 +98,20 @@ async function writeContent(arr: string[]) {
   for (const [index, item] of newArr.entries()) {
     // 追加进文件
     await fsWrite(targetFilePath, `${index + 1}. ${item}\n\n`, 'a')
+  }
+
+  const undone: string[] = []
+  strArr.forEach((item) => {
+    const word = joinedWords.find((itemX) => itemX === item)
+    if (!word) undone.push(item)
+  })
+  if (undone.length > 0) {
+    console.log(
+      '\x1B[31m%s\x1B[0m',
+      `There are some words is undone: ${undone.join('  ')}`
+    )
+  } else {
+    console.log('\x1B[32m%s\x1B[0m', 'Successfully!')
   }
 }
 

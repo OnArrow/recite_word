@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   serious yield owner gate sick secret  decide hockey below sleepy  oblique believe regard mute access roll  kitten seem directory  administration compile resource frequently quadruple subtotal cancellation  cater cash discount colleague report blank quintuple  triple royal transparency desert whale farmer excellent sympathetic synonym insufficient vender inject provide stick sufficient require stash stack nearby composition attempt lead environment cascade calculator task explain coast cafe towards rock light  far rush straight noisy own diary especially
+   serious yield gate sick secret decide hockey sleepy oblique regard directory  cater  transparency  farmer excellent synonym insufficient vendor provide stick sufficient stash stack composition attempt cascade calculator task light far rush straight noisy diary especially dairy
    ```
 
 5. **复习过去式&过去分词**

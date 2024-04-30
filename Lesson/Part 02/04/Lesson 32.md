@@ -23,3 +23,5 @@ When she was arrested, the detective found out that the shop assistant was her d
 ## Questions
 
 1. `as they once were`
+
+2. `is greater than ever before`

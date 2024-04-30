@@ -40,7 +40,15 @@ The man laughed when he realize what had happened. He called out to the children
    He called out to that girl who sat on the river bank
    ```
 
-4. `doing(v. 的现在分词)` 做定语
+4. `to do sth.` 和 `doing sth.` 基本一致
+
+   ```
+   I don't intend staying long
+
+   I don't intend to stay long
+   ```
+
+5. `doing(v. 的现在分词)` 做定语
 
    - 当 `doing` 做定语时，类似于形容词
 
@@ -94,7 +102,7 @@ The man laughed when he realize what had happened. He called out to the children
        There were some people rowing on the river
        ```
 
-5. `prep.` 引导的短语做定语时，需要放在被修饰的名词后面
+6. `prep.` 引导的短语做定语时，需要放在被修饰的名词后面
 
    ```
    the park near my home

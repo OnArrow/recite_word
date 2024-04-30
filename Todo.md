@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   serious yield gate sick secret decide hockey sleepy oblique regard directory  cater  transparency  farmer excellent synonym insufficient vendor provide stick sufficient stash stack composition attempt cascade calculator task light far rush straight noisy diary especially dairy
+   serious yield gate sick secret decide hockey sleepy oblique regard directory  cater  transparency  farmer excellent synonym insufficient vendor provide stick sufficient stash stack composition attempt cascade calculator task light far rush straight noisy diary especially dairy record strong train amuse
    ```
 
 5. **复习过去式&过去分词**

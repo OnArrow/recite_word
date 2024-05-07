@@ -1,5 +1,11 @@
 # Lesson 91
 
+## Words
+
+- still move miss neighbor neighbour person people poor
+
+## Whole
+
 1. `person` 的复数往往用 `people`
 
 2. `will` 一般将来时，表示“将”，含义: 意愿，临时起意

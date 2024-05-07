@@ -1,5 +1,11 @@
 # Lesson 105
 
+## Words
+
+- spell intelligent mistake present dictionary carry correct keep
+
+## Whole
+
 1. `want to do sth.` 想要去做某事
 
    ```

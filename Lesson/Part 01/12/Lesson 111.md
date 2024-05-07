@@ -1,5 +1,11 @@
 # Lesson 111
 
+## Words
+
+- model afford deposit installment price millionaire
+
+## Whole
+
 1. 在多音节形容词前面加`more/most`表示“更多/最多”
 
    ```

@@ -1,6 +1,14 @@
 # Lesson 93
 
-1. 主语为 `I` 或者 `we` 时，才能用 `shall`
+## Words
+
+- pilot return Tokyo Madrid fly flew flown
+
+## Whole
+
+1. `New York` 纽约
+
+2. 主语为 `I` 或者 `we` 时，才能用 `shall`
 
    ```
    I shall have a bath at 9 p.m.
@@ -12,7 +20,7 @@
    When shall we go next year?
    ```
 
-2. `return to sw.` 返回某地
+3. `return to sw.` 返回某地
 
    ```
    I shall return to China next month
@@ -20,7 +28,7 @@
    He usually returns to Beijing every year
    ```
 
-3. `fly to sw.` 坐飞机飞去某地
+4. `fly to sw.` 坐飞机飞去某地
 
    ```
    I will fly to America two days later
@@ -28,7 +36,7 @@
    Where are they gonna fly to on holiday?
    ```
 
-4. `leave for sw.` 离开（某个地方）去某地
+5. `leave for sw.` 离开（某个地方）去某地
 
    ```
    I shall leave China for America tomorrow
@@ -37,7 +45,7 @@
    When will you leave for America?
    ```
 
-5. `arrive from sw.` 从某地来
+6. `arrive from sw.` 从某地来
 
    ```
    I will arrive from China next year
@@ -46,7 +54,7 @@
    They will arrive China from America next month
    ```
 
-6. 询问某人是什么工作
+7. 询问某人是什么工作
 
    ```
    What's your job?

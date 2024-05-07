@@ -1,5 +1,11 @@
 # Lesson 97
 
+## Words
+
+- leave describe zip label handle address pence belong
+
+## Whole
+
 1. `the other day` 几天前
 
    ```

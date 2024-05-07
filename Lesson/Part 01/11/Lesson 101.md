@@ -1,5 +1,11 @@
 # Lesson 101
 
+## Words
+
+- Scotland card youth hostel association soon write wrote written
+
+## Whole
+
 1. 直接引语
 
    - 中文里是把其他人说的话加上引号

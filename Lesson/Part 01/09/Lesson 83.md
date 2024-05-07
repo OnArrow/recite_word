@@ -1,5 +1,11 @@
 # Lesson 83
 
+## Words
+
+- mess pack suitcase leave left already
+
+## Whole
+
 1. `make a mess` 表示“制造混乱”
 
    ```

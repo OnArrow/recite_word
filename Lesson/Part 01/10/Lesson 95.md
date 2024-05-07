@@ -1,5 +1,11 @@
 # Lesson 95
 
+## Words
+
+- return train platform plenty bar station porter catch caught miss
+
+## Whole
+
 1. `next door to sw.` 在...隔壁
 
    ```

@@ -1,5 +1,11 @@
 # Lesson 89
 
+## Words
+
+- believe may since why sell sold because retire cost pound worth penny
+
+## Whole
+
 1. `for sale` 待出售
 
 2. `May I...` 是一种比较正式的表示请求的句型。`may` 有请求允许的意思

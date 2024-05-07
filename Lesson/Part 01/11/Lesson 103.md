@@ -1,5 +1,11 @@
 # Lesson 103
 
+## Words
+
+- exam pass mathematic question easy enough paper fail answer mark rest difficult hate low cheer guy top clever stupid cheap expensive fresh stale low loud high hard sweet soft sour
+
+## Whole
+
 1. 如果是通过某一个考试，用`pass`。如果是通过某一个科目，用`pass in`
 
    ```

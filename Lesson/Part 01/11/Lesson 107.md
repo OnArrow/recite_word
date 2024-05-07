@@ -1,6 +1,14 @@
 # Lesson 107
 
-1. 形容词的比较级&最高级
+## Words
+
+- madam smart suit pretty
+
+## Whole
+
+1. `as well` 同样
+
+2. 形容词的比较级&最高级
 
    - 中文里，通常用“好，更好，最好”来表示比较级和最高级
 
@@ -12,7 +20,7 @@
    无尽之刃最适合剑魔
    ```
 
-2. 比较级和最高级的构成
+3. 比较级和最高级的构成
 
    - 单音节形容词在后面加`er`构成比较级。加`est`构成最高级
 
@@ -74,13 +82,13 @@
    fattest
    ```
 
-3. 比较级一般用法
+4. 比较级一般用法
 
    ```
    She's got a larger dress
    ```
 
-4. 比较级用法（than）
+5. 比较级用法（than）
 
    - 规则：`主语 + be + adj.er + than + 比较对象`
 
@@ -93,7 +101,7 @@
    The right dog is bigger than the left dog
    ```
 
-5. 最高级用法
+6. 最高级用法
 
    - 规则（1）：`主语 + be + the + adj.est + （n.） + 范围`
 
@@ -125,7 +133,7 @@
    The students are the cleverest he's ever taught
    ```
 
-6. `as well` 相当于 `too`
+7. `as well` 相当于 `too`
 
    ```
    The dress is very smart
@@ -134,7 +142,7 @@
    是的，这件外套也很漂亮
    ```
 
-7. `suit yourself` 随你便/随便你/都行
+8. `suit yourself` 随你便/随便你/都行
 
    ```
    Can I go out to play?
@@ -142,7 +150,7 @@
    Suit yourself
    ```
 
-8. `would like + sth.` 可以理解为 `want sth.`，但语气比较委婉，`would like`不要分开翻译，把它当成一个词
+9. `would like + sth.` 可以理解为 `want sth.`，但语气比较委婉，`would like`不要分开翻译，把它当成一个词
 
    ```
    I want some tea
@@ -163,13 +171,13 @@
    No, I wouldn't
    ```
 
-9. `which` 也可以对形容词提问，表示“哪一些/哪一个”
+10. `which` 也可以对形容词提问，表示“哪一些/哪一个”
 
-   ```
-   Short skirts are in fashion now
+    ```
+    Short skirts are in fashion now
 
-   Which skirts are in fashion now?
-   ```
+    Which skirts are in fashion now?
+    ```
 
 ## Words
 

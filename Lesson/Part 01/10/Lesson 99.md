@@ -1,6 +1,18 @@
 # Lesson 99
 
-1. 在英语中常用`and`把两个动词连接在一起
+## Words
+
+- ow slip fall fell fallen downstairs hurt back help sure ray license licence
+
+## Whole
+
+1. `stand up` 起立，站起来
+
+2. `at once` 立即
+
+3. `X-ray` X 光透视
+
+4. 在英语中常用`and`把两个动词连接在一起
 
    ```
    Try and stand up
@@ -8,9 +20,9 @@
    come upstairs and see it
    ```
 
-2. `let me help you` 表示“让我来帮你”，其中`let`有“允许”的意思。后面要加不带`to`的动词不定式
+5. `let me help you` 表示“让我来帮你”，其中`let`有“允许”的意思。后面要加不带`to`的动词不定式
 
-3. 快速判断语句的时态
+6. 快速判断语句的时态
 
    ```
    Jack hurt himself
@@ -20,13 +32,13 @@
    // `hurt`的过去式和自身一模一样，所以这个为一般过去时
    ```
 
-4. 如果要把某人的话告诉另一个人，要用间接引语。间接引语不用加引号，往往在引语前加`that`等引导词
+7. 如果要把某人的话告诉另一个人，要用间接引语。间接引语不用加引号，往往在引语前加`that`等引导词
 
    ```
    The doctor says that he will come at once
    ```
 
-5. 宾语从句
+8. 宾语从句
 
    - 定义：一个句子充当宾语，这个句子叫宾语从句
 

@@ -1,6 +1,16 @@
 # Lesson 109
 
-1. `It's doesn't matter` 没关系
+## Words
+
+- idea teaspoonful less pity instead advice most least best worse worst
+
+## Whole
+
+1. `a little` 少许（用于不可数名称之前）
+
+2. `a few` 几个（用于可数名词之前）
+
+3. `It's doesn't matter` 没关系
 
    ```
    I'm sorry, I've lost your book
@@ -8,14 +18,14 @@
    It's doesn't matter
    ```
 
-2. `What a pity!` 真遗憾。英语中常用`what a + cn.` 和 `What un.` 的结构来表示感叹
+4. `What a pity!` 真遗憾。英语中常用`what a + cn.` 和 `What un.` 的结构来表示感叹
 
    ```
    What a mess!
    真是一团糟!
    ```
 
-3. 对某件事很遗憾
+5. 对某件事很遗憾
 
    ```
    It's a pity (that) he can't come
@@ -27,7 +37,7 @@
    It's a pity they found you, such a pity
    ```
 
-4. `idea` 是 `cn.`，而 `advice` 是 `un.`
+6. `idea` 是 `cn.`，而 `advice` 是 `un.`
 
    ```
    That's a good idea
@@ -36,7 +46,7 @@
    That's very good advice
    ```
 
-5. `a little un.` 和 `little un.` 的区别
+7. `a little un.` 和 `little un.` 的区别
 
    - `little` 后面都是跟的`un.`
 
@@ -70,7 +80,7 @@
    They have little money. They are very poor
    ```
 
-6. `a few cn.` 和 `few cn.` 的区别
+8. `a few cn.` 和 `few cn.` 的区别
 
    - `few` 后面跟的都是`cn.`
 

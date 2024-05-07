@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   honest sink ass/屁股 dashboard
+   honest sink ass/屁股 dashboard employer
    ```
 
 2. **过去式&过去分词**

@@ -32,7 +32,11 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
    You will have trouble with your teacher if you are late
    ```
 
-2. `have trouble doing sth.`
+2. `have trouble doing sth.` 做某事有麻烦
+
+   ```
+   The man who saved money for years had trouble finding his bank card
+   ```
 
 3. `so far` 到目前为止
 

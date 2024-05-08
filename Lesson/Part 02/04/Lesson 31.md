@@ -30,7 +30,23 @@ Frank smiled when he remembered his hard early years and the long road to succes
 
 3. `save sb's life` 救了某人一命
 
-4. `not...any more` 不再...
+4. `in sb's twenties` 在某人二十多岁的时候
+
+   ```
+   He used to play basketball in his twenties
+
+   My mother decided to go to New York in her thirties
+   ```
+
+5. `it is sb's job to do sth.` 做某事是某人的工作
+
+   ```
+   It was his job to clean the whole building
+
+   It is my job to teach English
+   ```
+
+6. `not...any more` 不再...
 
    ```
    I used to smoke, but I do not smoke any more
@@ -39,9 +55,9 @@ Frank smiled when he remembered his hard early years and the long road to succes
    I used to be a cop, but I'm not a cop any more
    ```
 
-5. `not...any longer` 不再...。和 `not...any more` 类似
+7. `not...any longer` 不再...。和 `not...any more` 类似
 
-6. `used to do` 过去经常发生，现在基本已经不发生了。
+8. `used to do` 过去经常发生，现在基本已经不发生了。
 
    - `use` 不要单独翻译，和 `have to` 一样当作一个短语翻译
 

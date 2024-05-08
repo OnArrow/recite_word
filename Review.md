@@ -1,143 +1,149 @@
 # Review
-1. sew **[səʊ]** `v` 缝补
+1. attractive **[əˈtræktɪv]** `adj` 吸引人的
 
-2. laundry **[ˈlɔːndri]** `n` 洗衣房
+2. standard **[ˈstændəd]** `n` 规范；（品质的）标准
 
-3. scale **[skeɪl]** `n` 比例；等级，级别 `v` 改变（文字、图片）的尺寸大小
+3. approve **[əˈpruːv]** `v` 批准，通过；赞成
 
-4. adventure **[ədˈventʃə(r)]** `n` 冒险
+4. spite **[spaɪt]** `n` 尽管，不顾
 
-5. nonsense **[ˈnɒns(ə)ns]** `n` 废话
+5. accurately **[ˈækjərətli]** `adv` 精确地，准确地
 
-6. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+6. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
 
-7. tow **[təʊ]** `v` 牵引；拖
+7. battered **[ˈbætəd]** `adj` 撞坏的；磨损的
 
-8. design **[dɪˈzaɪn]** `n` 设计；布局；设计图 `v` 设计；制图；构思；筹划
+8. stock **[stɒk]** `n` 股票，股份
 
-9. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
+9. intend **[ɪnˈtend]** `v` 打算
 
-10. burn **[bɜːn]** `v` 烧毁，燃烧
+10. adventure **[ədˈventʃə(r)]** `n` 冒险
 
-11. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
+11. nonsense **[ˈnɒns(ə)ns]** `n` 废话
 
-12. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
+12. rehearse **[rɪˈhɜːs]** `v` 排练
 
 13. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
 
-14. fond **[fɒnd]** `adj` 喜爱的
+14. pupil **[ˈpjuːp(ə)l]** `n` （尤指）小学生，学生
 
-15. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
+15. stroke **[strəʊk]** `n` （使用武器的）击，打；中风
 
-16. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者
+16. poetry **[ˈpəʊətri]** `n` 诗歌
 
-17. attractive **[əˈtræktɪv]** `adj` 吸引人的
+17. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
 
-18. accurately **[ˈækjərətli]** `adv` 精确地，准确地
+18. occupied **[ˈɒkjupaɪd]** `adj` 忙于...的；（床、椅子、房间等）已被占用的；（地方）被占领的
 
-19. scare **[skeə(r)]** `v` 吓唬；害怕
+19. hitchhike **[ˈhɪtʃhaɪk]** `n` 搭便车 `vi` 搭便车
 
 20. except **[ɪkˈsept]** `prep` 除...外，不包括
 
-21. jean **[dʒiːn]** `n` 牛仔裤
+21. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
 
-22. stock **[stɒk]** `n` 股票，股份
+22. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-23. poetry **[ˈpəʊətri]** `n` 诗歌
+23. doubt **[daʊt]** `v` 不确定，怀疑
 
-24. rehearse **[rɪˈhɜːs]** `v` 排练
+24. instruction **[ɪnˈstrʌkʃ(ə)n]** `n` 用法说明；指导
 
-25. battered **[ˈbætəd]** `adj` 撞坏的；磨损的
+25. princess **[ˌprɪnˈses]** `n` 公主
 
-26. fault **[fɔːlt]** `n` 错误
+26. belt **[belt]** `n` 腰带，皮带；传送带
 
-27. department **[dɪˈpɑːtmənt]** `n` 部门
+27. succeed **[səkˈsiːd]** `v` 成功
 
-28. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
+28. design **[dɪˈzaɪn]** `n` 设计；布局；设计图 `v` 设计；制图；构思；筹划
 
-29. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
+29. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
 
-30. intend **[ɪnˈtend]** `v` 打算
+30. inform **[ɪnˈfɔːm]** `v` 通告，告知
 
-31. occupied **[ˈɒkjupaɪd]** `adj` 忙于...的；（床、椅子、房间等）已被占用的；（地方）被占领的
+31. held **[held]** `v` （hold 的过去式）
 
-32. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
+32. upbeat **[ˈʌpbiːt]** `adj` 乐观的，积极向上的
 
-33. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
+33. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）
 
-34. doubt **[daʊt]** `v` 不确定，怀疑
+34. sew **[səʊ]** `v` 缝补
 
-35. approve **[əˈpruːv]** `v` 批准，通过；赞成
+35. rung **[rʌŋ]** `v` （ring 的过去分词）
 
-36. stroke **[strəʊk]** `n` （使用武器的）击，打；中风
+36. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
 
-37. pupil **[ˈpjuːp(ə)l]** `n` （尤指）小学生，学生
+37. polite **[pəˈlaɪt]** `adj` 有礼貌的，客气的
 
-38. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
+38. burn **[bɜːn]** `v` 烧毁，燃烧
 
-39. alone **[əˈləʊn]** `adj` 独自的；孤独的；唯一的 `adv` 独自；单独
+39. yell **[jel]** `v` 大喊，叫喊
 
-40. inform **[ɪnˈfɔːm]** `v` 通告，告知
+40. fault **[fɔːlt]** `n` 错误
 
-41. afterwards **[ˈɑːftəwədz]** `adv` 后来
+41. jean **[dʒiːn]** `n` 牛仔裤
 
-42. spite **[spaɪt]** `n` 尽管，不顾
+42. plaza **[ˈplɑːzə]** `n` （城市中的露天）广场；商业区
 
-43. shore **[ʃɔː(r)]** `n` 海岸
+43. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
 
-44. upbeat **[ˈʌpbiːt]** `adj` 乐观的，积极向上的
+44. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者
 
-45. heaven **[ˈhev(ə)n]** `n` 天堂
+45. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
 
-46. rung **[rʌŋ]** `v` （ring 的过去分词）
+46. tow **[təʊ]** `v` 牵引；拖
 
-47. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
+47. wealthy **[ˈwelθi]** `adj` 富有的
 
-48. instruction **[ɪnˈstrʌkʃ(ə)n]** `n` 用法说明；指导
+48. lecture **[ˈlektʃə(r)]** `n` 演讲
 
-49. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
+49. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
 
-50. held **[held]** `v` （hold 的过去式）
+50. laundry **[ˈlɔːndri]** `n` 洗衣房
 
-51. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
+51. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
 
-52. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
+52. scale **[skeɪl]** `n` 比例；等级，级别 `v` 改变（文字、图片）的尺寸大小
 
-53. hitchhike **[ˈhɪtʃhaɪk]** `n` 搭便车 `vi` 搭便车
+53. shore **[ʃɔː(r)]** `n` 海岸
 
-54. lecture **[ˈlektʃə(r)]** `n` 演讲
+54. fond **[fɒnd]** `adj` 喜爱的
 
-55. congratulate **[kənˈɡrætʃəleɪt]** `v` 祝贺
+55. afterwards **[ˈɑːftəwədz]** `adv` 后来
 
-56. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+56. rescue **[ˈreskjuː]** `v` 营救，援救 `n` 营救
 
-57. plaza **[ˈplɑːzə]** `n` （城市中的露天）广场；商业区
+57. prince **[prɪns]** `n` 王子
 
-58. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+58. scare **[skeə(r)]** `v` 吓唬；害怕
 
-59. succeed **[səkˈsiːd]** `v` 成功
+59. heaven **[ˈhev(ə)n]** `n` 天堂
 
-60. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）
+60. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
 
-61. belt **[belt]** `n` 腰带，皮带；传送带
+61. alone **[əˈləʊn]** `adj` 独自的；孤独的；唯一的 `adv` 独自；单独
 
-62. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
+62. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
 
-63. wealthy **[ˈwelθi]** `adj` 富有的
+63. department **[dɪˈpɑːtmənt]** `n` 部门
 
-64. opera **[ˈɒprə]** `n` 歌剧
+64. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-65. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
+65. opera **[ˈɒprə]** `n` 歌剧
 
-66. standard **[ˈstændəd]** `n` 规范；（品质的）标准
+66. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
 
-67. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
+67. congratulate **[kənˈɡrætʃəleɪt]** `v` 祝贺
 
-68. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
+68. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
 
-69. rescue **[ˈreskjuː]** `v` 营救，援救 `n` 营救
+69. upset **[ˌʌpˈset]** `adj` 心烦意乱的；不安；不满意
 
-70. yell **[jel]** `v` 大喊，叫喊
+70. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
 
-71. upset **[ˌʌpˈset]** `adj` 心烦意乱的；不安；不满意
+71. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
+
+72. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
+
+73. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
+
+74. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
 

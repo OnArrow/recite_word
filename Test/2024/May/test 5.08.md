@@ -59,3 +59,13 @@ Mediterranean Olympic government bitterly continually sunshine tight caller desp
 ```
 Olympic government immense stadium Mediterranean continually sunshine bitterly operation successful following exchange inquire certain caller unsmiling tight globe despair honest
 ```
+
+```
+globe inquire Olympic government honest exchange bitterly immense caller caller sunshine despair certain stadium stadium stadium following following unsmiling unsmiling operation operation tight tight tight Mediterranean Mediterranean successful successful successful continually continually
+```
+
+```
+The car is as clean as that car
+
+The car isn't as clean as that car
+```

@@ -85,7 +85,7 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
    I met somebody whose parents work in a bank
    ```
 
-## Exercise
+## Exercises
 
 ```
 He's an ugly man, isn't he?

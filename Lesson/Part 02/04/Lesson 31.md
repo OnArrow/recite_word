@@ -4,8 +4,6 @@
 
 - retire company bicycle save workshop helper employ grandson
 
-- ![Words](../../../Images/Part2/04/words-31.png)
-
 ## Success Story
 
 ```
@@ -19,10 +17,6 @@ In a few years the small workshop had become a large factory which employed seve
 
 Frank smiled when he remembered his hard early years and the long road to success. He was still smiling when the door opened and his wife came in. She wanted him to repair their grandson's bicycle!
 ```
-
-## Questions
-
-1. `used to`
 
 ## Whole
 
@@ -82,3 +76,125 @@ Frank smiled when he remembered his hard early years and the long road to succes
 
      Did you use to be cute as a kid?
      ```
+
+## Exercises
+
+```
+What were you doing at lunchtime? I was looking for you everywhere
+
+I was shopping
+```
+
+```
+What were you doing at two o'clock? I was looking for you everywhere
+
+I was having lunch
+```
+
+```
+What were you doing this morning? I was looking for you everywhere
+
+I was seeing the doctor
+```
+
+```
+What were you doing on Saturday? I was looking for you everywhere
+
+I was walking out
+```
+
+```
+What were you doing yesterday? I was looking for you everywhere
+
+I was writing my book
+```
+
+```
+When did it begin to rain?
+
+It was just beginning to rain when I returned from work
+```
+
+```
+When did it begin to snow?
+
+It was just beginning to snow when I went out this morning
+```
+
+```
+When did it begin to get dark?
+
+It was just beginning to get dark when I put the car away
+```
+
+```
+When did it begin to rain?
+
+It was just beginning to rain when I arrived home
+```
+
+```
+When did it begin to get windy?
+
+It was just beginning to get windy when I finished work
+```
+
+```
+Do you collect stamps?
+
+I used to, but I don't any longer
+```
+
+```
+Do you travel a lot?
+
+I used to, but I don't any longer
+```
+
+```
+Do you make your onw clothes?
+
+I used to, but I don't any longer
+```
+
+```
+Do you write poetry?
+
+I used to, but I don't any longer
+```
+
+```
+Does he go to concerts?
+
+He used to, but he doesn't any longer
+```
+
+```
+I used to be a taxi driver
+
+Did you really? I didn't even know you could drive!
+```
+
+```
+I used to be a part-time actor
+
+Did you really? I didn't even know you could act!
+```
+
+```
+I used to be a professional dancer
+
+Did you really? I didn't even know you could dance!
+```
+
+```
+I used to be a act teacher
+
+Did you really? I didn't even know you could act!
+```
+
+```
+I used to be a good swimmer
+
+Did you really? I didn't even know you could swim!
+```

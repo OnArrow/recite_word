@@ -105,7 +105,7 @@ Captain Fawcett has just refused a strange request from a businessman. The man w
        // `called a Pilatus Porter` 为 `called` 引导的短语，因此 `called` 放在名词 `Swiss airplane` 后面
        ```
 
-## Exercise
+## Exercises
 
 ```
 When did she meet him?

@@ -26,13 +26,15 @@ When she was arrested, the detective found out that the shop assistant was her d
 
 ## Whole
 
-1. `once upon a time` 很久以前
+1. `ever before` 以前
+
+2. `once upon a time` 很久以前
 
    ```
    Once upon a time there was a young prince and he decided that he wanted to go for a drive
    ```
 
-2. `resist the temptation` 抵制诱惑
+3. `resist the temptation` 抵制诱惑
 
    ```
    She has trouble resisting the temptation
@@ -40,7 +42,7 @@ When she was arrested, the detective found out that the shop assistant was her d
    'I can't resist the temptation' he said in a weak voice
    ```
 
-3. `wrap up sth.` 把某物包起来。`wrap` 通常不单独用，通常和 `up` 连起来用
+4. `wrap up sth.` 把某物包起来。`wrap` 通常不单独用，通常和 `up` 连起来用
 
    ```
    She sat there and wrapped up the presents for her children
@@ -48,9 +50,9 @@ When she was arrested, the detective found out that the shop assistant was her d
    He must be wrapping up the presents now
    ```
 
-4. `well dressed` 穿着得体的
+5. `well dressed` 穿着得体的
 
-5. `hand sth. to sb.` 把某物递给某人
+6. `hand sth. to sb.` 把某物递给某人
 
    ```
    Can you hand the salt to me?
@@ -60,7 +62,7 @@ When she was arrested, the detective found out that the shop assistant was her d
    Will you hand me a dry towel?
    ```
 
-6. `as quickly as possible` 尽可能快地
+7. `as quickly as possible` 尽可能快地
 
    ```
    We must wrap the presents up as quickly as possible
@@ -68,9 +70,9 @@ When she was arrested, the detective found out that the shop assistant was her d
    They have put up the tent as quickly as possible
    ```
 
-7. `find out` 查明。通过学习、观察或搜索来了解
+8. `find out` 查明。通过学习、观察或搜索来了解
 
-8. `not as...as...` 和 `not so...as...`
+9. `not as...as...` 和 `not so...as...`
 
    - 在 `否定句` 中，第一个 `as` 可以换成 `so`。表达基本一致，但只能在 `否定句` 中替换
 

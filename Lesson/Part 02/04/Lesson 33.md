@@ -42,7 +42,7 @@ That was all she remembered. When she woke up a day later, she found herself in 
 
 3. `she was/got caught in a storm` 她被困在了暴风雨中。相当于被暴风雨 `抓住了`
 
-4. `towards evening` 快到晚上的时候
+4. `towards evening` 快到/接近晚上的时候
 
 5. `the light went out` 停电了
 

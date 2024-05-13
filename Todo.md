@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   department scale worth belt hitchhike burn fasten annoy exhibition spite rescue scare rehearse attractive ashtray occupied jean doubt schema tow rung nonsense stroke congratulate fond stock adventure yell capable poetry wealthy heaven lecture sew laundry approve fault instruction accurately inform thoroughly settle particular pupil plaza upset upbeat shortly battered afterwards shore succeed anxiously intend professional opera hold held standard capital fantastic design except complain patient alone relative hostess silver fix curtain prince princess polite practice straight along among
+   department scale worth belt hitchhike burn fasten annoy exhibition spite rescue scare rehearse attractive ashtray occupied jean doubt schema tow rung nonsense stroke congratulate fond stock adventure yell capable poetry wealthy heaven lecture sew laundry approve fault instruction accurately inform thoroughly settle particular pupil plaza upset upbeat shortly battered afterwards shore succeed anxiously intend professional opera hold held standard capital fantastic design except complain patient alone relative hostess silver fix curtain prince princess polite practice straight along among cause grow invite
    ```
 
 5. **剑桥初级语法**

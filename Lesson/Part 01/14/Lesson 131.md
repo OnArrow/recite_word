@@ -1,5 +1,13 @@
 # Lesson 131
 
+## Words
+
+```
+Egypt abroad worry
+```
+
+## Whole
+
 1. `may/might` 表示现在推测
 
    - 表示推测，但是这个推测的可信度比较低，对现在的发生的事的肯定推测：可能是
@@ -190,12 +198,6 @@
    ```
    In the end, I finished my homework
    ```
-
-## Words
-
-```
-Egypt abroad worry
-```
 
 ## Don't be so sure!
 

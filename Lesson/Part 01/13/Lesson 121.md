@@ -1,5 +1,13 @@
 # Lesson 121
 
+## Words
+
+```
+customer forget manager serve counter recognize road porter
+```
+
+## Whole
+
 1. 定语
 
    - 帮助确定具体的某一事物
@@ -190,12 +198,6 @@
 
    Would you bring a book to me?
    ```
-
-## Words
-
-```
-customer forget manager serve counter recognize road porter
-```
 
 ## The man in a hat
 

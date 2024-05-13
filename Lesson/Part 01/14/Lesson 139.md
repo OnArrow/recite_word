@@ -1,5 +1,13 @@
 # Lesson 139
 
+## Words
+
+```
+extra overseas engineering company line
+```
+
+## Whole
+
 1. 一般疑问句做宾语从句
 
    - 一般疑问句做宾语从句时，一般疑问句的要先变为陈述语序，同时使用`if`引导，这个`if`不翻译为“如果”，翻译为“是否”
@@ -95,12 +103,6 @@
    ```
 
 3. `by the way` 顺便说一句
-
-## Words
-
-```
-extra overseas engineering company line
-```
 
 ## Is that you, John?
 

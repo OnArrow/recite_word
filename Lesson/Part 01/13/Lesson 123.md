@@ -1,5 +1,13 @@
 # Lesson 123
 
+## Words
+
+```
+during trip travel offer job guess grow beard kitten
+```
+
+## Whole
+
 1. 感叹句
 
    - `What + a/an + adj. + n.`
@@ -16,12 +24,6 @@
 
    What a comfortable chair!
    ```
-
-## Words
-
-```
-during trip travel offer job guess grow beard kitten
-```
 
 ## A trip to Australia
 

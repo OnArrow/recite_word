@@ -1,5 +1,13 @@
 # Lesson 141
 
+## Words
+
+```
+excited opposite curiously funny powder compact kindly ugly amused smile embarrassed worried regularly
+```
+
+## Whole
+
 1. 汉语里的“主动”和“被动”
 
    - 主动
@@ -116,12 +124,6 @@
 6. `make up her face` 化妆
 
    - 化谁的妆取决于`her`
-
-## Words
-
-```
-excited opposite curiously funny powder compact kindly ugly amused smile embarrassed worried regularly
-```
 
 ## Expressions
 

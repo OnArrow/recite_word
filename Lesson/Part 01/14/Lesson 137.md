@@ -1,5 +1,13 @@
 # Lesson 137
 
+## Words
+
+```
+football pool win world poor depend
+```
+
+## Whole
+
 1. `if`的使用
 
    - `if...(一般现在时), 主语 + will do...(一般将来时)`
@@ -66,12 +74,6 @@
    ```
    The cat depend on me
    ```
-
-## Words
-
-```
-football pool win world poor depend
-```
 
 ## A pleasant dream
 

@@ -1,5 +1,13 @@
 # Lesson 119
 
+## Words
+
+```
+story happen thief enter dark torch voice parrot examination
+```
+
+## Whole
+
 1. 过去完成时
 
    - 含义：强调过去某一动作发生在另一动作或状态之前（过去的过去）
@@ -66,12 +74,6 @@
 
    I'm doing my homework as quick as I can
    ```
-
-## Words
-
-```
-story happen thief enter dark torch voice parrot examination
-```
 
 ## A true story
 

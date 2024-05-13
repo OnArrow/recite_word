@@ -1,5 +1,13 @@
 # Lesson 117
 
+## Words
+
+```
+coin mouth swallow later toilet ring
+```
+
+## Whole
+
 1. 过去进行时：`was/were + doing`
 
    - 一个动作在过去的时间里正在进行
@@ -87,12 +95,6 @@
    The tea boiled over
    茶煮沸溢出来了
    ```
-
-## Words
-
-```
-coin mouth swallow later toilet ring
-```
 
 ## Tommy's breakfast
 

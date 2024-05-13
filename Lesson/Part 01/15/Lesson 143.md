@@ -1,5 +1,13 @@
 # Lesson 143
 
+## Words
+
+```
+surround wood hundred city through visitor tidy litter place throw rubbish count cover piece tyre rusty among prosecute
+```
+
+## Whole
+
 1. `A be surrounded by B` A 被 B 包围
 
    ```
@@ -81,12 +89,6 @@
 
    Who are those bridge being built?
    ```
-
-## Words
-
-```
-surround wood hundred city through visitor tidy litter place throw rubbish count cover piece tyre rusty among prosecute
-```
 
 ## Expressions
 

@@ -1,5 +1,13 @@
 # Lesson 133
 
+## Words
+
+```
+reporter sensational mink
+```
+
+## Whole
+
 1. “直接引语”变为“间接引语”时时态的变化
 
    - 总结：当主句为一般过去时的时候，间接引语一定要后退一个时态
@@ -116,12 +124,6 @@
 
    She said that she was going to take a bath
    ```
-
-## Words
-
-```
-reporter sensational mink
-```
 
 ## Expressions
 

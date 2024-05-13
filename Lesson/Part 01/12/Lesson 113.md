@@ -1,5 +1,13 @@
 # Lesson 113
 
+## Words
+
+```
+conductor fare change note passenger none neither tramp except
+```
+
+## Whole
+
 1. `not` & `no`
 
    - `not...any/a n.` = `no + n.`
@@ -129,12 +137,6 @@
 
    So did his brother
    ```
-
-## Words
-
-```
-conductor fare change note passenger none neither tramp except
-```
 
 ## Small change
 

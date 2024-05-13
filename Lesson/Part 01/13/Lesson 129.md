@@ -1,5 +1,13 @@
 # Lesson 129
 
+## Words
+
+```
+wave track mile overtake speed limit dream sign driving license charge darling
+```
+
+## Whole
+
 1. `must` 表示推测
 
    - 基本公式：
@@ -120,12 +128,6 @@
    The railway station is 4 miles away
    火车站在4英里远的地方
    ```
-
-## Words
-
-```
-wave track mile overtake speed limit dream sign driving license charge darling
-```
 
 ## Seventy miles an hour
 

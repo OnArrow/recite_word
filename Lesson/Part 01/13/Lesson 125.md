@@ -1,5 +1,13 @@
 # Lesson 125
 
+## Words
+
+```
+water terribly dry nuisance mean surprise immediately
+```
+
+## Whole
+
 1. `have to`
 
    - 含义：不得不/必须
@@ -79,12 +87,6 @@
 
    They are cooking by themselves
    ```
-
-## Words
-
-```
-water terribly dry nuisance mean surprise immediately
-```
 
 ## Tea for two
 

@@ -1,5 +1,13 @@
 # Lesson 135
 
+## Words
+
+```
+future hotel latest introduce
+```
+
+## Whole
+
 1. “直接引语”变为“间接引语”时情态动词的变化
 
    - 总结：当主句为一般过去时的时候，间接引语的情态动词要变为过去式
@@ -48,12 +56,6 @@
    ```
    Let me introduce my girlfriend to you
    ```
-
-## Words
-
-```
-future hotel latest introduce
-```
 
 ## Expressions
 

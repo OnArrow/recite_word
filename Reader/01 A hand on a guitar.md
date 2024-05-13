@@ -64,8 +64,8 @@
 
 1. `It sits in the corner of the living room waiting for Evie, Grace, Angela or Kate to visit.` 为什么是 `waiting`？
 
-1. `where we both work`
+2. `where we both work`
 
-1. `All I know is that he played music too` 中 `that` 什么作用？
+3. `All I know is that he played music too` 中 `that` 什么作用？
 
-1. `It was like being on a boat on an angry sea` 中 `being`？
+4. `It was like being on a boat on an angry sea` 中 `being`？

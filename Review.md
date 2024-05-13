@@ -1,163 +1,171 @@
 # Review
-1. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
+1. pupil **[ˈpjuːp(ə)l]** `n` （尤指）小学生，学生
 
-2. scale **[skeɪl]** `n` 比例；等级，级别 `v` 改变（文字、图片）的尺寸大小
+2. inform **[ɪnˈfɔːm]** `v` 通告，告知
 
-3. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+3. upbeat **[ˈʌpbiːt]** `adj` 乐观的，积极向上的
 
-4. shore **[ʃɔː(r)]** `n` 海岸
+4. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
 
-5. rehearse **[rɪˈhɜːs]** `v` 排练
+5. succeed **[səkˈsiːd]** `v` 成功
 
-6. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）
+6. instruction **[ɪnˈstrʌkʃ(ə)n]** `n` 用法说明；指导
 
-7. hitchhike **[ˈhɪtʃhaɪk]** `n` 搭便车 `vi` 搭便车
+7. report **[rɪˈpɔːt]** `n` 报告，汇报 `v` 报道；公布；举报
 
-8. poetry **[ˈpəʊətri]** `n` 诗歌
+8. fault **[fɔːlt]** `n` 错误
 
-9. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
+9. jean **[dʒiːn]** `n` 牛仔裤
 
-10. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者
+10. hitchhike **[ˈhɪtʃhaɪk]** `n` 搭便车 `vi` 搭便车
 
-11. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
+11. grow **[ɡrəʊ]** `v` 长大；成长；种植
 
-12. congratulate **[kənˈɡrætʃəleɪt]** `v` 祝贺
+12. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
 
-13. lecture **[ˈlektʃə(r)]** `n` 演讲
+13. rung **[rʌŋ]** `v` （ring 的过去分词）
 
-14. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
+14. attractive **[əˈtræktɪv]** `adj` 吸引人的
 
-15. doubt **[daʊt]** `v` 不确定，怀疑
+15. rehearse **[rɪˈhɜːs]** `v` 排练
 
-16. stock **[stɒk]** `n` 股票，股份
+16. poetry **[ˈpəʊətri]** `n` 诗歌
 
-17. rung **[rʌŋ]** `v` （ring 的过去分词）
+17. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
 
-18. scare **[skeə(r)]** `v` 吓唬；害怕
+18. invite **[ɪnˈvaɪt]** `v` 邀请，约请
 
-19. design **[dɪˈzaɪn]** `n` 设计；布局；设计图 `v` 设计；制图；构思；筹划
+19. spite **[spaɪt]** `n` 尽管，不顾
 
-20. pupil **[ˈpjuːp(ə)l]** `n` （尤指）小学生，学生
+20. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
 
-21. upbeat **[ˈʌpbiːt]** `adj` 乐观的，积极向上的
+21. design **[dɪˈzaɪn]** `n` 设计；布局；设计图 `v` 设计；制图；构思；筹划
 
-22. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
+22. belt **[belt]** `n` 腰带，皮带；传送带
 
-23. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
+23. yell **[jel]** `v` 大喊，叫喊
 
-24. department **[dɪˈpɑːtmənt]** `n` 部门
+24. prince **[prɪns]** `n` 王子
 
 25. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
 
-26. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
+26. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
 
-27. accurately **[ˈækjərətli]** `adv` 精确地，准确地
+27. shore **[ʃɔː(r)]** `n` 海岸
 
-28. nonsense **[ˈnɒns(ə)ns]** `n` 废话
+28. alone **[əˈləʊn]** `adj` 独自的；孤独的；唯一的 `adv` 独自；单独
 
-29. stroke **[strəʊk]** `n` （使用武器的）击，打；中风
+29. fond **[fɒnd]** `adj` 喜爱的
 
-30. prince **[prɪns]** `n` 王子
+30. afterwards **[ˈɑːftəwədz]** `adv` 后来
 
-31. jean **[dʒiːn]** `n` 牛仔裤
+31. adventure **[ədˈventʃə(r)]** `n` 冒险
 
-32. fond **[fɒnd]** `adj` 喜爱的
+32. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
 
-33. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
+33. among **[əˈmʌŋ]** `prep` 在...当中；...之一
 
-34. standard **[ˈstændəd]** `n` 规范；（品质的）标准
+34. stroke **[strəʊk]** `n` （使用武器的）击，打；中风
 
-35. spite **[spaɪt]** `n` 尽管，不顾
+35. doubt **[daʊt]** `v` 不确定，怀疑
 
-36. laundry **[ˈlɔːndri]** `n` 洗衣房
+36. held **[held]** `v` （hold 的过去式）
 
-37. approve **[əˈpruːv]** `v` 批准，通过；赞成
+37. tow **[təʊ]** `v` 牵引；拖
 
-38. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
+38. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-39. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
+39. along **[əˈlɒŋ]** `prep` 沿着；顺着；靠着...边
 
-40. fault **[fɔːlt]** `n` 错误
+40. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
 
-41. princess **[ˌprɪnˈses]** `n` 公主
+41. upset **[ˌʌpˈset]** `adj` 心烦意乱的；不安；不满意
 
-42. succeed **[səkˈsiːd]** `v` 成功
+42. salary **[ˈsæləri]** `n` 工资；薪水
 
-43. adventure **[ədˈventʃə(r)]** `n` 冒险
+43. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
 
-44. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
+44. congratulate **[kənˈɡrætʃəleɪt]** `v` 祝贺
 
-45. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+45. approve **[əˈpruːv]** `v` 批准，通过；赞成
 
-46. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
+46. heaven **[ˈhev(ə)n]** `n` 天堂
 
-47. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
+47. intend **[ɪnˈtend]** `v` 打算
 
 48. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
 
-49. wealthy **[ˈwelθi]** `adj` 富有的
+49. princess **[ˌprɪnˈses]** `n` 公主
 
-50. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
+50. rescue **[ˈreskjuː]** `v` 营救，援救 `n` 营救
 
-51. occupied **[ˈɒkjupaɪd]** `adj` 忙于...的；（床、椅子、房间等）已被占用的；（地方）被占领的
+51. scare **[skeə(r)]** `v` 吓唬；害怕
 
-52. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
+52. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）
 
-53. plaza **[ˈplɑːzə]** `n` （城市中的露天）广场；商业区
+53. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
 
-54. yell **[jel]** `v` 大喊，叫喊
+54. accurately **[ˈækjərətli]** `adv` 精确地，准确地
 
-55. invite **[ɪnˈvaɪt]** `v` 邀请，约请
+55. department **[dɪˈpɑːtmənt]** `n` 部门
 
-56. inform **[ɪnˈfɔːm]** `v` 通告，告知
+56. plaza **[ˈplɑːzə]** `n` （城市中的露天）广场；商业区
 
-57. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+57. advise **[ədˈvaɪz]** `v` （同 advice）
 
-58. intend **[ɪnˈtend]** `v` 打算
+58. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
 
-59. belt **[belt]** `n` 腰带，皮带；传送带
+59. battered **[ˈbætəd]** `adj` 撞坏的；磨损的
 
-60. attractive **[əˈtræktɪv]** `adj` 吸引人的
+60. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
 
-61. along **[əˈlɒŋ]** `prep` 沿着；顺着；靠着...边
+61. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
 
-62. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
+62. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-63. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
+63. opera **[ˈɒprə]** `n` 歌剧
 
-64. tow **[təʊ]** `v` 牵引；拖
+64. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
 
-65. alone **[əˈləʊn]** `adj` 独自的；孤独的；唯一的 `adv` 独自；单独
+65. except **[ɪkˈsept]** `prep` 除...外，不包括
 
-66. opera **[ˈɒprə]** `n` 歌剧
+66. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
 
-67. upset **[ˌʌpˈset]** `adj` 心烦意乱的；不安；不满意
+67. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
 
-68. instruction **[ɪnˈstrʌkʃ(ə)n]** `n` 用法说明；指导
+68. fasten **[ˈfɑːs(ə)n]** `v` 系牢；关紧，锁好（门窗）
 
-69. rescue **[ˈreskjuː]** `v` 营救，援救 `n` 营救
+69. stock **[stɒk]** `n` 股票，股份
 
-70. burn **[bɜːn]** `v` 烧毁，燃烧
+70. scale **[skeɪl]** `n` 比例；等级，级别 `v` 改变（文字、图片）的尺寸大小
 
-71. among **[əˈmʌŋ]** `prep` 在...当中；...之一
+71. standard **[ˈstændəd]** `n` 规范；（品质的）标准
 
-72. battered **[ˈbætəd]** `adj` 撞坏的；磨损的
+72. wealthy **[ˈwelθi]** `adj` 富有的
 
-73. afterwards **[ˈɑːftəwədz]** `adv` 后来
+73. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者
 
-74. polite **[pəˈlaɪt]** `adj` 有礼貌的，客气的
+74. abroad **[əˈbrɔːd]** `adv` 在国外 `n` 外国
 
-75. held **[held]** `v` （hold 的过去式）
+75. laundry **[ˈlɔːndri]** `n` 洗衣房
 
-76. sew **[səʊ]** `v` 缝补
+76. nonsense **[ˈnɒns(ə)ns]** `n` 废话
 
-77. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
+77. polite **[pəˈlaɪt]** `adj` 有礼貌的，客气的
 
-78. except **[ɪkˈsept]** `prep` 除...外，不包括
+78. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
 
-79. heaven **[ˈhev(ə)n]** `n` 天堂
+79. sew **[səʊ]** `v` 缝补
 
-80. grow **[ɡrəʊ]** `v` 长大；成长；种植
+80. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
 
-81. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
+81. lecture **[ˈlektʃə(r)]** `n` 演讲
+
+82. burn **[bɜːn]** `v` 烧毁，燃烧
+
+83. occupied **[ˈɒkjupaɪd]** `adj` 忙于...的；（床、椅子、房间等）已被占用的；（地方）被占领的
+
+84. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
+
+85. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
 

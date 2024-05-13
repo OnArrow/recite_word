@@ -18,10 +18,6 @@ Early next morning, she saw a light ahead. She knew she was near the shore becau
 That was all she remembered. When she woke up a day later, she found herself in hospital.
 ```
 
-## Questions
-
-1. `Nearly a week passed before`
-
 ## Whole
 
 1. `explain sth. to sb.` 解释某事给某人听

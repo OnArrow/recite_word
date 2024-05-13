@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   sink ass/屁股 dashboard employer upon resist ambitious helpful/乐于助人的 towel
+   sink ass/屁股 dashboard employer upon resist ambitious helpful/乐于助人的 towel punctual extraordinary solve wedding
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   department scale worth belt hitchhike burn fasten annoy exhibition spite rescue scare rehearse attractive ashtray occupied jean doubt schema tow rung nonsense stroke congratulate fond stock adventure yell capable poetry wealthy heaven lecture sew laundry approve fault instruction accurately inform thoroughly settle particular pupil plaza upset upbeat shortly battered afterwards shore succeed anxiously intend professional opera hold held standard capital fantastic design except complain patient alone relative hostess silver fix curtain prince princess polite practice straight along among cause grow invite
+   department scale worth belt hitchhike burn fasten annoy exhibition spite rescue scare rehearse attractive ashtray occupied jean doubt schema tow rung nonsense stroke congratulate fond stock adventure yell capable poetry wealthy heaven lecture sew laundry approve fault instruction accurately inform thoroughly settle particular pupil plaza upset upbeat shortly battered afterwards shore succeed anxiously intend professional opera hold held standard capital fantastic design except complain patient alone relative hostess silver fix curtain prince princess polite practice straight along among cause grow invite salary abroad advise report
    ```
 
 5. **剑桥初级语法**

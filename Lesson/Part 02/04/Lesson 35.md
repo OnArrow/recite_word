@@ -4,8 +4,6 @@
 
 - while regret far rush act straight fright battered shortly afterwards
 
-- ![Words](../../../Images/Part2/04/words-35.png)
-
 ## Stop thief!
 
 ```
@@ -20,4 +18,139 @@ As the thieves were trying to get away in their car, Roy drove his bus into the 
 While the battered car was moving away, Roy stopped his bus and telephoned the police.
 
 The thieves' car was badly damaged and easy to recognize. Shortly afterwards, the police stopped the car and both men were arrested.
+```
+
+## Questions
+
+1. `I had such a big breakfast that I didn't eat anything else for the rest of the day` 的 `else`
+
+## Whole
+
+1. `regret sth.` 后悔某事
+
+   ```
+   She immediately regretted her words
+   ```
+
+2. `far` 作为 `adv.` 时，通常跟形容词的比较级一起出现。表示 `非常`
+
+   ```
+   如果从1-10分等级
+
+   0 not interesting
+
+   5 interesting
+
+   6-8 more interesting
+
+   10 far more interesting
+   ```
+
+3. `get away` 离开，跑开。
+
+4. `go straight ahead` 径直走
+
+5. `give me a fright`, `get a fright` 吓我一跳
+
+   ```
+   My son used to rush into the kitchen, and I always got a fright
+
+   You know you really gave me a fright
+   ```
+
+6. `see sb. do sth.` & `see sb. doing sth.`
+
+   - `see sb. do sth.` 完整目睹整个动作
+
+     ```
+     I saw Jack get into his car and drive away
+     // 看到了杰克上车并且开车离开了，整个过程都看到了
+     ```
+
+   - `see sb. doing sth.` 只看到了动作进行中，而没有看到后续
+
+     ```
+     I saw Jack waiting for a bus
+     // 看到了等公交车，但没看到最后到底等没等到车
+     ```
+
+7. `so` & `such`
+
+   - 都表示 `程度更加强烈`
+
+   - `so + adj./adv.`
+
+     - `so` 后面不跟名词
+
+     ```
+     The story was so stupid
+
+     He got out of the car so quickly
+     ```
+
+   - `such + [adj.] + n.`
+
+     - `such` 后面一定跟有名词
+
+     ```
+     It was such a stupid story
+
+     It was such a fine day
+     ```
+
+8. `so...that...` 如此...以至于...
+
+   ```
+   The ball struck him so hard that he nearly fell into the water
+   这个球撞向他如此狠以至于他掉到水中
+
+   I was so tired that I fell asleep in the armchair
+
+   The book so good that I couldn't put it down
+   ```
+
+9. `such...that...` 如此...以至于...
+
+   ```
+   It was such a good book that I couldn't put it down
+
+   It was such nice weather day that we spent the whole day on the beach
+   ```
+
+## Exercises
+
+```
+She worked so hard that she made herself ill
+```
+
+```
+It was such a beautiful day that we decided to go to the beach
+```
+
+```
+I was so tired that I couldn't open my eyes
+```
+
+```
+We had such a good time on holiday that I don't know where to begin
+```
+
+```
+She speaks English so well that you would think it was her native language
+```
+
+```
+I've got such a lot of things to do that I didn't eat anything else for the rest of the day
+```
+
+```
+The music was so loud that you could hear it from miles away
+```
+
+```
+I had such a big breakfast that I didn't eat anything else for the rest of the day
+```
+
+```
+It was such a horrible weather that we spent the whole day indoors
 ```

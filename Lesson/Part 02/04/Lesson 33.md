@@ -63,5 +63,5 @@ That was all she remembered. When she woke up a day later, she found herself in 
    On entering the room, we saw him
 
 
-   On arriving at the station, he found my parents
+   On throwing the battered boots away, he immediately regretted it
    ```

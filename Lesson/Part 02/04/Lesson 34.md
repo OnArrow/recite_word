@@ -39,9 +39,11 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    You must call at the police station as quickly as possible
    ```
 
-3. `pick up` 最常见的表达是 `捡起某个东西`
+3. `Dan wondered why he was wanted by the police` 中的 `want` 可以理解为 `被警察传唤`
 
-4. `most` 当 `adv.` 使用时，和 `very` 一致
+4. `pick up` 最常见的表达是 `捡起某个东西`
+
+5. `most` 当 `adv.` 使用时，和 `very` 一致
 
    ```
    She was very surprised when she heard the news
@@ -50,7 +52,7 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    // 和上一句一致
    ```
 
-5. `expect sth. to be found` 期待某物被找到
+6. `expect sth. to be found` 期待某物被找到
 
    ```
    He expected his wallet to be found by the police
@@ -58,7 +60,7 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    She never expected her secret to be found by someone
    ```
 
-6. `过去完成时被动语态`
+7. `过去完成时被动语态`
 
    - 结构: `had been + done`
 
@@ -69,10 +71,6 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
 
    The window had been broken
    ```
-
-## Questions
-
-1. `He's been told not to leave home when the weather's like this` 为什么是 `the weather's like`? `is like` 什么时态？
 
 ## Exercises
 

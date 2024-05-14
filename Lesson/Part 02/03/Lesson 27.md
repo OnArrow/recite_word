@@ -22,7 +22,7 @@ It was raining heavily and they found that a stream had formed in the field. The
 
 1. `sleeping bag` 睡袋
 
-2. `wonderful` 同义词。常用于口语
+2. `wonderful` 有很多同义词，常用于口语，如以下
 
    - `great`, `excellent`, `outstanding`, `brilliant`, `fantastic`
 

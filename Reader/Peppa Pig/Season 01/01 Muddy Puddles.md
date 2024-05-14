@@ -1,0 +1,194 @@
+# Muddy Puddles
+
+## Article
+
+It is raining today.
+
+So, Peppa and George cannot play outside.
+
+Daddy, it's stopped raining.
+
+Can we go out to play?
+
+Alright, run along you two.
+
+Peppa loves jumping in muddy puddles.
+
+I love muddy puddles.
+
+Peppa. lf you jump in muddy puddles,
+
+you must wear your boots.
+
+Sorry, Mummy.
+
+George likes to jump in muddy puddles, too.
+
+George. If you jump in muddy puddles,
+
+you must wear your boots.
+
+Peppa likes to look after her little brother, George.
+
+George, let's find some more puddles.
+
+Peppa and George are having a lot of fun.
+
+Peppa has found a little puddle.
+
+George has found a big puddle.
+
+Look, George. There's a really big puddle.
+
+George wants to jump into the big puddle first.
+
+Stop, George.l must check if it's safe for you.
+
+Good. It is safe for you.
+
+Sorry, George. It's only mud.
+
+Peppa and George love jumping in muddy puddles.
+
+Come on, George.Let's go and show Daddy.
+
+Goodness me.
+
+Daddy. Daddy.Guess what we've been doing.
+
+Let me think...
+
+Have you been watching television?
+
+No. No. Daddy.
+
+Have you just had a bath?
+
+No. No.
+
+I know. You've been jumping in muddy puddles.
+
+Yes. Yes. Daddy. We've been jumping in muddy puddles.
+
+Ho. Ho. And look at the mess you're in.
+
+Oooh...
+
+Oh, well, it's only mud.
+
+Let's clean up quickly before Mummy sees the mess.
+
+Daddy, when we've cleaned up,
+
+will you and Mummy come and play, too?
+
+Yes, we can all play in the garden.
+
+Peppa and George are wearing their boots.
+
+Mummy and Daddy are wearing their boots.
+
+Peppa loves jumping up and down in muddy puddles.
+
+Everyone loves jumping up and down in muddy puddles.
+
+Oh, Daddy pig,look at the mess you're in.
+
+lt's only mud.
+
+## Translate
+
+It is raining today.
+今天下雨了。
+So, Peppa and George cannot play outside.
+所以佩奇和乔治不能在外边玩了。
+Daddy, it's stopped raining.
+爸爸，现在雨停了。
+Can we go out to play?
+我们能出去玩吗？
+Alright, run along you two.
+好的，你们俩个去玩吧。
+Peppa loves jumping in muddy puddles.
+佩奇最喜欢在泥坑里玩。
+I love muddy puddles.
+我最喜欢在泥坑里玩了。
+Peppa. lf you jump in muddy puddles,
+佩奇。如果你要在泥坑里跳，
+you must wear your boots.
+你必须要穿上靴子才行。
+Sorry, Mummy.
+对不起，妈妈。
+George likes to jump in muddy puddles, too.
+乔治也喜欢在泥坑里跳。
+George. If you jump in muddy puddles,
+我说乔治。如果你想在泥坑里跳，
+you must wear your boots.
+你也必须穿上靴子才行。
+Peppa likes to look after her little brother, George.
+佩奇喜欢照顾她的弟弟乔治。
+George, let's find some more puddles.
+好了，乔治，我们再去找几个泥坑跳吧。
+Peppa and George are having a lot of fun.
+佩奇和乔治玩得很开心。
+Peppa has found a little puddle.
+佩奇找到了一个小泥坑。
+George has found a big puddle.
+乔治找到了一个大泥坑。
+Look, George. There's a really big puddle.
+你看，乔治。那里有一个很大的泥坑。
+George wants to jump into the big puddle first.
+乔治想第一个跳到泥坑里去玩。
+Stop, George.l must check if it's safe for you.
+等一下，乔治。我得检查一下这里安不安全。
+Good. It is safe for you.
+很好。你可以放心地玩啦。
+Sorry, George. It's only mud.
+对不起，乔治。只是些泥而已。
+Peppa and George love jumping in muddy puddles.
+佩奇和乔治喜欢在泥坑里跳来跳去。
+Come on, George.Let's go and show Daddy.
+来吧，乔治。我们快点去给爸爸看看。
+Goodness me.
+哦，我的老天呀。
+Daddy. Daddy.Guess what we've been doing.
+爸爸。爸爸。你猜猜我们刚才干了些什么。
+Let me think...
+请我想一想。。。
+Have you been watching television?
+你们刚才看电视了？
+No. No. Daddy.
+不对，你猜错了，爸爸。
+Have you just had a bath?
+你们刚才洗澡了？
+No. No.
+不对。不对。
+I know. You've been jumping in muddy puddles.
+我知道了。你们刚才在泥坑里跳来跳去。
+Yes. Yes. Daddy. We've been jumping in muddy puddles.
+没错。没错。爸爸。我们刚才在泥坑里跳来跳去。
+Ho. Ho. And look at the mess you're in.
+呵呵。看看你们弄得多脏呀。
+Oooh...
+糟糕。。。
+Oh, well, it's only mud.
+哦，没事，只是些泥而已。
+Let's clean up quickly before Mummy sees the mess.
+快清理干净，别让妈妈看到那么脏。
+Daddy, when we've cleaned up,
+爸爸，我们清理干净以后，
+will you and Mummy come and play, too?
+你和妈妈也会一起来玩吗？
+Yes, we can all play in the garden.
+是的，我们都可以在花园玩。
+Peppa and George are wearing their boots.
+佩奇和乔治穿上他们的靴子。
+Mummy and Daddy are wearing their boots.
+猪妈妈和猪爸爸也穿上他们的靴子。
+Peppa loves jumping up and down in muddy puddles.
+佩奇喜欢在泥坑里跳来跳去。
+Everyone loves jumping up and down in muddy puddles.
+每个人都喜欢在泥坑里跳来跳去。
+Oh, Daddy pig,look at the mess you're in.
+哦，看啦，猪爸爸，瞧瞧你身上多脏呀。
+lt's only mud.
+只是些泥而已。

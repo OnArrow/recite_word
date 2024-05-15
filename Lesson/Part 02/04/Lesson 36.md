@@ -22,4 +22,8 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
 
 ## Questions
 
-1. `Among them will be Debbie's mother, who swam the Channel herself when she was a girl`
+1. `Among them will be Debbie's mother, who swam the Channel herself when she was a girl`?
+
+2. `set up a new world record` 创造一个新的世界纪录?
+
+3. `Tomorrow he will be watching her anxiously as she swims the long distance to England` 中的 `as` 理解成 `while`?

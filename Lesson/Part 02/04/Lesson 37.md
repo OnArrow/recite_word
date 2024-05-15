@@ -22,6 +22,10 @@ We are all very excited and are looking forward to the Olympic Games because the
 
 ## Questions
 
-1. `As a great many people will be visiting the country` 中的 `as`
+1. `As a great many people will be visiting the country` 中的 `as`，是否是 `while`
 
-2. `The Games will be held just outside the capital` 中的 `just`
+2. `The Games will be held just outside the capital` 中的 `just`。运动项目将只在首都外面召开
+
+3. `Workers will have completed the new roads by the end of this year` 中的 `will have completed` 将来完成时？
+
+4. `Everybody will be watching anxiously as the new buildings go up` 中的 `as`，是否是 `while`

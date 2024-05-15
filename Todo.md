@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   sink ass/屁股 dashboard employer upon resist ambitious helpful/乐于助人的 towel punctual extraordinary solve wedding indoor
+
    ```
 
 2. **过去式&过去分词**
 
    ```
-   draw
+
    ```
 
 3. **比较级&最高级**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   department scale worth hitchhike burn fasten annoy exhibition spite rescue scare attractive ashtray occupied doubt schema tow nonsense stroke congratulate fond stock capable poetry wealthy lecture sew laundry approve fault instruction accurately inform thoroughly settle particular pupil plaza upset upbeat battered afterwards shore succeed anxiously intend professional opera patient relative hostess silver fix curtain  polite practice straight along among cause grow invite salary abroad advise report forward complain explain horrible
+    annoy spite rescue scare ashtray occupied  schema stock capable sew fault accurately inform thoroughly settle  battered shore succeed anxiously intend opera polite cause invite salary abroad advise report forward complain explain horrible indent clavichord reserve shock nowadays sanitize rude mirror remind musical market
    ```
 
 5. **剑桥初级语法**

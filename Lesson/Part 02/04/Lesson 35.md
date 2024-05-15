@@ -20,102 +20,116 @@ While the battered car was moving away, Roy stopped his bus and telephoned the p
 The thieves' car was badly damaged and easy to recognize. Shortly afterwards, the police stopped the car and both men were arrested.
 ```
 
-## Questions
-
-1. `I had such a big breakfast that I didn't eat anything else for the rest of the day` 的 `else`
-
 ## Whole
 
-1. `regret sth.` 后悔某事
+1.  `regret sth.` 后悔某事
 
-   ```
-   She immediately regretted her words
-   ```
+    ```
+    She immediately regretted her words
+    ```
 
-2. `far` 作为 `adv.` 时，通常跟形容词的比较级一起出现。表示 `非常`
+2.  `far` 作为 `adv.` 时，通常跟形容词的比较级一起出现。表示 `非常`。 `比较级 > far more > 最高级`
 
-   ```
-   如果从1-10分等级
+    ```
+    如果从1-10分等级，
 
-   0 not interesting
+    0 not interesting
 
-   5 interesting
+    5 interesting
 
-   6-8 more interesting
+    6-7 more interesting
 
-   10 far more interesting
-   ```
+    7-9 far more interesting
 
-3. `get away` 离开，跑开。
+    10 most interesting
+    ```
 
-4. `go straight ahead` 径直走
+    ```
+    When he had heard her voice over the phone, he was far more excited
 
-5. `give me a fright`, `get a fright` 吓我一跳
+    This apple is far better
+    ```
 
-   ```
-   My son used to rush into the kitchen, and I always got a fright
+3.  `up to date` 最新的
 
-   You know you really gave me a fright
-   ```
+    ```
+    The software is up to date
+    ```
 
-6. `see sb. do sth.` & `see sb. doing sth.`
+4.  `get away` 离开，跑开。
 
-   - `see sb. do sth.` 完整目睹整个动作
+5.  `go straight ahead` 径直走
 
-     ```
-     I saw Jack get into his car and drive away
-     // 看到了杰克上车并且开车离开了，整个过程都看到了
-     ```
+6.  `give me a fright`, `get a fright` 吓我一跳
 
-   - `see sb. doing sth.` 只看到了动作进行中，而没有看到后续
+    ```
+    My son used to rush into the kitchen, and I always got a fright
 
-     ```
-     I saw Jack waiting for a bus
-     // 看到了等公交车，但没看到最后到底等没等到车
-     ```
+    You know you really gave me a fright
+    ```
 
-7. `so` & `such`
+7.  `see sb. do sth.` & `see sb. doing sth.`
 
-   - 都表示 `程度更加强烈`
+    - `see sb. do sth.` 完整目睹整个动作
 
-   - `so + adj./adv.`
+      ```
+      I saw Jack get into his car and drive away
+      // 看到了杰克上车并且开车离开了，整个过程都看到了
+      ```
 
-     - `so` 后面不跟名词
+    - `see sb. doing sth.` 只看到了动作进行中，而没有看到后续
 
-     ```
-     The story was so stupid
+      ```
+      I saw Jack waiting for a bus
+      // 看到了等公交车，但没看到最后到底等没等到车
+      ```
 
-     He got out of the car so quickly
-     ```
+8.  `so` & `such`
 
-   - `such + [adj.] + n.`
+    - 都表示 `程度更加强烈`
 
-     - `such` 后面一定跟有名词
+    - `so + adj./adv.`
 
-     ```
-     It was such a stupid story
+      - `so` 后面不跟名词
 
-     It was such a fine day
-     ```
+      ```
+      The story was so stupid
 
-8. `so...that...` 如此...以至于...
+      He got out of the car so quickly
+      ```
 
-   ```
-   The ball struck him so hard that he nearly fell into the water
-   这个球撞向他如此狠以至于他掉到水中
+    - `such + [adj.] + n.`
 
-   I was so tired that I fell asleep in the armchair
+      - `such` 后面一定跟有名词
 
-   The book so good that I couldn't put it down
-   ```
+      ```
+      It was such a stupid story
 
-9. `such...that...` 如此...以至于...
+      It was such a fine day
+      ```
 
-   ```
-   It was such a good book that I couldn't put it down
+9.  `so...that...` & `such...that...`
 
-   It was such nice weather day that we spent the whole day on the beach
-   ```
+    - 都表示 `如此...以至于...`
+
+    - `so...that...`
+
+      ```
+      The ball struck him so hard that he nearly fell into the water
+      这个球撞向他如此狠以至于他掉到水中
+
+      I was so tired that I fell asleep in the armchair
+
+      The book so good that I couldn't put it down
+      ```
+
+    - `such...that...`
+
+      ```
+      It was such a good book that I couldn't put it down
+
+      It was such nice weather day that we spent the whole day on the beach
+      ```
 
 ## Exercises
 

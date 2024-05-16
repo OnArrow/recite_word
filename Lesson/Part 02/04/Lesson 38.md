@@ -24,6 +24,10 @@ The dream he had had for so many years ended there. Harrison had thought of ever
 
 ## Questions
 
-1. `He had no sooner returned`
+1. `He had no sooner returned than he bought a house and went to live there` 中的 `no sooner`，`than`
 
 2. `He acted as if he had never lived in England before`
+
+3. `for even though`
+
+4. `After so many years of sunshine`

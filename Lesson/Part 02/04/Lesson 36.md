@@ -22,11 +22,7 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
 
 1. `Among them will be Debbie's mother, who swam the Channel herself when she was a girl`? 非限定定语从句
 
-2. `Tomorrow he will be watching her anxiously as she swims the long distance to England` 中的 `as` 理解成 `while`?
-
-3. `In his twenties, he is a very strong swimmer` 用 `is` 还是 `was`
-
-4. `You won't forget to bring something to write with, will you?` 为什么 `with` 在句尾并且不跟其它单词
+2. `In his twenties, he is a very strong swimmer` 用 `is` 还是 `was`
 
 ## Whole
 
@@ -187,6 +183,7 @@ Don't worry! I'll bring some coffee
 
 ```
 You won't forget to bring something to write with, will you?
+// `write with` 属于短语，表示 `用...来写`。因此介词 `with` 就被放在了最后
 
 Don't worry! I'll bring a pencil
 ```

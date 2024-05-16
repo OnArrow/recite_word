@@ -60,7 +60,11 @@ The thieves' car was badly damaged and easy to recognize. Shortly afterwards, th
 
 5.  `go straight ahead` 径直走
 
-6.  `give me a fright`, `get a fright` 吓我一跳
+6.  吓我一跳
+
+    - `give me a fright`
+
+    - `get a fright`
 
     ```
     My son used to rush into the kitchen, and I always got a fright

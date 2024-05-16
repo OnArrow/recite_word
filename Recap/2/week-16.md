@@ -18,7 +18,6 @@ No, I don't have to take one today, but I had to take one yesterday
 Do we have to hand in our papers today?
 
 No, you don't, and you won't have to hand in your papers tomorrow, either
-TODO: 这里的`in our papers` 是什么意思？
 ```
 
 ```
@@ -53,7 +52,6 @@ No, I don't think so
 
 ```
 How old do you think he is? Twenty?
-TODO: 这个特殊疑问句怎么得来的？ 原句是什么？
 
 No, I'm sure he can't be twenty. He must be about twenty-five
 ```
@@ -72,19 +70,16 @@ No, she can't, can she?
 I don't believe the book costs two hundred pounds
 
 The book can't cost two hundred pounds
-TODO: 这里为什么少了`be`，同时`cost`不用加三单吗？
 ```
 
 ```
 I think they have enough money for it
 
 They must have enough money for it
-TODO: `must be` 到底怎么用于这些句子？为什么不是`must be have`？
 ```
 
 ```
 What did he say about her? He can't mean it. He must be joking
-TODO:  为什么是`can't mean`不是`can't be mean`
 ```
 
 ```
@@ -95,7 +90,6 @@ No, it can't be Jack. It must be Mike
 
 ```
 What do you think his job is? Is he a lawyer?
-TODO: 这个特殊疑问句怎么得来的？
 
 No, he can't be a lawyer. He must be a artist
 ```
@@ -146,12 +140,10 @@ He must have made a lot of money
 
 ```
 Can you look after the dog for us while we are away?
-TODO: 为什么副词`away`可以放在`we are`后面？
 ```
 
 ```
 Was he right, do you think?
-TODO: 怎么转换四句型？
 
 I'm not sure. He may have been right
 ```

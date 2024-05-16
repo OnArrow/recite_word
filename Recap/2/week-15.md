@@ -26,7 +26,6 @@ She had already heard the news when her friend telephoned her
 Which film did you see?
 
 I saw the film which is on at the Roxy Cinema
-TODO: 这里的为什么要用`is`而不是`was`？
 ```
 
 ```
@@ -119,5 +118,4 @@ The hospital is around the corner is the one we are going to
 The people who were standing there saw the accident
 
 The people standing there saw the accident
-TODO: 这里为什么省略了`were`
 ```

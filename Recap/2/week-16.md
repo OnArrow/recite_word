@@ -157,7 +157,6 @@ It usually takes me half an hour
 
 ```
 Where and how do you usually spend your summer holidays?
-TODO: 还可以这样同时用两个疑问词的吗？
 
 We usually spend our summer holidays with my uncle
 ```

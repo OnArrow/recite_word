@@ -34,7 +34,6 @@ Tom was badly hurt in the crash and he was taken to hospital
 People speak English all over the world
 
 English is spoken all over the world
-TODO: 这里的`all`是什么词性？
 ```
 
 ```

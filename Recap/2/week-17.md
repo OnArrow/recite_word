@@ -24,7 +24,6 @@ He told her mother that they were sorry to hear she hadn't been well
 "I have already read half of the book you gave me," she said to him
 
 She told him that she had already read half of the book he had given her
-TODO: `said`后面需要接`to`，而`told`不用接吗？
 ```
 
 ```
@@ -50,7 +49,6 @@ He told me he had just read about the accident in the newspaper
 
 ```
 "I want you to buy some stamps for me"
-TODO: 为什么用`I want you to buy`，不能用`I want you buy`吗？
 
 What did he say to his daughter?
 
@@ -59,7 +57,6 @@ He said he wanted her to buy some stamps for him
 
 ```
 Two friends of ours are getting married next September
-TODO: 我什么这里用`getting`而不是其他的时态?
 ```
 
 ```
@@ -128,21 +125,18 @@ If you speak English every day, you will speak English better
 'Who is that man behind Ann?'
 
 He wants to know who that man behind Ann is
-TODO: 为什么不是`who that man is behind Ann`？
 ```
 
 ```
 'Why do you want to be a doctor?'
 
 He wants to know why I want to be a doctor
-TODO: 是不是“想成为；想变成”都用`want to be`？
 ```
 
 ```
 'Do you want to go swimming?'
 
 He wants to know if I want to go swimming?
-TODO: 为什么要用`swimming`而不是`swim`？
 ```
 
 ```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   monster goggles anxious explanation persuade/说服 blanket suspense/悬念 freedom
+   breezy implicitly/暗含地
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    annoy spite rescue scare ashtray occupied  schema stock capable sew fault accurately inform thoroughly settle anxiously intend polite cause invite salary abroad advise indent clavichord reserve shock nowadays sanitize rude mirror remind musical market pyramid though
+   annoy trust snake continue dance difficult different explorer
    ```
 
 5. **剑桥初级语法**

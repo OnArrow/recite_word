@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   breezy implicitly/暗含地
+   breezy implicitly/暗含地 decorate/装饰 mow crossword/猜字谜游戏 arrange debate/辩论 married
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust snake continue dance difficult different explorer
+   annoy trust snake continue dance difficult different explorer realize learn novel deliver lawn prepare iron subway
    ```
 
 5. **剑桥初级语法**

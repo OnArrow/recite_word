@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust snake continue dance difficult different explorer realize learn novel deliver lawn prepare iron subway competition neat precious regard guard wonderful valuable staged vanilla validate respect crown schedule abstract cushion transparent transparency threshold actually marry serious point seem crash clear hovercraft wood hundred preserve picnic breath mend wallet sick sew draw
+   annoy trust snake continue dance difficult different explorer realize learn novel deliver lawn prepare iron subway competition neat precious regard guard wonderful valuable staged vanilla validate respect crown schedule abstract cushion transparent transparency threshold actually marry serious point seem crash clear hovercraft wood hundred preserve picnic breath mend wallet sick sew draw valid
    ```
 
 5. **剑桥初级语法**

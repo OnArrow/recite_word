@@ -57,7 +57,7 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
 4. `train sb. to do sth.` 训练某人去做某事
 
    ```
-   He always trains his dog to get the small red ball
+   He always trains his dog to get the small red ball back
    ```
 
 5. `intend to do sth.` 打算做某事。`intend` 本身就有 `计划，打算` 的含义了，所以往往和 `一般现在时` 一起出现

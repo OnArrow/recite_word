@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   muddy puddle mud goodness hundred
+   muddy puddle mud goodness hundred chess truth
    ```
 
 2. **过去式&过去分词**

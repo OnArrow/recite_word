@@ -20,16 +20,6 @@ In the end, it was more than he could bear. He had hardly had time to settle dow
 The dream he had had for so many years ended there. Harrison had thought of everything except the weather.
 ```
 
-## Questions
-
-1. `He had no sooner returned than he bought a house and went to live there` 中的 `no sooner`，`than`
-
-2. `He acted as if he had never lived in England before` 中的 `as`
-
-3. `for even though it was still summer` 中的 `though` 尽管？
-
-4. `After so many years of sunshine`
-
 ## Whole
 
 1. `for` 放在句首时，常常和 `because` 表达意思一致
@@ -42,6 +32,7 @@ The dream he had had for so many years ended there. Harrison had thought of ever
    ```
 
 3. `as if` 似乎
+
 4. `dream of doing sth.` 梦想做某事
 
    ```

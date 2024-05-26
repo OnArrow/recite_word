@@ -23,3 +23,77 @@ Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' 
 ## Questions
 
 1. `but the doctor refused to do so` 中的 `so`
+
+## Whole
+
+1. `the following day` 和 `the next day` 类似
+
+   ```
+   She set up a new world record the following day
+   ```
+
+2. `live alone` 独居
+
+   ```
+   The man who lives alone got a surprise this morning
+   ```
+
+3. `leave me alone` 别管我；让我一个人待着
+
+4. `currency exchange` 货币兑换处。出国时兑换货币
+
+5. `inquire about sth./sb.` 询问某事或某人
+
+   ```
+   I inquired about Jack and was told that he doesn't live here anymore
+   ```
+
+6. `front desk` 前台
+
+   ```
+   You will have to inquire about it at the front desk
+   ```
+
+7. `difficult` 用来形容人的时候，通常表示这个人很难相处
+
+   ```
+   This caller is as difficult as last one
+   ```
+
+## Exercises
+
+```
+I wonder if she's sold the house
+
+I asked if she'd sold it, but no one knew
+```
+
+```
+I wonder if he's had a operation
+
+I asked if he'd had it, but on one knew
+```
+
+```
+I wonder if he's posted the parcel
+
+I asked if he'd posted it, but no one knew
+```
+
+```
+I wonder if he's sold the car
+
+I asked if he'd sold it, but no one knew
+```
+
+```
+I wonder if she's had lunch
+
+I asked if she'd had it, but on one knew
+```
+
+```
+Did Mary say she'd met John?
+
+She didn't tell me whether she had or not
+```

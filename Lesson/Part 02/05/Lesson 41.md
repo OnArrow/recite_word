@@ -25,3 +25,9 @@ I sat down on one of those modern chairs with holes in it and waited. We had bee
 
 Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!
 ```
+
+## Questions
+
+1. `You needn't be so rude about it` 的 `needn't`，表示 `不需要`?
+
+2. `My wife was wearing a hat that looked like a lighthouse!` 的 `that`

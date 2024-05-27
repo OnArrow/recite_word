@@ -8,4 +8,4 @@
 
 ## Whole
 
-1. `per cent` 百分之一
+1. `per cent` 百分之...

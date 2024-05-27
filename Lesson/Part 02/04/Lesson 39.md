@@ -4,8 +4,6 @@
 
 - operation successful following patient alone exchange inquire certain caller relative
 
-- ![Words](../../../Images/Part2/04/words-39.png)
-
 ## Am I all right?
 
 ```
@@ -40,7 +38,7 @@ Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' 
 
 3. `leave me alone` 别管我；让我一个人待着
 
-4. `currency exchange` 货币兑换处。出国时兑换货币
+4. `currency exchange` 货币兑换处。出国时兑换货币的地方
 
 5. `inquire about sth./sb.` 询问某事或某人
 
@@ -93,7 +91,111 @@ I asked if she'd had it, but on one knew
 ```
 
 ```
+Has Mary met John?
+
 Did Mary say she'd met John?
 
 She didn't tell me whether she had or not
+```
+
+```
+Has Jack seen that film?
+
+Did Jack say he'd seen that film?
+
+He didn't tell whether he had or not
+```
+
+```
+Have the Smiths sold the flat?
+
+Did the Smiths say they'd sold the flat?
+
+They didn't tell me whether they had or not
+```
+
+```
+Have the children eaten?
+
+Did the children say they'd eaten?
+
+They didn't tell me whether they had or not
+```
+
+```
+Has your secretary lost my letter?
+
+Did your secretary say she'd lost my letter?
+
+She didn't tell me whether she had or not
+```
+
+```
+Will they come tomorrow?
+
+They didn't tell me when they'd come
+```
+
+```
+Will they go abroad next week?
+
+They didn't tell me when they'd gone abroad
+```
+
+```
+Will she arrive this evening?
+
+She didn't tell me when she'd arrived
+```
+
+```
+Will he go to hospital tomorrow?
+
+He didn't tell me when he'd gone to hospital
+```
+
+```
+Will he settle down next year?
+
+He didn't tell me when he'd settled down
+```
+
+```
+Why didn't Tom come to the party?
+
+Our teacher asked why Tom didn't come to the party. Do you know why?
+
+I've no idea why he didn't come
+```
+
+```
+Why didn't Jack attend the lecture?
+
+Our teacher asked why Jack didn't attend the lecture. Do you know why?
+
+I've no idea why he didn't attend
+```
+
+```
+Why didn't Mary pay attention during the class?
+
+Our teacher asked why Mary didn't pay attention. Do you know why?
+
+I've no idea why she didn't pay attention
+```
+
+```
+Why didn't Jack pay in the match?
+
+Our teacher asked why Jack didn't pay in the match. Do you know why?
+
+I've no idea why he didn't pay in
+```
+
+```
+Why didn't that boy understand the question?
+
+Our teacher asked why that boy didn't understand the question. Do you know why?
+
+I've no idea why he didn't understand
 ```

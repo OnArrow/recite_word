@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   accountant hire rough/汹涌的 fog
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust snake continue dance difficult different explorer realize learn novel deliver lawn prepare iron subway competition neat precious regard guard wonderful valuable staged vanilla validate respect crown schedule abstract cushion transparent transparency threshold actually marry serious point seem crash clear hovercraft wood hundred preserve picnic breath mend wallet sick sew draw valid anymore secretary lecture attend attention truth cheese
+   annoy trust snake continue dance difficult different explorer realize learn novel deliver lawn prepare iron subway competition neat precious regard guard wonderful valuable staged vanilla validate respect crown schedule abstract cushion transparent transparency threshold actually marry serious point seem crash clear hovercraft wood hundred preserve picnic breath mend wallet sick sew draw valid anymore secretary lecture attend attention truth cheese require expect except afford apologize apply sail thick
    ```
 
 5. **剑桥初级语法**

@@ -18,10 +18,6 @@ He then asked when Mr. Gilbert would be allowed to go home and the doctor told h
 Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' the patient answered, 'I'm Mr. John Gilbert.'
 ```
 
-## Questions
-
-1. `but the doctor refused to do so` 中的 `so`
-
 ## Whole
 
 1. `the following day` 和 `the next day` 类似
@@ -57,6 +53,8 @@ Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' 
    ```
    This caller is as difficult as last one
    ```
+
+8. `refuse to do so` 拒绝这样做
 
 ## Exercises
 

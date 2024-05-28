@@ -35,3 +35,23 @@ accountant extremely hire fog rough goods astonish unload woolen
 ```
 accountant hire rough fog unload extremely astonish pile woolen goods
 ```
+
+```
+accountant rough astonish extremely goods fog unload pile woolen hire
+```
+
+```
+Mary needn't have bought the eggs
+
+You needn't have got angry
+
+You needn't have shouted
+
+He needn't have sold his car
+
+We needn't have taken it
+
+I needn't have rushed to the station
+
+You needn't have washed it
+```

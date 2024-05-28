@@ -30,11 +30,21 @@ Ten minutes later we walked out of the shop together. My wife was wearing a hat 
 
 2. `My wife was wearing a hat that looked like a lighthouse!` 的 `that`
 
-3. `A man can never have too many ties` 表示 `永不能没有` 还是 `永不能有`
-
 ## Whole
 
-1. `need`
+1. `A man can never have too many ties` 一个男人永远有不会有过多的领带。`have` 和 `too` 都有否定的意思。双重否定表示肯定，男人的领带永远不嫌多
+
+2. `regret doing sth.` 后悔做某事
+
+   ```
+   I regretted helping him on the street yesterday morning
+
+   He regretted drinking the milk in the fridge
+
+   I think he regrets telling that story about him
+   ```
+
+3. `need`
 
    - `need` 既可以当做 `v.`，也可以当作 `modal verb`
 

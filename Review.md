@@ -1,135 +1,113 @@
 # Review
-1. transparent **[trænsˈpærənt]** `adj` 透明的，清澈的
+1. crash **[kræʃ]** `n` 撞车事故；巨响，碰撞声 `v` 撞车，坠毁；破产；（计算机）瘫痪，死机
 
-2. hovercraft **[ˈhɒvəkrɑːft]** `n` 气垫船
+2. marry **[ˈmæri]** `v` 结婚；嫁，娶
 
-3. prepare **[prɪˈpeə(r)]** `v` 使做好准备；（为...）做好准备
+3. trust **[trʌst]** `n` 信任，信赖 `v` 相信，信任
 
-4. abstract **[ˈæbstrækt]** `adj` 抽象的
+4. except **[ɪkˈsept]** `prep` 除...外，不包括
 
-5. marry **[ˈmæri]** `v` 结婚；嫁，娶
+5. guard **[ɡɑːd]** `n` 警卫，卫兵
 
-6. cheese **[tʃiːz]** `n` 奶酪；干酪
+6. novel **[ˈnɒv(ə)l]** `n` （长篇）小说
 
-7. apply **[əˈplaɪ]** `v` 应用，运用；适用，适合；申请
+7. attend **[əˈtend]** `v` 陪同，随同；照料
 
-8. cushion **[ˈkʊʃ(ə)n]** `n` 垫子，坐垫；缓冲垫 `v` 减轻...的影响
+8. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
 
-9. wallet **[ˈwɒlɪt]** `n` 钱包；皮夹
+9. apologize **[əˈpɒlədʒaɪz]** `v` 道歉；谢罪
 
-10. schedule **[ˈʃedjuːl]** `n` 日程安排；计划（表）；时间表
+10. realize **[ˈriːəlaɪz]** `v` 意识到；认识到
 
-11. learn **[lɜːn]** `v` 学习；获悉；了解
+11. vanilla **[vəˈnɪlə]** `adj` 无特色的，普通的
 
-12. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+12. neat **[niːt]** `adj` 整齐的
 
-13. precious **[ˈpreʃəs]** `adj` 珍贵的
+13. respect **[rɪˈspekt]** `n` 尊敬，尊重 `v` 尊敬
 
-14. subway **[ˈsʌbweɪ]** `n` 地铁
+14. wooden **[ˈwʊdn]** `adj` 木制的
 
-15. crown **[kraʊn]** `n` 皇冠 `v` 立...为王
+15. mend **[mend]** `v` 缝补；修理
 
-16. serious **[ˈsɪəriəs]** `adj` 严肃的；认真的；严重的
+16. wonderful **[ˈwʌndəf(ə)l]** `adj` 极好的；令人惊叹的
 
-17. attention **[əˈtenʃ(ə)n]** `n` 注意；注意力
+17. threshold **[ˈθreʃhəʊld]** `n` 门槛；阈值
 
-18. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
+18. regard **[rɪˈɡɑːd]** `n` 尊敬，敬佩；关心，关注 `v` 认为，把...看作
 
-19. lawn **[lɔːn]** `n` 草坪；草地
+19. staged **[steɪdʒd]** `adj` 已暂存
 
-20. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
+20. preserve **[prɪˈzɜːv]** `v` 维持；维护，保护； `n` 果酱，腌菜
 
-21. point **[pɔɪnt]** `n` （几何学用语）点；观点；见解；要点；核心问题；地点 `v` 指向；对准；瞄准
+21. schedule **[ˈʃedjuːl]** `n` 日程安排；计划（表）；时间表
 
-22. truth **[truːθ]** `n` 事实；真相；真理
+22. sew **[səʊ]** `v` 缝补
 
-23. respect **[rɪˈspekt]** `n` 尊敬，尊重 `v` 尊敬
+23. attention **[əˈtenʃ(ə)n]** `n` 注意；注意力
 
-24. staged **[steɪdʒd]** `adj` 已暂存
+24. abstract **[ˈæbstrækt]** `adj` 抽象的
 
-25. dance **[dɑːns]** `n` 舞蹈 `v` 跳舞
+25. deliver **[dɪˈlɪvə(r)]** `v` 投递；发出；（计算计程序）发布；分娩
 
-26. valuable **[ˈvæljuəb(ə)l]** `adj` 贵重的
+26. lawn **[lɔːn]** `n` 草坪；草地
 
-27. attend **[əˈtend]** `v` 陪同，随同；照料
+27. occur **[əˈkɜː(r)]** `v` （尤指意外地）发生
 
-28. afford **[əˈfɔːd]** `v` 买得起；有时间做某事；负担得起
+28. precious **[ˈpreʃəs]** `adj` 珍贵的
 
-29. seem **[siːm]** `v` （涉及推断）似乎，看来；（用来表示谨慎，礼貌或委婉）可能，好像
+29. snack **[snæk]** `n` 零食；点心；小吃；快餐 `v` 吃零食
 
-30. wood **[wʊd]** `n` 木材；木料；树林 `adj` 木制的 `v` 收集木材
+30. truth **[truːθ]** `n` 事实；真相；真理
 
-31. vanilla **[vəˈnɪlə]** `adj` 无特色的，普通的
+31. thick **[[θik]]** `adj` 厚的；粗的
 
-32. different **[ˈdɪfrənt]** `adj` 不同的
+32. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-33. mend **[mend]** `v` 缝补；修理
+33. wallet **[ˈwɒlɪt]** `n` 钱包；皮夹
 
-34. valid **[ˈvælɪd]** `adj` 有效的；正当的
+34. validate **[ˈvælɪdeɪt]** `v` 确认...有效；证实；验证
 
-35. require **[rɪˈkwaɪə(r)]** `v` 需要；规定；要求做某事
+35. valid **[ˈvælɪd]** `adj` 有效的；正当的
 
-36. hundred **[ˈhʌndrəd]** `n` 一百
+36. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
 
-37. clear **[klɪə(r)]** `v` 清除，清理；越过，穿过 `adj` 易懂的，明白的；（物质）透明的，清澈的；清白的，问心无愧的
+37. learn **[lɜːn]** `v` 学习；获悉；了解
 
-38. validate **[ˈvælɪdeɪt]** `v` 确认...有效；证实；验证
+38. breath **[breθ]** `n` 呼吸，气息
 
-39. explorer **[ɪkˈsplɔːrə(r)]** `n` 资源管理器；探险者
+39. seem **[siːm]** `v` （涉及推断）似乎，看来；（用来表示谨慎，礼貌或委婉）可能，好像
 
-40. draw **[drɔː]** `v` 画；抽取 `n` 平局
+40. serious **[ˈsɪəriəs]** `adj` 严肃的；认真的；严重的
 
-41. preserve **[prɪˈzɜːv]** `v` 维持；维护，保护； `n` 果酱，腌菜
+41. lecture **[ˈlektʃə(r)]** `n` 演讲
 
-42. sail **[seɪl]** `v` （船）航行 `n` 帆
+42. apply **[əˈplaɪ]** `v` 应用，运用；适用，适合；申请
 
-43. novel **[ˈnɒv(ə)l]** `n` （长篇）小说
+43. clear **[klɪə(r)]** `v` 清除，清理；越过，穿过 `adj` 易懂的，明白的；（物质）透明的，清澈的；清白的，问心无愧的
 
-44. guard **[ɡɑːd]** `n` 警卫，卫兵
+44. expect **[ɪkˈspekt]** `v` 期待；预计；等待
 
-45. snake **[sneɪk]** `n` 蛇；阴险狡诈的人
+45. leaf **[liːf]** `n` 叶子；纸页，书页 `v` 长新叶
 
-46. regard **[rɪˈɡɑːd]** `n` 尊敬，敬佩；关心，关注 `v` 认为，把...看作
+46. point **[pɔɪnt]** `n` （几何学用语）点；观点；见解；要点；核心问题；地点 `v` 指向；对准；瞄准
 
-47. neat **[niːt]** `adj` 整齐的
+47. cushion **[ˈkʊʃ(ə)n]** `n` 垫子，坐垫；缓冲垫 `v` 减轻...的影响
 
-48. trust **[trʌst]** `n` 信任，信赖 `v` 相信，信任
+48. afford **[əˈfɔːd]** `v` 买得起；有时间做某事；负担得起
 
-49. expect **[ɪkˈspekt]** `v` 期待；预计；等待
+49. require **[rɪˈkwaɪə(r)]** `v` 需要；规定；要求做某事
 
-50. picnic **[ˈpɪknɪk]** `n` 野餐 `v` 参加野餐
+50. sail **[seɪl]** `v` （船）航行 `n` 帆
 
-51. transparency **[trænsˈpærənsi]** `n` 透明，透明性；透明度，清晰度
+51. hovercraft **[ˈhɒvəkrɑːft]** `n` 气垫船
 
-52. wonderful **[ˈwʌndəf(ə)l]** `adj` 极好的；令人惊叹的
+52. sick **[sɪk]** `adj` 生病的；恶心的，想吐的；病态的 `n` 病人
 
-53. breath **[breθ]** `n` 呼吸，气息
+53. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
 
-54. apologize **[əˈpɒlədʒaɪz]** `v` 道歉；谢罪
+54. rare **[reə(r)]** `adj` 三分熟；罕见的，不常发生的
 
-55. crash **[kræʃ]** `n` 撞车事故；巨响，碰撞声 `v` 撞车，坠毁；破产；（计算机）瘫痪，死机
+55. wood **[wʊd]** `n` 木材；木料；树林 `adj` 木制的 `v` 收集木材
 
-56. threshold **[ˈθreʃhəʊld]** `n` 门槛；阈值
-
-57. continue **[kənˈtɪnjuː]** `v` （使）继续；继续说；留任
-
-58. sew **[səʊ]** `v` 缝补
-
-59. thick **[[θik]]** `adj` 厚的；粗的
-
-60. deliver **[dɪˈlɪvə(r)]** `v` 投递；发出；（计算计程序）发布；分娩
-
-61. sick **[sɪk]** `adj` 生病的；恶心的，想吐的；病态的 `n` 病人
-
-62. realize **[ˈriːəlaɪz]** `v` 意识到；认识到
-
-63. difficult **[ˈdɪfɪkəlt]** `adj` 困难的；费力的；不友好的
-
-64. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
-
-65. except **[ɪkˈsept]** `prep` 除...外，不包括
-
-66. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
-
-67. lecture **[ˈlektʃə(r)]** `n` 演讲
+56. cheese **[tʃiːz]** `n` 奶酪；干酪
 

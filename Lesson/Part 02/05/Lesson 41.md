@@ -31,3 +31,5 @@ Ten minutes later we walked out of the shop together. My wife was wearing a hat 
 1. `You needn't be so rude about it` 的 `needn't`，表示 `不需要`?
 
 2. `My wife was wearing a hat that looked like a lighthouse!` 的 `that`
+
+3. `A man can never have too many ties` 表示 `永不能没有` 还是 `永不能有`

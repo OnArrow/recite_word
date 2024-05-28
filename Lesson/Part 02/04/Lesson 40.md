@@ -46,6 +46,10 @@ In despair, I asked her whether she was enjoying her dinner.
 
 2. `in despair` 绝望当中
 
+   ```
+   In despair, I suddenly heard a voice from the hole
+   ```
+
 3. `be busy doing sth.` 忙着做某事。 `doing` 为 `动名词`
 
    ```
@@ -67,7 +71,9 @@ In despair, I asked her whether she was enjoying her dinner.
    // 别人听起来会更有礼貌一点
    ```
 
-5. `虚拟语气`
+5. `to` 后面跟的往往是 `v.`，`for` 后面跟的往往是 `n.`
+
+6. `虚拟语气`
 
    - 汉语中的虚拟语气
 
@@ -93,7 +99,7 @@ In despair, I asked her whether she was enjoying her dinner.
 
      - 不管是什么人称，后面跟的都是 `were`，没有 `was`
 
-     - 英文中只要看到 `if + did/were` 结构，那么基本可以断定这是 `虚拟语气`。不用想中文一样想太多
+     - 英文中只要看到 `if + did/were` 结构，那么基本可以断定这是 `虚拟语气`。不用像中文一样想太多
 
      - 两个句子的顺序和 `if条件状语从句` 一样，是可以反着来的
 

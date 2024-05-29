@@ -1,5 +1,9 @@
 # Lesson 40
 
+## Marks
+
+1. M: 虚拟语气
+
 ## Words
 
 - hostess unsmiling tight fix globe despair

@@ -1,5 +1,9 @@
 # Lesson 10
 
+## Marks
+
+1. M: 现在进行时的被动语态
+
 ## Words
 
 - jazz musical instrument clavichord recently damage key string shock allow touch

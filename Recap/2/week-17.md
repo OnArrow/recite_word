@@ -30,7 +30,7 @@ She told him that she had already read half of the book he had given her
 He said that she had been waiting for weeks
 
 He said, "she has been waiting for weeks"
-TODO: `has been`后面接 `waiting` 是什么结构？
+Q: `has been`后面接 `waiting` 是什么结构？
 ```
 
 ```

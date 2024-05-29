@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   necessary unnecessary death bother twin
+   necessary unnecessary death bother twin anymore foot feet append/追加
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust realize learn novel deliver lawn competition neat precious regard guard wonderful staged vanilla validate respect schedule abstract cushion threshold actually marry serious point seem crash clear hovercraft wood preserve breath mend wallet sick sew valid anymore secretary lecture attend attention truth cheese require expect except afford apologize apply sail thick snack wooden rare occur leaf critic critically lottery doubt forbid forbade forbidden machine disturb identify forward temptation tent tell
+   annoy trust vanilla schedule abstract actually preserve breath secretary lecture attend attention truth cheese expect except afford apologize apply sail snack rare occur leaf critic critically lottery doubt forbid forbade forbidden machine disturb identify forward temptation tent tell divide clear plain sight below discover normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept
    ```
 
 5. **剑桥初级语法**

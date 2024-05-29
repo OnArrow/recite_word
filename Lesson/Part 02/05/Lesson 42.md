@@ -26,6 +26,50 @@ The snake, however, continued to 'dance' slowly. It obviously could not tell the
 
 1. `tell the difference`
 
+2. 如何表达 `观看音乐剧`
+
+3. 如何表达 `演奏一曲`
+
+4. 如何表达 `瞥见`
+
 ## Whole
 
 1. `snake charmer` 玩蛇者（通常借音乐控制）
+
+2. `musical` 常见的名词意思 `音乐剧`。 `watch a musical` 看音乐剧
+
+   ```
+   I regretted watching that musical last night
+   ```
+
+3. `play a tune` 演奏一曲
+
+   ```
+   By the age of seven he could play any tune he heard on the piano
+   ```
+
+4. `have a glimpse of sth./sb.` 瞥见某物或某人
+
+   ```
+   If you had a glimpse of her, you would know how beautiful she is
+   ```
+
+5. `continue to do sth.` 继续做某事
+
+   ```
+   They continued to put up the tent
+   ```
+
+6. `tell the difference between A and B` 分辨 A 和 B 的不同
+
+   ```
+   I couldn't tell the difference between these two singers
+
+   It's too easy for my wife to tell the difference between our twin sons
+   ```
+
+## Exercises
+
+```
+
+```

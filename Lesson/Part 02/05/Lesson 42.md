@@ -68,6 +68,23 @@ The snake, however, continued to 'dance' slowly. It obviously could not tell the
    It's too easy for my wife to tell the difference between our twin sons
    ```
 
+7. `have a long walk` 走了很长的路
+
+   ```
+   We will be having a long walk tonight
+
+   We needn't have had this long walk
+
+   If I weren't tired, I would have a long walk yesterday
+   Q: 这句话是对的吗？ 还是 `If I hadn't been tired, I would have had a long walk yesterday`
+   ```
+
+8. `at the other side of sw.` 在某地的另一边
+
+   ```
+   Look, she's standing at the other side of the market
+   ```
+
 ## Exercises
 
 ```

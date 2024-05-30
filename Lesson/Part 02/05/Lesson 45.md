@@ -30,6 +30,22 @@ In time, all Sam's money was paid back in this way. The last note said: 'I am 10
 
 3. `In time` 最后？
 
+4. 如何表达 `我问心无愧`
+
+5. 如何表达 `百分之百确定`
+
 ## Whole
 
-1. `per cent` 百分之...
+1. `num. percent` 百分之...。通常不分开用 `per cent`
+
+   ```
+   I'm one hundred percent sure I'm right
+   ```
+
+2. `clear conscience` 问心无愧
+
+   ```
+   At least now I can face him with a clear conscience
+
+   I have a clear conscience
+   ```

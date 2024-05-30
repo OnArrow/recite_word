@@ -1,5 +1,11 @@
 # Lesson 35
 
+## Marks
+
+1. M: `so` & `such`
+
+2. M: `so...that...` & `such...that...`
+
 ## Words
 
 - while regret far rush act straight fright battered shortly afterwards

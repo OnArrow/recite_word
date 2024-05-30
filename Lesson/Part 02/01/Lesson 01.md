@@ -94,7 +94,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 
 10. 一个句子的组成方式
 
-    | 1. 主语           | 2. 谓语     | 3. 宾语           | 4. 方式 | 5. 地点         | 6. 时间       |
-    | ----------------- | ----------- | ----------------- | ------- | --------------- | ------------- |
-    | Who? Which? What? | action      | Who? Which? What? | How?    | Where?          | When          |
-    | The tall man      | was waiting | for a bus         | angrily | at the bus stop | at last night |
+    | 6. 时间       | 1. 主语           | 2. 谓语     | 3. 宾语           | 4. 方式 | 5. 地点         | 6. 时间       |
+    | ------------- | ----------------- | ----------- | ----------------- | ------- | --------------- | ------------- |
+    | When          | Who? Which? What? | action      | Who? Which? What? | How?    | Where?          | When          |
+    | at last night | The tall man      | was waiting | for a bus         | angrily | at the bus stop | at last night |

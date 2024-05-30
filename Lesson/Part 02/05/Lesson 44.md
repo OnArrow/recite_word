@@ -24,7 +24,7 @@ The men got such a fright that they dropped the bag and ran away. 'The strap nee
 
 ## Questions
 
-1. `the strap broke and, with the bag in their possession`
+1. Q: `the strap broke and, with the bag in their possession` 的 `and` 为什么用 `,` 号隔开
 
 2. `caught up with them` 赶上他们？
 

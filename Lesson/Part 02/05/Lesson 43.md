@@ -1,10 +1,12 @@
 # Lesson 43
 
+## Marks
+
+1. M: `be able to do sth.`
+
 ## Words
 
 - pole flight explorer lie lay lain serious point seem crash sack clear aircraft endless plain difficulty foot feet
-
-- ![Words](../../../Images/Part2/05/words-43.png)
 
 ## Over the South Pole
 
@@ -21,22 +23,6 @@ Byrd now knew that he would be able to reach the South Pole which was 300 miles 
 
 The aircraft was able to fly over the endless white plains without difficulty.
 ```
-
-## Questions
-
-1. `for there were no more mountains in sight` 的 `for` 表示 `因为`
-
-2. `be able to do sth.` 有能力去做某事
-
-3. `it seemed certain that their plane would crash` 看起来无疑是将坠毁
-
-4. `by 400 feet` 仅仅高了 400 英尺
-
-5. 如何表达 `赶飞机`
-
-6. 如何表达 `遇到严重问题`
-
-7. 如何表达 `在某一时间`
 
 ## Whole
 
@@ -108,7 +94,7 @@ The aircraft was able to fly over the endless white plains without difficulty.
    At one point on my way to the theatre, my wallet was stolen
    ```
 
-10. `be able to do sth.`
+10. `be able to do sth.` 能去做某事
 
     - 和 `can` 含义基本一致。但相同含义的情况下，常常用 `can`
 

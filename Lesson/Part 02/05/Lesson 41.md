@@ -1,5 +1,9 @@
 # Lesson 41
 
+## Marks
+
+1. M: `needn't`
+
 ## Words
 
 - rude mirror hole remark remind lighthouse modiste
@@ -23,12 +27,6 @@ I sat down on one of those modern chairs with holes in it and waited. We had bee
 
 Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!
 ```
-
-## Questions
-
-1. `You needn't be so rude about it` 的 `needn't`，表示 `不需要`?
-
-2. `My wife was wearing a hat that looked like a lighthouse!` 的 `that`
 
 ## Whole
 
@@ -80,7 +78,7 @@ Ten minutes later we walked out of the shop together. My wife was wearing a hat 
        小明因为没钱，把他的车卖了。结果第二天他买的那张彩票就中奖了，他本没有必要去卖掉他的车的
        // `卖车` 这件事已经发生了。小明后悔了
 
-       小明去旅游时带上了一个个很重的相机，结果到最后都没拍到什么好的照片，他本不必带这个相机去旅游的
+       小明去旅游时带上了一个很重的相机，结果到最后都没拍到什么好的照片，他本不必带这个相机去旅游的
        ```
 
        ```

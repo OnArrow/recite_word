@@ -20,10 +20,6 @@ In this way, he has begun his own private 'telephone' service.
 
 ## Whole
 
-1. `up to now` 迄今为止
-
-2. `so far` 到目前为止
-
 3. `spare part` 备用零件；备件
 
 4. `A is five miles from B` A 到 B 有 5 英里
@@ -88,7 +84,9 @@ In this way, he has begun his own private 'telephone' service.
 
 13. `get a telephone` 在这里`get`表示`拥有；得到`
 
-14. `up to now` 往往和现在完成时一起出现
+14. `so far` 到目前为止
+
+15. `up to now` 迄今为止。往往和现在完成时一起出现
 
     ```
     I've sent a great number of postcards to him up to now

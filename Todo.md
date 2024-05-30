@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   penguin spread beat
+   penguin spread beat zoo bowl stuck smelt difficulty
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust vanilla schedule abstract actually preserve breath secretary lecture attend attention truth cheese expect except afford apologize apply sail snack rare occur leaf critic critically lottery doubt forbid forbade forbidden machine disturb identify forward temptation tent tell divide clear plain sight below discover normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept lent lend borrow intend persuade pity recap zoo zoom
+   annoy trust actually preserve secretary attend truth afford apologize apply sail snack occur leaf critic critically lottery forbid forbade forbidden disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept lent lend borrow intend persuade pity recap zoo zoom soup soap salad useful laugh sour notice
    ```
 
 5. **剑桥初级语法**

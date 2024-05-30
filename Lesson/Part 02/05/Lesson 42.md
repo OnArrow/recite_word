@@ -4,8 +4,6 @@
 
 - musical market pipe tune glimpse snake movement continue dance obviously difference India charmer
 
-- ![Words](../../../Images/Part2/05/words-42.png)
-
 ## Not very musical
 
 ```
@@ -22,21 +20,11 @@ We were very much surprised when the snake charmer suddenly began to play jazz a
 The snake, however, continued to 'dance' slowly. It obviously could not tell the difference between Indian music and jazz!
 ```
 
-## Questions
-
-1. `tell the difference`
-
-2. 如何表达 `观看音乐剧`
-
-3. 如何表达 `演奏一曲`
-
-4. 如何表达 `瞥见`
-
 ## Whole
 
 1. `snake charmer` 玩蛇者（通常借音乐控制）
 
-2. `musical` 常见的名词意思 `音乐剧`。 `watch a musical` 看音乐剧
+2. `watch a musical` 看音乐剧。 `musical` 常见的名词意思 `音乐剧`
 
    ```
    I regretted watching that musical last night
@@ -88,5 +76,121 @@ The snake, however, continued to 'dance' slowly. It obviously could not tell the
 ## Exercises
 
 ```
+Have some more soup!
 
+No thanks. I've had enough
+```
+
+```
+Have another biscuit!
+
+No thanks. I've had enough
+```
+
+```
+Have another bowl of soup!
+
+No thanks. I've had enough
+```
+
+```
+Have some more salad!
+
+No thanks. I've had enough
+```
+
+```
+Have another piece of cake!
+
+No thanks. I've had enough
+```
+
+```
+I thought he took sugar in his tea
+
+He does, usually. But he's having tea without sugar today!
+```
+
+```
+I thought he took lemon with his tea
+
+He does, usually. But he's having tea without lemon today!
+```
+
+```
+I thought he took cream with his coffee
+
+He does, usually. But he's having coffee without cream today!
+```
+
+```
+I thought you took ice with your whisky
+
+I do, usually. But I'm having whisky without ice today
+```
+
+```
+I thought she took lemon in Coca Cola
+
+He does, usually. But she's having Coca Cola without lemon today!
+```
+
+```
+Did they have a nice swim?
+
+Yes, they swam out to the island
+```
+
+```
+Did you have a good sleep?
+
+Yes, I slept all afternoon
+```
+
+```
+Did they have a useful practice?
+
+Yes, they practiced for six hours
+```
+
+```
+Did he have a pleasant walk?
+
+Yes, he walked round the park
+```
+
+```
+Did she have a good laugh?
+
+Yes, she laughed all through the film
+```
+
+```
+Have you felt the material? It's very soft
+
+Is it? Let me have a feel
+```
+
+```
+Have you tasted the milk? It's very sour
+
+Is it? Let me have a taste
+```
+
+```
+Have you tried that door? It's very stuck
+
+Is it? Let me have a try
+```
+
+```
+Have you smelt that cheese? It's very bad
+
+Is it? Let me have a smell
+```
+
+```
+Have you looked at these photos? They're very good
+
+Are they? Let me have a look
 ```

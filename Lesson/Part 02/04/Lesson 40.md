@@ -93,9 +93,9 @@ In despair, I asked her whether she was enjoying her dinner.
 
    - 含义:
 
-     1. `if` 从句中的 `v.` 与 `现在` 事实相反
+     1. `if从句` 中的 `v.` 与 `现在` 事实相反
 
-     2. 说话人认为，`if` 从句中 `v.` 发生的几率非常低，几乎不可能
+     2. 说话人认为，`if从句` 中 `v.` 发生的几率非常低，几乎不可能
 
    - 结构: `if + did/were, 主语 + would/should/could/might + do`
 

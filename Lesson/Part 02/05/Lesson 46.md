@@ -5,3 +5,29 @@
 - unload wooden extremely occur astonish pile woollen goods discover admit confine normal
 
 - ![Words](../../../Images/Part2/05/words-46.png)
+
+## Expensive and uncomfortable
+
+```
+When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.
+
+No one could account for the fact that one of the boxes was extremely heavy. It suddenly occurred to one of the workers to open up the box.
+
+He was astonished at what he found. A man was lying in the box on top of a pile of woolen goods.
+
+He was so surprised at being discovered that he did not even try to run away. After he was arrested, the man admitted hiding in the box before the plane left London.
+
+He had had a long and uncomfortable trip, for he had been confined to the woolen box for over eighteen hours.
+
+The man was ordered to pay ￡3500 for the cost of the trip. The normal price of a ticket is ￡2000!
+```
+
+## Questions
+
+1. `account` 认为?
+
+2. `It suddenly occurred to one of the workers to open up the box`
+
+3. `He was so surprised at being discovered` 他当时被发现时被震惊了
+
+4. `the man admitted hiding in the box before the plane left London.` 的 `hiding` 是动名词?

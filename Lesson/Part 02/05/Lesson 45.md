@@ -4,8 +4,6 @@
 
 - clear conscience wallet savings villager per cent
 
-- ![Words](../../../Images/Part2/05/words-45.png)
-
 ## A clear conscience
 
 ```
@@ -22,24 +20,13 @@ Two months later, some more money was sent to Sam with another note: 'Only 25 pe
 In time, all Sam's money was paid back in this way. The last note said: 'I am 100 per cent honest now!'
 ```
 
-## Questions
-
-1. `a large sum of money had been lost` 不是被动语态。 `钱遗失了`
-
-2. `only 50 per cent a thief` 只有 50%的小偷属性？
-
-3. `In time` 最后？
-
-4. 如何表达 `我问心无愧`
-
-5. 如何表达 `百分之百确定`
-
 ## Whole
 
 1. `num. percent` 百分之...。通常不分开用 `per cent`
 
    ```
    I'm one hundred percent sure I'm right
+   我百分百确定我是对的
    ```
 
 2. `clear conscience` 问心无愧

@@ -4,8 +4,6 @@
 
 - forest risk picnic edge strap possession breath contents mend
 
-- ![Words](../../../Images/Part2/05/words-44.png)
-
 ## Through the forest
 
 ```
@@ -25,16 +23,6 @@ The men got such a fright that they dropped the bag and ran away. 'The strap nee
 ## Questions
 
 1. Q: `the strap broke and, with the bag in their possession` 的 `and` 为什么用 `,` 号隔开
-
-2. `caught up with them` 赶上他们？
-
-3. `were going through the contents of the bag` 越过包包里的东西？
-
-4. 如何表达 `冒险`
-
-5. 如何表达 `野餐`
-
-6. 如何表达 `上气不接下气`
 
 ## Whole
 

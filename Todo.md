@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust actually preserve secretary attend truth afford apologize apply sail snack occur leaf critic critically lottery forbid forbade forbidden disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept lent lend borrow intend persuade pity recap zoo zoom soup soap salad useful laugh sour notice wool rob straight inform arrest dismiss explain complain feed fed
+   annoy trust actually preserve secretary attend truth afford apologize apply sail snack occur leaf critic critically lottery forbid forbade forbidden disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept lent lend borrow intend persuade pity recap zoo zoom soup soap salad useful laugh sour notice rob straight inform arrest dismiss explain complain feed fed fact woolen cough
    ```
 
 5. **剑桥初级语法**

@@ -150,7 +150,6 @@ I'm not sure. He may have been right
 
 ```
 How does it take you to get to school in the mornings?
-Q: 不理解这个问句的意思
 
 It usually takes me half an hour
 ```

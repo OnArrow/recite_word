@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   percent penguin spread beat zoo bowl stuck smelt difficulty luckily vendetta deer breathe face/面对 brigade
+   republic
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust actually preserve secretary attend truth afford apologize apply sail snack occur leaf critic critically lottery forbid forbade forbidden disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture whisky suggest resolve accept pull wool collect collection nod tired real owner spring mattress sweep swept lent lend borrow intend persuade pity recap zoo zoom soup soap salad useful laugh sour notice rob straight inform arrest dismiss explain complain feed fed fact woolen cough
+   annoy trust actually  occur disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture resolve accept wool collect collection nod tired real owner spring mattress intend persuade pity recap soup soap salad useful laugh sour notice rob straight inform arrest dismiss explain complain feed fed fact woolen cough pend carrot improve approve
    ```
 
 5. **剑桥初级语法**

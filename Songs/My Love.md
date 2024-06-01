@@ -26,5 +26,4 @@ And oh my love
 
 I'm holding on forever
 那份爱
-
 ```

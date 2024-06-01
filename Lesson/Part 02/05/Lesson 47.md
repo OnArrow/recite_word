@@ -31,3 +31,5 @@ The villagers have told him that they will not accept the pub even if he gives i
 2. `they were on in the morning` 一直亮到白天?
 
 3. `accept` 在这里表示 `赞同`?
+
+4. `give it away` 放弃?

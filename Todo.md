@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   annoy trust actually occur disturb identify forward temptation tent tell divide clear plain sight below normal thirsty ghost block furniture resolve accept wool collect collection nod tired real owner spring mattress intend persuade pity recap soup soap salad useful laugh sour notice rob straight inform arrest dismiss explain complain feed fed fact woolen cough pend carrot improve approve plant fault meant scene alarm advice redemption pretend proud
+   redemption pretend proud garbage device alarm pend punctual towel scarlet staircase immense
    ```
 
 5. **剑桥初级语法**

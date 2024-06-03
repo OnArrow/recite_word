@@ -24,23 +24,13 @@ The villagers have told him that they will not accept the pub even if he gives i
 
 ## Questions
 
-1. `is up for sale` 挂牌出售?
-
-2. `they were on in the morning` 一直亮到白天?
-
-3. `accept` 在这里表示 `赞同`?
-
-4. `give it away` 放弃?
-
-5. 如何表达 `摇头`
-
 6. Q: 什么叫 `宾语补主语`
 
 ## Whole
 
 1. `shake his head` 摇头
 
-2. `a public house` 和 `pub` 都说的一个地方。酒吧
+2. `a public house` 和 `pub` 都说的一个地方.酒吧
 
 3. `be up for sale` 待售，可以购买
 

@@ -4,8 +4,6 @@
 
 - pull cotton wool collect collection nod meanwhile
 
-- ![Words](../../../Images/Part2/05/words-48.png)
-
 ## Did you want to tell something?
 
 ```
@@ -19,14 +17,6 @@ In answer to these questions I either nodded or made strange noises. Meanwhile, 
 
 I suddenly felt very worried, but could not say anything. When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.
 ```
-
-## Questions
-
-1. `the hole where the tooth had been` 牙齿在的地方的孔?
-
-2. 如何表达 `私人收藏`
-
-3. 如何表达 `与此同时`
 
 ## Whole
 

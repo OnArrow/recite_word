@@ -4,34 +4,6 @@
 
 - year race town crowd stand exciting just finish winner behind way stationer Denmark
 
-## Whole
-
-1. `hundreds of ...` 表示“数以百计的...”。用来表示不确定数量的复数形式
-
-   ```
-   The gale blew down hundreds of trees
-   大风吹到了数百颗树
-   ```
-
-2. `on the way` 表示“在...的途中”
-
-   ```
-   On the way home
-   回家路上
-
-   On the way to work
-   上班路上
-
-   On the way to park
-   在去公园的路上
-   ```
-
-3. `a large crowd` 一大群人
-
-   ```
-   You can see a large crowd of people on the street
-   ```
-
 ## The car race
 
 ```
@@ -49,3 +21,33 @@ It was an exciting finish. The winner was Billy Stewart. He was in car number fi
 
 On the way home, my wife said to me, 'Don't drive so quickly! You're not Billy Stewart!'
 ```
+
+## Whole
+
+1. `hundreds of ...` 表示 `数以百计的...`。用来表示不确定数量的复数形式
+
+   ```
+   The gale blew down hundreds of trees
+   大风吹到了数百颗树
+
+   There were hundreds of people gathered under the big clock
+   ```
+
+2. `on the way` 在...的途中
+
+   ```
+   On the way home
+   回家路上
+
+   On the way to work
+   上班路上
+
+   On the way to park
+   在去公园的路上
+   ```
+
+3. `a large crowd` 一大群人
+
+   ```
+   You can see a large crowd of people on the street
+   ```

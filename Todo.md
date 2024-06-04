@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   redemption pretend proud garbage device alarm pend punctual towel scarlet staircase immense
+   redemption pretend proud garbage device alarm pend punctual towel scarlet staircase immense tennis museum mathematics degree celsius focus frame secret little less least decide advice since hockey oblique mark roll tour write wrote written access polite hide hid hidden directory total network internet administration successfully observe sound shrink absent dairy baker stationer gather awful
    ```
 
 5. **剑桥初级语法**
@@ -40,41 +40,45 @@
 
    ```
 
-7. 所有格形式
+7. 复习单词 `11.09`
 
-8. 梳理冠词内容
+8. 复习 `Lesson `
 
-9. yet 的用法
+9. 所有格形式
 
-10. to 的用法
+10. 梳理冠词内容
 
-11. 宾语从句、直接引语、间接引语
+11. yet 的用法
 
-12. `wards` 是单词后缀吗？
+12. to 的用法
+
+13. 宾语从句、直接引语、间接引语
+
+14. `wards` 是单词后缀吗？
 
     ```
     towards forwards afterwords
     ```
 
-13. `cular` 是单词后缀吗？
+15. `cular` 是单词后缀吗？
 
     ```
     particular circular
     ```
 
-14. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
+16. 为什么形容词可以加在句尾？ `We have little milk left, we need to buy some`
 
-15. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
+17. 反意疑问句到底怎么回答？什么情况下用`Yes`什么情况下用`No`
 
-16. `Jack lives very near us` 这句话中 `near`是什么词性？
+18. `Jack lives very near us` 这句话中 `near`是什么词性？
 
-17. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
+19. `Does it rain a lot where you live?` 为什么翻译成“你住的地方经常下雨吗？”。后面的`where you live` 不是一个特殊疑问句当宾语从句吗？
 
-18. 什么是宾语补足语
+20. 什么是宾语补足语
 
     ```
     I'm going to paint bookcase pink
     // `bookcase` 为宾语。 `pink` 为宾语补足语
     ```
 
-19. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）
+21. 学习剑桥 1 的 18 课的现在完成进行时（48 页最下面那部分）

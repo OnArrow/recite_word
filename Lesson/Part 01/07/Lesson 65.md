@@ -4,35 +4,6 @@
 
 - Dad key baby hear enjoy yourself ourselves mum myself themselves himself herself
 
-## Whole
-
-1. `enjoy` 这个动词后面往往跟一个反身代词
-
-   ```
-   enjoy yourself
-   好好玩吧 / 祝你玩得开心
-
-   enjoy ourselves
-   玩得开心
-
-   enjoy himself
-   玩得开心
-   ```
-
-2. `get` “万金油”动词，需要结合上下文翻译
-
-   ```
-   get home
-   回家
-
-   get on
-   上车
-
-   get started
-   开始
-   // 开始做某事
-   ```
-
 ## Not a baby
 
 ```
@@ -60,3 +31,32 @@ That's all right. Goodbye. Enjoy yourself!
 
 We always enjoy ourselves, Mum. Bye-bye
 ```
+
+## Whole
+
+1. `enjoy` 这个动词后面往往跟一个反身代词
+
+   ```
+   enjoy yourself
+   好好玩吧 / 祝你玩得开心
+
+   enjoy ourselves
+   玩得开心
+
+   enjoy himself
+   玩得开心
+   ```
+
+2. `get` 万金油动词，需要结合上下文翻译
+
+   ```
+   get home
+   回家
+
+   get on
+   上车
+
+   get started
+   开始
+   // 开始做某事
+   ```

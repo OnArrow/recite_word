@@ -38,7 +38,7 @@ The pictures are on the wall
 
 1. `living room` 客厅
 
-2. `How many` 多少； 特殊疑问词
+2. `How many` 多少；特殊疑问词
 
    ```
    There are three armchairs in the living room

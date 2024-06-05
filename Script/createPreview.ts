@@ -2,13 +2,11 @@ import Marked from 'marked'
 
 import path from 'path'
 
-import dayjs from 'dayjs'
-
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
-const targetFilePath = path.resolve(__dirname, '../Review.md')
+const targetFilePath: string = path.resolve(__dirname, '../Review.md')
 
-const readFolderPath = path.resolve(__dirname, '../Words')
+const readFolderPath: string = path.resolve(__dirname, '../Words')
 
 // 需要复习的单词
 let strArr: string[] = []
@@ -17,7 +15,10 @@ let joinedWords: string[] = []
 
 const resultArr: string[] = []
 
-// 读取Todo文件
+readTodoFile()
+readWordsFolder()
+
+/** 读取Todo文件 */
 async function readTodoFile() {
   // 读取文件内容
   const result = await fsRead(path.resolve(__dirname, '../Todo.md'))
@@ -37,7 +38,7 @@ async function readTodoFile() {
   await fsWrite(targetFilePath, '# Review\n', 'w')
 }
 
-// 读取目录下所有md文件
+/** 读取目录下所有md文件 */
 async function readWordsFolder() {
   // 拿到目录下所有文件列表
   const fileArr = await fsReadFolder(readFolderPath)
@@ -53,8 +54,8 @@ async function readWordsFolder() {
   writeContent(resultArr)
 }
 
-// 匹配单词
-function matchWords(str) {
+/** 匹配单词 */
+function matchWords(str: string) {
   // 解析文件内容
   const parseArr = Marked.lexer(str)
 
@@ -91,7 +92,7 @@ function matchWords(str) {
   }
 }
 
-// 写入内容
+/** 写入内容 */
 async function writeContent(arr: string[]) {
   const newArr = shuffle(arr)
 
@@ -105,6 +106,8 @@ async function writeContent(arr: string[]) {
     const word = joinedWords.find((itemX) => itemX === item)
     if (!word) undone.push(item)
   })
+
+  // 在控制台打印结果
   if (undone.length > 0) {
     console.log(
       '\x1B[31m%s\x1B[0m',
@@ -114,6 +117,3 @@ async function writeContent(arr: string[]) {
     console.log('\x1B[32m%s\x1B[0m', 'Successfully!')
   }
 }
-
-readTodoFile()
-readWordsFolder()

@@ -1,5 +1,9 @@
 # Lesson 43
 
+## Marks
+
+1. M: `can` 情态动词
+
 ## Words
 
 - kettle behind teapot now find boil

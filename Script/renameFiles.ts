@@ -1,6 +1,7 @@
 import path from 'path'
 import fs from 'fs'
 
+/** 重命名文件名 */
 function renameFilesInDirectory(directoryPath) {
   fs.readdir(directoryPath, (err, files) => {
     if (err) {

@@ -81,7 +81,7 @@ Nice to meet you
    她是一名新学生吗？
    ```
 
-6. `French` 作为形容词时，翻译为法国的，而作为名词时，翻译为法国人
+6. `French` 作为形容词时，翻译为 `法国的`，而作为名词时，翻译为 `法国人`
 
    ```
    He's French
@@ -163,7 +163,7 @@ Nice to meet you
     // 同理，这里的`university`中虽然以辅音`u`开头，但实际上音标是以辅音`[j]`开始的，所以用`a`
     ```
 
-13. `everybody` 和 `everyone` 等价，都表示“每个人，各位”的意思
+13. `everybody` 和 `everyone` 等价，都表示 `每个人，各位` 的意思
 
     ```
     Jack! This is everybody

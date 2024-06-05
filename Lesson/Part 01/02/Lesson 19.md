@@ -38,7 +38,7 @@ Yes, we are, thank you
 
 1. `ice cream` 冰淇淋
 
-2. `What's the matter?` 和 `What's wrong?` 意思相等，都表示“怎么了？”
+2. `What's the matter?` 和 `What's wrong?` 意思相等，都表示 `怎么了？`
 
    ```
    What's the matter? Parents?
@@ -123,19 +123,17 @@ Yes, we are, thank you
    来见见我们的雇员
    ```
 
-9. `Those` 读作 “豆子”
+9. 在表示商店不营业的时候，通常用 `close` 多于 `shut`
 
-10. 在表示商店不营业的时候，通常用 `close` 多于 `shut`
+   ```
+   We are closed
+   我们关门了
 
-    ```
-    We are closed
-    我们关门了
+   We are shut
+   我们关门了
+   ```
 
-    We are shut
-    我们关门了
-    ```
-
-11. `Look at them`
+10. `Look at them`
 
     ```
     Look at them
@@ -143,7 +141,7 @@ Yes, we are, thank you
     // 根据“主谓宾”结构，`look at`是谓语，谓语后面跟着宾语，`they`的宾语形式是`them`
     ```
 
-12. 名句
+11. 名句
 
     ```
     You're never too old to start learning, and you're never too young to aim high and achieve great things

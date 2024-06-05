@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   redemption pretend proud garbage device alarm pend punctual towel scarlet staircase immense tennis museum mathematics degree celsius focus frame secret little less least decide advice since hockey oblique mark roll tour write wrote written access polite hide hid hidden directory total network internet administration successfully observe sound shrink absent dairy baker stationer gather awful
+   redemption pretend proud garbage device alarm pend punctual towel scarlet staircase immense tennis museum mathematics degree celsius focus frame secret little less least decide advice hockey oblique roll tour access polite hide hid hidden directory total network internet administration successfully observe sound shrink absent dairy baker stationer gather awful credit frequently quadruple sentence cancellation porter discount approve approval exact extra attendance quintuple recommend debit credit triple insufficient stick dynamic ecosystem stack asset composition attempt cascade amount calculator fall fell fallen tear incognito appearance significant turret visible pence subtract situation energy describe paste safari subscription fry internet media spatial prefer discard depth snippet unsure chest adult purchase concept trash utility forever outside wireless organize cellular license phrase greet newsagent agent chemist wardrobe
    ```
 
 5. **剑桥初级语法**
@@ -40,7 +40,7 @@
 
    ```
 
-7. 复习单词 `11.09`
+7. 复习单词 `11.14`
 
 8. 复习 `Lesson `
 

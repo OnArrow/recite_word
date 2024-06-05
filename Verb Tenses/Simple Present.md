@@ -1,6 +1,8 @@
 # 一般现在时 (Simple Present)
 
-## Meaning：表示经常发生的动作或经常存在的状态，或者客观事实。和什么时间，动作是什么状态没有关系
+## Meaning：
+
+1. `表示经常发生的动作或经常存在的状态，或者客观事实。和什么时间，动作是什么状态没有关系`
 
 ```
 He often drinks coffee in the afternoon

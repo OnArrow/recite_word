@@ -43,7 +43,7 @@ Thank you, sir
    // `... of ...` 为无生命的名词所有格
    ```
 
-2. `perhaps` “可能吧”
+2. `perhaps` 可能吧
 
    ```
    Is that your pen?
@@ -72,7 +72,7 @@ Thank you, sir
    // 把 `whose dress` 一起提到句首
    ```
 
-4. 特殊疑问句
+4. `特殊疑问句`
 
    ```
    This is her watch
@@ -117,7 +117,7 @@ Thank you, sir
    那是谁的键盘？
    ```
 
-7. 如何表达“大概”或“可能”？
+7. 如何表达 `大概` 或 `可能`？
 
    ```
    Is this umbrella Jack's?
@@ -127,7 +127,7 @@ Thank you, sir
    可能是
    ```
 
-8. 如何表达“这是杰克的猫”？
+8. 如何表达 `这是杰克的猫`？
 
    ```
    This is Jack's cat

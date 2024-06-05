@@ -96,14 +96,14 @@ Thank you very much
    那些盒子
    ```
 
-6. 如何表达“生活不是非黑即白”？
+6. 如何表达 `生活不是非黑即白`？
 
    ```
    Life isn't black and white
    生活不是非黑即白的
    ```
 
-7. 如何表达“我请客”或“AA”
+7. 如何表达 `我请客` 或 `AA`
 
    ```
    Let's go dutch

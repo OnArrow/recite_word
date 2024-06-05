@@ -26,7 +26,7 @@ Nice to see you, too, Steven. Goodbye
 
 ## Whole
 
-1. `特殊疑问句` **=** `特殊疑问词` **+** `一般疑问句（去掉答案）`
+1. `特殊疑问句 = 特殊疑问词 + 一般疑问句（去掉答案）`
 
    ```
    She is ok

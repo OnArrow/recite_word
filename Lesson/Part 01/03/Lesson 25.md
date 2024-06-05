@@ -56,7 +56,7 @@ The cup is clean
    你爱他吗？
    ```
 
-3. 表达“某地有某物/某人”， 用`There be + a/an + sb./sth. + sw.`
+3. `There be + a/an + sb./sth. + sw.` 某地有某人/某物
 
    ```
    There is a cup on the table of the room

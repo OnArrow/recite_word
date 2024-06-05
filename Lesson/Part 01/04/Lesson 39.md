@@ -30,7 +30,7 @@ Those flowers are lovely, too
 
 1. `in front of` 在...的前面
 
-2. `Don't` 为 `Do not` 的缩写，可以理解为 `别；不要`
+2. `don't` 为 `do not` 的缩写，可以理解为 `别；不要`
 
    ```
    Don't drop it

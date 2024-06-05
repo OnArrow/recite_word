@@ -8,12 +8,18 @@ import * as nodePath from 'path'
 
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
-// 需要乱序的文件
-const shuffleMonths = ['2024/May', '2024/Jun']
+/**
+ * 需要乱序的文件
+ * 如：['2024/May', '2024/Jun']
+ */
+const shuffleMonths: string[] = ['2024/May', '2024/Jun']
 
-const readFolderPath = nodePath.resolve(__dirname, '../Words')
+// 读取的文件夹路径
+const readFolderPath: string = nodePath.resolve(__dirname, '../Words')
 
-// 读取目录下所有md文件
+readWordsFolder()
+
+/** 读取目录下所有md文件 */
 async function readWordsFolder() {
   // 拿到目录下所有文件列表
   const fileArr = await fsReadFolder(readFolderPath)
@@ -30,9 +36,12 @@ async function readWordsFolder() {
   }
 }
 
+/** 乱序内容 */
 async function shuffleContent(fileName: string) {
   const fileResult = await fsRead(fileName)
+  // 解析md内容
   const parseArr = Marked.lexer(fileResult)
+
   const title = parseArr.find((item) => item.type === 'heading').raw
 
   const list = parseArr.find((item) => item.type === 'list').items
@@ -66,7 +75,7 @@ async function shuffleContent(fileName: string) {
   writeContent(title, arr, fileName)
 }
 
-// 写入内容
+/** 写入内容 */
 async function writeContent(title, arr: string[], fileName: string) {
   const newArr = shuffle(arr)
 
@@ -95,5 +104,3 @@ ${index + 1}. ${item.top}
     await fsWrite(fileName, content, 'a')
   }
 }
-
-readWordsFolder()

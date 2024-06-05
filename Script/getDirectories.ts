@@ -5,7 +5,7 @@
 import path from 'path'
 import fs from 'fs'
 
-const months = [
+const months: string[] = [
   'Jan',
   'Feb',
   'Mar',
@@ -20,7 +20,7 @@ const months = [
   'Dec'
 ]
 
-const directoryPath = path.resolve(__dirname, '..') // 请将路径替换为你的实际路径
+const directoryPath: string = path.resolve(__dirname, '..')
 
 // 项目名称
 const projectName: any = directoryPath.split('\\').pop()

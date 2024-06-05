@@ -63,7 +63,7 @@ That's a lovely hat
    // 用 `go` 和 `come` 都可以
    ```
 
-3. `upstairs` **=** `up` + `stairs`
+3. `upstairs = up + stairs`
 
 4. `smart` 更多地是表示 `聪明的`，很少去表示 `时髦的`
 
@@ -83,7 +83,7 @@ That's a lovely hat
    它们是不同的
    ```
 
-6. `lovely` 可爱的； `cute` 可爱的；两个近义词 ==tag==
+6. `lovely` 可爱的。 `cute` 可爱的。两个是同义词
 
    ```
    a lovely hat

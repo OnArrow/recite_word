@@ -4,30 +4,6 @@
 
 - week London suddenly bus stop smile pleasantly understand understood speak spoke hand pocket phrasebook phrase slowly hurriedly cut thirsty go went greet
 
-## Whole
-
-1. `bus stop` 公交车站
-
-2. `lose ... way` 表示迷失了去某个地方地路
-
-   ```
-   I lost my way
-   我迷路了
-
-   He lost library's way
-   他迷失了去图书馆的路
-   ```
-
-3. 以`ly`结尾的很可能是副词
-
-   ```
-   slowly
-
-   hurriedly
-
-   suddenly
-   ```
-
 ## The way to King street
 
 ```
@@ -51,3 +27,30 @@ He opened the book and found a phrase
 
 He read the phrase slowly. 'I am sorry,' he said. 'I do not speak English'
 ```
+
+## Whole
+
+1. `bus stop` 公交车站
+
+2. `lose...way` 迷失去某个地方的路
+
+   ```
+   I lost my way
+   我迷路了
+
+   He lost library's way
+   他迷失了去图书馆的路
+   ```
+
+3. 以 `ly` 结尾的很可能是 `adv.`
+
+   ```
+   slow
+   slowly
+
+   hurry
+   hurriedly
+
+   sudden
+   suddenly
+   ```

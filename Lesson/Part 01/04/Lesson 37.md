@@ -1,5 +1,9 @@
 # Lesson 37
 
+## Marks
+
+1. M: 一般将来时
+
 ## Words
 
 - work hard make bookcase hammer paint pink favorite favourite homework listen dish
@@ -151,7 +155,7 @@ Pink's her favorite color
    Listen to the stereo
    ```
 
-10. `dish` 在表示单数时一般表示碟子或盘子，表示复数时一般表示全部餐具
+10. `dish` 在表示单数时一般表示 `碟子` 或 `盘子`，表示复数时一般表示 `全部餐具`
 
     ```
     Give me a dish, please

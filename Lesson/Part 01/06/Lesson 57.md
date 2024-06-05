@@ -46,7 +46,7 @@ Mr. Sawyer usually reads his newspaper at night, but he's not reading his newspa
    // 这里指距离
    ```
 
-2. 询问时间
+2. `询问时间`
 
    ```
    It's 10 o'clock
@@ -80,7 +80,7 @@ Mr. Sawyer usually reads his newspaper at night, but he's not reading his newspa
    两者可以混用，没有严谨的区别，只是一个小的行为习惯
    ```
 
-4. 表达几点几分
+4. 表达 `几点几分`
 
    - 直接表达
 

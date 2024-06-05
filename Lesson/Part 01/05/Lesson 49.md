@@ -1,5 +1,9 @@
 # Lesson 49
 
+## Marks
+
+1. M: `either` & `too`
+
 ## Words
 
 - butcher meat beef lamb husband steak mince chicken tell truth either tomato potato cabbage lettuce pea bean pear grape peach
@@ -74,7 +78,7 @@ To tell you the truth, Mrs.Bird, I don't like chicken, either!
    全熟
    ```
 
-5. 动词的第三人称单数
+5. `动词的第三人称单数`
 
    ```
    I want this job

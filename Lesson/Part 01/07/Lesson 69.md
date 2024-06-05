@@ -33,7 +33,21 @@ On the way home, my wife said to me, 'Don't drive so quickly! You're not Billy S
    There were hundreds of people gathered under the big clock
    ```
 
-2. `on the way` 在...的途中
+2. `hundred` 要不要加复数 `s`。同理 `thousand`、`million`、`billion` 都一样
+
+   - 如果表示具体的数量，如 `几百` 的时候，`hundred` 不需要变成复数
+
+     ```
+     There are six hundred dollars in his pocket
+     ```
+
+   - 如果形容数量很多就需要变成复数
+
+     ```
+     There were hundreds of people gathered under the clock
+     ```
+
+3. `on the way` 在...的途中
 
    ```
    On the way home
@@ -46,7 +60,7 @@ On the way home, my wife said to me, 'Don't drive so quickly! You're not Billy S
    在去公园的路上
    ```
 
-3. `a large crowd` 一大群人
+4. `a large crowd` 一大群人
 
    ```
    You can see a large crowd of people on the street

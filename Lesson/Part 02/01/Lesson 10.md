@@ -2,7 +2,7 @@
 
 ## Marks
 
-1. M: 现在进行时的被动语态
+1. M: 现在进行时的被动语态 `am/is/are being + done`
 
 ## Words
 

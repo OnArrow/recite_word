@@ -41,13 +41,11 @@ Then sweep the floor
    ```
    tidy
    整洁的
-
    untidy
    不整洁的
 
    install
    安装
-
    uninstall
    卸载
    ```

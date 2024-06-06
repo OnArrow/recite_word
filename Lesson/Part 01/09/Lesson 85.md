@@ -4,29 +4,52 @@
 
 - Paris cinema film beautiful city never ever
 
+## Paris in the spring
+
+```
+Hello, Ken
+
+Hi, George
+
+Have you just been to the cinema?
+
+Yes, I have
+
+What's on?
+
+'Paris in the Spring'
+
+Oh, I've already seen it. I saw it on television last year. It's an old film, but it's very good
+
+Paris is a beautiful city
+
+I've never been there. Have you ever been there, Ken?
+
+Yes, I have. I was there in April
+
+Paris in the spring, eh?
+
+It was spring, but the weather was awful. It rained all the time
+
+Just like London!
+```
+
 ## Whole
 
-1. 如何表达“去电影院”
+1. `go to a cinema` 去电影院
 
-   ```
-   go to a cinema
-   ```
+2. `see a film` 看电影
 
-2. 如何表达“看电影”
-
-   ```
-   see a film
-   ```
-
-3. 如何表达“任何时间都不要做”
+3. 如何表达 `任何时间都不要做`
 
    ```
    never ever
 
    Never ever take your eyes off the ball
+   永远不要将你的眼睛从球上移开
    ```
 
-4. 在电影院中看的电影一般叫`film`，而`movie`通常指的是在哪里都能看的电影
+4. 在电影院中看的电影一般叫 `film`，而 `movie` 通常指的是在哪里都能看的电影
 
 5. `have gone to sw.` vs `have been to sw.`
 
@@ -37,7 +60,7 @@
 
    Jack has gone to Beijing
    杰克去了北京
-   // `have gone to` 表示“去了”，暗示杰克去了北京，但现在还没回来（对现在的影响）
+   // `have gone to` 表示`去了`，暗示杰克去了北京，但现在还没回来（对现在的影响）
    // 这一句相当于上面两句
 
    Jack went to Beijing last week
@@ -45,7 +68,7 @@
    Jack is in Nanning now
 
    Jack has been to Beijing
-   // `have been to` 表示“去过”，暗示杰克去过北京，但现在已经离开了北京（对现在的影响）
+   // `have been to` 表示`去过`，暗示杰克去过北京，但现在已经离开了北京（对现在的影响）
    ```
 
    ```
@@ -59,7 +82,6 @@
    Are you going to the bank?
 
    No, I've already been to the bank
-
    ```
 
 6. 单词首字母需要大写：
@@ -103,33 +125,3 @@
 
    Lesson 85
    ```
-
-## Paris in the spring
-
-```
-Hello, Ken
-
-Hi, George
-
-Have you just been to the cinema?
-
-Yes, I have
-
-What's on?
-
-'Paris in the Spring'
-
-Oh, I've already seen it. I saw it on television last year. It's an old film, but it's very good
-
-Paris is a beautiful city
-
-I've never been there. Have you ever been there, Ken?
-
-Yes, I have. I was there in April
-
-Paris in the spring, eh?
-
-It was spring, but the weather was awful. It rained all the time
-
-Just like London!
-```

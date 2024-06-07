@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   redemption pretend proud garbage pend punctual towel scarlet staircase tennis museum degree celsius secret decide advice hockey oblique access polite directory administration shrink absent dairy stationer frequently quadruple sentence cancellation discount approve approval exact extra attendance quintuple debit credit triple insufficient stick stack composition attempt cascade amount calculator incognito appearance significant turret pence subtract situation energy describe subscription fry spatial prefer discard depth snippet chest adult purchase concept trash utility wireless organize cellular phrase greet newsagent agent chemist wardrobe entire spotlight colorful restore dependencies reveal swipe split badge minimize decline magnify toast modify revert untitled hybrid signature unpack accessibility steak lamp bring brought pound character
+    celsius frequently quadruple approve approval exact extra quintuple debit credit insufficient stick stack composition attempt cascade incognito appearance significant turret pence subtract situation energy spatial  adult organize  chemist  entire spotlight restore dependencies reveal swipe split minimize decline magnify revert untitled signature accessibility lamp pound character slip brigade queen princess prince invoke receipt fund animate hostel association transact selfie screenshot directly transaction withdraw foreign trend dialogue aside section chart chat response article toggle golf Scotland high alternate hate album recently sudden slideshow slide carousel migrate migrate stale shoot loud cheap backup should
    ```
 
 5. **剑桥初级语法**
@@ -40,9 +40,9 @@
 
    ```
 
-7. 复习单词 `11.15`
+7. 复习单词 `11.21`
 
-8. 复习 `Lesson `
+8. 复习 `Lesson 100`
 
 9. 所有格形式
 

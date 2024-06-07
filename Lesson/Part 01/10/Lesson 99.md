@@ -1,8 +1,34 @@
 # Lesson 99
 
+## Marks
+
+1. M: 宾语从句
+
 ## Words
 
 - ow slip fall fell fallen downstairs hurt back help sure ray license licence
+
+## Ow!
+
+```
+Ow!
+
+What's the matter, Andy?
+
+I slipped and fell downstairs
+
+Have you hurt yourself?
+
+Yes, I have. I think that I've hurt my back
+
+Try and stand up. Can you stand up? Here. Let me help you
+
+I'm sorry, Lucy. I'm afraid that I can't get up
+
+I think that the doctor had better see you. I'll phone Dr. Carter
+
+The doctor says that he will come at once. I'm sure that you need an X-ray, Andy
+```
 
 ## Whole
 
@@ -10,9 +36,19 @@
 
 2. `at once` 立即
 
+   ```
+   After he had come into the room, he turned on the light at once
+
+   The fire brigade put out the fire at once
+   ```
+
 3. `X-ray` X 光透视
 
-4. 在英语中常用`and`把两个动词连接在一起
+   ```
+   You needn't have had an X-ray, you are well
+   ```
+
+4. 在英语中常用 `and` 把两个动词连接在一起
 
    ```
    Try and stand up
@@ -20,7 +56,7 @@
    come upstairs and see it
    ```
 
-5. `let me help you` 表示“让我来帮你”，其中`let`有“允许”的意思。后面要加不带`to`的动词不定式
+5. `let me help you` 表示 `让我来帮你`，其中 `let` 有 `允许` 的意思。后面要加不带 `to` 的动词不定式
 
 6. 快速判断语句的时态
 
@@ -32,13 +68,13 @@
    // `hurt`的过去式和自身一模一样，所以这个为一般过去时
    ```
 
-7. 如果要把某人的话告诉另一个人，要用间接引语。间接引语不用加引号，往往在引语前加`that`等引导词
+7. 如果要把某人的话告诉另一个人，要用 `间接引语`。间接引语不用加引号，往往在引语前加 `that` 等引导词
 
    ```
    The doctor says that he will come at once
    ```
 
-8. 宾语从句
+8. `宾语从句`
 
    - 定义：一个句子充当宾语，这个句子叫宾语从句
 
@@ -106,25 +142,3 @@
 
    Where does he say he's staying?
    ```
-
-## Ow!
-
-```
-Ow!
-
-What's the matter, Andy?
-
-I slipped and fell downstairs
-
-Have you hurt yourself?
-
-Yes, I have. I think that I've hurt my back
-
-Try and stand up. Can you stand up? Here. Let me help you
-
-I'm sorry, Lucy. I'm afraid that I can't get up
-
-I think that the doctor had better see you. I'll phone Dr. Carter
-
-The doctor says that he will come at once. I'm sure that you need an X-ray, Andy
-```

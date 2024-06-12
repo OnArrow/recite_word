@@ -1,8 +1,50 @@
 # Lesson 109
 
+## Marks
+
+1. M: `a little un.` 和 `little un.` 的区别
+
+2. M: `a few cn.` 和 `few cn.` 的区别
+
 ## Words
 
 - idea teaspoonful less pity instead advice most least best worse worst
+
+## A good idea
+
+```
+Shall I make some coffee, Jane?
+
+That's a good idea, Charlotte
+
+It's ready. Do you want any milk?
+
+Just a little, please
+
+What about some sugar? Two teaspoonfuls?
+
+No, less than that. One and a half teaspoonfuls, please. That's enough for me
+
+That was very nice
+
+Would you like some more?
+
+Yes, please
+
+I'd like a cigarette, too. May I have one?
+
+Of course. I think there are a few in that box
+
+I'm afraid it's empty
+
+What a pity!
+
+It doesn't matter
+
+Have a biscuit instead. Eat more and smoke less!
+
+That's very good advice!
+```
 
 ## Whole
 
@@ -10,7 +52,7 @@
 
 2. `a few` 几个（用于可数名词之前）
 
-3. `It's doesn't matter` 没关系
+3. `it's doesn't matter` 没关系
 
    ```
    I'm sorry, I've lost your book
@@ -18,7 +60,7 @@
    It's doesn't matter
    ```
 
-4. `What a pity!` 真遗憾。英语中常用`what a + cn.` 和 `What un.` 的结构来表示感叹
+4. `What a pity!` 真遗憾。英语中常用 `what a + cn.` 和 `What un.` 的结构来表示感叹
 
    ```
    What a mess!
@@ -48,9 +90,9 @@
 
 7. `a little un.` 和 `little un.` 的区别
 
-   - `little` 后面都是跟的`un.`
+   - `little` 后面都是跟的 `un.`
 
-   - `a little un.` 有肯定含义，而`little un.` 有否定含义
+   - `a little un.` 有肯定含义，而 `little un.` 有否定含义
 
    ```
    瓶子里有一些水，不是很多
@@ -82,9 +124,9 @@
 
 8. `a few cn.` 和 `few cn.` 的区别
 
-   - `few` 后面跟的都是`cn.`
+   - `few` 后面跟的都是 `cn.`
 
-   - `a few cn.` 有肯定含义，而`few cn.` 有否定含义
+   - `a few cn.` 有肯定含义，而 `few cn.` 有否定含义
 
    ```
    桌子上有一些苹果，不是很多
@@ -105,45 +147,3 @@
 
    I've got few friends, I'm sad and lonely
    ```
-
-## Words
-
-```
-idea teaspoonful pity less instead advice most least best worse worst
-```
-
-## A good idea
-
-```
-Shall I make some coffee, Jane?
-
-That's a good idea, Charlotte
-
-It's ready. Do you want any milk?
-
-Just a little, please
-
-What about some sugar? Two teaspoonfuls?
-
-No, less that that. One and a half teaspoonfuls, please. That's enough for me
-
-That was very nice
-
-Would you like some more?
-
-Yes, please
-
-I'd like a cigarette, too. May I have one?
-
-Of course. I think there are a few in that box
-
-I'm afraid it's empty
-
-What a pity!
-
-It doesn't matter
-
-Have a biscuit instead. Eat more and smoke less!
-
-That's very good advice!
-```

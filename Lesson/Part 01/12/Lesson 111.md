@@ -32,7 +32,7 @@ Millionaires don't buy things on installments!
 
 ## Whole
 
-1. 在多音节形容词前面加`more/most`表示“更多/最多”
+1. 在多音节形容词前面加 `more/most` 表示 `更多/最多`
 
    ```
    beautiful
@@ -57,7 +57,7 @@ Millionaires don't buy things on installments!
    She is the most beautiful in this class
    ```
 
-2. 在多音节形容词前面加`less/least`表示“更少/最少”
+2. 在多音节形容词前面加 `less/least` 表示 `更少/最少`
 
    ```
    beautiful
@@ -98,6 +98,8 @@ Millionaires don't buy things on installments!
    Jack is as tall as his brother
 
    She is as beautiful as an angel
+
+   You are always as bright as the sun
    ```
 
 4. `not as...as`
@@ -112,6 +114,8 @@ Millionaires don't buy things on installments!
    The woman is not as tall as the man
 
    The dog is not as cute as my cat
+
+   You aren't as hard as him
    ```
 
 5. `buy sth. on installments` 用分期付款买某物
@@ -120,4 +124,6 @@ Millionaires don't buy things on installments!
    I bought the computer on installments
 
    Why did you buy the computer on installments?
+
+   You needn't have bought the furniture on installments
    ```

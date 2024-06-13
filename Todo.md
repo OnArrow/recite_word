@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   insufficient  stack composition attempt cascade incognito significant situation energy spatial organize entire spotlight restore dependencies reveal swipe split minimize magnify revert signature slip brigade receipt fund animate hostel association transact selfie screenshot directly transaction withdraw foreign trend alternate slideshow slide carousel migrate stale backup should intelligent teaspoonful stationery invoice biology geography examination science politics chemistry physics bitter mistake shift enhance video reasonable fit unable configuration consume survey overwrite symbol refund trial environment consumer rotate echo individual wish cause surface seaside compress corner compare combo joke artificial subscribe subscription bulletin ringtone sympathy
+   insufficient  stack composition   incognito significant situation  spatial organize  spotlight reveal   minimize magnify revert signature brigade receipt  association transact alternate  migrate stale biology geography examination politics chemistry physics bitter   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit
    ```
 
 5. **剑桥初级语法**

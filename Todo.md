@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   insufficient  stack composition   incognito significant situation  spatial organize  spotlight reveal   minimize magnify revert signature brigade receipt  association transact alternate  migrate stale biology geography examination politics chemistry physics bitter   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit
+   insufficient  stack composition   incognito significant situation  spatial organize  spotlight reveal   minimize magnify revert signature brigade receipt  association transact alternate  migrate stale biology geography examination politics chemistry physics bitter   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit conductor tramp
    ```
 
 5. **剑桥初级语法**

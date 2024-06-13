@@ -6,6 +6,42 @@
 conductor fare change note passenger none neither tramp except
 ```
 
+## Small change
+
+```
+Fares, please!
+
+Trafalgar Square, please
+
+I'm sorry, sir. I can't change a ten-pound note
+
+Haven't you got any small change?
+
+I've got no small change, I'm afraid
+
+I'll ask some of the passengers
+
+Have you any small change, sir?
+
+I'm sorry. I've got none
+
+I haven't got any either
+
+Can you change this ten-pound note, madam?
+
+I'm afraid I can't
+
+Neither can I
+
+I'm very sorry, sir. You must get off the bus. None of our passengers can change this note. They're all millionaires!
+
+Except us
+
+I've got some small change
+
+So have I
+```
+
 ## Whole
 
 1. `not` & `no`
@@ -137,39 +173,3 @@ conductor fare change note passenger none neither tramp except
 
    So did his brother
    ```
-
-## Small change
-
-```
-Fares, please!
-
-Trafalgar Square, please
-
-I'm sorry, sir. I can't change a ten-pound note
-
-Haven't you got any small change?
-
-I've got no small change, I'm afraid
-
-I'll ask some of the passengers
-
-Have you any small change, sir?
-
-I'm sorry. I've got none
-
-I haven't got any either
-
-Can you change this ten-pound note, madam?
-
-I'm afraid I can't
-
-Neither can I
-
-I'm very sorry, sir. You must get off the bus. None of our passengers can change this note. They're all millionaires!
-
-Except us
-
-I've got some small change
-
-So have I
-```

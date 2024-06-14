@@ -1,5 +1,11 @@
 # Lesson 113
 
+## Marks
+
+1. M: `not` & `no` & `none`
+
+2. M: `so am I` & `neither am I` 我也是/我也不是
+
 ## Words
 
 ```

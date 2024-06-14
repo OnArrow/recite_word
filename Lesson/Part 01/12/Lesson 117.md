@@ -1,9 +1,31 @@
 # Lesson 117
 
+## Marks
+
+1. M: 过去进行时
+
 ## Words
 
 ```
 coin mouth swallow later toilet ring
+```
+
+## Tommy's breakfast
+
+```
+When my husband was going into the dining room this morning, he dropped some coins on the floor
+
+There were coins everywhere. We looked for them, but we could not find them all
+
+While we were having breakfast, our little boy. Tommy, found two small coins on the floor
+
+He put them both into his mouth. We both tried to get the coins, but it was too late. Tommy had already swallowed them!
+
+Later that morning, when I was doing the housework, my husband phoned me from the office
+
+'How's Tommy?' he asked
+
+'I don't know,' I answered, 'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'
 ```
 
 ## Whole
@@ -22,7 +44,7 @@ coin mouth swallow later toilet ring
 
    We were swimming in the river at 4 p.m. yesterday
    昨天下午4点的时候我们当时在游泳
-   // 我们当时在游泳，昨天下午4点的时候。可以把`was/were + doing`理解为“当时在做某事”
+   // 我们当时在游泳，昨天下午4点的时候。可以把`was/were + doing`理解为 `当时在做某事`
 
    Were you swimming in the river at 4 p.m. yesterday?
 
@@ -32,11 +54,11 @@ coin mouth swallow later toilet ring
    Where were you swimming at 4 p.m. yesterday?
    ```
 
-2. 时间状语从句（时间从句）
+2. `时间状语从句（时间从句）`
 
    - 定义：句子做时间状语
 
-   - 可以理解为用一句话来交代清楚时间，而不是用一个词或短语。这句话就叫时间状语从句或者时间从句
+   - 可以理解为用一句话来交代清楚时间，而不是用一个词或短语。这句话就叫 `时间状语从句` 或者 `时间从句`
 
    ```
    He was cooking a meal at 10 o'clock
@@ -58,18 +80,18 @@ coin mouth swallow later toilet ring
 
 3. `when` & `while`
 
-   - 表达的意思都一样；“当...的时候”
+   - 表达的意思都一样；`当...的时候`
 
    - `when` 通常为 `when + was doing/did`
 
-   - `when` 可以跟过去进行时和一般过去时连用
+   - `when` 可以跟 `过去进行时` 和 `一般过去时` 连用
 
    - `while` 通常为 `while + was doing`
 
-   - `while` 通常只和过去进行时连用
+   - `while` 通常只和 `过去进行时` 连用
 
    ```
-   Someone knock at the door when I was having lunch
+   Someone knocked at the door when I was having lunch
    当我在吃饭的时候有人在敲门
    // 什么时候敲的门？当“我”在吃饭的时间。交代了敲门这个动作发生的时间
 
@@ -87,7 +109,7 @@ coin mouth swallow later toilet ring
    She was drinking wine while we were drinking tea
    ```
 
-4. `see you later alligator` 是比较俏皮的一种表达，有点类似于“拜拜了您嘞，回头见”。但核心还是表示“回头见”。
+4. `see you later alligator` 是比较俏皮的一种表达，有点类似于 `拜拜了您嘞，回头见`。但核心还是表示 `回头见`。
 
 5. `boil over` 某个东西煮沸了然后溢出来了
 
@@ -95,21 +117,3 @@ coin mouth swallow later toilet ring
    The tea boiled over
    茶煮沸溢出来了
    ```
-
-## Tommy's breakfast
-
-```
-When my husband was going into the dining room this morning, he dropped some coins on the floor
-
-There were coins everywhere. We looked for them, but we could not find them all
-
-While we were having breakfast, our little boy. Tommy, found two small coins on the floor
-
-He put them both into his mouth. We both tried to get the coins, but it was too late. Tommy had already swallowed them!
-
-Later that morning, when I was doing the housework, my husband phoned me from the office
-
-'How's Tommy?' he asked
-
-'I don't know,' I answered, 'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'
-```

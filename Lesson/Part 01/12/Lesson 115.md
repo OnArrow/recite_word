@@ -1,14 +1,52 @@
 # Lesson 115
 
+## Marks
+
+1. M: 不定代词
+
 ## Words
 
 ```
 anyone knock everything quiet impossible invite anything nothing lemonade joke
 ```
 
+## Knock, knock
+
+```
+Isn't there anyone at home?
+
+I'll knock again, Helen. Everything's very quiet. I'm sure there's no one at home
+
+But that's impossible. Carol and Tom invited us to lunch. Look through the window
+
+Can you see anything?
+
+Nothing at all
+
+Let's try the back door
+
+Look! Everyone's in the garden
+
+Hello, Helen. Hello, Jim
+
+Everybody wants to have lunch in the garden. It's nice and warm out here
+
+Come and have something to drink
+
+Thanks, Carol. May I have a glass of beer please?
+
+Beer? There's none left
+
+You can have some lemonade
+
+Lemonade!
+
+Don't believe her, Jim. She's only joking. Have some beer!
+```
+
 ## Whole
 
-1. 不定代词
+1. `不定代词`
 
    - 不太确定指向的代词
 
@@ -25,7 +63,7 @@ anyone knock everything quiet impossible invite anything nothing lemonade joke
 
    - `everything` 特指每一个事物
 
-   - 不定代词作主语的时候通常表示单数，后面跟`is`
+   - 不定代词作主语的时候通常表示 `单数`，后面跟 `is`
 
      ```
      Everyone is pretty
@@ -37,7 +75,7 @@ anyone knock everything quiet impossible invite anything nothing lemonade joke
      Someone isn't clever
      ```
 
-   - 当不确定是一个人还是一些人的时候，只要用了`someone`就默认为一个人，此时为单数
+   - 当不确定是一个人还是一些人的时候，只要用了 `someone` 就默认为一个人，此时为 `单数`
 
      ```
      Someone is knocking at the door
@@ -47,11 +85,11 @@ anyone knock everything quiet impossible invite anything nothing lemonade joke
      // 此时已经确定有两个人在敲门
      ```
 
-   - `any`开头的不定代词一般用于否定句和疑问句
+   - `any` 开头的不定代词一般用于 `否定句` 和 `疑问句`
 
 2. `be quiet` 安静
 
-   - 像这样的`be`开头的短语，可以理解为完整的句子是`you will be quiet`。因为想让你在将来的时间里面“安静”，所以用`will`，同时因为`will`后面的`be动词`必须是原型，所以为`be quiet`。其实理解为`must`也可以，因为`must`后面跟的`be动词`也必须是原型
+   - 像这样的 `be` 开头的短语，可以理解为完整的句子是 `you will be quiet`。因为想让你在将来的时间里面 `安静`，所以用 `will`，同时因为 `will` 后面的 `be动词` 必须是原型，所以为 `be quiet`。其实理解为 `must` 也可以，因为 `must` 后面跟的 `be动词` 也必须是原型
 
    ```
    Be quiet
@@ -87,44 +125,14 @@ anyone knock everything quiet impossible invite anything nothing lemonade joke
 
    - `through` 往往是从物体的内部穿过
 
+   ```
+   I like to walking through the forest
+   ```
+
 5. `have something to drink` 喝点东西
 
-   - 后面的`drink`可换成其它合适的`v.`
+   - 后面的 `drink` 可换成其它合适的 `v.`
 
    ```
    have something to eat
    ```
-
-## Knock, knock
-
-```
-Isn't there anyone at home?
-
-I'll knock again, Helen. Everything's very quiet. I'm sure there's no one at home
-
-But that's impossible. Carol and Tom invited us to lunch. Look through the window
-
-Can you see anything?
-
-Nothing at all
-
-Let's try the back door
-
-Look! Everyone's in the garden
-
-Hello, Helen. Hello, Jim
-
-Everybody wants to have lunch in the garden. It's nice and warm out here
-
-Come and have something to drink
-
-Thanks, Carol. May I have a glass of beer please?
-
-Beer? There's none left
-
-You can have some lemonade
-
-Lemonade!
-
-Don't believe her, Jim. She's only joking. Have some beer!
-```

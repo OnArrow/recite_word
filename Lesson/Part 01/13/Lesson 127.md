@@ -1,27 +1,65 @@
 # Lesson 127
 
+## Marks
+
+1. M: `must be` 一定是
+
+2. M: `can't be` 一定不是
+
 ## Words
 
 ```
 famous actress actor read
 ```
 
+## A famous actress
+
+```
+Can you recognize that woman, Liz?
+
+I think I can, Kate. It must be Karen Marsh, the actress
+
+I thought so
+
+Who's that beside her?
+
+That must be Conrad Reeves
+
+Conrad Reeves, the actor? It can't be. Let me have another look. I think you're right
+
+Isn't he her third husband?
+
+No, He must be her fourth or fifth
+
+Doesn't Karen Marsh look old!
+
+She does, doesn't she! I read she's twenty-nine, but she must be at least forty
+
+I'm sure she is
+
+She was a famous actress when I was still at school
+
+That was a long time ago, wasn't it?
+
+Not that long ago! I'm not more than twenty-nine myself
+```
+
 ## Whole
 
 1. `must`
 
-   - `must`有两个含义：一个表示“必须”，另一个表示“推测”。这里`must`表示“推测”的意思
+   - `must`有两个含义：一个表示 `必须`，另一个表示 `推测`。这里 `must` 表示 `推测` 的意思
 
-   - 表示推测，而且这个推测确信度高，对现在的发生的事的肯定推测：一定是
+   - 表示推测，而且这个推测确信度高，对现在的发生的事的肯定推测：`一定是`
 
-   - `must be`中的`be`为原型，不和时态所关联
+   - `must be`中的 `be` 为原型，不和时态所关联
 
-   - `must be`后面可以跟各种时态
+   - `must be` 后面可以跟各种时态
 
    - `must be` 替换的是句子中的 `be`。相当于把一句肯定句换成了推测句
 
    ```
-   在大街上你看到一个人特别像周杰伦，你上去打招呼说“你一定是周杰伦吧？”。这时对你来说这个推测的确信度很高，那个人很有可能是周杰伦
+   在大街上你看到一个人特别像周杰伦，你上去打招呼说 `你一定是周杰伦吧？`。这时对你来说这个推测的确信度很高，那个人很有可能是周杰伦
 
    这个水壶里有水
    // 肯定句
@@ -59,7 +97,7 @@ famous actress actor read
    // 用`must be`替换掉了上一句中的`be`动词
    ```
 
-   - `be` 不是一定需要的，需要看`must`后面跟的是什么时态。简单来说就是`be`有没有取决于肯定句中的`be`动词有没有
+   - `be` 不是一定需要的，需要看 `must` 后面跟的是什么时态。简单来说就是 `be` 有没有取决于肯定句中的 `be` 动词有没有
 
    ```
    He is clever
@@ -90,7 +128,7 @@ famous actress actor read
 
 2. `can't be`
 
-   - 与`must be`刚好相反，但表达的是“一定不是”
+   - 与 `must be` 刚好相反，但表达的是 `一定不是`
 
    ```
    You can't be Jack
@@ -104,10 +142,6 @@ famous actress actor read
    Can't he be Jack?
 
    Why can't he be Jack?
-   ```
-
-   ```
-
    ```
 
 3. `at least` 至少。`more than` 超过
@@ -143,35 +177,3 @@ famous actress actor read
 
    I hope not
    ```
-
-## A famous actress
-
-```
-Can you recognize that woman, Liz?
-
-I think I can, Kate. It must be Karen Marsh, the actress
-
-I thought so
-
-Who's that beside her?
-
-That must be Conrad Reeves
-
-Conrad Reeves, the actor? It can't be. Let me have another look. I think you're right
-
-Isn't he her third husband?
-
-No, He must be her fourth or fifth
-
-Doesn't Karen Marsh look old!
-
-She does, doesn't she! I read she's twenty-nine, but she must be at least forty
-
-I'm sure she is
-
-She was a famous actress when I was still at school
-
-That was a long time ago, wasn't it?
-
-Not that long ago! I'm not more than twenty-nine myself
-```

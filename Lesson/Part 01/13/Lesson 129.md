@@ -6,6 +6,38 @@
 wave track mile overtake speed limit dream sign driving license charge darling
 ```
 
+## Seventy miles an hour
+
+```
+Look, Gary! That policeman's waving to you. He wants you to stop
+
+Where do you think you are? On a race track? You must have been driving at seventy miles an hour
+
+I can't have been
+
+I was doing eighty when I overtook you
+
+Didn't you see the speed limit?
+
+I'm afraid I didn't, officer. I must have been dreaming
+
+He wasn't dreaming, officer. I was telling him to drive slowly
+
+That's why I didn't see the sign
+
+Let me see your driving license
+
+I won't charge you this time. But you'd better not do it again!
+
+Thank you. I'll certainly be more careful
+
+I told you to drive slowly, Gary
+
+You always tell me to drive slowly, darling
+
+Well, next time you'd better take my advice!
+```
+
 ## Whole
 
 1. `must` 表示推测
@@ -18,9 +50,9 @@ wave track mile overtake speed limit dream sign driving license charge darling
 
      - `must have been doing`
 
-     - 以上的`have been`跟现在完成时没有关系，只是`must`的固定搭配
+     - 以上的 `have been` 跟现在完成时没有关系，只是 `must` 的固定搭配
 
-   - 表示推测，而且这个推测确信度高，对过去的肯定推测：当时一定是
+   - 表示推测，而且这个推测确信度高，对过去的肯定推测：`当时一定是`
 
    ```
    I must have been crazy
@@ -48,7 +80,7 @@ wave track mile overtake speed limit dream sign driving license charge darling
    // 特殊疑问句
    ```
 
-   - `must` 后面跟的是`have done`还是`have been`要看肯定句来判断
+   - `must` 后面跟的是 `have done` 还是 `have been` 要看肯定句来判断
 
    ```
    He was sleeping
@@ -97,7 +129,7 @@ wave track mile overtake speed limit dream sign driving license charge darling
 
 2. `can't` 表示推测
 
-   - 与`must`刚好相反，但表达的是“当时一定不是”
+   - 与 `must` 刚好相反，但表达的是 `当时一定不是`
 
    ```
    I can't have been crazy
@@ -120,43 +152,17 @@ wave track mile overtake speed limit dream sign driving license charge darling
 
    ```
    She is waving to me
+
+   He must have waved to me
+
+   He must have waving to him
+
+   If you waved to me, I would reply to you
    ```
 
-4. `away` 表示“距离...有多远”
+4. `away` 距离...有多远
 
    ```
    The railway station is 4 miles away
    火车站在4英里远的地方
    ```
-
-## Seventy miles an hour
-
-```
-Look, Gary! That policeman's waving to you. He wants you to stop
-
-Where do you think you are? On a race track? You must have been driving at seventy miles an hour
-
-I can't have been
-
-I was doing eighty when I overtook you
-
-Didn't you see the speed limit?
-
-I'm afraid I didn't, officer. I must have been dreaming
-
-He wasn't dreaming, officer. I was telling him to drive slowly
-
-That's why I didn't see the sign
-
-Let me see your driving license
-
-I won't charge you this time. But you'd better not do it again!
-
-Thank you. I'll certainly be more careful
-
-I told you to drive slowly, Gary
-
-You always tell me to drive slowly, darling
-
-Well, next time you'd better take my advice!
-```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   insufficient  incognito significant situation      reveal    magnify revert signature brigade   association  alternate  migrate biology geography examination politics chemistry physics   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit conductor tramp quiet quite dine alligator torch parrot forget forgot forgotten heaven kitten beard terribly nuisance track overtake
+   insufficient  incognito significant situation      reveal    magnify revert signature brigade   association  alternate  migrate biology geography examination politics chemistry physics   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit conductor tramp quiet quite dine alligator torch parrot forget forgot forgotten heaven kitten beard terribly nuisance track overtake execute
    ```
 
 5. **剑桥初级语法**

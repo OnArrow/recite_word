@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目
    ```
 
 2. **过去式&过去分词**

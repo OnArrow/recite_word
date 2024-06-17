@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   insufficient  incognito significant situation      reveal    magnify revert signature brigade   association  alternate  migrate biology geography examination politics chemistry physics   enhance reasonable fit  survey    individual      artificial  bulletin ringtone sympathy comparison deposit conductor tramp quiet quite dine alligator torch parrot forget forgot forgotten heaven kitten beard terribly nuisance track overtake execute
+   tramp quiet quite dine alligator beard terribly nuisance track overtake execute reporter sensational mink
    ```
 
 5. **剑桥初级语法**

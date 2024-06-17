@@ -1,20 +1,52 @@
 # Lesson 131
 
+## Marks
+
+1. M: `may/might` 可能是
+
+2. M: `may/might not` 可能不是
+
 ## Words
 
 ```
 Egypt abroad worry
 ```
 
+## Don't be so sure!
+
+```
+Where are you going to spend your holidays this year, Gary?
+
+We may go abroad. I'm not sure
+
+My wife wants to go to Egypt. I'd like to go there, too. We can't make up our minds
+
+Will you travel by sea or by air?
+
+We may travel by sea
+
+It's cheaper, isn't it?
+
+It may be cheaper, but it takes a long time
+
+I'm sure you'll enjoy yourselves
+
+Don't be so sure. We might not go anywhere
+
+My wife always worries too much. Who's going to look after the dog? Who's going to look after the house? Who's going to look after the garden?
+
+We have this problem every year. In the end, we stay at home and look after everything!
+```
+
 ## Whole
 
 1. `may/might` 表示现在推测
 
-   - 表示推测，但是这个推测的可信度比较低，对现在的发生的事的肯定推测：可能是
+   - 表示推测，但是这个推测的可信度比较低，对现在的发生的事的肯定推测：`可能是`
 
-   - 用法和`must`基本相同。但是变为否定时，不需要换成其它单词，只需要在后面加上`not`
+   - 用法和 `must` 基本相同。但是变为否定时，不需要换成其它单词，只需要在后面加上 `not`
 
-   - 虽然`might`是`may`的过去式，但在表示推测时两者混用完全没问题，不需要特别区分
+   - 虽然 `might` 是 `may` 的过去式，但在表示推测时两者混用完全没问题，不需要特别区分
 
    ```
    这件外套可能是我的
@@ -95,9 +127,9 @@ Egypt abroad worry
 
 2. `may/might` 表示过去推测
 
-   - 表示推测，但是这个推测的可信度比较低，对过去的肯定推测：当时可能是
+   - 表示推测，但是这个推测的可信度比较低，对过去的肯定推测：`当时可能是`
 
-   - 用法和`must`基本相同。但是变为否定时，不需要换成其它单词，只需要在后面加上`not`
+   - 用法和 `must` 基本相同。但是变为否定时，不需要换成其它单词，只需要在后面加上 `not`
 
    ```
    他当时可能是病了
@@ -153,7 +185,7 @@ Egypt abroad worry
    He was a doctor
    ```
 
-3. 在祈使句中，`be`动词的否定句要用`don't be`。这种结构常常用于劝告
+3. 在祈使句中，`be` 动词的否定句要用 `don't be`。这种结构常常用于劝告
 
    ```
    Don't be so sure
@@ -187,10 +219,20 @@ Egypt abroad worry
 
 6. `make up our minds` （我们）下定决心
 
+   ```
+   Finally, we made up our minds not to go for a walk
+
+   I couldn't make up my mind to finish it
+   ```
+
 7. `look after` 照顾；照看
 
    ```
    I'm looking after the baby
+
+   You needn't look after the dog, it can look after itself
+
+   You needn't have looked after the dog
    ```
 
 8. `in the end` 最后
@@ -198,29 +240,3 @@ Egypt abroad worry
    ```
    In the end, I finished my homework
    ```
-
-## Don't be so sure!
-
-```
-Where are you going to spend your holidays this year, Gary?
-
-We may go abroad. I'm not sure
-
-My wife wants to go to Egypt. I'd like to go there, too. We can't make up our minds
-
-Will you travel by sea or by air?
-
-We may travel by sea
-
-It's cheaper, isn't it?
-
-It may be cheaper, but it takes a long time
-
-I'm sure you'll enjoy yourselves
-
-Don't be so sure. We might not go anywhere
-
-My wife always worries too much. Who's going to look after the dog? Who's going to look after the house? Who's going to look after the garden?
-
-We have this problem every year. In the end, we stay at home and look after everything!
-```

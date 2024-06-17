@@ -1,16 +1,50 @@
 # Lesson 133
 
+## Marks
+
+1. M: `直接引语` 变为 `间接引语` 时时态的变化
+
 ## Words
 
 ```
 reporter sensational mink
 ```
 
+## Sensational news!
+
+```
+Have you just made a new film, Miss Marsh?
+
+Yes, I have
+
+Are you going to make another?
+
+No, I'm not. I'm going to retire. I feel very tired. I don't want to make another film for a long time
+
+Let's buy a newspaper, Liz. Listen to this!
+
+'Karen Marsh: Sensational News! By out reporter, Alan Jones'
+
+'Karen Marsh arrived at London Airport today. She was wearing a blue dress and a mink coat'
+
+'She told me she had just made a new film. She said she was not going to make another. She said she was going to retire'
+
+'She told reporters she felt very tired and didn't want to make another film for a long time'
+
+I wonder why!
+```
+
 ## Whole
 
-1. “直接引语”变为“间接引语”时时态的变化
+1. `mink coat` 貂皮大衣
 
-   - 总结：当主句为一般过去时的时候，间接引语一定要后退一个时态
+   ```
+   How much does your new mink coat cost?
+   ```
+
+1. `直接引语` 变为 `间接引语` 时时态的变化
+
+   - 总结：当主句为 `一般过去时` 的时候，间接引语一定要 `后退一个时态`
 
    - 当主句为一般过去时，并且直接引语为一般现在时，那么间接引语就要变为一般过去时
 
@@ -124,33 +158,3 @@ reporter sensational mink
 
    She said that she was going to take a bath
    ```
-
-## Expressions
-
-```
-mink coat 貂皮大衣
-```
-
-## Sensational news!
-
-```
-Have you just made a new film, Miss Marsh?
-
-Yes, I have
-
-Are you going to make another?
-
-No, I'm not. I'm going to retire. I feel very tired. I don't want to make another film for a long time
-
-Let's buy a newspaper, Liz. Listen to this!
-
-'Karen Marsh: Sensational News! By out reporter, Alan Jones'
-
-'Karen Marsh arrived at London Airport today. She was wearing a blue dress and a mink coat'
-
-'She told me she had just made a new film. She said she was not going to make another. She said she was going to retire'
-
-'She told reporters she felt very tired and didn't want to make another film for a long time'
-
-I wonder why!
-```

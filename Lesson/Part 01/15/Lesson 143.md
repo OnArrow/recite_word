@@ -6,6 +6,24 @@
 surround wood hundred city through visitor tidy litter place throw rubbish count cover piece tyre rusty among prosecute
 ```
 
+## A walk through the woods
+
+```
+I live in a very old town which is surrounded by beautiful woods. It is a famous beauty spot.
+
+On Sundays, hundreds of people come from the city to see our town and to walk through the woods.
+
+Visitors have been asked to keep the woods clean and tidy.
+
+Litter baskets have been placed under the trees, but people still throw their rubbish everywhere
+
+Last Wednesday, I went for a walk in the woods. What I saw made me very sad. I counted seven old cars and three old refrigerators
+
+The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins
+
+Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'
+```
+
 ## Whole
 
 1. `A be surrounded by B` A 被 B 包围
@@ -24,7 +42,7 @@ surround wood hundred city through visitor tidy litter place throw rubbish count
    昨晚下雪了，今天早上这条街被雪覆盖了
    ```
 
-3. 现在完成时的被动语态
+3. M: `现在完成时的被动语态`
 
    - 结构：`have/has been + done`
 
@@ -42,7 +60,7 @@ surround wood hundred city through visitor tidy litter place throw rubbish count
    多少棵树被学生们种下了?
    ```
 
-4. 一般将来时的被动语态
+4. M: `一般将来时的被动语态`
 
    - 结构：`will be + done`
 
@@ -62,7 +80,7 @@ surround wood hundred city through visitor tidy litter place throw rubbish count
 
 5. `be` 的现在分词形式 `being`
 
-6. 现在进行时的被动语态
+6. M: `现在进行时的被动语态`
 
    - 结构：`am/is/are being + done`
 
@@ -90,28 +108,16 @@ surround wood hundred city through visitor tidy litter place throw rubbish count
    Who are those bridge being built?
    ```
 
-## Expressions
+7. `beauty spot` 风景点
 
-```
-beauty spot 风景点
+   ```
+   He wants to know where the beauty spot is
 
-litter basket 废物筐；垃圾桶
-```
+   He wants to know if the beauty spot is very good
+   ```
 
-## A walk through the woods
+8. `litter basket` 废物筐；垃圾桶
 
-```
-I live in a very old town which is surrounded by beautiful woods. It is a famous beauty spot
-
-On Sundays, hundreds of people come from the city to see our town and to walk through the woods
-
-Visitors have been asked to keep the woods clean and tidy
-
-Litter baskets have been placed under the trees, but people still throw their rubbish everywhere
-
-Last Wednesday, I went for a walk in the woods. What I saw made me very sad. I counted seven old cars and three old refrigerators
-
-The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins
-
-Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'
-```
+   ```
+   How often is the litter basket cleaned?
+   ```

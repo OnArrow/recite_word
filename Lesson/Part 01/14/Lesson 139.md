@@ -6,15 +6,45 @@
 extra overseas engineering company line
 ```
 
+## Is that you, John?
+
+```
+Is that you, John?
+
+Yes, speaking.
+
+Tell Mary we'll be late for dinner this evening.
+
+I'm afraid I don't understand.
+
+Hasn't Mary told you? She invited Charlotte and me to dinner this evening. I said I would be at your house at six o'clock, but the boss wants me to do some extra work.
+
+I'll have to stay at the office. I don't know when I'll finish. Oh, and by the way, my wife wants to know if Mary needs any help.
+
+I don't know what you're talking about.
+
+That is John Smith, isn't it?
+
+Yes, I'm John Smith
+
+You are John Smith, the engineer, aren't you?
+
+That's right
+
+You work for the Overseas Engineering Company, don't you?
+
+No, I don't. I'm John Smith the telephone engineer and I'm repairing your telephone line
+```
+
 ## Whole
 
-1. 一般疑问句做宾语从句
+1. M: `一般疑问句做宾语从句`
 
-   - 一般疑问句做宾语从句时，一般疑问句的要先变为陈述语序，同时使用`if`引导，这个`if`不翻译为“如果”，翻译为“是否”
+   - 一般疑问句做宾语从句时，一般疑问句的要先变为陈述语序，同时使用 `if` 引导，这个 `if` 不翻译为 `如果`，翻译为 `是否`
 
    - `if` 不能省略
 
-   - 像疑问句用`any`，肯定句用`some`这些规则，在这里都不需要变，`any`还是用`any`，`some`还是用`some`
+   - 像疑问句用 `any`，肯定句用 `some` 这些规则，在这里都不需要变，`any` 还是用 `any`，`some` 还是用 `some`
 
    ```
    Is she a nurse?
@@ -61,9 +91,9 @@ extra overseas engineering company line
    // 疑问句用的`any`，变为宾语从句时还是用`any`
    ```
 
-2. 特殊疑问句做宾语从句
+2. M: `特殊疑问句做宾语从句`
 
-   - 特殊疑问句做宾语从句时，除了特殊疑问词（What、Who、Which、Where），剩下的需要变为陈述语序，同时用这个特殊疑问词引导
+   - 特殊疑问句做宾语从句时，除了特殊疑问词（`What、Who、Which、Where`），剩下的需要变为陈述语序，同时用这个特殊疑问词引导
 
    ```
    Who is she?
@@ -104,32 +134,6 @@ extra overseas engineering company line
 
 3. `by the way` 顺便说一句
 
-## Is that you, John?
-
-```
-Is that you, John?
-
-Yes, speaking
-
-Tell Mary we'll be late for dinner this evening
-
-I'm afraid I don't understand
-
-Hasn't Mary told you? She invited Charlotte and me to dinner this evening. I said I would be at your house at six o'clock, but the boss wants me to do some extra work
-
-I'll have to stay at the office. I don't know when I'll finish. Oh, and by the way, my wife wants to know if Mary needs any help
-
-I don't know what you're talking about
-
-That is John Smith, isn't it?
-
-Yes, I'm John Smith
-
-You are John Smith, the engineer, aren't you?
-
-That's right
-
-You work for the Overseas Engineering Company, don't you?
-
-No, I don't. I'm John Smith the telephone engineer and I'm repairing your telephone line
-```
+   ```
+   By the way, she really don't like you, so you needn't follow her
+   ```

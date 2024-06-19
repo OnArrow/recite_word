@@ -6,15 +6,37 @@
 football pool win world poor depend
 ```
 
+## A pleasant dream
+
+```
+Are you doing the football pools, Brian?
+
+Yes, I've nearly finished, Julie. I'm sure we'll win something this week
+
+You always say that, but we never win anything! What will you do if you win a lot of money?
+
+If I win a lot of money I'll buy you a mink coat
+
+I don't want a mink coat! I want to see the world
+
+All right. If we win a lot of money we'll travel round the world and we'll stay at the best hotels. Then we'll return home and buy a big house in the country. We'll have a beautiful garden and...
+
+But if we spend all that money we'll be poor again. What'll we do then?
+
+If we spend all the money we'll try and win the football pools again
+
+It's a pleasant dream but everything depends on 'if'!
+```
+
 ## Whole
 
-1. `if`的使用
+1. `if` 的使用
 
    - `if...(一般现在时), 主语 + will do...(一般将来时)`
 
    - `if` 也可以放句子的后面
 
-   - `if` 开头的一般叫条件从句或者条件状语从句
+   - `if` 开头的一般叫 `条件从句` 或者 `条件状语从句`
 
    - `主将从现`。意思是如果主句为一般将来时，那么条件从句要用一般现在时
 
@@ -73,26 +95,6 @@ football pool win world poor depend
 
    ```
    The cat depend on me
+
+   He always depends on his mother
    ```
-
-## A pleasant dream
-
-```
-Are you doing the football pools, Brian?
-
-Yes, I've nearly finished, Julie. I'm sure we'll win something this week
-
-You always say that, but we never win anything! What will you do if you win a lot of money?
-
-If I win a lot of money I'll buy you a mink coat
-
-I don't want a mink coat! I want to see the world
-
-All right. If we win a lot of money we'll travel round the world and we'll stay at the best hotels. Then we'll return home and buy a big house in the country. We'll have a beautiful garden and...
-
-But if we spend all that money we'll be poor again. What'll we do then?
-
-If we spend all the money we'll try and win the football pools again
-
-It's a pleasant dream but everything depends on 'if'!
-```

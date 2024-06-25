@@ -38,6 +38,8 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 
    ```
    I had to pay more attention to the football game last night.
+
+   I've never paid any attention to the book on the shelf.
    ```
 
 4. `It's none of your business` 不关你的事
@@ -67,17 +69,25 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
 8. 单词造句指南
 
    - v. + v.变化
+
    - 四句型转换
+
    - 方式/地点/时间
+
    - 结合习惯用法
+
    - 其它单词+词性
+
    - 原文摘抄+变
 
 9. 造一个好句子
 
    - +adj.
+
    - +adv.
+
    - +时间
+
    - +地点
 
    ```

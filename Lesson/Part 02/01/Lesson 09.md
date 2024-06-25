@@ -22,6 +22,8 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
 
    ```
    There's a crowd of birds in the sky
+
+   There's a crowd of people dancing in the hall
    ```
 
 2. `gather round` 聚集；聚拢

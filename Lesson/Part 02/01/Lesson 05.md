@@ -22,10 +22,16 @@ In this way, he has begun his own private 'telephone' service.
 
 3. `spare part` 备用零件；备件
 
+   ```
+   Do you have any other spare parts?
+   ```
+
 4. `A is five miles from B` A 到 B 有 5 英里
 
    ```
    The school is ten miles from my home
+
+   I'm only three meters away from you
    ```
 
 5. `leave sb. sth.` 留下某物
@@ -40,6 +46,8 @@ In this way, he has begun his own private 'telephone' service.
 
    ```
    He covered the distance from the school to another school in two hours
+
+   The plane had covered the distance from America to China in ten hours the month before last
    ```
 
 7. `send a request for sth.` 请求某物
@@ -72,9 +80,11 @@ In this way, he has begun his own private 'telephone' service.
 
     ```
     In this way, I always have a good seat in the cinema
+
+    In this way, he can always win a lot of prizes
     ```
 
-12. `other`通常指三个及以上，而`another`通常指两个中的一个
+12. `other` 通常指三个及以上，而 `another` 通常指两个中的一个
 
     ```
     There were four letters in my drawer, one was from America, the others were from France
@@ -82,11 +92,11 @@ In this way, he has begun his own private 'telephone' service.
     I have two brothers, one is an engineer, the another is a mechanic
     ```
 
-13. `get a telephone` 在这里`get`表示`拥有；得到`
+13. `get a telephone` 在这里 `get` 表示 `拥有；得到`
 
 14. `so far` 到目前为止
 
-15. `up to now` 迄今为止。往往和现在完成时一起出现
+15. `up to now` 迄今为止。往往和 `现在完成时` 一起出现
 
     ```
     I've sent a great number of postcards to him up to now

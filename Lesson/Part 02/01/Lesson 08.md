@@ -24,7 +24,7 @@ Every year I enter for the garden competition too, and I always win a little pri
    He enters the competition every year
    ```
 
-2. `That's neat` 和 `That's cool` 表达意思相近，在这里`neat`不表示`整齐；整洁`
+2. `that's neat` 和 `that's cool` 表达意思相近，在这里 `neat` 不表示 `整齐；整洁`
 
    ```
    有一件事很酷就可以用。如跳起来直接扣篮就可以
@@ -48,12 +48,16 @@ Every year I enter for the garden competition too, and I always win a little pri
    I agree with you, Tom's taller
 
    I don't agree with you, Jack's taller
+
+   I don't agree with you at all
    ```
 
 5. `enter for` 参加
 
    ```
    Last night I entered for the party with Jack
+
+   When did you enter for last party?
    ```
 
 6. 单音节指只有一个元音

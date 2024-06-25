@@ -25,7 +25,7 @@ He calls at every house in the street once a month and always asks for a meal an
    ```
    What happened to your pocket money?
 
-   When I was young, I always asked my mon for pocket money
+   When I was young, I always asked my mom for pocket money
    ```
 
 2. `once a month` 一个月一次
@@ -44,6 +44,8 @@ He calls at every house in the street once a month and always asks for a meal an
    I couldn't live without you
 
    He can't live without cigarette
+
+   They can't live without water
    ```
 
 4. `mineral water` 矿泉水
@@ -54,6 +56,8 @@ He calls at every house in the street once a month and always asks for a meal an
 
    ```
    The room has a fine view
+
+   I can have the fine view in this room
    ```
 
 7. `ask sb. for sth.` 找某人要某物
@@ -62,7 +66,7 @@ He calls at every house in the street once a month and always asks for a meal an
    He's just asked me for some pocket money
    ```
 
-8. `in return for this` 作为回报。`in return for this`中的`this`在文中指的就是`I gave him a meal and a glass of beer`
+8. `in return for this` 作为回报。`in return for this` 中的 `this` 在文中指的就是 `I gave him a meal and a glass of beer`
 
    ```
    I've just helped him get it, in return for this, he wanted to give a glass of beer to me

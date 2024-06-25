@@ -32,7 +32,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    Just then, my mother came into my bedroom quickly.
    ```
 
-3. `dear me` 我的天啊！跟`oh my god`差不多
+3. `dear me` 我的天啊！和 `oh my god` 类似
 
    ```
    Dear me! The dog is running across the garden!
@@ -40,11 +40,15 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
 4. `look out` 当心；小心
 
+   ```
+   He must look out for those wire.
+   ```
+
 5. `get inside` 进来
 
 6. `get outside` 出去
 
-7. `现在进行时` 也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
+7. M: `现在进行时` 也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
 
    ```
    I'm meeting my friends
@@ -69,7 +73,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
    // `next week` 未来时间
    ```
 
-8. `现在进行时` 表示现阶段正在进行的动作，但说话的时候不一定正在进行
+8. M: `现在进行时` 表示现阶段正在进行的动作，但说话的时候不一定正在进行
 
    ```
    Jack is driving very fast these days, he doesn't usually drive very fast
@@ -81,7 +85,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
 9. `I'm coming to see you` 是现在进行时表示计划、打算的用法
 
-10. 感叹句
+10. M: `感叹句`
 
     - 结构：`What + （形容词） + n + （主语 + 谓语）`
 
@@ -113,8 +117,11 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
     - 例如： `always & sometimes & usually & seldom`
 
     - 规则：
+
       1. v. 前面
+
       2. be 后面
+
       3. 很多例外情况
 
     ```

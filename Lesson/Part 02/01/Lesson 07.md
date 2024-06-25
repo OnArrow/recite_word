@@ -32,12 +32,16 @@ While two detectives were keeping guard at the door, two others opened the parce
 
    ```
    I've just knocked over the vase
+
+   After I had left the living room, the bird knocked over the bottle
    ```
 
 3. `I hope sb. don't mind` 希望某人别介意
 
    ```
    I've just had the juice, I hope you don't mind
+
+   He hopes you don't mind that he had to leave immediately
    ```
 
 4. `to sb.'s surprise` 令某人感到意外的事
@@ -58,6 +62,8 @@ While two detectives were keeping guard at the door, two others opened the parce
 
    ```
    He sent a request for a parcel of sugar for his sons
+
+   He gave me a parcel of tobacco last night
    ```
 
 7. `try to do sth.` 尝试去做某事
@@ -66,6 +72,8 @@ While two detectives were keeping guard at the door, two others opened the parce
    I tried to make myself better, but I failed
 
    I tried to pay attention, but I couldn't bear it
+
+   I'm gonna start a fitness the month after next
    ```
 
 8. `A be full of B`
@@ -99,7 +107,7 @@ While two detectives were keeping guard at the door, two others opened the parce
      // 礼物的珍贵，因为是对我很重要的人送给我的
      ```
 
-10. `just as` 正当...的时候。和`when`、`while`类似
+10. `just as` 正当...的时候。和 `when`、`while` 类似
 
     ```
     Just as he was getting into the bath, someone knocked at the door

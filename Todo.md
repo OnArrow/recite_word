@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   tramp alligator nuisance execute reporter sensational mink introduce mink extra overseas curiously powder compact embarrassed litter rusty prosecute beauty cigarette power bitter tired real owner spring mattress gust courtyard ride conductor view reward hurriedly strict occasionally space actually cause solve spread
+   tramp alligator nuisance execute reporter sensational mink introduce mink extra overseas curiously powder compact embarrassed litter rusty prosecute beauty cigarette power bitter tired real owner spring mattress gust courtyard ride conductor view reward hurriedly strict occasionally space actually cause solve spread bear born borne shelf noisy shout lately spoil museum sack pigeon prize beggar mineral precious customs tobacco district nephew musical instrument guitar
    ```
 
 5. **剑桥初级语法**

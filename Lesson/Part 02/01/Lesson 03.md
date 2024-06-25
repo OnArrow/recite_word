@@ -38,16 +38,24 @@ I spent the whole day in my room, but I did not write a single card!
 
 3. `She's single` 她是单身
 
+   ```
+   Why is she always single?
+   ```
+
 4. `make a decision` 下定决心
 
    ```
    He's just made a decision to start losing weight
+
+   I made a decision not to go to museums anymore
    ```
 
 5. `think about sth./sb.` 思考某事/某人。想某事/某人
 
    ```
    Every day I thought about my homework
+
+   I've not thought about whether it's right or wrong anymore
    ```
 
 6. `waiter` 更多指的是男服务员，`waitress` 指的是女服务员

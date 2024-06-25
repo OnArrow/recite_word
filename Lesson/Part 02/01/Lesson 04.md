@@ -34,18 +34,24 @@ My brother has never been abroad before, so he is finding this trip very excitin
 
 
    My glass is different from yours
+
+   The cat on the desk is different from the one on the floor
    ```
 
 3. `receive sth. from sb.` 收到某人的某物
 
    ```
    I received a red pocket from my mother last Chinese New Year
+
+   He's just received more kinds of fruit from his uncle
    ```
 
 4. `take a holiday` 度假
 
    ```
    He's already taken a holiday
+
+   I want to take a holiday with you
    ```
 
 5. `a great number of cn.` 大量的某物
@@ -53,6 +59,8 @@ My brother has never been abroad before, so he is finding this trip very excitin
    ```
    A great number of different places
    很多不同的地方
+
+   There are a great number of coins in the sack
    ```
 
 6. `find n. adj.` 认为什么事物/人怎么怎么样
@@ -66,20 +74,20 @@ My brother has never been abroad before, so he is finding this trip very excitin
    I found her very beautiful on the stage last night
    ```
 
-7. `现在完成时`表达的意思比较含蓄，而`一般过去式`表达的意思比较直接
+7. `现在完成时` 表达的意思比较含蓄，而 `一般过去式` 表达的意思比较直接
 
    ```
    你想和我们一起吃晚饭吗？
 
    我刚吃过一点东西
-   // `现在完成时`，潜台词就是“不用了，我吃过了”，拒绝别人的邀请
+   // `现在完成时`，潜台词就是`不用了，我吃过了`，拒绝别人的邀请
 
    我下午五点半时吃了顿饭
    // `一般过去时`，我吃过饭了，不吃了，拒绝别人的邀请
    ```
 
-8. `现在完成时`和`一般过去时`并不是泾渭分明的，它们大多数时候可以互相替换
+8. `现在完成时` 和 `一般过去时` 并不是泾渭分明的，它们大多数时候可以互相替换
 
-9. `He has been there for six months` 说这句话的时候`Tim`还在那里
+9. `He has been there for six months` 说这句话的时候 `Tim` 还在那里
 
 10. `He is finding this trip very exciting` 可以替换为 `He finds this trip very exciting`。时态与时态之间并不是泾渭分明的，有时可以互相替换

@@ -37,7 +37,7 @@ He will be away for two months. We are very proud of him. He will take part in a
    ```
    The captain is very proud of me
 
-   I won a prize for the best lawyer in New York and my parents are very proud fo me
+   I won a prize for the best lawyer in New York and my parents are very proud of me
 
    He's proud of you
    ```
@@ -48,6 +48,8 @@ He will be away for two months. We are very proud of him. He will take part in a
    Shall we dance?
 
    I would love to
+
+   I would love to dance with you
    ```
 
 5. `stay up` 熬夜
@@ -64,7 +66,7 @@ He will be away for two months. We are very proud of him. He will take part in a
 
 7. `will be away` 将离开。因为 `away` 是 `adv.`，所以前面需要加 `be`
 
-8. `take part in` 参加。和 `enter for` 差不多
+8. `take part in` 参加。类似 `enter for`
 
    ```
    He refused to take part in the race

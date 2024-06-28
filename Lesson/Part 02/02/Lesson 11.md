@@ -20,9 +20,9 @@ To my surprise, he gave me the money immediately. 'I have never borrowed any mon
 
 1. `One good turn deserves another` 礼尚往来；善有善报。俚语
 
-2. `It's your turn` 轮到你了
+2. `it's your turn` 轮到你了
 
-3. `You deserve that` 根据情况理解
+3. `you deserve that` 根据情况理解
 
    ```
    你非常努力，然后考了班级第一
@@ -40,6 +40,8 @@ To my surprise, he gave me the money immediately. 'I have never borrowed any mon
 
    ```
    He paid for my dinner immediately
+
+   You needn't pay for it
    ```
 
 6. `pay it back` 还回来

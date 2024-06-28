@@ -16,12 +16,18 @@ Apart from a few words, I do not know any French at all. Neither of us spoke dur
 I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?' As I soon learnt, he was English himself!
 ```
 
+## Question
+
+1. Q: `As I soon learnt` 的 `as`
+
 ## Whole
 
 1. `wave to sb.` 朝某人招手
 
    ```
    Look, she's waving to you, do you know her?
+
+   He may have waved to you last night
    ```
 
 2. `lift` 的 `n.` 为搭便车；但更多时候是用 `hitchhike` 来表示搭便车
@@ -30,12 +36,16 @@ I had nearly reached the town, when the young man suddenly said, very slowly, 'D
 
    ```
    She gave me a lift
+
+   Suddenly, she asked me for a lift to the next town
    ```
 
 4. `reply to the email/letter` 回邮件/信
 
    ```
    She replied to my letter yesterday
+
+   He may not reply to my email, I need to confirm this
    ```
 
 5. `reply` & `answer`
@@ -92,6 +102,8 @@ I had nearly reached the town, when the young man suddenly said, very slowly, 'D
 
     ```
     When did the plane take off?
+
+    He wants to know if the plane took off
     ```
 
 11. `let out the dogs` 把狗放出去
@@ -136,8 +148,10 @@ I had nearly reached the town, when the young man suddenly said, very slowly, 'D
 
     - `both of ...` 两者都...
 
+    ```
+    Neither of them spoke Chinese
+
+    Both of them spoke Chinese
+    ```
+
 16. `as I soon learnt` 中的 `learnt` 表示 `意识到`。这个意思也比较常用
-
-## Question
-
-1. `As I soon learnt` 的 `as`

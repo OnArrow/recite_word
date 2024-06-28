@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   tramp alligator nuisance execute reporter sensational mink introduce mink extra overseas curiously powder compact embarrassed litter rusty prosecute beauty cigarette power bitter tired real owner spring mattress gust courtyard ride conductor view reward hurriedly strict occasionally space actually cause solve spread bear born borne shelf noisy shout lately spoil museum sack pigeon prize beggar mineral precious customs tobacco district nephew musical instrument guitar
+   determine drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate
    ```
 
 5. **剑桥初级语法**

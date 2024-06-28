@@ -34,6 +34,8 @@ The landlord smiled and immediately went out. In a few minutes he returned with 
    He must just have paid the bill
 
    Who pay the bill?
+
+   I believe that he can't have paid the bill the night before last
    ```
 
 3. `look for` 寻找

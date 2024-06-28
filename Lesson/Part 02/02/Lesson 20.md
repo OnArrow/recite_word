@@ -20,6 +20,10 @@ But they don't realize one important thing. I'm not really interested in fishing
 
 1. `catch your eye` 吸引你的注意
 
+   ```
+   You can always catch my eye
+   ```
+
 2. `watch your tongue` 不要口无遮拦
 
 3. `nonsense` = `rubbish`。可以形容某些话是胡扯的
@@ -30,7 +34,7 @@ But they don't realize one important thing. I'm not really interested in fishing
    It's rubbish / It's nonsense
    ```
 
-4. `It's a waste of time/money` 浪费时间/钱
+4. `it's a waste of time/money` 浪费时间/钱
 
 5. `sb. realize that ...` 某人意识到...。后面通常跟的是宾语从句
 
@@ -38,6 +42,8 @@ But they don't realize one important thing. I'm not really interested in fishing
    He realized that she had paid the bill
 
    They realized that Jack may be sleeping
+
+   I suddenly realized that it's my girlfriend's birthday today
    ```
 
 6. `keen on doing sth.` 热衷于做某事。`doing` 为动名词
@@ -86,7 +92,7 @@ But they don't realize one important thing. I'm not really interested in fishing
     She must give up looking for a better job
     ```
 
-11. `动名词`
+11. M: `动名词`
 
     - 一个动词变成了名词去使用
 

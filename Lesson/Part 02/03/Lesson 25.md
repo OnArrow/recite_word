@@ -25,7 +25,7 @@ I wonder. In England, each person speaks a different language. The English under
 1. `at last` 终于
 
    ```
-
+   At last, it stopped raining
    ```
 
 2. `no wonder` 怪不得
@@ -130,7 +130,7 @@ I wonder. In England, each person speaks a different language. The English under
        He was not only a writer but also an actor
        ```
 
-## Exercise
+## Exercises
 
 ```
 Either you or I can eat the biscuit

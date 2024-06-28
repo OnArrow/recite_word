@@ -28,6 +28,8 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 
    ```
    Look, a group of detectives are keeping guard at the door
+
+   The group of students gathered in front of the main school building
    ```
 
 3. `all parts of the country/China/our town` 全国各地/中国各地/我们村庄的各个地方
@@ -40,6 +42,8 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 
    ```
    I've just joined the golf club
+
+   Which club do you want to join?
    ```
 
 5. `performance` 本身是 `n.`，可以通过 `give` 来使它变成一个动词短语。和 `have a conversation` 类似
@@ -56,6 +60,8 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 
    ```
    They only meet occasionally
+
+   It occasionally rains in the spring
    ```
 
 7. `at present` 和 `now`，`at the moment` 类似
@@ -89,7 +95,7 @@ As usual, the police have a difficult time. They will be trying to keep order. I
     I had a very difficult time last year
     ```
 
-11. 将来进行时 `will be doing`
+11. M: 将来进行时 `will be doing`
 
     - Usage 1: `未来进行的动作`
 

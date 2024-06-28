@@ -24,7 +24,7 @@ The villagers have told him that they will not accept the pub even if he gives i
 
 ## Questions
 
-6. Q: 什么叫 `宾语补主语`
+1. Q: 什么叫 `宾语补主语`
 
 ## Whole
 

@@ -30,6 +30,8 @@ Then he smiled and told me I would receive an extra thousand pounds a year!
 
    ```
    She's nervous about asking for a lift
+
+   I'm very nervous about meeting my idol
    ```
 
 3. `afford sth.` 支付得起某物
@@ -38,6 +40,8 @@ Then he smiled and told me I would receive an extra thousand pounds a year!
    The book is too expensive, I can't afford it
 
    Can we afford that?
+
+   He may not be able to afford it at all
    ```
 
 4. `sorry to interrupt` 抱歉打扰一下。和 `excuse me` 类似
@@ -53,7 +57,7 @@ Then he smiled and told me I would receive an extra thousand pounds a year!
    // `extra hand` 通常表示帮助，伸手帮助
    ```
 
-6. `It's my turn` 轮到我了。 `turn` 有 `轮次` 的意思。和 `My turn had come` 类似
+6. `it's my turn` 轮到我了。 `turn` 有 `轮次` 的意思。和 `my turn had come` 类似
 
    ```
    I want to see, it's my turn

@@ -22,6 +22,8 @@ If you receive a request like this, you cannot fail to obey it!
 
    ```
    Is there a parking lot near here, sir?
+
+   Which parking lot did you park your car in?
    ```
 
 2. `traffic police/lights/ticket` 交警/红绿灯/交通罚单
@@ -66,6 +68,8 @@ If you receive a request like this, you cannot fail to obey it!
    He failed to borrow the car from his neighbor
 
    I've just failed to pass the Maths exam
+
+   The brigade failed to complete the mission
    ```
 
 8. `sports ground` 和 `sports field` 都表示 `操场`。而 `playground` 表示儿童玩耍的地方

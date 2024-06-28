@@ -44,6 +44,10 @@ I went back to the ticket office at once.
 
 2. `just then` 就在那时
 
+   ```
+   Just then, a boy about 18 came in the room
+   ```
+
 3. `at once` 立刻；马上。和 `immediately` 类似
 
    ```

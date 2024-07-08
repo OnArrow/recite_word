@@ -4,8 +4,6 @@
 
 - rare ancient myth trouble effect Medusa Gorgon
 
-- ![Words](../../../Images/Part2/03/words-28.png)
-
 ## No parking
 
 ```
@@ -62,7 +60,7 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
 
    - `door` 通常是房间的门。
 
-8. `whose` 引导的定语从句
+8. M: `whose` 引导的定语从句
 
    - `whose` 用来指代 `谁的`
 

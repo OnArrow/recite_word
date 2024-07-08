@@ -47,3 +47,27 @@ After he had put it on the floor, he promptly went to sleep again.
    | 方式状语从句 | as, like, as if, the way                                                       |                                                               |
 
    |
+
+2. `get/be tired of sth./doing sth.` 厌倦某事/做某事
+
+   ```
+   She is tired of working late every night.
+
+   I'm a little tired of pizza, can we get something else?
+
+   We got tired of the country and we moved into the town.
+   ```
+
+3. `smash sth. to pieces` 将某物砸成碎片
+
+   ```
+   They had a fight and he smashed the window to pieces.
+   ```
+
+4. `glanced at the watch/menu/woman` 扫了一眼手表/菜单/女人
+
+   ```
+   He glanced at the beautiful woman and quickly looked away.
+
+   He glanced at his watch.
+   ```

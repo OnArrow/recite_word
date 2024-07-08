@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol metal blew blow determine
+   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol metal blew blow determine pizza
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate wind wine smell loud soundly shout wound excellent ancient myth dull silly violin diary although extremely
+   drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate wind wine smell loud soundly shout wound excellent ancient myth dull silly violin diary although extremely regret resist temptation
    ```
 
 5. **剑桥初级语法**

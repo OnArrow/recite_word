@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate wind wine smell loud soundly shout wound excellent ancient myth dull silly violin diary although
+   drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate wind wine smell loud soundly shout wound excellent ancient myth dull silly violin diary although extremely
    ```
 
 5. **剑桥初级语法**

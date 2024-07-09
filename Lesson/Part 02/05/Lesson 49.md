@@ -26,9 +26,7 @@ After he had put it on the floor, he promptly went to sleep again.
 
 ## Questions
 
-1. `Although the bed was smashed to pieces` 尽管床被撞到一块
-
-2. `metal that lay around him`
+1. `metal that lay around him`
 
 ## Whole
 
@@ -45,8 +43,6 @@ After he had put it on the floor, he promptly went to sleep again.
    | 让步状语从句 | although, though, even though, even if, no matter how..., whatever, whoever... |                                                               |
    | 比较状语从句 | as...as, than                                                                  |                                                               |
    | 方式状语从句 | as, like, as if, the way                                                       |                                                               |
-
-   |
 
 2. `get/be tired of sth./doing sth.` 厌倦某事/做某事
 

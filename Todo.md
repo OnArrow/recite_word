@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   republic stupidity species abnormal conclusion scientist experiment theory curious pornographic biography breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol determine pizza
+   breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol determine pizza
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   drive strike settle envelope upset sympathetic explain complain wicked honesty pretend curtain appreciate loud soundly shout wound excellent ancient myth dull silly violin diary although extremely regret resist temptation sour novel
+   novel sensational judge science experiment tight
    ```
 
 5. **剑桥初级语法**

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   breast varchar unsigned tiny alter grip truncate distinct average ascending/升序 descending/降序 grant revoke unique major/主修科目 fragment wistfully idol determine pizza
+
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   novel sensational judge science experiment tight
+   novel sensational judge science experiment tight expression explanation signature petrol classical horror vegetarian patient
    ```
 
 5. **剑桥初级语法**

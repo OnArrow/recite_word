@@ -30,6 +30,10 @@ Frank smiled when he remembered his hard early years and the long road to succes
 
 3. `save sb's life` 救了某人一命
 
+   ```
+   He's just saved his life from the river.
+   ```
+
 4. `in sb's twenties` 在某人二十多岁的时候
 
    ```
@@ -57,7 +61,7 @@ Frank smiled when he remembered his hard early years and the long road to succes
 
 7. `not...any longer` 不再...。和 `not...any more` 类似
 
-8. `used to do` 过去经常发生，现在基本已经不发生了。
+8. M: `used to do` 过去经常发生，现在基本已经不发生了。
 
    - `use` 不要单独翻译，和 `have to` 一样当作一个短语翻译
 

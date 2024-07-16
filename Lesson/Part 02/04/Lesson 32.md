@@ -22,8 +22,6 @@ When she was arrested, the detective found out that the shop assistant was her d
 
 1. `as they once were`
 
-2. `is greater than ever before`
-
 ## Whole
 
 1. `ever before` 以前
@@ -51,6 +49,10 @@ When she was arrested, the detective found out that the shop assistant was her d
    ```
 
 5. `well dressed` 穿着得体的
+
+   ```
+   A well dressed woman went into the hall slowly.
+   ```
 
 6. `hand sth. to sb.` 把某物递给某人
 

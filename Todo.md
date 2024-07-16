@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   ambition critical
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   novel sensational judge science experiment tight expression explanation signature petrol classical horror vegetarian patient
+   novel sensational judge science experiment tight expression explanation signature petrol classical horror vegetarian patient plough desert unusual occasion ocean ceiling peel dry  maid towards sight intend sink poetry simply arrest especially upon salt certificate towel critical ambitious oil
    ```
 
 5. **剑桥初级语法**

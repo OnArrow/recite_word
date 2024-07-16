@@ -24,6 +24,10 @@ The man laughed when he realize what had happened. He called out to the children
 
 1. `kick his ass` 揍他一顿。并不单单指 `屁股`
 
+   ```
+   He kicked his ass very angrily.
+   ```
+
 2. `in sight` 视野内。 `out of sight` 视野外
 
    ```

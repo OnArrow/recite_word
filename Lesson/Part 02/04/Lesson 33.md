@@ -23,9 +23,9 @@ That was all she remembered. When she woke up a day later, she found herself in 
 1. `explain sth. to sb.` 解释某事给某人听
 
    ```
-   Please explain this to me like I am five year old
+   Please explain this to me like I am five year old.
 
-   I don't know how to explain it
+   I don't know how to explain it.
    ```
 
 2. `coast` & `shore`
@@ -40,7 +40,15 @@ That was all she remembered. When she woke up a day later, she found herself in 
 
 4. `towards evening` 快到/接近晚上的时候
 
+   ```
+   Towards midnight, he finally determined not to leave.
+   ```
+
 5. `the light went out` 停电了
+
+   ```
+   If the light went out, I would still stay in the room.
+   ```
 
 6. `go ahead` 继续。也有 `往前走` 的含义，但更多的表示 `继续` 的意思
 

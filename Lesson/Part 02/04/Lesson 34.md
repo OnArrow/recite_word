@@ -39,7 +39,7 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    You must call at the police station as quickly as possible
    ```
 
-3. `Dan wondered why he was wanted by the police` `被警察想要` 可以理解为 `被警察传唤`
+3. `Dan wondered why he was wanted by the police`。 `被警察想要` 可以理解为 `被警察传唤`
 
 4. `pick up` 最常见的表达是 `捡起某个东西`
 
@@ -60,7 +60,7 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    She never expected her secret to be found by someone
    ```
 
-7. `过去完成时被动语态`
+7. M: `过去完成时被动语态`
 
    - 结构: `had been + done`
 

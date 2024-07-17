@@ -20,9 +20,9 @@ We are all very excited and are looking forward to the Olympic Games because the
 
 ## Whole
 
-1. `As a great many people will be visiting the country` 中的 `as` 应当翻译成 `because`。因为到时候有很多人来，所以要建很多酒店
+1. `as a great many people will be visiting the country` 中的 `as` 应当翻译成 `because`。因为到时候有很多人来，所以要建很多酒店
 
-2. `The Games will be held just outside the capital` 中的 `just` 应当翻译为 `恰好`
+2. `the Games will be held just outside the capital` 中的 `just` 应当翻译为 `恰好，刚好`
 
 3. `hold a meeting` 召开会议
 
@@ -58,7 +58,7 @@ We are all very excited and are looking forward to the Olympic Games because the
     The table hasn't been lain yet
     ```
 
-11. `将来完成时`
+11. M: `将来完成时`
 
     - 用法 1: 一个动作持续或重复到将来的某个时间。无论这个动作的开始时间是在过去还是现在还是将来，它只要一直继续或重复到将来的某一个时间点，都可以用将来完成时
 

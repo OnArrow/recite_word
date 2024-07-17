@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   ambition critical
+   ambition critical batter
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   novel sensational judge science experiment tight expression explanation signature petrol classical horror vegetarian patient plough desert unusual occasion ocean ceiling peel dry  maid towards sight intend sink poetry simply arrest especially upon salt certificate towel critical ambitious oil
+       experiment explanation signature  horror plough  ocean ceiling peel  maid towards sight intend sink poetry simply arrest especially upon salt certificate towel ambitious oil coast storm shore cliff struggle ahead amuse extraordinary rush straight fright shortly afterwards horrible succeed train anxiously thoroughly government immense stadium lie lain mow iron debate Mediterranean bitterly settle apartment department chess annoy glass lay
    ```
 
 5. **剑桥初级语法**

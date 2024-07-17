@@ -80,7 +80,7 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
    ```
    She is sure to set up a new record
 
-   Last night, he was sure to wake up early this morning
+   Last night, he was sure to wake up early this morning, but he failed to do it this morning.
 
    They are sure to thoroughly clean the house
    ```
@@ -105,7 +105,7 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
 
 10. `among` 三个及以上。`both` 两个
 
-11. `Among them will be Debbie's mother` 这句话是倒装句，可以改为 `Debbie's mother will be among them`
+11. `among them will be Debbie's mother` 这句话是倒装句，可以改为 `Debbie's mother will be among them`
 
 ## Exercises
 

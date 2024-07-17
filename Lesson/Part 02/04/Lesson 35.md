@@ -59,12 +59,20 @@ The thieves' car was badly damaged and easy to recognize. Shortly afterwards, th
 3.  `up to date` 最新的
 
     ```
-    The software is up to date
+    The software is up to date.
     ```
 
 4.  `get away` 离开，跑开。
 
+    ```
+    You must get away as quickly as possible.
+    ```
+
 5.  `go straight ahead` 径直走
+
+    ```
+    She has just gone straight ahead into the supermarket, no one knew what she wanted to do.
+    ```
 
 6.  吓我一跳
 

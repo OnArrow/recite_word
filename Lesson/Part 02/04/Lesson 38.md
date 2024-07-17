@@ -203,7 +203,7 @@ No, he'd discovered it before he went to the meeting
 ```
 Did she lose her glasses at the theatre?
 
-No, she'd lost them before she went to teh theatre
+No, she'd lost them before she went to the theatre
 ```
 
 ```

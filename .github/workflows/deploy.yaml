@@ -48,10 +48,10 @@ jobs:
           ARGS: '-avzr --delete'
           # 服务器ip
           REMOTE_HOST: ${{ secrets.REMOTE_HOST_120 }}
-          # 用户
+          # 服务器的用户名
           REMOTE_USER: 'root'
           # 源目录
           SOURCE: '.vitepress/dist/'
-          # 目标地址
+          # 目标地址。上传到指定的服务器目录
           TARGET: '/var/www/html/english'
           SCRIPT_BEFORE: 'ls'

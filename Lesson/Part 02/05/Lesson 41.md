@@ -8,6 +8,8 @@
 
 - rude mirror hole remark remind lighthouse modiste
 
+- ![Words](../../../Images/Part2/05/words-41.png)
+
 ## Do you call that a hat?
 
 ```
@@ -42,7 +44,13 @@ Ten minutes later we walked out of the shop together. My wife was wearing a hat 
    I think he regrets telling that story about him
    ```
 
-3. `need`
+3. `call on sb.` 拜访某人
+
+   ```
+   I'll be calling on him next Saturday.
+   ```
+
+4. `need`
 
    - `need` 既可以当做 `v.`，也可以当作 `modal verb`
 

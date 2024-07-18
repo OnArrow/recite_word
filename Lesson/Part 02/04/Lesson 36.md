@@ -80,7 +80,7 @@ Most of Debbie's school friends will be waiting for her on the English coast. Am
    ```
    She is sure to set up a new record
 
-   Last night, he was sure to wake up early this morning, but he failed to do it this morning.
+   Last night, he was sure to wake up early this morning, but he failed to do so this morning.
 
    They are sure to thoroughly clean the house
    ```

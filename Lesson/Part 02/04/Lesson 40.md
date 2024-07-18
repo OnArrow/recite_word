@@ -8,6 +8,8 @@
 
 - hostess unsmiling tight fix globe despair
 
+- ![Words](../../../Images/Part2/04/words-40.png)
+
 ## Food and talk
 
 ```
@@ -32,10 +34,6 @@ In despair, I asked her whether she was enjoying her dinner.
 'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'
 ```
 
-## Questions
-
-1. `she was busy eating` 中的 `busy` 什么词性
-
 ## Whole
 
 1. `ess` 通常都表示女性
@@ -54,7 +52,13 @@ In despair, I asked her whether she was enjoying her dinner.
    In despair, I suddenly heard a voice from the hole
    ```
 
-3. `be busy doing sth.` 忙着做某事。 `doing` 为 `动名词`
+3. `set off for sth.`，`set out for sth.` 动身出发去某地
+
+   ```
+   I'll set off for America tomorrow.
+   ```
+
+4. `be busy doing sth.` 忙着做某事。 `doing` 为 `动名词`
 
    ```
    She's busy having an operation
@@ -64,7 +68,7 @@ In despair, I asked her whether she was enjoying her dinner.
    They were busy wrapping it up
    ```
 
-4. `将来进行时` 比 `一般将来时` 说话表达的意思更委婉一点。
+5. `将来进行时` 比 `一般将来时` 说话表达的意思更委婉一点。
 
    ```
    Will you have dinner with me tonight?
@@ -75,9 +79,9 @@ In despair, I asked her whether she was enjoying her dinner.
    // 别人听起来会更有礼貌一点
    ```
 
-5. `to` 后面跟的往往是 `v.`，`for` 后面跟的往往是 `n.`
+6. `to` 后面跟的往往是 `v.`，`for` 后面跟的往往是 `n.`
 
-6. `虚拟语气`
+7. `虚拟语气`
 
    - 汉语中的虚拟语气
 

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   ambition critical batter
+   ambition critical batter currency bother
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   experiment explanation signature  horror plough ocean ceiling peel  maid towards sight intend sink poetry simply arrest especially upon salt certificate towel ambitious oil coast storm shore cliff struggle ahead amuse extraordinary rush straight fright shortly afterwards horrible succeed train anxiously thoroughly government immense stadium lie lain mow iron debate Mediterranean bitterly settle apartment department chess annoy glass lay
+   experiment  horror plough peel  maid towards sight intend poetry simply arrest especially upon salt certificate towel ambitious oil coast storm shore cliff struggle ahead amuse extraordinary straight fright shortly afterwards horrible succeed train anxiously thoroughly government immense stadium lie lain mow iron debate Mediterranean bitterly settle apartment department chess annoy glass lay exchange inquire certain attend lecture fix globe despair hair decorate apply rough fog thick modiste lighthouse fridge disturb cheese refrigerator
    ```
 
 5. **剑桥初级语法**

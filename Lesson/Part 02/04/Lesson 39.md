@@ -4,6 +4,8 @@
 
 - operation successful following patient alone exchange inquire certain caller relative
 
+- ![Words](../../../Images/Part2/04/words-39.png)
+
 ## Am I all right?
 
 ```
@@ -55,6 +57,10 @@ Then Dr. Millington asked the caller if he was a relative of the patient. 'No,' 
    ```
 
 8. `refuse to do so` 拒绝这样做
+
+   ```
+   He refused to do so each time.
+   ```
 
 ## Exercises
 

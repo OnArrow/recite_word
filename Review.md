@@ -1,117 +1,117 @@
 # Review
-1. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
+1. struggle **[ˈstrʌɡ(ə)l]** `v` 挣扎；搏斗
 
-2. ambitious **[æmˈbɪʃəs]** `adj` 有抱负的，野心勃勃的
+2. explanation **[ˌekspləˈneɪʃ(ə)n]** `n` 解释，说明
 
-3. simply **[ˈsɪmpli]** `adv` 仅仅
+3. rush **[rʌʃ]** `v` 冲；猛攻
 
-4. department **[dɪˈpɑːtmənt]** `n` 部门
+4. shore **[ʃɔː(r)]** `n` 海岸
 
-5. succeed **[səkˈsiːd]** `v` 成功
+5. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-6. sink **[sɪŋk]** `v` 下沉，沉没
+6. plough **[plaʊ]** `v` 耕地
 
-7. coast **[kəʊst]** `n` 海岸；海岸线
+7. bitterly **[ˈbɪtəli]** `adv` 极其寒冷地，刺骨地
 
-8. upon **[əˈpɒn]** `prep` 在...上（和 `on` 一致）
+8. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
 
-9. experiment **[ɪkˈsperɪmənt]** `n` 实验，试验 `v` 进行实验
+9. signature **[ˈsɪɡnətʃə(r)]** `n` 签名，署名
 
-10. immense **[ɪˈmens]** `adj` 巨大的
+10. ocean **[ˈəʊʃ(ə)n]** `n` 海洋，大海
 
-11. Mediterranean **[ˌmedɪtəˈreɪniən]** `n` 地中海
+11. sink **[sɪŋk]** `v` 下沉，沉没
 
-12. signature **[ˈsɪɡnətʃə(r)]** `n` 签名，署名
+12. mow **[məʊ]** `v` 割（草）
 
-13. cliff **[klɪf]** `n` 悬崖，峭壁
+13. succeed **[səkˈsiːd]** `v` 成功
 
-14. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
+14. simply **[ˈsɪmpli]** `adv` 仅仅
 
-15. amuse **[əˈmjuːz]** `v` （使）发笑；逗笑
+15. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
 
-16. oil **[ɔɪl]** `n` 油；石油
+16. fright **[fraɪt]** `n` 害怕；惊吓
 
-17. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
+17. glass **[ɡlɑːs]** `n` 玻璃；玻璃杯；杯子；眼镜
 
-18. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
+18. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）；定居
 
-19. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
+19. lay **[leɪ]** `v` （lie 的过去式）
 
-20. struggle **[ˈstrʌɡ(ə)l]** `v` 挣扎；搏斗
+20. arrest **[əˈrest]** `v` 逮捕
 
-21. lay **[leɪ]** `v` （lie 的过去式）
+21. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
 
-22. apartment **[əˈpɑːtmənt]** `n` 公寓
+22. experiment **[ɪkˈsperɪmənt]** `n` 实验，试验 `v` 进行实验
 
-23. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+23. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
 
-24. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
+24. amuse **[əˈmjuːz]** `v` （使）发笑；逗笑
 
-25. plough **[plaʊ]** `v` 耕地
+25. government **[ˈɡʌvənmənt]** `n` 政府
 
-26. intend **[ɪnˈtend]** `v` 打算
+26. Mediterranean **[ˌmedɪtəˈreɪniən]** `n` 地中海
 
-27. debate **[dɪˈbeɪt]** `n` 辩论
+27. immense **[ɪˈmens]** `adj` 巨大的
 
-28. glass **[ɡlɑːs]** `n` 玻璃；玻璃杯；杯子；眼镜
+28. ahead **[əˈhed]** `adv` 在前面
 
-29. stadium **[ˈsteɪdiəm]** `n` （露天的）体育场
+29. chess **[tʃes]** `n` 国际象棋
 
-30. shore **[ʃɔː(r)]** `n` 海岸
+30. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-31. mow **[məʊ]** `v` 割（草）
+31. ambitious **[æmˈbɪʃəs]** `adj` 有抱负的，野心勃勃的
 
-32. sight **[saɪt]** `n` 眼界；视力
+32. apartment **[əˈpɑːtmənt]** `n` 公寓
 
-33. poetry **[ˈpəʊətri]** `n` 诗歌
+33. salt **[sɔːlt]** `n` 盐 `v` 给（食物）加盐调味 `adj` 咸的；含盐的
 
-34. salt **[sɔːlt]** `n` 盐 `v` 给（食物）加盐调味 `adj` 咸的；含盐的
+34. coast **[kəʊst]** `n` 海岸；海岸线
 
-35. afterwards **[ˈɑːftəwədz]** `adv` 后来
+35. train **[treɪn]** `n` 火车；列车 `v` 培训；训练
 
-36. peel **[piːl]** `v` 剥去（水果、蔬菜等的）皮；去掉
+36. ceiling **[ˈsiːlɪŋ]** `n` 天花板
 
-37. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
+37. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）
 
-38. towel **[ˈtaʊəl]** `n` 毛巾
+38. cliff **[klɪf]** `n` 悬崖，峭壁
 
-39. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+39. department **[dɪˈpɑːtmənt]** `n` 部门
 
-40. chess **[tʃes]** `n` 国际象棋
+40. debate **[dɪˈbeɪt]** `n` 辩论
 
-41. arrest **[əˈrest]** `v` 逮捕
+41. sight **[saɪt]** `n` 眼界；视力
 
-42. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
+42. lie **[laɪ]** `v` 平躺；撒谎；处于 `n` 方向；谎言；
 
-43. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）；定居
+43. towel **[ˈtaʊəl]** `n` 毛巾
 
-44. government **[ˈɡʌvənmənt]** `n` 政府
+44. intend **[ɪnˈtend]** `v` 打算
 
-45. fright **[fraɪt]** `n` 害怕；惊吓
+45. afterwards **[ˈɑːftəwədz]** `adv` 后来
 
-46. certificate **[səˈtɪfɪkət]** `n` 证明，证书 `v` 发证书给...
+46. poetry **[ˈpəʊətri]** `n` 诗歌
 
-47. lie **[laɪ]** `v` 平躺；撒谎；处于 `n` 方向；谎言；
+47. oil **[ɔɪl]** `n` 油；石油
 
-48. storm **[stɔːm]** `n` 暴风雨
+48. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
 
-49. ceiling **[ˈsiːlɪŋ]** `n` 天花板
+49. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
 
-50. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）
+50. peel **[piːl]** `v` 剥去（水果、蔬菜等的）皮；去掉
 
-51. ocean **[ˈəʊʃ(ə)n]** `n` 海洋，大海
+51. upon **[əˈpɒn]** `prep` 在...上（和 `on` 一致）
 
-52. bitterly **[ˈbɪtəli]** `adv` 极其寒冷地，刺骨地
+52. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
 
 53. lain **[leɪn]** `v` （lie 的过去分词）
 
-54. train **[treɪn]** `n` 火车；列车 `v` 培训；训练
+54. maid **[meɪd]** `n` 女仆
 
-55. rush **[rʌʃ]** `v` 冲；猛攻
+55. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
 
-56. explanation **[ˌekspləˈneɪʃ(ə)n]** `n` 解释，说明
+56. certificate **[səˈtɪfɪkət]** `n` 证明，证书 `v` 发证书给...
 
-57. ahead **[əˈhed]** `adv` 在前面
+57. stadium **[ˈsteɪdiəm]** `n` （露天的）体育场
 
-58. maid **[meɪd]** `n` 女仆
+58. storm **[stɔːm]** `n` 暴风雨
 

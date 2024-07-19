@@ -38,14 +38,6 @@ jobs:
       - name: 打包
         run: pnpm run docs:build
 
-      - name: Prepare SSH
-        run: |
-          cd ~ && mkdir .ssh &&
-          touch ~/.ssh/known_hosts &&
-          ssh-keyscan -H "$IP" >>~/.ssh/known_hosts
-        env:
-          IP: ${{ secrets.REMOTE_HOST_120 }}
-
       # 将打包后的文件上传到服务器
       - name: 发布到服务器
         # https://github.com/easingthemes/ssh-deploy

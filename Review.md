@@ -1,145 +1,145 @@
 # Review
-1. simply **[ˈsɪmpli]** `adv` 仅仅
+1. coast **[kəʊst]** `n` 海岸；海岸线
 
-2. lighthouse **[ˈlaɪthaʊs]** `n` 灯塔
+2. modiste **[məʊˈdiːst]** `n` 经营女装或女帽店的人
 
-3. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
+3. intend **[ɪnˈtend]** `v` 打算
 
-4. train **[treɪn]** `n` 火车；列车 `v` 培训；训练
+4. amuse **[əˈmjuːz]** `v` （使）发笑；逗笑
 
-5. apply **[əˈplaɪ]** `v` 应用，运用；适用，适合；申请
+5. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
 
-6. oil **[ɔɪl]** `n` 油；石油
+6. department **[dɪˈpɑːtmənt]** `n` 部门
 
-7. fright **[fraɪt]** `n` 害怕；惊吓
+7. upon **[əˈpɒn]** `prep` 在...上（和 `on` 一致）
 
-8. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
+8. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
 
-9. succeed **[səkˈsiːd]** `v` 成功
+9. decorate **[ˈdekəreɪt]** `v` 装饰
 
-10. bitterly **[ˈbɪtəli]** `adv` 极其寒冷地，刺骨地
+10. peel **[piːl]** `v` 剥去（水果、蔬菜等的）皮；去掉
 
-11. intend **[ɪnˈtend]** `v` 打算
+11. mow **[məʊ]** `v` 割（草）
 
-12. thick **[[θik]]** `adj` 厚的；粗的
+12. sight **[saɪt]** `n` 眼界；视力
 
-13. storm **[stɔːm]** `n` 暴风雨
+13. cliff **[klɪf]** `n` 悬崖，峭壁
 
-14. despair **[dɪˈspeə(r)]** `n` 绝望
+14. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
 
-15. shore **[ʃɔː(r)]** `n` 海岸
+15. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-16. salt **[sɔːlt]** `n` 盐 `v` 给（食物）加盐调味 `adj` 咸的；含盐的
+16. thick **[[θik]]** `adj` 厚的；粗的
 
-17. lecture **[ˈlektʃə(r)]** `n` 演讲
+17. Mediterranean **[ˌmedɪtəˈreɪniən]** `n` 地中海
 
-18. decorate **[ˈdekəreɪt]** `v` 装饰
+18. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
 
-19. inquire **[ɪnˈkwaɪə(r)]** `v` 询问，打听
+19. government **[ˈɡʌvənmənt]** `n` 政府
 
-20. glass **[ɡlɑːs]** `n` 玻璃；玻璃杯；杯子；眼镜
+20. oil **[ɔɪl]** `n` 油；石油
 
-21. mow **[məʊ]** `v` 割（草）
+21. maid **[meɪd]** `n` 女仆
 
-22. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）
+22. stadium **[ˈsteɪdiəm]** `n` （露天的）体育场
 
-23. lay **[leɪ]** `v` （lie 的过去式）
+23. simply **[ˈsɪmpli]** `adv` 仅仅
 
-24. hair **[heə(r)]** `n` 毛发；头发
+24. certain **[sɜːt(ə)n]** `adj` 某个；无疑的
 
-25. ahead **[əˈhed]** `adv` 在前面
+25. struggle **[ˈstrʌɡ(ə)l]** `v` 挣扎；搏斗
 
-26. cliff **[klɪf]** `n` 悬崖，峭壁
+26. train **[treɪn]** `n` 火车；列车 `v` 培训；训练
 
-27. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
+27. shore **[ʃɔː(r)]** `n` 海岸
 
-28. sight **[saɪt]** `n` 眼界；视力
+28. cheese **[tʃiːz]** `n` 奶酪；干酪
 
-29. towel **[ˈtaʊəl]** `n` 毛巾
+29. plough **[plaʊ]** `v` 耕地
 
-30. poetry **[ˈpəʊətri]** `n` 诗歌
+30. inquire **[ɪnˈkwaɪə(r)]** `v` 询问，打听
 
-31. government **[ˈɡʌvənmənt]** `n` 政府
+31. shortly **[ˈʃɔːtli]** `adv` 马上，立刻
 
-32. peel **[piːl]** `v` 剥去（水果、蔬菜等的）皮；去掉
+32. fright **[fraɪt]** `n` 害怕；惊吓
 
-33. lain **[leɪn]** `v` （lie 的过去分词）
+33. lighthouse **[ˈlaɪthaʊs]** `n` 灯塔
 
-34. chess **[tʃes]** `n` 国际象棋
+34. glass **[ɡlɑːs]** `n` 玻璃；玻璃杯；杯子；眼镜
 
-35. especially **[ɪˈspeʃəli]** `adv` 尤其，特别；专门
+35. disturb **[dɪˈstɜːb]** `v` 打扰，妨碍
 
-36. lie **[laɪ]** `v` 平躺；撒谎；处于 `n` 方向；谎言；
+36. apply **[əˈplaɪ]** `v` 应用，运用；适用，适合；申请
 
-37. cheese **[tʃiːz]** `n` 奶酪；干酪
+37. lay **[leɪ]** `v` （lie 的过去式）
 
-38. attend **[əˈtend]** `v` 陪同，随同；照料
+38. rough **[rʌf]** `adj` 汹涌的，风浪很大的
 
-39. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+39. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
 
-40. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
+40. afterwards **[ˈɑːftəwədz]** `adv` 后来
 
-41. modiste **[məʊˈdiːst]** `n` 经营女装或女帽店的人
+41. bitterly **[ˈbɪtəli]** `adv` 极其寒冷地，刺骨地
 
-42. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
+42. attend **[əˈtend]** `v` 陪同，随同；照料
 
-43. disturb **[dɪˈstɜːb]** `v` 打扰，妨碍
+43. arrest **[əˈrest]** `v` 逮捕
 
-44. stadium **[ˈsteɪdiəm]** `n` （露天的）体育场
+44. chess **[tʃes]** `n` 国际象棋
 
-45. certificate **[səˈtɪfɪkət]** `n` 证明，证书 `v` 发证书给...
+45. succeed **[səkˈsiːd]** `v` 成功
 
-46. exchange **[ɪksˈtʃeɪndʒ]** `n` 电话交换台，电话局
+46. experiment **[ɪkˈsperɪmənt]** `n` 实验，试验 `v` 进行实验
 
-47. upon **[əˈpɒn]** `prep` 在...上（和 `on` 一致）
+47. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
 
-48. amuse **[əˈmjuːz]** `v` （使）发笑；逗笑
+48. lie **[laɪ]** `v` 平躺；撒谎；处于 `n` 方向；谎言；
 
-49. plough **[plaʊ]** `v` 耕地
+49. ahead **[əˈhed]** `adv` 在前面
 
-50. fridge **[frɪdʒ]** `n` 冰箱
+50. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
 
-51. ambitious **[æmˈbɪʃəs]** `adj` 有抱负的，野心勃勃的
+51. salt **[sɔːlt]** `n` 盐 `v` 给（食物）加盐调味 `adj` 咸的；含盐的
 
-52. globe **[ɡləʊb]** `n` 地球；地球仪
+52. poetry **[ˈpəʊətri]** `n` 诗歌
 
-53. maid **[meɪd]** `n` 女仆
+53. fog **[fɒɡ]** `n` 雾；烟雾，晨雾
 
-54. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
+54. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-55. department **[dɪˈpɑːtmənt]** `n` 部门
+55. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）；定居
 
-56. debate **[dɪˈbeɪt]** `n` 辩论
+56. fridge **[frɪdʒ]** `n` 冰箱
 
-57. certain **[sɜːt(ə)n]** `adj` 某个；无疑的
+57. hair **[heə(r)]** `n` 毛发；头发
 
-58. coast **[kəʊst]** `n` 海岸；海岸线
+58. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
 
-59. straight **[streɪt]** `adv` 径直地；立即 `adj` 笔直的
+59. towel **[ˈtaʊəl]** `n` 毛巾
 
-60. fog **[fɒɡ]** `n` 雾；烟雾，晨雾
+60. lain **[leɪn]** `v` （lie 的过去分词）
 
-61. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+61. immense **[ɪˈmens]** `adj` 巨大的
 
-62. Mediterranean **[ˌmedɪtəˈreɪniən]** `n` 地中海
+62. ambitious **[æmˈbɪʃəs]** `adj` 有抱负的，野心勃勃的
 
-63. afterwards **[ˈɑːftəwədz]** `adv` 后来
+63. globe **[ɡləʊb]** `n` 地球；地球仪
 
-64. experiment **[ɪkˈsperɪmənt]** `n` 实验，试验 `v` 进行实验
+64. apartment **[əˈpɑːtmənt]** `n` 公寓
 
-65. apartment **[əˈpɑːtmənt]** `n` 公寓
+65. lecture **[ˈlektʃə(r)]** `n` 演讲
 
-66. horrible **[ˈhɒrəb(ə)l]** `adj` 可怕的；恐怖的
+66. exchange **[ɪksˈtʃeɪndʒ]** `n` 电话交换台，电话局
 
-67. struggle **[ˈstrʌɡ(ə)l]** `v` 挣扎；搏斗
+67. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）
 
-68. rough **[rʌf]** `adj` 汹涌的，风浪很大的
+68. certificate **[səˈtɪfɪkət]** `n` 证明，证书 `v` 发证书给...
 
-69. immense **[ɪˈmens]** `adj` 巨大的
+69. refrigerator **[rɪˈfrɪdʒəreɪtə(r)]** `n` 冰箱；冷藏库
 
-70. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）；定居
+70. debate **[dɪˈbeɪt]** `n` 辩论
 
-71. arrest **[əˈrest]** `v` 逮捕
+71. storm **[stɔːm]** `n` 暴风雨
 
-72. refrigerator **[rɪˈfrɪdʒəreɪtə(r)]** `n` 冰箱；冷藏库
+72. despair **[dɪˈspeə(r)]** `n` 绝望
 

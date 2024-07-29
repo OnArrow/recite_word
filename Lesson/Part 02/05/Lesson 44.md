@@ -4,6 +4,8 @@
 
 - forest risk picnic edge strap possession breath contents mend
 
+- ![Words](../../../Images/Part2/05/words-44.png)
+
 ## Through the forest
 
 ```
@@ -29,81 +31,89 @@ The men got such a fright that they dropped the bag and ran away. 'The strap nee
 1. `take a risk` 冒险（危险的险）
 
    ```
-   She needn't have taken that risk
+   She needn't have taken that risk.
 
-   She is keen on taking a risk
+   She is keen on taking a risk.
    ```
 
 2. `have a picnic` 野餐
 
    ```
-   I saw Jack having a picnic near the forest
+   I saw Jack having a picnic near the forest.
 
-   If it didn't rain, we would have a picnic
+   If it didn't rain, we would have a picnic.
    ```
 
 3. `in sb's possession` 在某人的所有权下。类似于 `have it`，`own it`
 
    ```
-   The book is now in my possession
+   The book is now in my possession.
    这本书现在归我
 
-   The book has been in his possession for a long time
+   The book has been in his possession for a long time.
    ```
 
 4. `out of breath` 上气不接下气
 
    ```
-   He's out of breath
+   He's out of breath.
 
-   He ran so fast that he was out of breath
+   He ran so fast that he was out of breath.
 
-   She wanted to know why she was always out of breath
+   She wanted to know why she was always out of breath.
    ```
 
 5. `contents` 什么东西里面内容的总称
 
    ```
-   the contents of the bag
+   the contents of the bag.
    包里面的所有东西
 
-   the contents of the room
+   the contents of the room.
    房间里的所有东西
 
-   I couldn't tel the difference between the contents of your bag and my bag
+   I couldn't tell the difference between the contents of your bag and my bag.
    ```
 
 6. `rush up to sb.` 冲向某人
 
    ```
-   In despair, she rushed up to her boyfriend
+   In despair, she rushed up to her boyfriend.
    ```
 
 7. `in the struggle` 在挣扎当中
 
+   ```
+   Someone called cop in the struggle.
+   ```
+
 8. `start doing sth.` 开始做某事
+
+   ```
+   They will soon start putting up the tent.
+   ```
 
 9. `catch up with sb.` 追赶上某人
 
    ```
-   She ran as fast as she could, but she couldn't catch up with him
+   She ran as fast as she could, but she couldn't catch up with him.
 
-   Slow down so I can catch up with you
+   Slow down so I can catch up with you.
    ```
 
    - `catch up with sb.` 口语中更常见的意思是 `遇见`，类似于 `meet`
 
      ```
-     I'll meet you tonight
+     I'll meet you tonight.
 
-     I'll catch up with you tonight
+     I'll catch up with you tonight.
      // 和上一句一致
      ```
 
 10. `go through` 翻阅；倒腾
 
     ```
-    They were going through the bag in the forest
+    They were going through the bag in the forest.
 
     Don't go through my bag!
     ```
@@ -111,9 +121,9 @@ The men got such a fright that they dropped the bag and ran away. 'The strap nee
 11. `run straight at sb.` 径直地向某人跑过去
 
     ```
-    If I came home early, my dog would run straight at me
+    If I came home early, my dog would run straight at me.
 
-    If I come home early, my dog will run straight at me
+    If I come home early, my dog will run straight at me.
     ```
 
 12. `need doing sth.` 需要被做某事。这句话实际上是个被动，和 `...need to be done` 类似
@@ -130,5 +140,5 @@ The men got such a fright that they dropped the bag and ran away. 'The strap nee
 
     Does your suit need cleaning?
 
-    Your hair is getting very long, it will need cutting
+    Your hair is getting very long, it will need cutting.
     ```

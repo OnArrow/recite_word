@@ -19,3 +19,19 @@ guiltily fireman smash unhurt accidentally inch diet volt embarrass glance remai
 ```
 settle towards hair immense certificate fix peel coast shore mow straight extraordinary plough glass apply train government anxiously coast charmer rough strap horrible upon possession refrigerator exchange attend sight Mediterranean sail movement escape serious shortly horror annoy succeed risk pole obviously stadium department lie lay lain storm fridge annoy amuse modiste debate plain salt lecture ahead apartment sack cliff globe experiment ambitious lighthouse oil inquire thoroughly despair difficulty forest bitterly maid afterwards guitar though disturb poetry decorate especially intend fog twin fright tune crash iron musical endless think thick certain island glimpse glimpse salad arrest lie towel chess chess cheese simply struggle
 ```
+
+```
+When he got down on one knee, he asked her to marry him.
+
+Getting down on one knee, he asked her to marry him.
+
+While he was rushing out of the room, he was knocked down by a car.
+
+Rushing out of the room, he was knocked down by a car.
+
+Destroyed during the war, the city has now been rebuilt.
+
+Because it is looked after carefully, the plant can live through the winter.
+
+Looked after carefully, the plant can live through the winter.
+```

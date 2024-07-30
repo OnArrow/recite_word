@@ -28,6 +28,8 @@ After he had put it on the floor, he promptly went to sleep again.
 
 1. `metal that lay around him`
 
+2. `sent it crashing into the courtyard below` 分词作宾语补主语
+
 ## Whole
 
 1.  `get/be tired of sth./doing sth.` 厌倦某事/做某事
@@ -54,7 +56,19 @@ After he had put it on the floor, he promptly went to sleep again.
     He glanced at his watch.
     ```
 
-4.  M: `状语从句`
+4.  `sb. save up for years to buy sth.` 某人为了买某物存钱存了好多年
+
+    ```
+    The man saved up for years to buy the new car.
+    ```
+
+5.  `for the first time in sb.'s life` 某人人生当中的第一次
+
+    ```
+    For the first time in my life, I bought a new house with the money I had saved up for years.
+    ```
+
+6.  M: `状语从句`
 
     | 状从         | 常用连词                                                                       | 特殊连词                                                      |
     | ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
@@ -68,7 +82,7 @@ After he had put it on the floor, he promptly went to sleep again.
     | 比较状语从句 | as...as, than                                                                  |                                                               |
     | 方式状语从句 | as, like, as if, the way                                                       |                                                               |
 
-5.  M: `分词作状语从句`
+7.  M: `分词作状语从句`
 
     - `doing` & `done`
 

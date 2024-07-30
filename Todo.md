@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   experiment  plough peel        simply    especially certificate towel ambitious   shore    amuse extraordinary straight fright shortly afterwards horrible anxiously thoroughly  mow debate  bitterly   annoy exchange inquire certain attend lecture fix globe despair decorate  rough fog modiste   disturb   musical tune glimpse obviously charmer twin salad pole serious sack  though escape risk strap possession although plant fax modify conscience arrange book woolen extremely occur astonish pile admit confine account mean meant haunt suggest shake shook shaken accept precious cotton wool degree law lawyer dull report nervous frighten workbench
+   experiment  plough peel        simply    especially certificate towel ambitious   shore    amuse extraordinary straight fright shortly afterwards horrible anxiously thoroughly  mow debate  bitterly   annoy exchange inquire certain attend lecture fix globe despair decorate  rough fog modiste   disturb   musical tune glimpse obviously charmer twin salad pole serious sack  though escape risk strap possession although plant fax modify conscience arrange book woolen extremely occur astonish pile admit confine account mean meant haunt suggest shake shook shaken accept precious cotton wool degree law lawyer dull report nervous frighten workbench courtyard ground
    ```
 
 5. **剑桥初级语法**

@@ -1,9 +1,5 @@
 # Lesson 37
 
-## Marks
-
-1. M: 一般将来时
-
 ## Words
 
 - work hard make bookcase hammer paint pink favorite favourite homework listen dish

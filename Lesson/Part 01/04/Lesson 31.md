@@ -1,9 +1,5 @@
 # Lesson 31
 
-## Marks
-
-1. M: 现在进行时
-
 ## Words
 
 - garden under tree climb who run grass after across cat type letter basket eat bone clean tooth teeth cook milk meal drink tap

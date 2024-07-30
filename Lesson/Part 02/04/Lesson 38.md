@@ -1,11 +1,5 @@
 # Lesson 38
 
-## Marks
-
-1. M: `no sooner...than...`
-
-2. M: `hardly...when...`
-
 ## Words
 
 - except Mediterranean complain continually bitterly sunshine settle
@@ -61,7 +55,7 @@ The dream he had had for so many years ended there. Harrison had thought of ever
    He's settled down here since 1980
    ```
 
-7. `no sooner...than...` 一...就...
+7. M: `no sooner...than...` 一...就...
 
    - 和 `过去完成时` 是紧密相连的。A 一发生，B 马上就发生了
 
@@ -93,7 +87,7 @@ The dream he had had for so many years ended there. Harrison had thought of ever
    I had no sooner closed my eyes than I fell asleep
    ```
 
-8. `hardly...when...` 几乎刚...就...
+8. M: `hardly...when...` 几乎刚...就...
 
    - 和 `过去完成时` 是紧密相连的。A 一发生，B 马上就发生了
 

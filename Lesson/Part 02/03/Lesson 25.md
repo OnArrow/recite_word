@@ -58,7 +58,7 @@ I wonder. In England, each person speaks a different language. The English under
 
      - `both...and`, `either...or`, `neither...nor`
 
-       - `both...and` A 和 B 都...
+       - M: `both...and` A 和 B 都...
 
        - `both...and` 通常用在肯定句
 
@@ -78,7 +78,7 @@ I wonder. In England, each person speaks a different language. The English under
        He teaches both English and French
        ```
 
-       - `either...or` 要么 A 要么 B
+       - M: `either...or` 要么 A 要么 B
 
        ```
        Either the teacher or the students are wrong
@@ -92,7 +92,7 @@ I wonder. In England, each person speaks a different language. The English under
        // 要么 `red one`，要么 `green one`
        ```
 
-       - `neither...nor` 既不 A 也不 B
+       - M: `neither...nor` 既不 A 也不 B
 
        ```
        Neither dad nor mum isn't at home today
@@ -115,7 +115,7 @@ I wonder. In England, each person speaks a different language. The English under
        Neither Mary nor Jack went to London
        ```
 
-     - `not only...but also(as well)` 不仅...而且...
+     - M: `not only...but also(as well)` 不仅...而且...
 
        - 存在感情上的递进关系
 

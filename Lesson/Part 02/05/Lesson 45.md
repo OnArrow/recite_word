@@ -4,6 +4,8 @@
 
 - clear conscience wallet savings villager per cent
 
+- ![Words](../../../Images/Part2/05/words-45.png)
+
 ## A clear conscience
 
 ```
@@ -25,16 +27,16 @@ In time, all Sam's money was paid back in this way. The last note said: 'I am 10
 1. `num. percent` 百分之...。通常不分开用 `per cent`
 
    ```
-   I'm one hundred percent sure I'm right
+   I'm one hundred percent sure I'm right.
    我百分百确定我是对的
    ```
 
 2. `clear conscience` 问心无愧
 
    ```
-   At least now I can face him with a clear conscience
+   At least now I can face him with a clear conscience.
 
-   I have a clear conscience
+   I have a clear conscience.
    ```
 
 3. `fire brigade` 消防队
@@ -46,11 +48,11 @@ In time, all Sam's money was paid back in this way. The last note said: 'I am 10
 4. `learn...` 后面跟着一个 `从句` 时，大概率是表示 `获悉；得知`。类似于 `realize`
 
    ```
-   He's suddenly learnt that his wallet had been stolen
+   He's suddenly learnt that his wallet had been stolen.
 
-   She learnt yesterday that they were able to get out of the forest
+   She learnt yesterday that they were able to get out of the forest.
 
-   I learnt that my father was busy reading the book I gave him yesterday
+   I learnt that my father was busy reading the book I gave him yesterday.
    ```
 
 5. `in time` 在本文中类似于 `finally`
@@ -58,9 +60,9 @@ In time, all Sam's money was paid back in this way. The last note said: 'I am 10
 6. `return sth. to sb.` 把某物还给某人
 
    ```
-   The police returned the bicycle to him yesterday
+   The police returned the bicycle to him yesterday.
 
-   The diamond will be returned to him tonight
+   The diamond will be returned to him tonight.
    ```
 
 ## Exercises
@@ -68,113 +70,113 @@ In time, all Sam's money was paid back in this way. The last note said: 'I am 10
 ```
 Was the car ever found?
 
-Yes, it had been left in a car park
+Yes, it had been left in a car park.
 ```
 
 ```
 Was the pen ever found?
 
-Yes, it had been picked up by mistake
+Yes, it had been picked up by mistake.
 ```
 
 ```
 Was the case ever found?
 
-Yes, it had been sent to the wrong address
+Yes, it had been sent to the wrong address.
 ```
 
 ```
 Was the child ever found?
 
-Yes, he had been taken to the police station
+Yes, he had been taken to the police station.
 ```
 
 ```
-The wallet hasn't been returned yet
+The wallet hasn't been returned yet.
 
-No, but we expect it to be returned any day now
+No, but we expect it to be returned any day now.
 ```
 
 ```
-The book hasn't been published yet
+The book hasn't been published yet.
 
-No, but we expect it to be published any day now
+No, but we expect it to be published any day now.
 ```
 
 ```
-The meeting hasn't been arranged yet
+The meeting hasn't been arranged yet.
 
-No, but we expect it to be arranged any day now
+No, but we expect it to be arranged any day now.
 ```
 
 ```
-The plan hasn't been explained yet
+The plan hasn't been explained yet.
 
-No, but we expect it to be explained any day now
+No, but we expect it to be explained any day now.
 ```
 
 ```
-The thieves haven't been caught yet
+The thieves haven't been caught yet.
 
-No, but we expect them to be caught any day now
+No, but we expect them to be caught any day now.
 ```
 
 ```
-I've been told to pay the rent
+I've been told to pay the rent.
 
-But it's already been paid. It must have been paid by someone else
+But it's already been paid. It must have been paid by someone else.
 ```
 
 ```
-I've been told to deliver the parcel
+I've been told to deliver the parcel.
 
-But it's already been delivered. It must have been delivered by someone else
+But it's already been delivered. It must have been delivered by someone else.
 ```
 
 ```
-I've been told to put away the tools
+I've been told to put away the tools.
 
-But they've already been put away. They must have been put away by someone else
+But they've already been put away. They must have been put away by someone else.
 ```
 
 ```
-I've been told to put up the notice
+I've been told to put up the notice.
 
-But it's already been put up. It must have been put up by someone else
+But it's already been put up. It must have been put up by someone else.
 ```
 
 ```
-I've been told to feed the cat
+I've been told to feed the cat.
 
-But it's already been fed. It must have been fed by someone else
+But it's already been fed. It must have been fed by someone else.
 ```
 
 ```
-The bill hasn't been paid
+The bill hasn't been paid.
 
-I thought it had been paid by your secretary. I'm sorry
+I thought it had been paid by your secretary. I'm sorry.
 ```
 
 ```
-The desk hasn't been locked
+The desk hasn't been locked.
 
-I thought it had been locked by your secretary. I'm sorry
+I thought it had been locked by your secretary. I'm sorry.
 ```
 
 ```
-The seats haven't been booked
+The seats haven't been booked.
 
-I thought they had been booked by your secretary. I'm sorry
+I thought they had been booked by your secretary. I'm sorry.
 ```
 
 ```
-The keys haven't been returned
+The keys haven't been returned.
 
-I thought they had been returned by your secretary. I'm sorry
+I thought they had been returned by your secretary. I'm sorry.
 ```
 
 ```
-The books haven't been put away
+The books haven't been put away.
 
-I thought they had been put away by your secretary. I'm sorry
+I thought they had been put away by your secretary. I'm sorry.
 ```

@@ -4,6 +4,8 @@
 
 - unload wooden extremely occur astonish pile woollen goods discover admit confine normal
 
+- ![Words](../../../Images/Part2/05/words-46.png)
+
 ## Expensive and uncomfortable
 
 ```
@@ -20,79 +22,63 @@ He had had a long and uncomfortable trip, for he had been confined to the wooden
 The man was ordered to pay ￡3500 for the cost of the trip. The normal price of a ticket is ￡2000!
 ```
 
-## Questions
-
-1. `account` 认为?
-
-2. `It suddenly occurred to one of the workers to open up the box`
-
-3. `He was so surprised at being discovered` 他当时被发现时被震惊了
-
-4. `the man admitted hiding in the box before the plane left London.` 的 `hiding` 是动名词?
-
-5. 如何表达 `某人想起某件事情`
-
-6. 如何表达 `很吃惊`
-
-7. 如何表达 `承认做某事`
-
 ## Whole
 
 1. `It occurred to sb. that...` 某人突然想到.../突然发生...。类似于 `suddenly happen`
 
    ```
-   It occurred to me that I forgot your birthday
+   It occurred to me that I forgot your birthday.
 
-   It occurred to him that he hadn't fed his cat who was at home
+   It occurred to him that he hadn't fed his cat who was at home.
    ```
 
 2. `It occurred to sb. to do sth.` 某人突然想到去做某事
 
    ```
-   It occurred to him to feed his cat
+   It occurred to him to feed his cat.
    ```
 
 3. `be astonished at sth.` 被某事震惊到。类似于 `was surprised`、`was shocked`
 
    ```
-   In New York, visitors are astonished at tall buildings
+   In New York, visitors are astonished at tall buildings.
 
-   I was astonished at his new car
+   I was astonished at his new car.
    ```
 
 4. `a pile of woods/books/questions` 一堆木材/书本/问题
 
    ```
-   I've got a pile of questions
+   I've got a pile of questions.
 
-   The captain ordered his men to throw a pile of woods out of the ship
+   The captain ordered his men to throw a pile of woods out of the ship.
    ```
 
 5. `sth./sb. be confined to sw.` 某人/某物被限制在某个地方
 
    ```
-   He was confined to the kitchen for an hour
+   He was confined to the kitchen for an hour.
    ```
 
 6. `account for` 解释。类似于 `explain`
 
    ```
-   Nobody can explain why he didn't come
+   Nobody can explain why he didn't come.
 
-   Nobody can account for why he didn't come
+   Nobody can account for why he didn't come.
    // 和上一句一致
    ```
 
 7. `sb. admit that...` 某人承认...
 
    ```
-   The thief admitted that he'd stolen the wallet yesterday
+   The thief admitted that he'd stolen the wallet yesterday.
    ```
 
 8. `admit doing sth.` 承认做某事
 
    ```
-   The thief admitted stealing the wallet this morning
+   The thief admitted stealing the wallet this morning.
    ```
 
 9. 为什么是 `admit doing sth.` 而不是 `admit to do sth.`。自己的猜测如下
@@ -126,11 +112,11 @@ The man was ordered to pay ￡3500 for the cost of the trip. The normal price of
       - 定语从句是 `形容名词` 的，而同位语从句是 `解释名词`
 
         ```
-        I want to tell you the fact which I heard yesterday
+        I want to tell you the fact which I heard yesterday.
         // 定语从句，形容名词
         // 我昨天听到的事实
 
-        I want to tell you the fact that Jack gets up early everyday
+        I want to tell you the fact that Jack gets up early everyday.
         // 同位语从句，解释名词，补充说明名词
         // `事实` 就是 `杰克每天早起`
         ```
@@ -142,26 +128,26 @@ The man was ordered to pay ￡3500 for the cost of the trip. The normal price of
     - `what` = `the thing that` 或者 `the person that`
 
       ```
-      She is not the person that she used to be
+      She is not the person that she used to be.
 
-      She is not what she used to be
+      She is not what she used to be.
       她不是她曾经想要去成为的人
       // 和上一句一致
       // `what` 替代了 `the person that`
 
 
-      Show me the thing that you have written
+      Show me the thing that you have written.
 
-      Show me what you have written
+      Show me what you have written.
       给我看看你刚刚写的东西
       // `what` 替代了 `the thing that`
 
 
-      He was astonished at the thing that he found
+      He was astonished at the thing that he found.
 
-      He was astonished at what he found
+      He was astonished at what he found.
 
 
-      This is not what I meant
+      This is not what I meant.
       这不是我想表达的
       ```

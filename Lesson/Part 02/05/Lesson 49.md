@@ -30,7 +30,31 @@ After he had put it on the floor, he promptly went to sleep again.
 
 ## Whole
 
-1.  M: `状语从句`
+1.  `get/be tired of sth./doing sth.` 厌倦某事/做某事
+
+    ```
+    She is tired of working late every night.
+
+    I'm a little tired of pizza, can we get something else?
+
+    We got tired of the country and we moved into the town.
+    ```
+
+2.  `smash sth. to pieces` 将某物砸成碎片
+
+    ```
+    They had a fight and he smashed the window to pieces.
+    ```
+
+3.  `glanced at the watch/menu/woman` 扫了一眼手表/菜单/女人
+
+    ```
+    He glanced at the beautiful woman and quickly looked away.
+
+    He glanced at his watch.
+    ```
+
+4.  M: `状语从句`
 
     | 状从         | 常用连词                                                                       | 特殊连词                                                      |
     | ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
@@ -44,31 +68,7 @@ After he had put it on the floor, he promptly went to sleep again.
     | 比较状语从句 | as...as, than                                                                  |                                                               |
     | 方式状语从句 | as, like, as if, the way                                                       |                                                               |
 
-2.  `get/be tired of sth./doing sth.` 厌倦某事/做某事
-
-    ```
-    She is tired of working late every night.
-
-    I'm a little tired of pizza, can we get something else?
-
-    We got tired of the country and we moved into the town.
-    ```
-
-3.  `smash sth. to pieces` 将某物砸成碎片
-
-    ```
-    They had a fight and he smashed the window to pieces.
-    ```
-
-4.  `glanced at the watch/menu/woman` 扫了一眼手表/菜单/女人
-
-    ```
-    He glanced at the beautiful woman and quickly looked away.
-
-    He glanced at his watch.
-    ```
-
-5.  `分词作状语从句`
+5.  M: `分词作状语从句`
 
     - `doing` & `done`
 
@@ -237,3 +237,127 @@ After he had put it on the floor, he promptly went to sleep again.
 
       Excited, they played video games.
       ```
+
+## Exercises
+
+Q: 以下五句是否正确
+
+```
+Were you reading a dull book last night?
+
+Yes, I was. I fell asleep reading it.
+```
+
+```
+Were you writing the report last night?
+
+Yes, I was. I worked late writing it.
+```
+
+```
+Were you waiting for speak to them last night?
+
+Yes, I was. I got very angry worry waiting for them.
+```
+
+```
+Were you thinking about Mary last night?
+
+Yes, I was. I stayed awake thinking about her.
+```
+
+```
+Were you looking for the photos last night?
+
+Yes, I was. I spent ages looking for them.
+```
+
+```
+I see you've bought a new pen.
+
+Yes, I saved up for weeks to buy it.
+```
+
+```
+I see you've passed the exam.
+
+Yes, I worked hard to pass it.
+```
+
+```
+I see you've got a new car.
+
+Yes, I borrowed some money to get it.
+```
+
+```
+I see you've found the book.
+
+Yes, I searched all day to find it.
+```
+
+```
+I see you've had a bath.
+
+Yes, I got up early to have it.
+```
+
+```
+Why did he miss the train? He ran, didn't he?
+
+Yes, but he missed it, even though he ran.
+```
+
+```
+Why did he lose his job? He worked hard, didn't he?
+
+Yes, but he lost it, even though he worked hard.
+```
+
+```
+Why did he fail the exam? He studied hard, didn't he?
+
+Yes, but he failed it, even though he studied hard.
+```
+
+```
+Why did he refuse out present? He liked it, didn't he?
+
+Yes, but he refused it, even though he liked it.
+```
+
+```
+Why did he damage the car? He drove slowly, didn't he?
+
+Yes, but he damaged it, even though he drove slowly.
+```
+
+```
+She was tired, wasn't she?
+
+She was so tired that she fell asleep.
+```
+
+```
+She was upset, wasn't she?
+
+She was so upset that she left immediately.
+```
+
+```
+They were astonished, weren't they?
+
+They were so astonished that they couldn't move.
+```
+
+```
+He was lonely, wasn't he?
+
+He was so lonely that he became very ill.
+```
+
+```
+She was frightened, wasn't she?
+
+She was so frightened that she bursted into tears.
+```

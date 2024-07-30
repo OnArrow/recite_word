@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   ambition critical batter currency bother knee brick rebuild
+   ambition critical batter currency bother knee brick rebuild clothing numerous awake burst
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   experiment  horror plough peel  maid towards sight  intend poetry simply arrest   especially upon salt certificate towel ambitious oil coast storm shore cliff struggle ahead amuse extraordinary straight fright shortly afterwards horrible succeed train anxiously thoroughly government immense stadium lie lain mow iron debate Mediterranean bitterly settle apartment department chess annoy glass lay exchange inquire certain attend lecture fix globe despair hair decorate apply rough fog thick modiste lighthouse fridge disturb cheese refrigerator musical tune glimpse movement obviously charmer twin salad island pole serious crash sack endless plain difficulty though escape sail guitar forest risk strap possession although plant fax
+   experiment  plough peel        simply    especially certificate towel ambitious   shore    amuse extraordinary straight fright shortly afterwards horrible anxiously thoroughly  mow debate  bitterly   annoy exchange inquire certain attend lecture fix globe despair decorate  rough fog modiste   disturb   musical tune glimpse obviously charmer twin salad pole serious sack  though escape risk strap possession although plant fax modify conscience arrange book woolen extremely occur astonish pile admit confine account mean meant haunt suggest shake shook shaken accept precious cotton wool degree law lawyer dull report nervous frighten workbench
    ```
 
 5. **剑桥初级语法**

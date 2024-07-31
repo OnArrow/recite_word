@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   advisor obvious
+   advisor obvious ridden
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    nervous wool occur confine debate sticky critic critically alter finger recognize persuade mess sign register conductor countryside case reward reward virtue diet forbid hurriedly embarrass guiltily strict occasionally ride excursion conductor view carousel recommend ring rang rung
+    nervous wool occur confine debate sticky critic critically alter finger recognize persuade mess sign register conductor countryside case reward reward virtue diet forbid hurriedly embarrass guiltily strict occasionally ride excursion conductor view carousel recommend ring rang rung quit
    ```
 
 5. **剑桥初级语法**

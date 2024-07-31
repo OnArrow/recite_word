@@ -25,3 +25,33 @@ Looking round, I realized with a shock that I was the only passenger left on the
 
 'Well, in that case, I prefer to stay on the bus,' I answered.
 ```
+
+## Whole
+
+1. 标题 `taken for a ride` 有双关的意思
+
+   - 出去旅游了一圈
+
+   - 被骗了
+
+2. `go on an excursion` 去郊游（近距离）
+
+   ```
+   Both my father and my mother went on an excursion the day before last.
+
+   Next week either Jack or Tom is going on an excursion.
+   ```
+
+3. `conductor` 更多地表示乐队的指挥这个角色
+
+4. `get a good view of sth.` 看到了某个美景
+
+   ```
+   I got a good view of the mountain I'm standing in front of.
+   ```
+
+5. `take it for granted` 把它视作理所当然
+
+   ```
+   Don't take it for granted.
+   ```

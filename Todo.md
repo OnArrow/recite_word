@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   ambition critical batter currency bother knee brick rebuild clothing numerous awake burst
+   advisor obvious
    ```
 
 2. **过去式&过去分词**
 
    ```
-
+   lead
    ```
 
 3. **比较级&最高级**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   experiment  plough peel        simply    especially certificate towel ambitious   shore    amuse extraordinary straight fright shortly afterwards horrible anxiously thoroughly  mow debate  bitterly   annoy exchange inquire certain attend lecture fix globe despair decorate  rough fog modiste   disturb   musical tune glimpse obviously charmer twin salad pole serious sack  though escape risk strap possession although plant fax modify conscience arrange book woolen extremely occur astonish pile admit confine account mean meant haunt suggest shake shook shaken accept precious cotton wool degree law lawyer dull report nervous frighten workbench courtyard ground
+    nervous wool occur confine debate sticky critic critically alter finger recognize persuade mess sign register conductor countryside case reward reward virtue diet forbid hurriedly embarrass guiltily strict occasionally ride excursion conductor view carousel recommend ring rang rung
    ```
 
 5. **剑桥初级语法**

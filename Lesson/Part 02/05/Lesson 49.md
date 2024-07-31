@@ -26,9 +26,7 @@ After he had put it on the floor, he promptly went to sleep again.
 
 ## Questions
 
-1. `metal that lay around him`
-
-2. `sent it crashing into the courtyard below` 分词作宾语补主语
+1. Q: `sent it crashing into the courtyard below` 分词作宾语补主语
 
 ## Whole
 
@@ -70,7 +68,9 @@ After he had put it on the floor, he promptly went to sleep again.
 
 6.  M: `状语从句`
 
-    | 状从         | 常用连词                                                                       | 特殊连词                                                      |
+    - 由 `adv.` 引导的从句，就叫 `状语从句`
+
+    | 状语从句     | 常用连词                                                                       | 特殊连词                                                      |
     | ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
     | 时间状语从句 | when, while, as, before, after, as soon as, til, until                         | ever since, since, the moment, no sooner..than, hardly...when |
     | 地点状语从句 |                                                                                |                                                               |
@@ -86,11 +86,11 @@ After he had put it on the floor, he promptly went to sleep again.
 
     - `doing` & `done`
 
-      1. 前后主语一致
+      1. 两句话前后主语一致
 
       2. 去掉状从主语 & 连词（可留）
 
-      3. 从句 v.变分词
+      3. 从句 `v.` 变分词
 
       4. `doing` 主动进行/主动一般
 
@@ -165,13 +165,13 @@ After he had put it on the floor, he promptly went to sleep again.
 
     - `having done`
 
-      1. 前后主语一致
+      1. 两句话前后主语一致
 
       2. 去掉状从主语 & 连词（可留）
 
-      3. 从句 v.变分词
+      3. 从句 `v.` 变分词
 
-      4. 强调从句 v.发生在主句 v.之前
+      4. 强调从句 `v.` 发生在主句 `v.` 之前
 
       ```
       He had completed the book. He had a holiday.
@@ -194,11 +194,11 @@ After he had put it on the floor, he promptly went to sleep again.
 
     - `not doing`
 
-      1. 前后主语一致
+      1. 两句话前后主语一致
 
       2. 去掉状从主语 & 连词（可留）
 
-      3. 从句 v.变分词
+      3. 从句 `v.` 变分词
 
       4. `not` + 分词
 
@@ -227,11 +227,11 @@ After he had put it on the floor, he promptly went to sleep again.
 
     - `be adj. n.`
 
-      1. 前后主语一致
+      1. 两句话前后主语一致
 
       2. 去掉状从主语 & 连词（可留）
 
-      3. 从句 v.变分词
+      3. 从句 `v.` 变分词
 
       ```
       My girlfriend is a doctor. She knows what medicine you should take.
@@ -242,12 +242,14 @@ After he had put it on the floor, he promptly went to sleep again.
       // `is` 的现在分词为 `being`
 
       A doctor, she knows what medicine you should take.
+      // `being` 没有实际含义，所以可留可不留
       // 这四句话表达意思一致
 
 
       They were excited. They played video games.
 
       Being excited, they played video games.
+      // `were` 变成现在分词 `being`
 
       Excited, they played video games.
       ```

@@ -1,9 +1,5 @@
 # Lesson 119
 
-## Marks
-
-1. M: 过去完成时
-
 ## Words
 
 ```

@@ -25,3 +25,13 @@ He explained that his diet was so strict that he had to reward himself occasiona
 
 Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!
 ```
+
+## Questions
+
+1. `but things got so bad recently` 最近事情变得糟糕起来？ got 为变得？
+
+2. `wrote out a long list` 写出一条长清单
+
+3. ` most of the things` 绝大多数
+
+## Whole

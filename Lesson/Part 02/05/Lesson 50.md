@@ -42,12 +42,14 @@ Looking round, I realized with a shock that I was the only passenger left on the
    Next week either Jack or Tom is going on an excursion.
    ```
 
-3. `conductor` 更多地表示乐队的指挥这个角色
+3. `conductor` 更多地表示 `乐队的指挥` 这个角色
 
 4. `get a good view of sth.` 看到了某个美景
 
    ```
    I got a good view of the mountain I'm standing in front of.
+
+   From here, I'm getting a good view of the city that I've never seen before.
    ```
 
 5. `take it for granted` 把它视作理所当然
@@ -73,7 +75,7 @@ Looking round, I realized with a shock that I was the only passenger left on the
 8. `it takes sb. st. to do sth.` 做某事花了某人多长时间
 
    ```
-   My trip took me three hours.
+   This trip took me three hours.
 
    It took him an hour to cook rice.
    ```
@@ -105,11 +107,30 @@ Looking round, I realized with a shock that I was the only passenger left on the
     I realized with a shock that a gust of wind swept his bed off the roof.
     ```
 
-11. M: `prefer`
+11. `on earth` & `on the earth`
 
-    - 更愿意，更想要
+    - `on earth` 实际上是语气词，只是为了加强疑问的语气。表示 `究竟，到底`
 
-      - `prefer to do sth.` = `prefer doing sth.`
+      ```
+      What on earth is he doing?
+      他究竟在干什么？
+
+      Why on earth does he do this?
+      他究竟为什么要这么做？
+
+      When on earth will you arrive here?
+      你究竟什么时候到这里？
+      ```
+
+    - `on the earth` 在地球上
+
+      ```
+      All people were confined on the earth.
+      ```
+
+12. M: `prefer`
+
+    - `prefer to do sth.` = `prefer doing sth.` 更愿意/更想要做某事
 
       ```
       I don't like cities. I prefer to live in the country.
@@ -143,7 +164,7 @@ Looking round, I realized with a shock that I was the only passenger left on the
     - `I prefer to do A rather than (do) B` 和做 A 这件事相比起来我更喜欢做 B 这件事
 
       ```
-      Jack prefers to live in the country rather that (live) in a city.
+      Jack prefers to live in the country rather than (live) in the city.
       和住在城市比起来，杰克更喜欢住在乡下
 
       I prefer to drive rather than travel by train.
@@ -151,7 +172,7 @@ Looking round, I realized with a shock that I was the only passenger left on the
 
     - `would prefer`
 
-      - `I would prefer` = `I'd prefer`
+      - `I would prefer to do sth.` = `I'd prefer to do sth.` 更愿意/更想要做某事
 
         ```
         I'd prefer to drive.
@@ -170,7 +191,128 @@ Looking round, I realized with a shock that I was the only passenger left on the
 
 ## Exercises
 
-on earth 是对语气的强调，可以翻译为“究竟”
+```
+Look at him! He's kicking the dog.
 
+I refuse to look at anyone who kicks dogs.
+```
+
+```
+Listen to him! He's shouting at the speaker.
+
+I refuse to listen to anyone who interrupts speakers.
+```
+
+```
+Look at him! He's stealing the bird's egg.
+
+I refuse to look at anyone who steals bird's egg.
+```
+
+```
+Look at him! He's hitting a little boy.
+
+I refuse to look at anyone who hits boys.
+```
+
+```
+Listen to him! He's playing a pop song.
+
+I refuse to listen to anyone who plays pop songs.
+```
+
+```
+Why are you buying the Ford? Why don't you buy a Fiat?
+
+I prefer Fords.
+```
+
+```
+Why are you making tea? Why don't you make coffee?
+
+I prefer tea.
+```
+
+```
+Why are you going out with Jack? Why don't you go out with Mary?
+
+I prefer to go out with Jack.
+```
+
+```
+Why is he studying Chinese? Why doesn't he study English?
+
+He prefers to study Chinese.
+```
+
+```
+Why is she writing a novel? Why doesn't she write play?
+
+She prefers writing novels.
+```
+
+```
 Why on earth is she buying that hat?
-究竟是为什么她在买那个帽子?
+
+I expect she likes it.
+```
+
+```
+Why on earth is she wearing that dress?
+
+I expect she likes it.
+```
+
+```
+Why on earth is he exercising his dogs?
+
+I expect he likes them.
+```
+
+```
+Why on earth is he feeding the lions?
+
+I expect he likes them.
+```
+
+```
+Why on earth is he teaching May?
+
+I expect he likes her.
+```
+
+```
+Why on earth is she helping that man?
+
+I expect she likes him.
+```
+
+```
+Hasn't she arrived yet?
+
+No, but I'm expecting her to arrive any minutes now.
+```
+
+```
+Hasn't he gotten back yet?
+
+No, but I'm expecting him to get back any minutes now.
+```
+
+```
+Hasn't he come to see you yet?
+
+No, but I'm expecting him to come to see me any minutes now.
+```
+
+```
+Hasn't she booked the seats yet?
+
+No, but I'm expecting her to book them any minutes now.
+```
+
+```
+Hasn't Jack cooked the lunch yet?
+
+No, but I'm expecting him to cook it any minutes now.
+```

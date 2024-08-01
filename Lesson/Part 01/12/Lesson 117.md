@@ -1,9 +1,5 @@
 # Lesson 117
 
-## Marks
-
-1. M: 过去进行时
-
 ## Words
 
 ```

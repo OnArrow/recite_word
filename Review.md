@@ -1,73 +1,59 @@
 # Review
-1. rung **[rʌŋ]** `v` （ring 的过去分词）
+1. burn **[bɜːn]** `v` 烧毁，燃烧
 
-2. case **[keɪs]** `n` 箱子；案例；具体情况
+2. worse **[wɜːs]** `adj` （bad 的比较级）
 
-3. recommend **[ˌrekəˈmend]** `v` 推荐；建议，劝告
+3. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-4. register **[ˈredʒɪstə(r)]** `v` 登记，注册；把...挂号邮寄 `n` 登记表，注册薄
+4. schedule **[ˈʃedjuːl]** `n` 日程安排；计划（表）；时间表
 
-5. carousel **[ˌkærəˈsel]** `n` 旋转木马；走马灯
+5. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
 
-6. hurriedly **[ˈhʌrɪdli]** `adv` 匆忙地；仓促地
+6. finally **[ˈfaɪnəli]** `adv` 最后；总之；决定性的，不可变更的
 
-7. ride **[raɪd]** `v` 骑（马、自行车、摩托车等）；搭乘（公共汽车、火车） `n` 行程；（骑马、骑车或乘坐车辆的）旅行
+7. gold **[ɡəʊld]** `n` 金；黄金制品，金币 `adj` 金色的；金制的
 
-8. alter **[ˈɔːltə(r)]** `v` 改变，改动
+8. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
 
-9. critically **[ˈkrɪtɪkli]** `adv` 批判性地
+9. carousel **[ˌkærəˈsel]** `n` 旋转木马；走马灯
 
-10. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
+10. shell **[ʃel]** `n` （蛋、某些动物的）壳；骨架；贝壳
 
-11. occur **[əˈkɜː(r)]** `v` （尤指意外地）发生
+11. inch **[ɪntʃ]** `n` 英寸
 
-12. diet **[ˈdaɪət]** `n` 节食
+12. fault **[fɔːlt]** `n` 错误
 
-13. virtue **[ˈvɜːtʃuː]** `n` 美德
+13. worst **[wɜːst]** `adj` （bad 的最高级）
 
-14. critic **[ˈkrɪtɪk]** `n` 批评家；评论员
+14. value **[ˈvæljuː]** `n` （数学中的）值；价值；重要性 `v` 尊重；重视
 
-15. occasionally **[əˈkeɪʒnəli]** `adv` 偶尔；有时
+15. space **[speɪs]** `n` 空隙；空地；（打字时的）空格 `v` 把...分隔开
 
-16. debate **[dɪˈbeɪt]** `n` 辩论
+16. burnt **[bɜːnt]** `v` （burn 的过去式）
 
-17. confine **[kənˈfaɪn]** `v` 关押，监禁；局限
+17. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
 
-18. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
+18. persuade **[pəˈsweɪd]** `v` 说服，劝服
 
-19. finger **[ˈfɪŋɡə(r)]** `n` 手指 `v` 用手指触摸
+19. machine **[məˈʃiːn]** `n` 机器，机械（装置）
 
-20. conductor **[kənˈdʌktə(r)]** `n` 售票员；（乐队等）指挥
+20. circular **[ˈsɜːkjələ(r)]** `adj` 循环的，绕圈的；环形的，圆形的
 
-21. quit **[kwɪt]** `v` （计算机）关闭，退出；离开（岗位），离任；戒掉 `n` 辞职
+21. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
 
-22. sticky **[ˈstɪki]** `adj` 黏性的，涂有黏性物质的 `n` 置顶留言；告示贴
+22. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
 
-23. excursion **[ɪkˈskɜːʃn]** `n` 短途旅行，远足
+23. invent **[ɪnˈvent]** `v` 发明；创造
 
-24. nervous **[ˈnɜːvəs]** `adj` 神经紧张的，紧张不安的
+24. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-25. reward **[rɪˈwɔːd]** `n` 奖赏；回报 `v` 奖赏
+25. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
 
-26. ring **[rɪŋ]** `v` （使）响起铃声；包围；（给...）打电话 `n` 铃声；电话铃声；戒指；环状物
+26. stairs **[steəz]** `n` 楼梯
 
-27. forbid **[fəˈbɪd]** `v` 禁止
+27. temporarily **[ˈtemprərəli]** `adv` 暂时地，临时地
 
-28. persuade **[pəˈsweɪd]** `v` 说服，劝服
+28. bad **[bæd]** `adj` 坏的；不好的；严重的 `n` 坏人；坏事
 
-29. wool **[wʊl]** `n` 羊毛；毛织品
-
-30. guiltily **[ˈɡɪltɪli]** `adv` 内疚地
-
-31. view **[vjuː]** `n` 观点；视野；风景；视图，图像 `v` 看待；考虑
-
-32. mess **[mes]** `n` 肮脏，杂乱 `v` 弄脏，弄乱
-
-33. countryside **[ˈkʌntrisaɪd]** `n` 乡村，农村
-
-34. rang **[ræŋ]** `v` （ring 的过去式）
-
-35. embarrass **[ɪmˈbærəs]** `v` （使）尴尬
-
-36. strict **[strɪkt]** `adj` 严格的；严谨的
+29. nervous **[ˈnɜːvəs]** `adj` 神经紧张的，紧张不安的
 

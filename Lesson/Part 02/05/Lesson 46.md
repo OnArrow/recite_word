@@ -24,7 +24,7 @@ The man was ordered to pay ￡3500 for the cost of the trip. The normal price of
 
 ## Whole
 
-1. `It occurred to sb. that...` 某人突然想到.../突然发生...。类似于 `suddenly happen`
+1. `it occurred to sb. that...` 某人突然想到.../突然发生...。类似于 `suddenly happen`
 
    ```
    It occurred to me that I forgot your birthday.
@@ -32,7 +32,7 @@ The man was ordered to pay ￡3500 for the cost of the trip. The normal price of
    It occurred to him that he hadn't fed his cat who was at home.
    ```
 
-2. `It occurred to sb. to do sth.` 某人突然想到去做某事
+2. `it occurred to sb. to do sth.` 某人突然想到去做某事
 
    ```
    It occurred to him to feed his cat.

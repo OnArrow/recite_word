@@ -26,12 +26,77 @@ He explained that his diet was so strict that he had to reward himself occasiona
 Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!
 ```
 
-## Questions
-
-1. `but things got so bad recently` 最近事情变得糟糕起来？ got 为变得？
-
-2. `wrote out a long list` 写出一条长清单
-
-3. ` most of the things` 绝大多数
-
 ## Whole
+
+1. `go on a diet` = `be on a diet` 节食
+
+   ```
+   He goes on a diet.
+
+   He is on a diet.
+
+   Most people prefer to go on a diet rather than go to a gym.
+
+   Being so fat at that time, he was on a diet.
+   ```
+
+2. `forbid sb. to do sth.` 禁止某人做某事
+
+   ```
+   They forbade us to talk about it.
+   ```
+
+3. `sb. be strict with sb.` 某人对某人很严厉
+
+   ```
+   She is very strict with her students.
+
+   Why are you always strict with me?
+   ```
+
+4. `give sb. a reward` 给某人一个奖励
+
+   ```
+   You should give him a reward he wanted.
+   ```
+
+5. `first of all` 首先
+
+   ```
+   First of all, I want you to know that I prefer swimming to running.
+
+   First of all, the bell will ring and then you must go out as fast as you can.
+   ```
+
+6. `write out a long list of sth.` 写出一张某物的长长的单子
+
+   ```
+   He wrote out a long list of all the cars he owns.
+   ```
+
+7. `pay sb. a visit`，`pay a visit` 拜访某人
+
+   ```
+   I paid him a visit last night.
+
+   Although she didn't like his house, she paid him a visit yesterday evening.
+
+   Not liking his house, she paid him a visit yesterday evening.
+   ```
+
+8. `was not surprised to see that...` 看到某事并不感到惊讶
+
+   ```
+   They were not surprised to see that the gust of wind blew the bed off the courtyard below.
+
+   I wasn't surprised to see that my dog smashed the sofa to pieces.
+   ```
+
+9. `it was obvious that...` 某事是显而易见的
+
+   ```
+   It was obvious that she prefers running to fishing.
+   比起钓鱼，她明显更喜欢跑步
+
+   It was obvious that they were tired of fishing.
+   ```

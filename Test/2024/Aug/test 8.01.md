@@ -77,3 +77,13 @@ bury treasure trunk arm cave ride rode ridden confident pirate rather mine revea
 ```
 lead led mine treasure obvious advisor bury worthless soil revealer arm sword pirate trunk rather entrance libra ride rode ridden confident cave seashore
 ```
+
+```
+After having worked hard all day, they expected a nice reward from their parents.
+
+Being so fat at that time, he went on a diet
+
+Not liking his house, she paid him a visit yesterday
+
+Having rung the bell, he realized with a shock that nobody was in.
+```

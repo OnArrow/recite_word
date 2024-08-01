@@ -129,6 +129,13 @@ After he had put it on the floor, he promptly went to sleep again.
       (As) Rushing out of the room, he was knocked down by a car.
 
 
+      She guiltily realized that she hadn't finished. She worked all night.
+
+      Because she guiltily realized that she hadn't finished, she worked all night.
+
+      Guiltily realizing that she hadn't finished, she worked all night.
+
+
       He took off his shoes. Jack walked into his house.
 
       After he took off his shoes, Jack walked into his house.

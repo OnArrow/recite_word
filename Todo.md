@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   kinda participle granted/想当然 gaze
+   kinda participle granted/想当然 gaze patience guilty body/尸体
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   nervous carousel persuade particular circular gold fault accident machine invent reveal schema schedule detect shell finally worth bad worse worst thoroughly value burn burnt temporarily inch space actually stairs
+   nervous carousel persuade particular circular gold fault accident machine invent reveal schema schedule detect shell finally worth bad worse worst thoroughly value burn burnt temporarily inch space actually stairs forbade museum theatre repetition
    ```
 
 5. **剑桥初级语法**

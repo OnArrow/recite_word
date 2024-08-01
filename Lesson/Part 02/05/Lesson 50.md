@@ -55,3 +55,122 @@ Looking round, I realized with a shock that I was the only passenger left on the
    ```
    Don't take it for granted.
    ```
+
+6. `in the front of the bus` & `in front of the bus`
+
+   - `in the front of the bus` (inside) 汽车内部的前面。如坐在前排座位
+
+   - `in front of the bus` (outside) 汽车外部的前面。汽车可以撞过去
+
+7. `love/like doing sth.` 喜欢做某事
+
+   ```
+   I love fishing in the river.
+
+   I like going to sleep early every night.
+   ```
+
+8. `it takes sb. st. to do sth.` 做某事花了某人多长时间
+
+   ```
+   My trip took me three hours.
+
+   It took him an hour to cook rice.
+   ```
+
+9. M: `where to get off` 是比较口语化的，相当于一个省略句，完整的句子是 `where I should get off`
+
+   - `where to get off` = `where I should get off`
+
+   - `I wonder who to invite` = `I wonder who I should invite`
+
+   - `tell us what to do` = `tell us what we should do`
+
+   ```
+   I don't know where to park the car.
+
+   I don't know where I should park the car.
+
+
+   Tell me when to pay.
+
+   Tell me when I should pay.
+   ```
+
+10. `I realized with a shock that ...` 我震惊地意识到...
+
+    ```
+    I realized with a shock that he smashed everything in the kitchen to pieces.
+
+    I realized with a shock that a gust of wind swept his bed off the roof.
+    ```
+
+11. M: `prefer`
+
+    - 更愿意，更想要
+
+      - `prefer to do sth.` = `prefer doing sth.`
+
+      ```
+      I don't like cities. I prefer to live in the country.
+
+      I don't like cities. I prefer living in the country.
+
+
+      I don't get up on Sundays. I prefer staying in bed.
+
+      I don't get up on Sundays. I prefer to stay in bed.
+      ```
+
+    - `I prefer A to B` 和 B 相比起来我更喜欢 A
+
+      ```
+      I prefer the red apple to the green apple.
+      和绿色的苹果比起来，我更喜欢红色的苹果
+
+      I prefer basketball to football.
+      ```
+
+    - `I prefer doing A to doing B` 和做 A 这件事相比起来我更喜欢做 B 这件事
+
+      ```
+      I prefer riding to walking.
+      和走路比起来，我更喜欢骑车
+
+      I prefer going to the cinema to watching DVDs at home.
+      ```
+
+    - `I prefer to do A rather than (do) B` 和做 A 这件事相比起来我更喜欢做 B 这件事
+
+      ```
+      Jack prefers to live in the country rather that (live) in a city.
+      和住在城市比起来，杰克更喜欢住在乡下
+
+      I prefer to drive rather than travel by train.
+      ```
+
+    - `would prefer`
+
+      - `I would prefer` = `I'd prefer`
+
+        ```
+        I'd prefer to drive.
+
+        I'd prefer to have dinner now.
+
+        Would you prefer to have dinner now?
+        ```
+
+      - `I'd prefer to do A rather than (do) B` 和做 A 这件事相比起来我更喜欢做 B 这件事
+
+        ```
+        I'd prefer to stay at home tonight rather than go to the cinema.
+        和去电影院相比，今晚我更想在家待着
+        ```
+
+## Exercises
+
+on earth 是对语气的强调，可以翻译为“究竟”
+
+Why on earth is she buying that hat?
+究竟是为什么她在买那个帽子?

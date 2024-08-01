@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   advisor obvious ridden
+   advisor obvious ridden rather/而不是
    ```
 
 2. **过去式&过去分词**

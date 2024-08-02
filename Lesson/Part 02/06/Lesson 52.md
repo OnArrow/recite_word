@@ -29,3 +29,13 @@ She gazed at it for some time then added, 'You don't need bookcases at all. You 
 1. `have been working hard all morning` 什么时态？现在完成进行时？
 
 2. `got a big surprise` 被吓了一大跳
+
+## Whole
+
+1. `every inch of sth.` 某物的每一寸地方
+
+   ```
+   The doctor examined every inch of his body.
+
+   Every inch of ground was shone by the sun.
+   ```

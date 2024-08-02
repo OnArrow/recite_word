@@ -1,69 +1,101 @@
 # Review
-1. carousel **[ˌkærəˈsel]** `n` 旋转木马；走马灯
+1. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
 
-2. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
+2. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-3. finally **[ˈfaɪnəli]** `adv` 最后；总之；决定性的，不可变更的
+3. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
 
-4. museum **[mjuˈziːəm]** `n` 博物馆
+4. finger **[ˈfɪŋɡə(r)]** `n` 手指 `v` 用手指触摸
 
-5. space **[speɪs]** `n` 空隙；空地；（打字时的）空格 `v` 把...分隔开
+5. mix **[mɪks]** `v` （使）混合；调制 `n` 混音
 
-6. invent **[ɪnˈvent]** `v` 发明；创造
+6. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
 
-7. forbade **[fəˈbæd]** `v` （forbid 的过去式）
+7. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
 
-8. burn **[bɜːn]** `v` 烧毁，燃烧
+8. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
 
-9. stairs **[steəz]** `n` 楼梯
+9. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
 
-10. value **[ˈvæljuː]** `n` （数学中的）值；价值；重要性 `v` 尊重；重视
+10. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
 
-11. worse **[wɜːs]** `adj` （bad 的比较级）
+11. solve **[sɒlv]** `v` 解决
 
-12. nervous **[ˈnɜːvəs]** `adj` 神经紧张的，紧张不安的
+12. annoying **[əˈnɔɪɪŋ]** `adj` 令人恼火的
 
-13. inch **[ɪntʃ]** `n` 英寸
+13. fireman **[ˈfaɪəmən]** `n` 消防队员
 
-14. repetition **[ˌrepəˈtɪʃ(ə)n]** `n` 重复；反复
+14. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
 
-15. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+15. doorknob **[ˈdɔːnɒb]** `n` 门把手
 
-16. shone **[ʃɒn]** `v` （shine 的过去式）
+16. sock **[sɒk]** `n` 短袜
 
-17. worst **[wɜːst]** `adj` （bad 的最高级）
+17. register **[ˈredʒɪstə(r)]** `v` 登记，注册；把...挂号邮寄 `n` 登记表，注册薄
 
-18. schedule **[ˈʃedjuːl]** `n` 日程安排；计划（表）；时间表
+18. sticky **[ˈstɪki]** `adj` 黏性的，涂有黏性物质的 `n` 置顶留言；告示贴
 
-19. persuade **[pəˈsweɪd]** `v` 说服，劝服
+19. wheel **[wiːl]** `n` 轮子，车轮
 
-20. burnt **[bɜːnt]** `v` （burn 的过去式）
+20. hot **[hɒt]** `adj` 温度高的；烫的；活跃的；带电的 `v` 把...加温；变热 `adv` 热切地；紧迫地
 
-21. circular **[ˈsɜːkjələ(r)]** `adj` 循环的，绕圈的；环形的，圆形的
+21. madam **[ˈmædəm]** `n` 夫人；女士
 
-22. accident **[ˈæksɪdənt]** `n` 交通事故，车祸；不测事件；意外
+22. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
 
-23. gold **[ɡəʊld]** `n` 金；黄金制品，金币 `adj` 金色的；金制的
+23. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸
 
-24. worth **[wɜːθ]** `adj` 值...钱；具有...价值的；值得的 `n` 价值，价格；重要性，作用
+24. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-25. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
+25. careless **[ˈkeələs]** `adj` 粗心的；粗心大意的
 
-26. fault **[fɔːlt]** `n` 错误
+26. advise **[ədˈvaɪz]** `v` （同 advice）
 
-27. detect **[dɪˈtekt]** `v` 侦查；检测，探测
+27. volt **[vəʊlt]** `n` 伏特（电压单位）
 
-28. bad **[bæd]** `adj` 坏的；不好的；严重的 `n` 坏人；坏事
+28. jean **[dʒiːn]** `n` 牛仔裤
 
-29. machine **[məˈʃiːn]** `n` 机器，机械（装置）
+29. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
 
-30. temporarily **[ˈtemprərəli]** `adv` 暂时地，临时地
+30. pie **[paɪ]** `n` 馅饼
 
-31. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
+31. examine **[ɪɡˈzæmɪn]** `v` 检查
 
-32. shell **[ʃel]** `n` （蛋、某些动物的）壳；骨架；贝壳
+32. power **[ˈpaʊə(r)]** `n` 权力；实力；力量；能源 `v` 驱动，推动（机器或车辆） `adj` 电力的；电动的
 
-33. theatre **[ˈθɪətə(r)]** `n` 剧场，戏院
+33. wire **[ˈwaɪə(r)]** `n` 电线
 
-34. schema **[ˈskiːmə]** `n` （计划或理论的）纲要，图解；模式
+34. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
+
+35. spark **[spɑːk]** `n` 电火花
+
+36. accidentally **[ˌæksɪˈdentəli]** `adv` 意外地；偶然地
+
+37. oil **[ɔɪl]** `n` 油；石油 `v` 给...加润滑油
+
+38. stock **[stɒk]** `n` 股票，股份
+
+39. simple **[ˈsɪmp(ə)l]** `adj` 简单的，简明的；普通的，平凡的
+
+40. serve **[sɜːv]** `v` （为...）工作；服务；给...提供（餐饮）；接待顾客
+
+41. mess **[mes]** `n` 肮脏，杂乱 `v` 弄脏，弄乱
+
+42. snatch **[snætʃ]** `v` 抓住
+
+43. flour **[ˈflaʊə(r)]** `n` 面粉
+
+44. stocking **[ˈstɒkɪŋ]** `n` （女式）长筒袜
+
+45. repetition **[ˌrepəˈtɪʃ(ə)n]** `n` 重复；反复
+
+46. mystery **[ˈmɪst(ə)ri]** `adj` 神秘的 `n` 神秘的人或事物；难以理解的事物；谜
+
+47. quite **[kwaɪt]** `adv` 相当；很；完全地
+
+48. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
+
+49. persuade **[pəˈsweɪd]** `v` 说服，劝服
+
+50. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
 

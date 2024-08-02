@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   kinda participle granted/想当然 gaze patience guilty body/尸体 natural
+   carelessly exactly
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   nervous carousel persuade particular circular gold fault accident machine invent reveal schema schedule detect shell finally worth bad worse worst thoroughly value burn burnt temporarily inch space actually stairs forbade museum theatre repetition shone actually
+   actually detect particular reveal sound wheel course speed madam jean serve oil sock stock stocking advice advise repetition competition hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power careless quite simple sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register flour
    ```
 
 5. **剑桥初级语法**

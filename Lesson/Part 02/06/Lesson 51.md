@@ -100,3 +100,131 @@ Then he showed me the contents of the parcel. It contained five large bars of ch
 
    It was obvious that they were tired of fishing.
    ```
+
+10. `have a day off work` 请一天假
+
+    ```
+    Had he had a day off work last month?
+    ```
+
+## Exercises
+
+```
+Did you paint the gate last week?
+
+Yes, I mended it first and then I painted it.
+```
+
+```
+Did you give a lecture last week?
+
+Yes, I prepared it first and then I gave it.
+```
+
+```
+Did you eat those vegetables last week?
+
+Yes, I washed it first and then I ate it.
+```
+
+```
+Did you sell the machine last week?
+
+Yes, I repaired it first and then I sold it.
+```
+
+```
+Did you use your bicycle last week?
+
+Yes, I oiled it first and then I used it.
+```
+
+```
+He went on a diet once, didn't he?
+
+Yes, he did. His wife begged him to.
+```
+
+```
+He cleaned the car once, didn't he?
+
+Yes, he did. His wife asked him to.
+```
+
+```
+She borrowed some money once, didn't she?
+
+Yes, she did. Her husband wanted her to.
+```
+
+```
+He washed his socks once, didn't he?
+
+Yes, he did. His wife told him to.
+```
+
+```
+She changed her job once, didn't she?
+
+Yes, she did. Her husband advised her to.
+```
+
+```
+When did she find the body?
+
+She found it when she returned home.
+```
+
+```
+When did he discover the gun?
+
+He discovered it when he entered the room.
+```
+
+```
+When did he run to the phone?
+
+He ran to it when he saw the man.
+```
+
+```
+When did she hear a movement?
+
+She heard it when she walked forward.
+```
+
+```
+When did he drop the gun?
+
+He dropped it when he fell to the floor.
+```
+
+```
+Are they going to give a party this month?
+
+I don't expect so. They gave one last month.
+```
+
+```
+Is he going to buy a new flat this year?
+
+I don't expect so. He bought one last year.
+```
+
+```
+Is she going to have a day off work this week?
+
+I don't expect so. She had one last week.
+```
+
+```
+Are they going to enter for a competition this month?
+
+I don't expect so. They entered one last month.
+```
+
+```
+Are they going to see a football match this month?
+
+I don't expect so. They saw one last month.
+```

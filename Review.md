@@ -1,101 +1,103 @@
 # Review
-1. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
+1. annoying **[əˈnɔɪɪŋ]** `adj` 令人恼火的
 
-2. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
+2. register **[ˈredʒɪstə(r)]** `v` 登记，注册；把...挂号邮寄 `n` 登记表，注册薄
 
-3. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
+3. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
 
-4. finger **[ˈfɪŋɡə(r)]** `n` 手指 `v` 用手指触摸
+4. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
 
-5. mix **[mɪks]** `v` （使）混合；调制 `n` 混音
+5. careless **[ˈkeələs]** `adj` 粗心的；粗心大意的
 
-6. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
+6. volt **[vəʊlt]** `n` 伏特（电压单位）
 
-7. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
+7. jean **[dʒiːn]** `n` 牛仔裤
 
-8. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
+8. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
 
-9. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
+9. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
 
-10. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
+10. doorknob **[ˈdɔːnɒb]** `n` 门把手
 
-11. solve **[sɒlv]** `v` 解决
+11. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-12. annoying **[əˈnɔɪɪŋ]** `adj` 令人恼火的
+12. fireman **[ˈfaɪəmən]** `n` 消防队员
 
-13. fireman **[ˈfaɪəmən]** `n` 消防队员
+13. sticky **[ˈstɪki]** `adj` 黏性的，涂有黏性物质的 `n` 置顶留言；告示贴
 
-14. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
+14. pie **[paɪ]** `n` 馅饼
 
-15. doorknob **[ˈdɔːnɒb]** `n` 门把手
+15. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
 
-16. sock **[sɒk]** `n` 短袜
+16. power **[ˈpaʊə(r)]** `n` 权力；实力；力量；能源 `v` 驱动，推动（机器或车辆） `adj` 电力的；电动的
 
-17. register **[ˈredʒɪstə(r)]** `v` 登记，注册；把...挂号邮寄 `n` 登记表，注册薄
+17. repetition **[ˌrepəˈtɪʃ(ə)n]** `n` 重复；反复
 
-18. sticky **[ˈstɪki]** `adj` 黏性的，涂有黏性物质的 `n` 置顶留言；告示贴
+18. sock **[sɒk]** `n` 短袜
 
-19. wheel **[wiːl]** `n` 轮子，车轮
+19. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
 
-20. hot **[hɒt]** `adj` 温度高的；烫的；活跃的；带电的 `v` 把...加温；变热 `adv` 热切地；紧迫地
+20. serve **[sɜːv]** `v` （为...）工作；服务；给...提供（餐饮）；接待顾客
 
-21. madam **[ˈmædəm]** `n` 夫人；女士
+21. stock **[stɒk]** `n` 股票，股份
 
-22. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
+22. wheel **[wiːl]** `n` 轮子，车轮
 
-23. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸
+23. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-24. detect **[dɪˈtekt]** `v` 侦查；检测，探测
+24. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
 
-25. careless **[ˈkeələs]** `adj` 粗心的；粗心大意的
+25. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
 
 26. advise **[ədˈvaɪz]** `v` （同 advice）
 
-27. volt **[vəʊlt]** `n` 伏特（电压单位）
+27. spark **[spɑːk]** `n` 电火花
 
-28. jean **[dʒiːn]** `n` 牛仔裤
+28. mix **[mɪks]** `v` （使）混合；调制 `n` 混音
 
-29. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
+29. wire **[ˈwaɪə(r)]** `n` 电线
 
-30. pie **[paɪ]** `n` 馅饼
+30. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
 
-31. examine **[ɪɡˈzæmɪn]** `v` 检查
+31. mess **[mes]** `n` 肮脏，杂乱 `v` 弄脏，弄乱
 
-32. power **[ˈpaʊə(r)]** `n` 权力；实力；力量；能源 `v` 驱动，推动（机器或车辆） `adj` 电力的；电动的
+32. trust **[trʌst]** `n` 信任，信赖 `v` 相信，信任
 
-33. wire **[ˈwaɪə(r)]** `n` 电线
+33. examine **[ɪɡˈzæmɪn]** `v` 检查
 
-34. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
+34. flour **[ˈflaʊə(r)]** `n` 面粉
 
-35. spark **[spɑːk]** `n` 电火花
+35. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
 
-36. accidentally **[ˌæksɪˈdentəli]** `adv` 意外地；偶然地
+36. hot **[hɒt]** `adj` 温度高的；烫的；活跃的；带电的 `v` 把...加温；变热 `adv` 热切地；紧迫地
 
-37. oil **[ɔɪl]** `n` 油；石油 `v` 给...加润滑油
+37. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
 
-38. stock **[stɒk]** `n` 股票，股份
+38. stocking **[ˈstɒkɪŋ]** `n` （女式）长筒袜
 
-39. simple **[ˈsɪmp(ə)l]** `adj` 简单的，简明的；普通的，平凡的
+39. madam **[ˈmædəm]** `n` 夫人；女士
 
-40. serve **[sɜːv]** `v` （为...）工作；服务；给...提供（餐饮）；接待顾客
+40. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸
 
-41. mess **[mes]** `n` 肮脏，杂乱 `v` 弄脏，弄乱
+41. oil **[ɔɪl]** `n` 油；石油 `v` 给...加润滑油
 
 42. snatch **[snætʃ]** `v` 抓住
 
-43. flour **[ˈflaʊə(r)]** `n` 面粉
+43. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
 
-44. stocking **[ˈstɒkɪŋ]** `n` （女式）长筒袜
+44. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
 
-45. repetition **[ˌrepəˈtɪʃ(ə)n]** `n` 重复；反复
+45. quite **[kwaɪt]** `adv` 相当；很；完全地
 
 46. mystery **[ˈmɪst(ə)ri]** `adj` 神秘的 `n` 神秘的人或事物；难以理解的事物；谜
 
-47. quite **[kwaɪt]** `adv` 相当；很；完全地
+47. accidentally **[ˌæksɪˈdentəli]** `adv` 意外地；偶然地
 
-48. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
+48. solve **[sɒlv]** `v` 解决
 
-49. persuade **[pəˈsweɪd]** `v` 说服，劝服
+49. finger **[ˈfɪŋɡə(r)]** `n` 手指 `v` 用手指触摸
 
-50. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
+50. simple **[ˈsɪmp(ə)l]** `adj` 简单的，简明的；普通的，平凡的
+
+51. persuade **[pəˈsweɪd]** `v` 说服，劝服
 

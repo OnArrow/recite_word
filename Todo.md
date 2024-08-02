@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly
+   carelessly exactly sunburn/被晒伤
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   actually detect particular reveal sound wheel course speed madam jean serve oil sock stock stocking advice advise repetition competition hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power careless quite simple sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register flour
+   actually detect particular reveal sound wheel course speed madam jean serve oil sock stock stocking advice advise repetition competition hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power careless quite simple sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register flour trust
    ```
 
 5. **剑桥初级语法**

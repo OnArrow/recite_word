@@ -96,3 +96,45 @@ She gazed at it for some time then added, 'You don't need bookcases at all. You 
      She has painted her bedroom.
      // 强调粉刷房间这个动作已经完成了
      ```
+
+3. `get sth. in order` 把某物整理好
+
+   ```
+   I haven't been able to get my new room in order.
+   // `have done` 现在完成时。一直都没有办法
+
+   His father asked him to get his bedroom in order.
+   ```
+
+4. `to make matters worse...` 使事情变得更糟糕的是...
+
+   ```
+   To make matters worse, he's left his phone in the room.
+   // 出门之前忘带了钥匙，更糟糕的是手机也忘带了
+
+   To make matters worse, she doesn't want to be on a diet at all.
+   ```
+
+5. `a short while ago` 一段比较短的时间之后
+
+   ```
+   A short while ago, people heard a voice from the receiver.
+   ```
+
+6. `help sb. to do sth.` 帮助某人去做某事
+
+   ```
+   I'll help you to carry it.
+   ```
+
+7. `gaze at sth.` 盯着某物看
+
+   ```
+   She is such a cute girl that Jack gazed at her for a long time.
+   ```
+
+8. `in sb.s spare time` 在某人空闲时间
+
+   ```
+   In his spare time, he prefers swimming to running.
+   ```

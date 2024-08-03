@@ -30,4 +30,46 @@ The snake then wound itself round the wires. When it did so, it sent sparks down
 
 ## Whole
 
-1. power line 电力线
+1. `power line` 电线
+
+   ```
+   Don't touch the power line.
+
+   Stay away from the power line.
+   ```
+
+2. `remain mystery` 一直是一个谜
+
+   ```
+   It remains a mystery that how he got in the room.
+   ```
+
+3. `solve problem` 解决问题
+
+   ```
+   I wasn't surprised to see that he was able to solve the problem.
+   ```
+
+4. `solve mystery` 揭开谜底
+
+   ```
+   I've been trying to solve the mystery.
+   ```
+
+5. `since then` 从那时开始。这个短语常常和 `现在完成进行时` 一起出现
+
+   ```
+   Since then, he's been practicing tennis hardly.
+   ```
+
+6. `find out` 发现；弄明白
+
+   ```
+   I need to find out who did that.
+   ```
+
+7. `throw away` 扔掉
+
+   ```
+   We needn't have throw it away.
+   ```

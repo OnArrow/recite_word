@@ -1,115 +1,89 @@
 # Review
-1. actually **[ˈæktʃuəli]** `adv` 事实上；实际上
+1. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
 
-2. mess **[mes]** `n` 肮脏，杂乱 `v` 弄脏，弄乱
+2. transport **[ˈtrænspɔːt]** `n` 交通工具；运输 `v` 运输
 
-3. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸
+3. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-4. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
+4. rival **[ˈraɪv(ə)l]** `n` 竞争对手
 
-5. simple **[ˈsɪmp(ə)l]** `adj` 简单的，简明的；普通的，平凡的
+5. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
 
-6. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
+6. worthless **[ˈwɜːθləs]** `adj` 毫无价值的
 
-7. register **[ˈredʒɪstə(r)]** `v` 登记，注册；把...挂号邮寄 `n` 登记表，注册薄
+7. soil **[sɔɪl]** `n` 泥土，土壤
 
-8. solve **[sɒlv]** `v` 解决
+8. value **[ˈvæljuː]** `n` （数学中的）值；价值；重要性 `v` 尊重；重视
 
-9. madam **[ˈmædəm]** `n` 夫人；女士
+9. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
 
-10. fireman **[ˈfaɪəmən]** `n` 消防队员
+10. pirate **[ˈpaɪrət]** `n` 海盗
 
-11. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
+11. Benz **[benz]** `n` （汽车品牌）奔驰
 
-12. volt **[vəʊlt]** `n` 伏特（电压单位）
+12. handsome **[ˈhænsəm]** `adj` （男子）英俊的；（女子）端庄的
 
-13. pie **[paɪ]** `n` 馅饼
+13. carrot **[ˈkærət]** `n` 胡萝卜
 
-14. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
+14. bury **[ˈberi]** `v` 埋藏；填埋
 
-15. trust **[trʌst]** `n` 信任，信赖 `v` 相信，信任
+15. claim **[kleɪm]** `v` 索赔；认领；以...为其后果 `n` 索赔；权力
 
-16. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
+16. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
 
-17. stock **[stɒk]** `n` 股票，股份
+17. dig **[dɪɡ]** `v` 搜寻；挖掘 `n` 挖苦；嘲讽
 
-18. particular **[pəˈtɪkjələ(r)]** `adj` 特定的
+18. revealer **[rɪˈvi:lə]** `n` 探测器
 
-19. spark **[spɑːk]** `n` 电火花
+19. church **[tʃɜːtʃ]** `n` 教堂； `adj` 教会的
 
-20. advise **[ədˈvaɪz]** `v` （同 advice）
+20. tiny **[ˈtaɪni]** `adj` 极小的，微小的
 
-21. recognize **[ˈrekəɡnaɪz]** `v` 认出，辨别出；（计）自动识别
+21. gold **[ɡəʊld]** `n` 金；黄金制品，金币 `adj` 金色的；金制的
 
-22. sticky **[ˈstɪki]** `adj` 黏性的，涂有黏性物质的 `n` 置顶留言；告示贴
+22. invent **[ɪnˈvent]** `v` 发明；创造
 
-23. stocking **[ˈstɒkɪŋ]** `n` （女式）长筒袜
+23. comparison **[kəmˈpærɪs(ə)n]** `n` 比较；对照；比喻
 
-24. sock **[sɒk]** `n` 短袜
+24. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的；（事物）存在的
 
-25. thread **[θred]** `n` （计算机）线程；同主题帖子；线
+25. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期； `v` 把...称为
 
-26. lent **[lent]** `v` （lend 的过去式）
+26. cave **[keɪv]** `n` 山洞，洞穴
 
-27. finger **[ˈfɪŋɡə(r)]** `n` 手指 `v` 用手指触摸
+27. boot **[buːt]** `n` 靴子
 
-28. annoying **[əˈnɔɪɪŋ]** `adj` 令人恼火的
+28. mine **[maɪn]** `pron` 我的 `n` 矿，矿井
 
-29. quite **[kwaɪt]** `adv` 相当；很；完全地
+29. sped **[sped]** `v` （speed 的过去式）
 
-30. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
+30. ladder **[ˈlædə(r)]** `n` 梯子
 
-31. oil **[ɔɪl]** `n` 油；石油 `v` 给...加润滑油
+31. fight **[faɪt]** `v` 与...作斗争；作战 `n` 战斗
 
-32. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
+32. explosion **[ɪkˈspləʊʒ(ə)n]** `n` 爆炸
 
-33. cause **[kɔːz]** `v` 造成，引起 `n` 原因，起因；理由
+33. treasure **[ˈtreʒə(r)]** `n` 金银财宝，财宝
 
-34. hot **[hɒt]** `adj` 温度高的；烫的；活跃的；带电的 `v` 把...加温；变热 `adv` 热切地；紧迫地
+34. entrance **[ˈentrəns]** `n` 入口
 
-35. persuade **[pəˈsweɪd]** `v` 说服，劝服
+35. confident **[ˈkɒnfɪdənt]** `adj` 充满信心的
 
-36. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
+36. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-37. careless **[ˈkeələs]** `adj` 粗心的；粗心大意的
+37. downhill **[ˌdaʊnˈhɪl]** `adv` 下坡
 
-38. mix **[mɪks]** `v` （使）混合；调制 `n` 混音
+38. arm **[ɑːm]** `n` 手臂 `v` 武装
 
-39. lend **[lend]** `v` 借出，借给；给予，提供
+39. finally **[ˈfaɪnəli]** `adv` 最后；总之；决定性的，不可变更的
 
-40. hidden **[ˈhɪd(ə)n]** `v` （hide 的过去分词）
+40. excitement **[ɪkˈsaɪtmənt]** `n` 令人激动的事；兴奋
 
-41. repetition **[ˌrepəˈtɪʃ(ə)n]** `n` 重复；反复
+41. wheel **[wiːl]** `n` 轮子，车轮
 
-42. power **[ˈpaʊə(r)]** `n` 权力；实力；力量；能源 `v` 驱动，推动（机器或车辆） `adj` 电力的；电动的
+42. trunk **[trʌŋk]** `n` （汽车）后备箱
 
-43. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
+43. steak **[steɪk]** `n` 牛排；肉排
 
-44. examine **[ɪɡˈzæmɪn]** `v` 检查
-
-45. wheel **[wiːl]** `n` 轮子，车轮
-
-46. doorknob **[ˈdɔːnɒb]** `n` 门把手
-
-47. mystery **[ˈmɪst(ə)ri]** `adj` 神秘的 `n` 神秘的人或事物；难以理解的事物；谜
-
-48. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
-
-49. silly **[ˈsɪli]** `adj` 愚蠢的；傻的
-
-50. detect **[dɪˈtekt]** `v` 侦查；检测，探测
-
-51. snatch **[snætʃ]** `v` 抓住
-
-52. serve **[sɜːv]** `v` （为...）工作；服务；给...提供（餐饮）；接待顾客
-
-53. wire **[ˈwaɪə(r)]** `n` 电线
-
-54. jean **[dʒiːn]** `n` 牛仔裤
-
-55. accidentally **[ˌæksɪˈdentəli]** `adv` 意外地；偶然地
-
-56. flour **[ˈflaʊə(r)]** `n` 面粉
-
-57. reveal **[rɪˈviːl]** `v` 揭露；表明，证明
+44. seashore **[ˈsiːʃɔː(r)]** `n` 海岸
 

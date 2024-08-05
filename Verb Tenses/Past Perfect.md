@@ -54,7 +54,7 @@
 
 ## 句型
 
-- 过去完成时（肯定句）结构：`主语 + had + done(v.过去分词) +  其它`
+- 过去完成时（肯定句）结构：`主语 + had done(v.过去分词)`
 
   ```
   Jack had drunk milk before he ate an apple
@@ -77,7 +77,7 @@
   Before 6:30 yesterday, they had done their homework
   ```
 
-- 过去完成时（否定句）结构：`主语 + had + not + done（v.过去分词） +  其它`
+- 过去完成时（否定句）结构：`主语 + had not done(v.过去分词)`
 
   ```
   Jack had not drunk milk before he ate an apple
@@ -87,7 +87,7 @@
   Before 6:30 yesterday, they hadn't done their homework
   ```
 
-- 过去完成时（一般疑问句）结构：`Had（提到句首） + 主语 + done（v.过去分词） + 其它`
+- 过去完成时（一般疑问句）结构：`Had(提到句首) + 主语 + done(v.过去分词)`
 
   ```
   Had Jack drunk milk before he ate an apple?
@@ -101,7 +101,7 @@
   Had they done their homework before 6:30 yesterday?
   ```
 
-- 过去完成时（特殊疑问句）结构：`特殊疑问词 + 一般疑问句（去掉答案）`
+- 过去完成时（特殊疑问句）结构：`特殊疑问词 + 一般疑问句(去掉答案)`
 
   ```
   What had Jack drunk before he ate an apple?

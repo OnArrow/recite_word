@@ -24,12 +24,6 @@ She went into my room and got a big surprise when she saw all those books on the
 She gazed at it for some time then added, 'You don't need bookcases at all. You can sit here in your spare time and read the carpet!'
 ```
 
-## Questions
-
-1. `have been working hard all morning` 什么时态？现在完成进行时？
-
-2. `got a big surprise` 被吓了一大跳
-
 ## Whole
 
 1. `every inch of sth.` 某物的每一寸地方
@@ -40,9 +34,9 @@ She gazed at it for some time then added, 'You don't need bookcases at all. You 
    Every inch of ground was shone by the sun.
    ```
 
-2. `现在完成进行时`
+2. M: `现在完成进行时`
 
-   - 强调动作本身，至于动作完成是否不重要
+   - 强调动作本身，至于动作完成与否不重要
 
    - 用法一: 过去一直进行的动作（这个动作结束了），对现在造成影响
 

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly sunburn/被晒伤 electrical shoemaker tax
+   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 nob knob whatever champion championship argue glove scissor
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   actually detect particular reveal sound wheel course speed madam jean serve oil sock stock stocking advice advise repetition competition hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power careless quite simple sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register flour trust thread silly hidden lend lent practice
+   steak transport present comparison carrot fight term ladder boot gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value sound excitement handsome Benz wheel explosion course rival speed sped downhill dig tiny plant church claim
    ```
 
 5. **剑桥初级语法**

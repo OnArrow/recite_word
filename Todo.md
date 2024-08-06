@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 nob knob whatever champion championship argue glove scissor advance deal pleasure
+   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 nob knob whatever champion championship argue glove scissor advance deal pleasure invention bucket mop dagger soldier
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   steak transport present comparison carrot fight term ladder boot gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident excitement handsome Benz wheel explosion course rival speed sped downhill dig tiny plant church claim excellent source income press develop remove future relation magnify scope launch space administration refund billion fault hold held silver
+   steak transport present comparison carrot fight term ladder boot gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident excitement handsome Benz wheel explosion course rival speed sped downhill dig tiny plant church claim excellent source income press develop remove future relation magnify scope launch space administration refund billion fault hold held silver pretend should grow grew grown worm entire
    ```
 
 5. **剑桥初级语法**

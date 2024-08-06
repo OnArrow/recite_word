@@ -8,4 +8,4 @@
 
 ## Whole
 
-1. fortune teller 算命人
+1. `fortune teller` 算命人

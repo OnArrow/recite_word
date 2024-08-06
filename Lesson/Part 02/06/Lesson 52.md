@@ -34,7 +34,7 @@ She gazed at it for some time then added, 'You don't need bookcases at all. You 
    Every inch of ground was shone by the sun.
    ```
 
-2. M: `现在完成进行时`
+2. M: 现在完成进行时 `have been doing`
 
    - 强调动作本身，至于动作完成与否不重要
 

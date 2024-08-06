@@ -4,7 +4,7 @@
 
 1. M: `so` & `such`
 
-2. M: `so...that...` & `such...that...`
+2. M: `so...that...` & `such...that...` 如此...以至于...
 
 ## Words
 

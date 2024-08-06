@@ -4,7 +4,7 @@
 
 1. M: 形容词的比较级和最高级
 
-2. M: `would like`
+2. M: `would like` 想要
 
 ## Words
 

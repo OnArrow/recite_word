@@ -2,7 +2,7 @@
 
 ## Marks
 
-1. M: `have got`
+1. M: `have got` 有
 
 ## Words
 

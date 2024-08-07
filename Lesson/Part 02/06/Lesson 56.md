@@ -37,3 +37,26 @@ The race gave everyone a great deal of pleasure. It was very different from mode
 5. `broke down` 发生故障
 
 6. `its driver had a lot of trouble trying to stop it` 中的 `trying` 什么句型
+
+## Whole
+
+1. `hear/make sound` 听到/发出声响
+
+2. `Rolls Royce` 劳斯莱斯汽车
+
+3. `speed this thing up` 加快这件事的速度。加快速度去做某事
+
+   ```
+   The water is still too cold, it must be warmed at once, I need you to speed things up.
+   // 加快`让水变热`这件事的速度
+
+   I think I can speed it up.
+
+   There may be a way to speed this up.
+   ```
+
+4. `go downhill` 走下坡路。形容某事开始每况愈下，渐渐变坏
+
+   ```
+   After his wife had died, his health started to go downhill.
+   ```

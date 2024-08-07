@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分 seek
+   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分 seek cemetery accomplish accomplishment/成就 relationship/亲属关系，恋爱关系 royce explode
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   steak transport present comparison carrot  term ladder    detect        confident      course rival  dig plant  claim excellent income develop relation magnify  administration refund  fault hold held silver pretend should grow grew grown worm entire ever sort duty hole appear university dead stay journalist frighten assistant madam jeans hesitate serve scornfully punish fur eager
+   steak transport present comparison carrot  term ladder    detect fit confident land character    course rival  dig plant  claim excellent income develop relation magnify  administration refund  fault hold held silver pretend should grow grew grown worm entire ever sort duty hole appear university dead stay journalist frighten assistant madam jeans hesitate serve scornfully punish fur eager handsome healthy
    ```
 
 5. **剑桥初级语法**

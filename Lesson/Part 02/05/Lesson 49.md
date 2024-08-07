@@ -238,7 +238,7 @@ After he had put it on the floor, he promptly went to sleep again.
 
       2. 去掉状从主语 & 连词（可留）
 
-      3. 从句 `v.` 变分词
+      3. 从句 `v.` 变分词，现在分词或过去分词
 
       ```
       My girlfriend is a doctor. She knows what medicine you should take.

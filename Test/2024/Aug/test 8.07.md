@@ -57,3 +57,15 @@ teenager whenever lorry quarrel soldier dagger mop bucket invention pleasure dea
 ```
 teenager glove invention knob argue lorry pleasure advance scissor whenever whatever champion championship nob bucket deal soldier mop dagger quarrel
 ```
+
+```
+I recently went back to the town where I was born in.
+
+I want to live in the country where there is plenty of sunshine in.
+```
+
+```
+We helped some people whose car had broken down.
+
+I met a man whose wife is an English teacher
+```

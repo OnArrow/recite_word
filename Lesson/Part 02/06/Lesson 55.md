@@ -88,7 +88,34 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
 10. `score goal` 进球
 
-11. Q: `be used to doing sth.` 习惯于做某事。后面才学到
+11. `more than` 超过
+
+    ```
+    I like her more than you.
+    ```
+
+12. `dreams come true` 梦想成真
+
+    ```
+    It's a place where dreams come true.
+    它是一个梦想成真的地方
+    ```
+
+13. `be used to do sth.` 被用来做某事
+
+    ```
+    This car is used to send the children to school.
+    ```
+
+14. `fairly soon/certain/confident` 相当快/相当确定/相当自信
+
+    ```
+    I'm going back home fairly soon.
+
+    I'm fairly certain that it's a true story.
+    ```
+
+15. Q: `be used to doing sth.` 习惯于做某事。后面才学到
 
     ```
     He is used to driving.
@@ -96,7 +123,23 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     I'm used to getting up early.
     ```
 
-12. M: `would do` 过去重复发生的动作
+16. 文中 `in a cave near the seashore where - it is said - pirates used to hide gold` 这句话中的两个破折号中间的这句话 `- it is said -` 相当于标注，当作句子的补充，不用特别去纠结语法，甚至不用理会它
+
+17. 文中 `Armed with the new machine, a search party went into the cave hoping to find buried treasure` 这句话包含有两个简化状语从句，可以拆分成三句话。
+
+    ```
+    Armed with the new machine, a search party went into the cave hoping to find buried treasure.
+
+    A search party were armed with the new machine.
+
+    They went into the cave.
+
+    They hope to find buried treasure.
+    ```
+
+18. `it is said` 据说
+
+19. M: `would do` 过去重复发生的动作
 
     1. `would` 后面只能跟具体的动作，而不能跟状态
 
@@ -133,6 +176,82 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
        When Jack was angry, he used to walk out of the room.
        ```
+
+20. M: `where` 引导的定语从句
+
+    - 用法基本和 `that`, `who` 引导的定语从句一致。`where` 替代的是 `地点`
+
+    ```
+    The hotel wasn't very clean.
+
+    We stayed there.
+
+    The hotel where we stayed wasn't very clean.
+    我们住过的酒店不是非常干净
+    // `where` 替代了第二句中的地点 `there`
+    // `where we stayed` 为定语从句，修饰 `the hotel`
+
+
+    I recently went back to the town.
+
+    I was born in that town.
+
+    I recently went back to the town where I was born.
+
+
+    I want to live in the country.
+
+    There is plenty of sunshine in that country.
+
+    I want to live in the country where there is plenty of sunshine.
+    ```
+
+21. M: `whose` 引导的定语从句
+
+    - 用法基本和 `that`, `who` 引导的定语从句一致。`whose` 替代的是 `谁的`，物主代词。如 `his`, `her`, `their`
+
+      ```
+      I met a man.
+
+      His wife is an English teacher.
+
+      I met a man whose wife is an English teacher.
+      我遇到那个他的老婆是个英语老师的男人
+      // `whose` 替代了第二句中的 `his`
+      // `whose wife is an English teacher` 为定语从句，修饰 `a man` 。他的老婆是个英语老师的
+
+
+      I helped some people.
+
+      Their car had broken down.
+
+      I helped some people whose car had broken down.
+      我帮助了一些他们的车坏了的人
+      // 什么样的人，`他们的车坏了` 的人
+      ```
+
+    - 和 `who` 引导的定语从句做对比
+
+      ```
+      I met a man.
+
+      He knows you.
+
+      I met a man who knows you.
+      我遇到了那个认识你的人
+      // 什么样的人，`认识你` 的人
+
+
+      I met a man.
+
+      His sister knows you.
+
+      I met a man whose sister knows you.
+      我遇到了那个他的姐姐认识你的人
+      // 什么样的人，`他的姐姐认识你` 的人
+      ```
+
+22. `who` 替代人，`where` 替代地点，`whose` 替代谁的，`that` 可以随便替代，万能的
 
 ## Exercises
 

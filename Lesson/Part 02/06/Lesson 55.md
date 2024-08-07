@@ -81,3 +81,51 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
    ```
    It might contain something of value.
    ```
+
+8. Q: `be used to doing sth.` 习惯于做某事。后面才学到
+
+   ```
+   He is used to driving.
+
+   I'm used to getting up early.
+   ```
+
+9. `whenever` 任何时候
+
+10. `would do` 过去重复发生的动作
+
+    1. `would` 后面只能跟具体的动作，而不能跟状态
+
+       ```
+       He would have a dog.
+       // 错误。有一只狗，`有`是一个状态，而不是具体的动作
+
+       He would be the head of the business company.
+       // 错误。是一个公司的领导者，`是`是一个状态，而不是具体的动作
+
+       He would live near the river.
+       // 错误。住在河边，`住`是一个状态
+
+       He would bring me little presents.
+       他过去常常给我带一个小礼物
+       // 正确。`带`是一个具体的动作
+
+       He would play football.
+       他过去常常踢足球
+       // 正确
+       ```
+
+    2. `would do` & `used to do`
+
+       ```
+       He would smoke.
+       // 过去常常吸烟，可能现在还继续吸烟，也可能现在不吸了，只表达过去，不涉及到现在
+
+       He used to smoke.
+       // 过去常常吸烟，暗含了另外一层信息 `现在已经不吸了`。既表达过去，又涉及到现在
+
+
+       When Jack was angry, he would always walk out of the room.
+
+       When Jack was angry, he used to walk out of the room.
+       ```

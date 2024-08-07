@@ -32,4 +32,8 @@ The race gave everyone a great deal of pleasure. It was very different from mode
 
 3. `It was very different from modern car races` 在很多新式的赛车比赛中是非常不同的
 
-4. ` but no less exciting`
+4. `but no less exciting`
+
+5. `broke down` 发生故障
+
+6. `its driver had a lot of trouble trying to stop it` 中的 `trying` 什么句型

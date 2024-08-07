@@ -82,17 +82,21 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
    It might contain something of value.
    ```
 
-8. Q: `be used to doing sth.` 习惯于做某事。后面才学到
+8. `stay up` 熬夜
 
-   ```
-   He is used to driving.
+9. `have sth. serviced` 维修某物
 
-   I'm used to getting up early.
-   ```
+10. `score goal` 进球
 
-9. `whenever` 任何时候
+11. Q: `be used to doing sth.` 习惯于做某事。后面才学到
 
-10. `would do` 过去重复发生的动作
+    ```
+    He is used to driving.
+
+    I'm used to getting up early.
+    ```
+
+12. M: `would do` 过去重复发生的动作
 
     1. `would` 后面只能跟具体的动作，而不能跟状态
 
@@ -129,3 +133,126 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
        When Jack was angry, he used to walk out of the room.
        ```
+
+## Exercises
+
+```
+I used to eat a lot of sweets.
+
+So did I, until my dentist told me not to.
+```
+
+```
+I used to drink a lot of whisky.
+
+So did I, until my doctor told me not to.
+```
+
+```
+I used to spend a lot of money.
+
+So did I, until my father told me not to.
+```
+
+```
+He used to smoke a lot of cigarettes.
+
+So did she, until her mother told her not to.
+```
+
+```
+They used to read a lot of comics.
+
+So did they, until their teacher told them not to.
+```
+
+```
+It isn't good for him to drive so much!
+
+Don't worry, he's used to driving. He's a lorry driver.
+// 这里是 `be used to doing` 习惯于做某事
+```
+
+```
+It isn't good for her to run so hard!
+
+Don't worry, she's used to running. She's an athlete.
+```
+
+```
+It isn't good for her to argue so much!
+
+Don't worry, she's used to arguing. She's a lawyer.
+```
+
+```
+It isn't good for you to stay up so late!
+
+Don't worry, I'm used to staying up. I'm a journalist.
+```
+
+```
+It isn't good for them to travel so much!
+
+Don't worry, they're used to traveling. They're sales reps.
+```
+
+```
+They used to have a dog.
+
+Yes, and they were always taking it for walks!
+```
+
+```
+They used to own a car.
+
+Yes, and they were always having it serviced.
+```
+
+```
+He used to be in politics.
+
+Yes, he was always making speeches.
+```
+
+```
+He used to have a gun.
+
+Yes, and he was always frightening people.
+```
+
+```
+He used to play football.
+
+Yes, and he was always scoring goals.
+```
+
+```
+What sort of things did she like doing as a child?
+
+She would explore caves whenever she could.
+```
+
+```
+What sort of things did she like doing as a girl?
+
+She would climb trees whenever she could.
+```
+
+```
+What sort of things did she like doing as a student?
+
+She would go dancing whenever she could.
+```
+
+```
+What sort of things did she like doing as a teenager?
+
+She would buy pop records whenever she could.
+```
+
+```
+What sort of things did she like doing as a tourist?
+
+She would visit museums whenever she could.
+```

@@ -1,141 +1,101 @@
 # Review
-1. fight **[faɪt]** `v` 与...作斗争；作战 `n` 战斗
+1. magnify **[ˈmæɡnɪfaɪ]** `v` 放大，扩大
 
-2. soil **[sɔɪl]** `n` 泥土，土壤
+2. transport **[ˈtrænspɔːt]** `n` 交通工具；运输 `v` 运输
 
-3. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
+3. excellent **[ˈeksələnt]** `adj` 卓越的，极好的
 
-4. steak **[steɪk]** `n` 牛排；肉排
+4. dig **[dɪɡ]** `v` 搜寻；挖掘 `n` 挖苦；嘲讽
 
-5. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的；（事物）存在的
+5. appear **[əˈpɪə(r)]** `v` 呈现；出现；登场
 
-6. develop **[dɪˈveləp]** `v` 开发，研制；发展；养成
+6. should **[ʃʊd]** `aux` （提出或征询建议）应该
 
-7. bury **[ˈberi]** `v` 埋藏；填埋
+7. develop **[dɪˈveləp]** `v` 开发，研制；发展；养成
 
-8. billion **[ˈbɪljən]** `n` 十亿
+8. scornfully **[ˈskɔːnfəli]** `adv` 轻蔑地；蔑视地
 
-9. income **[ˈɪnkʌm]** `n` 收入；收益
+9. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的；（事物）存在的
 
 10. held **[held]** `v` （hold 的过去式）
 
-11. invent **[ɪnˈvent]** `v` 发明；创造
+11. stay **[steɪ]** `v` 停留；逗留 `n` 暂住
 
-12. remove **[rɪˈmuːv]** `v` 移开；拿开；除去；废除
+12. worm **[wɜːm]** `n` 蠕虫
 
-13. dig **[dɪɡ]** `v` 搜寻；挖掘 `n` 挖苦；嘲讽
+13. ever **[ˈevə(r)]** `adv` 曾经；从来；在任何时候；始终，一直；总是
 
-14. relation **[rɪˈleɪʃ(ə)n]** `n` 亲戚；（人或物之间的）联系，关系
+14. fault **[fɔːlt]** `n` 错误
 
-15. refund **[ˈriːfʌnd]** `n` 退款 `v` 退还（钱款）
+15. income **[ˈɪnkʌm]** `n` 收入；收益
 
-16. wheel **[wiːl]** `n` 轮子，车轮
+16. relation **[rɪˈleɪʃ(ə)n]** `n` 亲戚；（人或物之间的）联系，关系
 
-17. revealer **[rɪˈvi:lə]** `n` 探测器
+17. carrot **[ˈkærət]** `n` 胡萝卜
 
-18. source **[sɔːs]** `n` 来源，出处；（问题的）原因，根源
+18. confident **[ˈkɒnfɪdənt]** `adj` 充满信心的
 
-19. scope **[skəʊp]** `n` 范围，领域；（发挥能力的）机会 `v` 评估
+19. assistant **[əˈsɪstənt]** `n` 助手
 
-20. grow **[ɡrəʊ]** `v` 长大；成长；种植
+20. punish **[ˈpʌnɪʃ]** `v` 惩罚，处罚
 
-21. gold **[ɡəʊld]** `n` 金；黄金制品，金币 `adj` 金色的；金制的
+21. serve **[sɜːv]** `v` （为...）工作；服务；给...提供（餐饮）；接待顾客
 
-22. tiny **[ˈtaɪni]** `adj` 极小的，微小的
+22. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-23. boot **[buːt]** `n` 靴子
+23. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期； `v` 把...称为
 
-24. detect **[dɪˈtekt]** `v` 侦查；检测，探测
+24. dead **[ded]** `adj` 死的，去世的
 
-25. magnify **[ˈmæɡnɪfaɪ]** `v` 放大，扩大
+25. grew **[ɡruː]** `v` （grow 的过去式）
 
-26. pretend **[prɪˈtend]** `v` 假装，伪装
+26. grow **[ɡrəʊ]** `v` 长大；成长；种植
 
-27. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
+27. administration **[ədˌmɪnɪˈstreɪʃ(ə)n]** `n` 管理，行政；管理部门
 
-28. finally **[ˈfaɪnəli]** `adv` 最后；总之；决定性的，不可变更的
+28. hole **[həʊl]** `n` 孔，洞
 
-29. administration **[ədˌmɪnɪˈstreɪʃ(ə)n]** `n` 管理，行政；管理部门
+29. refund **[ˈriːfʌnd]** `n` 退款 `v` 退还（钱款）
 
-30. worthless **[ˈwɜːθləs]** `adj` 毫无价值的
+30. grown **[ɡrəʊn]** `v` （grow 的过去分词）
 
-31. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
+31. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
 
-32. should **[ʃʊd]** `aux` （提出或征询建议）应该
+32. madam **[ˈmædəm]** `n` 夫人；女士
 
-33. speed **[spiːd]** `n` （运动）速度 `v` 快速移动；超速驾驶
+33. university **[ˌjuːnɪˈvɜːsəti]** `n` 大学；综合性大学
 
-34. thoroughly **[ˈθʌrəli]** `adv` 彻底地；完全地
+34. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
 
-35. treasure **[ˈtreʒə(r)]** `n` 金银财宝，财宝
+35. hesitate **[ˈhezɪteɪt]** `v` 犹豫；迟疑
 
-36. sped **[sped]** `v` （speed 的过去式）
+36. sort **[sɔːt]** `n` 排序；种类 `v` 整理
 
-37. seashore **[ˈsiːʃɔː(r)]** `n` 海岸
+37. rival **[ˈraɪv(ə)l]** `n` 竞争对手
 
-38. church **[tʃɜːtʃ]** `n` 教堂； `adj` 教会的
+38. ladder **[ˈlædə(r)]** `n` 梯子
 
-39. ladder **[ˈlædə(r)]** `n` 梯子
+39. frighten **[ˈfraɪt(ə)n]** `v` （使）惊吓，（使）惊恐
 
-40. space **[speɪs]** `n` 空隙；空地；（打字时的）空格 `v` 把...分隔开
+40. entire **[ɪnˈtaɪə(r)]** `adj` 全部的，整个的
 
-41. mine **[maɪn]** `pron` 我的 `n` 矿，矿井
+41. fur **[fɜː(r)]** `n` 裘衣；毛皮
 
-42. transport **[ˈtrænspɔːt]** `n` 交通工具；运输 `v` 运输
+42. journalist **[ˈdʒɜːnəlɪst]** `n` 新闻工作者
 
-43. entrance **[ˈentrəns]** `n` 入口
+43. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
 
-44. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期； `v` 把...称为
+44. duty **[ˈdjuːti]** `n` 责任；义务；值班
 
-45. grew **[ɡruː]** `v` （grow 的过去式）
+45. steak **[steɪk]** `n` 牛排；肉排
 
-46. excitement **[ɪkˈsaɪtmənt]** `n` 令人激动的事；兴奋
+46. claim **[kleɪm]** `v` 索赔；认领；以...为其后果 `n` 索赔；权力
 
-47. handsome **[ˈhænsəm]** `adj` （男子）英俊的；（女子）端庄的；漂亮的
+47. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
 
-48. arm **[ɑːm]** `n` 手臂 `v` 武装
+48. pretend **[prɪˈtend]** `v` 假装，伪装
 
-49. entire **[ɪnˈtaɪə(r)]** `adj` 全部的，整个的
+49. eager **[ˈiːɡə(r)]** `adj` 热情的；热切的；渴望的
 
-50. explosion **[ɪkˈspləʊʒ(ə)n]** `n` 爆炸
-
-51. ever **[ˈevə(r)]** `adv` 曾经；从来；在任何时候；始终，一直；总是
-
-52. excellent **[ˈeksələnt]** `adj` 卓越的，极好的
-
-53. carrot **[ˈkærət]** `n` 胡萝卜
-
-54. launch **[lɔːntʃ]** `v` （计算机程序的）启动；发动；发起
-
-55. confident **[ˈkɒnfɪdənt]** `adj` 充满信心的
-
-56. downhill **[ˌdaʊnˈhɪl]** `adv` 下坡
-
-57. grown **[ɡrəʊn]** `v` （grow 的过去分词）
-
-58. fault **[fɔːlt]** `n` 错误
-
-59. future **[ˈfjuːtʃə(r)]** `n` 未来；将来；（语法）将来时 `adj` 将来的；未来的
-
-60. sort **[sɔːt]** `n` 排序；种类 `v` 整理
-
-61. comparison **[kəmˈpærɪs(ə)n]** `n` 比较；对照；比喻
-
-62. pirate **[ˈpaɪrət]** `n` 海盗
-
-63. claim **[kleɪm]** `v` 索赔；认领；以...为其后果 `n` 索赔；权力
-
-64. Benz **[benz]** `n` （汽车品牌）奔驰
-
-65. silver **[ˈsɪlvə(r)]** `n` 银；银器 `adj` 银制的；银白色
-
-66. worm **[wɜːm]** `n` 蠕虫
-
-67. press **[pres]** `v` 按（开关或按钮）；压
-
-68. trunk **[trʌŋk]** `n` （汽车）后备箱；箱子；树干
-
-69. cave **[keɪv]** `n` 山洞，洞穴
-
-70. rival **[ˈraɪv(ə)l]** `n` 竞争对手
+50. comparison **[kəmˈpærɪs(ə)n]** `n` 比较；对照；比喻
 

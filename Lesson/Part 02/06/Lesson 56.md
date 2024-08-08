@@ -60,3 +60,27 @@ The race gave everyone a great deal of pleasure. It was very different from mode
    ```
    After his wife had died, his health started to go downhill.
    ```
+
+5. `a great deal of sth.(un.)` 大量的某物(不可数名词)。和 `a great number of sth.` 类似
+
+   ```
+   He realized that he had lost a great deal of money.
+
+   I don't have a great deal of time here.
+
+   He has made a great deal of progress.
+   ```
+
+6. `break down` 汽车故障
+
+   ```
+   My car has just broken down.
+   ```
+
+7. `A be different from B` A 和 B 不一样
+
+   ```
+   No one could account for the fact that he is so different from his twin brother.
+
+   Why are you so different from them?
+   ```

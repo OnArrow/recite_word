@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   steak transport present comparison carrot  term ladder    detect fit confident land character    course rival  dig plant  claim excellent income develop relation magnify  administration refund  fault hold held silver pretend should grow grew grown worm entire ever sort duty hole appear university dead stay journalist frighten assistant madam jeans hesitate serve scornfully punish fur eager handsome healthy capable product overseas progress
+   appear character control smoke area peace security appreciate environment grass patch
    ```
 
 5. **剑桥初级语法**

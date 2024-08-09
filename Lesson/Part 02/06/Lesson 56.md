@@ -24,27 +24,17 @@ It sped downhill at the end of the race and its driver had a lot of trouble tryi
 The race gave everyone a great deal of pleasure. It was very different from modern car races but no less exciting.
 ```
 
-## Questions
-
-1. `a great deal of excitement` 非常多令人激动的赌局？
-
-2. `some drivers spent more time under their cars than in them`
-
-3. `It was very different from modern car races` 在很多新式的赛车比赛中是非常不同的
-
-4. `but no less exciting`
-
-5. `broke down` 发生故障
-
-6. `its driver had a lot of trouble trying to stop it` 中的 `trying` 什么句型
-
 ## Whole
 
-1. `hear/make sound` 听到/发出声响
+1. `Rolls Royce` 劳斯莱斯汽车
 
-2. `Rolls Royce` 劳斯莱斯汽车
+2. `hear/make sound` 听到/发出声响
 
-3. `speed this thing up` 加快这件事的速度。加快速度去做某事
+   ```
+   I've been hearing a sound that's so loud.
+   ```
+
+3. `speed this thing up` 加快这件事的速度；加快速度去做某事
 
    ```
    The water is still too cold, it must be warmed at once, I need you to speed things up.
@@ -84,3 +74,125 @@ The race gave everyone a great deal of pleasure. It was very different from mode
 
    Why are you so different from them?
    ```
+
+## Exercises
+
+```
+Are you as tall as Jack?
+
+I don't think so. I think Jack's a little taller than me.
+```
+
+```
+Is he as intelligent as Jack?
+
+I don't think so. I think Jack's a little more intelligent than him.
+```
+
+```
+Are they as capable as Jack?
+
+I don't think so. I think Jack's a little more capable than them.
+```
+
+```
+Are you as active as Jack?
+
+I don't think so. I think Jack's a little more active than me.
+```
+
+```
+Are you as unlucky as Jack?
+
+I don't think so. I think Jack's a little unluckier than me.
+```
+
+```
+My brother is much taller than yours.
+
+He isn't. They're about the same height.
+```
+
+```
+My house is much older than yours.
+
+It isn't. They're about the same age.
+```
+
+```
+My case is much heavier than yours.
+
+It isn't. They're about the same weight.
+```
+
+```
+My shoes are much larger than yours.
+
+They aren't. They're about the same size.
+```
+
+```
+My ruler is much longer than yours.
+
+It isn't. They're about the same length.
+```
+
+```
+Is Scotch whisky very different from Irish whisky?
+
+A Scot could tell you better than I can!
+```
+
+```
+Is China wine very different from Japan wine?
+
+A Chinese could tell you better than I can!
+```
+
+```
+Is Russia customs very different from French customs?
+
+A Russian could tell you better than I can!
+```
+
+```
+Is Italy stereos very different from Korea stereos?
+
+An Italian could tell you better than I can!
+```
+
+```
+Is American art very different from Chinese art?
+
+An American could tell you better than I can!
+```
+
+```
+What a lot of eggs Jack's taken!
+
+Yes, he's taken many more than he did yesterday.
+```
+
+```
+What a lot of pictures Jack's painted!
+
+Yes, he's painted many more than he did yesterday.
+```
+
+```
+What a lot of beer you have drunk!
+
+Yes, I've drunk much more than I did yesterday.
+```
+
+```
+What a lot of sweets Jack's bought!
+
+Yes, he's bought much more than he did yesterday.
+```
+
+```
+What a lot of flowers he's picked!
+
+Yes, he's picked many more than he did yesterday.
+```

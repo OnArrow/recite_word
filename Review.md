@@ -1,75 +1,91 @@
 # Review
-1. trunk **[trʌŋk]** `n` （汽车）后备箱；箱子；树干
+1. beard **[bɪəd]** `n` 胡须；（植物的）芒 `v` 顶撞；对抗（令人畏惧的人）
 
-2. customs **[ˈkʌstəmz]** `n` 海关；关税
+2. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
 
-3. Italy **[ˈɪtəli]** `n` 意大利
+3. mention **[ˈmenʃn]** `n` 提及；说起 `v` 提到；谈到
 
-4. disguise **[dɪsˈɡaɪz]** `n` 伪装
+4. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
 
-5. claim **[kleɪm]** `v` 索赔；认领；以...为其后果 `n` 索赔；权力
+5. control **[kənˈtrəʊl]** `n` （对国家、地区、机构等的）控制权，支配权 `v` 控制，掌管
 
-6. security **[sɪˈkjʊərəti]** `n` 安全；保护措施；保安部门；保证金；证券；债券
+6. retire **[rɪˈtaɪə(r)]** `v` 使退休；退役；（因受伤、生病而）退出比赛 `n` 退休，退隐
 
-7. cursed **[ˈkɜːsɪd]** `adj` 可恨的
+7. evil **[ˈiːv(ə)l]** `adj` 不详的；邪恶的
 
-8. tiny **[ˈtaɪni]** `adj` 极小的，微小的
+8. income **[ˈɪnkʌm]** `n` 收入；收益
 
-9. church **[tʃɜːtʃ]** `n` 教堂； `adj` 教会的
+9. judge **[dʒʌdʒ]** `n` 法官；裁判员；指责
 
-10. area **[ˈeəriə]** `n` 地区；区域；面积
+10. tired **[ˈtaɪəd]** `adj` 疲倦的；累的；厌烦的
 
-11. gate **[ɡeɪt]** `n` 大门；登机口
+11. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏；感激
 
-12. evil **[ˈiːv(ə)l]** `adj` 不详的；邪恶的
+12. patch **[pætʃ]** `n` 补丁；修补文件；小片 `v` （计）打补丁
 
-13. environment **[ɪnˈvaɪrənmənt]** `n` 环境；软件包；自然环境；环保
+13. length **[leŋkθ]** `n` 长度；（持续）时间的长短
 
-14. smoke **[sməʊk]** `n` （燃烧产生的）烟；抽烟 `v` 抽烟
+14. possess **[pəˈzes]** `v` 拥有；具有（品质或能力）
 
-15. pick **[pɪk]** `v` 选择；采、摘（花、果） `n` 被选中的人（或事物）；选择权
+15. tiny **[ˈtaɪni]** `adj` 极小的，微小的
 
-16. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
+16. vicar **[ˈvɪkə(r)]** `n` 牧师
 
-17. recent **[ˈriːsnt]** `adj` 最近的；最新的
+17. uniform **[ˈjuːnɪfɔːm]** `n` 制服，校服 `adj` 全部相同的，始终如一的
 
-18. grass **[ɡrɑːs]** `n` 草；草地
+18. cursed **[ˈkɜːsɪd]** `adj` 可恨的
 
-19. struck **[strʌk]** `v` （strick 的过去式）
+19. grass **[ɡrɑːs]** `n` 草；草地
 
-20. death **[deθ]** `n` 死亡；死神
+20. brown **[braʊn]** `adj` 棕色的
 
-21. patch **[pætʃ]** `n` 补丁；修补文件；小片 `v` （计）打补丁
+21. Italy **[ˈɪtəli]** `n` 意大利
 
-22. income **[ˈɪnkʌm]** `n` 收入；收益
+22. environment **[ɪnˈvaɪrənmənt]** `n` 环境；软件包；自然环境；环保
 
-23. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏；感激
+23. fry **[fraɪ]** `v` 油炸，油煎；炒
 
-24. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
+24. pullover **[ˈpʊləʊvə(r)]** `n` 毛衣
 
-25. mention **[ˈmenʃn]** `n` 提及；说起 `v` 提到；谈到
+25. blessing **[ˈblesɪŋ]** `n` 福分，福气
 
-26. peace **[piːs]** `n` 和平；安宁
+26. appear **[əˈpɪə(r)]** `v` 呈现；出现；登场
 
-27. length **[leŋkθ]** `n` 长度；（持续）时间的长短
+27. security **[sɪˈkjʊərəti]** `n` 安全；保护措施；保安部门；保证金；证券；债券
 
-28. appear **[əˈpɪə(r)]** `v` 呈现；出现；登场
+28. recent **[ˈriːsnt]** `adj` 最近的；最新的
 
-29. active **[ˈæktɪv]** `adj` 活跃的；好动的
+29. claim **[kleɪm]** `v` 索赔；认领；以...为其后果 `n` 索赔；权力
 
-30. blessing **[ˈblesɪŋ]** `n` 福分，福气
+30. smoke **[sməʊk]** `n` （燃烧产生的）烟；抽烟 `v` 抽烟
 
-31. reputation **[ˌrepjuˈteɪʃ(ə)n]** `n` 名声；名誉
+31. trunk **[trʌŋk]** `n` （汽车）后备箱；箱子；树干
 
-32. possess **[pəˈzes]** `v` 拥有；具有（品质或能力）
+32. church **[tʃɜːtʃ]** `n` 教堂； `adj` 教会的
 
-33. increase **[ɪnˈkriːs]** `v` 增加；增长
+33. source **[sɔːs]** `n` 来源，出处；（问题的）原因，根源
 
-34. vicar **[ˈvɪkə(r)]** `n` 牧师
+34. death **[deθ]** `n` 死亡；死神
 
-35. source **[sɔːs]** `n` 来源，出处；（问题的）原因，根源
+35. gate **[ɡeɪt]** `n` 大门；登机口
 
-36. control **[kənˈtrəʊl]** `n` （对国家、地区、机构等的）控制权，支配权 `v` 控制，掌管
+36. peace **[piːs]** `n` 和平；安宁
 
 37. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植
+
+38. struck **[strʌk]** `v` （strick 的过去式）
+
+39. reputation **[ˌrepjuˈteɪʃ(ə)n]** `n` 名声；名誉
+
+40. increase **[ɪnˈkriːs]** `v` 增加；增长
+
+41. customs **[ˈkʌstəmz]** `n` 海关；关税
+
+42. disguise **[dɪsˈɡaɪz]** `n` 伪装
+
+43. pick **[pɪk]** `v` 选择；采、摘（花、果） `n` 被选中的人（或事物）；选择权
+
+44. active **[ˈæktɪv]** `adj` 活跃的；好动的
+
+45. area **[ˈeəriə]** `n` 地区；区域；面积
 

@@ -24,87 +24,120 @@ With great difficulty, he climbed into the shop window to get the dress. As soon
 She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.
 ```
 
-## Questions
-
 ## Whole
 
-1. `hesitate for a moment/second` 犹豫一会
+1. 文中 `she enjoyed herself making the assistant bring almost everything in the window` 的 `making` 可以理解为分词作状语，同时 `while` 被省略掉了。完整的可以句子可以是以下
+
+   ```
+   She enjoyed herself while making the assistant bring almost everything in the window.
+   ```
+
+2. `hesitate for a moment/second` 犹豫一会
 
    ```
    He hesitate for a second before opening the door.
    ```
 
-2. `hesitate to do sth.` 犹豫要不要去做某事
+3. `hesitate to do sth.` 犹豫要不要去做某事
 
    ```
    If there's anything we can do, please don't hesitate to tell us.
    ```
 
-3. `we don't serve steak` 我们不提供牛排。如果是在餐厅，这家餐厅可能没有牛排这个菜，那么就可以使用这句
+4. `we don't serve steak` 我们不提供牛排。如果是在餐厅，这家餐厅可能没有牛排这个菜，那么就可以使用这句
 
    ```
    Do you serve beer or any drink?
    ```
 
-4. `look down on sb.` 有 `狗眼看人低` 的意思，对某人这样。和 `scornfully` 类似
+5. `look down on sb.` 有 `狗眼看人低` 的意思，对某人这样。和 `scornfully` 类似
 
    ```
    You are so perfect you can look down on me?
    ```
 
-5. `be eager to do sth.` 渴望做某事，对做某事很热情
+6. `be eager to do sth.` 渴望做某事，对做某事很热情
 
    ```
    He was eager to help me to move into my new house.
    ```
 
-6. M: `the way` 引导的定语从句。这种情况下 `the way` 表示 `以这样的方式`
+7. `ask to do sth.` 要求去做某事
 
    ```
-   I don't like the way (that) you talk to me.
-   我不喜欢你跟我聊天的这个方式
-   // `that` 可加可不加。不过通常是不会加上的
-   // `that` 后面的 `you talk to me` 就是修饰 `the way` 的定语
-
-   We want to know the way you learn new words.
-   我想知道你学习新单词的方式
-
-   I like the way you look at the world.
-
-   I see the way you look at me.
+   I asked to see my records.
    ```
 
-7. `in` & `with`
+8. `be dressed in...` 穿着...。这里是被动，但是翻译为中文时按照中文的习惯说法不会说 `被穿在...里`，直接说 `穿着` 什么什么东西。因为早期的英国女人特别是贵族，会穿着非常紧身的衣服，这些衣服通过需要仆人来帮忙才能穿上去，比如帮忙在拉上衣服后面的拉链，所以是 `被穿在...里`
 
-   - `in` 可以表示 `穿着`，身体被某物包裹着。和 `wear` 类似
+   ```
+   The guys we're killing are dressed in expensive suits.
 
-     ```
-     I saw a man who was wearing a black suit.
+   We are dressed in our best.
+   我们穿着我们最好的衣服
+   ```
 
-     I saw a man in a black suit.
-     // 和上一句等价
+9. `seek out` 寻找
+
+   ```
+   She sought out the rude assistant.
+   ```
+
+10. `make sb. do sth.` 让某人做某事
+
+    ```
+    Don't make me do this.
+
+    My mom made me get my bedroom in order last night.
+    ```
+
+11. M: `the way` 引导的定语从句。这种情况下 `the way` 表示 `以这样的方式`
+
+    ```
+    I don't like the way (that) you talk to me.
+    我不喜欢你跟我聊天的这个方式
+    // `that` 可加可不加。不过通常是不会加上的
+    // `that` 后面的 `you talk to me` 就是修饰 `the way` 的定语
+
+    We want to know the way you learn new words.
+    我想知道你学习新单词的方式
+
+    I like the way you look at the world.
+
+    I see the way you look at me.
+    ```
+
+12. `in` & `with`
+
+    - `in` 可以表示 `穿着`，身体被某物包裹着。和 `wear` 类似
+
+      ```
+      I saw a man who was wearing a black suit.
+
+      I saw a man in a black suit.
+      // 和上一句等价
 
 
-     I saw a man who was wearing a red tie.
+      I saw a man who was wearing a red tie.
 
-     I saw a man in a red tie.
-     ```
+      I saw a man in a red tie.
+      ```
 
-   - `with` 可以表示 `伴随；和`。某人的所拥有或带着的东西
+    - `with` 可以表示 `伴随；和`。某人的所拥有或带着的东西
 
-     ```
-     I saw a man who was carrying a brown handbag.
+      ```
+      I saw a man who was carrying a brown handbag.
 
-     I saw a man with a brown handbag.
-     // 和上一句等价
-
-
-     I saw a man who had a scar on his face.
-
-     I saw a man with a scar on his face.
+      I saw a man with a brown handbag.
+      // 和上一句等价
 
 
-     I saw a man who had blue eyes.
+      I saw a man who had a scar on his face.
 
-     I saw a man with blue eyes.
-     ```
+      I saw a man with a scar on his face.
+
+
+      I saw a man who had blue eyes.
+
+      I saw a man with blue eyes.
+      ```

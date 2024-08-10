@@ -42,7 +42,7 @@ Yes, please
    Black coffee, please. I don't like milk in my coffee
    ```
 
-2. 在动词的前面加 `do` 的时候，此时 `do` 是一个助动词，它是用来强调语气的，没有具体的意思
+2. M: 强调某个动作。在动词的前面加 `do` 的时候，此时 `do` 是一个助动词，它是用来强调语气的，没有具体的意思
 
    ```
    I like tea

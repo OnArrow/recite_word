@@ -48,7 +48,7 @@ Last Sunday I got up very late. I looked out of the window. It was dark outside.
 
 6. `get outside` 出去
 
-7. M: `现在进行时` 也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作
+7. M: `现在进行时` 也可以表示即将发生的动作，一般指按计划或者安排好要发生的动作。将来的时间，这个可能是几天后，但通常不会太长
 
    ```
    I'm meeting my friends

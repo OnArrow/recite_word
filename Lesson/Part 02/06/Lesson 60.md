@@ -24,6 +24,10 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
 
 1. `fortune teller` 算命人
 
+   ```
+   The fortune teller with a crystal ball got on the bus.
+   ```
+
 2. `crystal clear` 浅显易懂
 
    ```
@@ -35,7 +39,11 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
 
 3. `a woman you know well` 你很熟悉的女人
 
-4. `in less than an hour` 少于一个小时
+4. `less than an hour` 少于一个小时
+
+   ```
+   He had already left the room less than an hour before.
+   ```
 
 5. `nearest relation` 直系亲属
 
@@ -85,3 +93,5 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
 
    I'll give him the message when he returns.
    ```
+
+## Exercises

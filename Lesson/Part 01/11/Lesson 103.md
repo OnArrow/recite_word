@@ -107,9 +107,7 @@ Then he sat there and looked at it for three hours! He didn't write a word!
    // 我是大学英语的水平，这次的大学英语试卷 `足够` 简单，就是这个试卷的难度对于我来说刚刚好可以轻松拿高分
    ```
 
-6. `too adj. + （for sb.） + to do sth.`
-
-   - 对于某人来说去做某事过于难，这件事情可能完成不了 （含否定的意思在里面）
+6. M: `too adj. + （for sb.） + to do sth.` 对于某人来说去做某事过于难，这件事情可能完成不了 （含否定的意思在里面）
 
    ```
    It was too difficult for me to pass
@@ -124,9 +122,7 @@ Then he sat there and looked at it for three hours! He didn't write a word!
    The knife is too blunt to cut the beef
    ```
 
-7. `adj. enough + （for sb.） + to do sth.`
-
-   - 对于某人来说可以去做某事，这件事情可以轻易完成 （含肯定的意思在里面）
+7. M: `adj. enough + （for sb.） + to do sth.` 对于某人来说可以去做某事，这件事情可以轻易完成 （含肯定的意思在里面）
 
    ```
    It was easy enough for me to pass

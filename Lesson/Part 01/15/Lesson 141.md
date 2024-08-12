@@ -83,7 +83,7 @@ Sally was amused, but I was very embarrassed!
    // 实际上是我正在被太阳晒
    ```
 
-2. M: `一般现在时的被动语态`
+2. `一般现在时的被动语态`
 
    - 被动语态结构：`be（表示时态） + done（表示被动）`
 
@@ -124,7 +124,7 @@ Sally was amused, but I was very embarrassed!
    The car is repaired regularly
    ```
 
-3. M: `一般过去时的被动语态`
+3. `一般过去时的被动语态`
 
    - 结构：`was/were + done`
 

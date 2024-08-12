@@ -38,7 +38,7 @@ No, I don't. I'm John Smith the telephone engineer and I'm repairing your teleph
 
 ## Whole
 
-1. M: `一般疑问句做宾语从句`
+1. `一般疑问句做宾语从句`
 
    - 一般疑问句做宾语从句时，一般疑问句的要先变为陈述语序，同时使用 `if` 引导，这个 `if` 不翻译为 `如果`，翻译为 `是否`
 
@@ -91,7 +91,7 @@ No, I don't. I'm John Smith the telephone engineer and I'm repairing your teleph
    // 疑问句用的`any`，变为宾语从句时还是用`any`
    ```
 
-2. M: `特殊疑问句做宾语从句`
+2. `特殊疑问句做宾语从句`
 
    - 特殊疑问句做宾语从句时，除了特殊疑问词（`What、Who、Which、Where`），剩下的需要变为陈述语序，同时用这个特殊疑问词引导
 

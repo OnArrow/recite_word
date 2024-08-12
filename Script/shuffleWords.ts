@@ -12,7 +12,7 @@ import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
  * 需要乱序的文件
  * 如：['2024/May', '2024/Jun']
  */
-const shuffleMonths: string[] = ['2024/Jun', '2024/Jul', '2024/Aug']
+const shuffleMonths: string[] = ['2024/Jul', '2024/Aug']
 
 // 读取的文件夹路径
 const readFolderPath: string = nodePath.resolve(__dirname, '../Words')

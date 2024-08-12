@@ -42,7 +42,7 @@ Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these
    昨晚下雪了，今天早上这条街被雪覆盖了
    ```
 
-3. M: `现在完成时的被动语态`
+3. `现在完成时的被动语态`
 
    - 结构：`have/has been + done`
 
@@ -60,7 +60,7 @@ Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these
    多少棵树被学生们种下了?
    ```
 
-4. M: `一般将来时的被动语态`
+4. `一般将来时的被动语态`
 
    - 结构：`will be + done`
 

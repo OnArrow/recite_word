@@ -1,9 +1,5 @@
 # Lesson 79
 
-## Marks
-
-1. M: `have got` 有
-
 ## Words
 
 - shopping list vegetable need hope thing money groceries fruit stationary newsagent chemist

@@ -26,7 +26,7 @@ She enjoyed herself making the assistant bring almost everything in the window b
 
 ## Whole
 
-1. 文中 `she enjoyed herself making the assistant bring almost everything in the window` 的 `making` 可以理解为分词作状语，同时 `while` 被省略掉了。完整的可以句子可以是以下
+1. 文中 `she enjoyed herself making the assistant bring almost everything in the window` 的 `making` 可以理解为 `分词作状语`，同时 `while` 被省略掉了。完整的可以句子可以是以下
 
    ```
    She enjoyed herself while making the assistant bring almost everything in the window.
@@ -36,6 +36,7 @@ She enjoyed herself making the assistant bring almost everything in the window b
 
    ```
    He hesitate for a second before opening the door.
+   // 并不是具体的 `一秒钟`，只是用来指代时间很短
    ```
 
 3. `hesitate to do sth.` 犹豫要不要去做某事
@@ -48,12 +49,14 @@ She enjoyed herself making the assistant bring almost everything in the window b
 
    ```
    Do you serve beer or any drink?
+   你们这儿有啤酒或其它什么喝的吗？
    ```
 
 5. `look down on sb.` 有 `狗眼看人低` 的意思，对某人这样。和 `scornfully` 类似
 
    ```
    You are so perfect you can look down on me?
+   就算你这么完美，但你就能这么轻蔑地看着我了？
    ```
 
 6. `be eager to do sth.` 渴望做某事，对做某事很热情
@@ -141,3 +144,125 @@ She enjoyed herself making the assistant bring almost everything in the window b
 
       I saw a man with blue eyes.
       ```
+
+## Exercises
+
+```
+Shall we meet at the station?
+
+Yes, I'll wait for you under the clock.
+```
+
+```
+Shall we meet at the cinema?
+
+Yes, I'll wait for you near the ticket office.
+```
+
+```
+Shall we meet at the school?
+
+Yes, I'll wait for you in the hall.
+```
+
+```
+Shall we meet at the hotel?
+
+Yes, I'll wait for you in the lounge.
+```
+
+```
+Shall we meet at the car park?
+
+Yes, I'll wait for you by the ticket machine.
+```
+
+```
+Lucy looks very young in that bikini, doesn't she?
+
+She looks young in anything!
+```
+
+```
+Lucy looks very smart in that coat, doesn't she?
+
+She looks smart in anything!
+```
+
+```
+Lucy looks very pretty in that long dress, doesn't she?
+
+She looks pretty in anything!
+```
+
+```
+Jack looks very handsome in that uniform, doesn't he?
+
+He looks handsome in anything!
+```
+
+```
+Tom looks very silly in that little hat, doesn't he?
+
+He looks silly in anything!
+```
+
+```
+The police say the man they're looking for has a beard.
+
+There's a man with a beard over there!
+```
+
+```
+The police say the man they're looking for has a bald head.
+
+There's a man with a bald head over there!
+```
+
+```
+The police say the woman they're looking for has a broken leg.
+
+There's a woman with a broken leg over there!
+```
+
+```
+The police say the child they're looking for has a brown dog.
+
+There's a child with a brown dog over there!
+```
+
+```
+The police say the dog they're looking for has two black spots on it.
+
+There's a dog with two black spots on it over there!
+```
+
+```
+It's hot. Why doesn't he take off his coat?
+
+He says he wants to keep it on.
+```
+
+```
+It's hot. Why doesn't he take off his boots?
+
+He says he wants to keep them on.
+```
+
+```
+It's hot. Why doesn't she take off her pullover?
+
+She says she wants to keep it on.
+```
+
+```
+It's hot. Why doesn't she take off her uniform?
+
+She says she wants to keep it on.
+```
+
+```
+It's hot. Why doesn't he take off his sweater?
+
+He says he wants to keep it on.
+```

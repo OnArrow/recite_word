@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分  cemetery accomplish accomplishment/成就 relationship/亲属关系，恋爱关系 royce scar/伤疤 explode efficient talkative generous literature luggage/行李 highway truck strick capsule academy nose bikini elegant overall sought betray/背叛 bless/祝福 offend/冒犯 knowledge skill amazing brain curse/诅咒 disease baggage monk huge wise vacant/空缺的 earthquake calm backyard relax dictate coal throne bronze unless/除非
+   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分  cemetery accomplish accomplishment/成就 relationship/亲属关系，恋爱关系 royce scar/伤疤 explode efficient talkative generous literature luggage/行李 highway truck strick capsule academy nose bikini overall sought betray/背叛 bless/祝福 offend/冒犯 knowledge skill amazing brain curse/诅咒 disease baggage monk huge wise vacant/空缺的 quake earthquake calm backyard relax dictate coal throne bronze unless/除非 lobby/大堂 elegant/举止优雅的 briefcase bald raincoat scarf overalls bull injure robbery award/授予 disappoint
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   appear character control smoke area peace security appreciate environment grass patch active length customs Italy pick blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk death mention recent strick struck gate fry tired retire judge brown beard  pullover uniform glad risk hire possible honesty genius Africa prize reward report cut several situation future fair fortune teller crystal relation impatiently sentence diary waste accuracy fluency experiment rabbit headache intend expression
+   appear character control smoke area peace security appreciate environment grass patch active length customs Italy pick blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk death mention recent strick struck gate fry tired retire judge brown beard  pullover uniform glad risk hire possible honesty genius Africa prize reward report cut several situation future fair fortune teller crystal relation impatiently sentence diary waste accuracy fluency experiment rabbit headache intend expression rent lounge tail sweater brilliant library invitation meal involve Hubble telescope launch space NASA national aeronautics billion faulty astronaut shuttle Endeavour grab atmosphere distant galaxy universe eagle necessary unnecessary above
    ```
 
 5. **剑桥初级语法**
@@ -37,6 +37,7 @@
    ```
 
 7. 在`verb tenses`中补充现在进行时的用法，表将来
+
 8. 复习单词 `11.21`
 
 9. 梳理冠词内容

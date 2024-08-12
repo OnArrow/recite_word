@@ -24,23 +24,13 @@ In spite of all that has been said, the tourists have been picking leaves and cu
 
 ## Questions
 
-1. `is said` 听说？
-
-2. `In spite of all that has been said` 就算有这些传言
-
-3. `their names on the tree` 什么名词
-
-4. `not one of them has been struck down by sudden death` 中的 `not` 在开头什么作用
-
 5. Q: `But now standing over me she looked like a huge tree trunk` 翻译这句话
 
 6. Q: `have the tree cut down` 语法
 
 ## Whole
 
-1. `God bless you` 愿上帝保佑你。西方国家的人很常用的口语
-
-2. `a blessing in disguise` 因祸得福。有 `塞翁失马，焉知非福` 的意思
+1. `a blessing in disguise` 因祸得福。有 `塞翁失马，焉知非福` 的意思
 
    ```
    You know, changing jobs can be a blessing in disguise.
@@ -48,13 +38,15 @@ In spite of all that has been said, the tourists have been picking leaves and cu
    // 可能是被公司辞退了
    ```
 
+2. `God bless you` 愿上帝保佑你。西方国家的人很常用的口语
+
 3. `baggage claim` 行李提取处，下飞机后取行李的地方。飞机场通常都会有这个地方
 
    ```
    Is it possible you left it in baggage claim?
    ```
 
-4. `claim one's life` 夺走某人的生命
+4. `claim sb's life` 夺走某人的生命
 
    ```
    The thing you're doing might claim your life and you must stop it!
@@ -84,10 +76,13 @@ In spite of all that has been said, the tourists have been picking leaves and cu
 
    ```
    He is the richest man in the world.
+   他是世界上最有钱的人
 
    He is said to be the richest man in the world.
+   据说他是世界上最有钱的人
 
    It is said that he is the richest man in the world.
+   据说他是世界上最有钱的人
 
 
    She works 16 hours a day.
@@ -172,3 +167,125 @@ In spite of all that has been said, the tourists have been picking leaves and cu
       他真的想要一些水
       // 太渴了
       ```
+
+## Exercises
+
+```
+Did you get the ticket you were promised?
+
+Yes, I was sent two free tickets.
+```
+
+```
+Did you get the money you were promised?
+
+Yes, I was offered 10 pounds.
+```
+
+```
+Did you get the book you were promised?
+
+Yes, I was lent three good books.
+```
+
+```
+Did you get the job you were promised?
+
+Yes, I was given a job in the bank.
+```
+
+```
+Did you get the holiday you were promised?
+
+Yes, I was offered two weeks off.
+```
+
+```
+Did he read the report?
+
+It was sent to him, but he didn't read it.
+```
+
+```
+Did he receive the letter?
+
+It was posted to him, but he didn't receive it.
+```
+
+```
+Did he accept the reward?
+
+It was offered to him, but he didn't accept it.
+```
+
+```
+Did he buy the flat?
+
+It was shown to him, but he didn't buy it.
+```
+
+```
+Did he use the car?
+
+It was given to him, but he didn't use it.
+```
+
+```
+They say that boy's clever.
+
+He's not as clever as he's said to be.
+```
+
+```
+They say that bull's dangerous.
+
+It's not as dangerous as it's said to be.
+```
+
+```
+They say that play's brilliant.
+
+It's not as brilliant as it's said to be.
+```
+
+```
+He says that actress's beautiful.
+
+She's not as beautiful as she's said to be.
+```
+
+```
+She says that painting's valuable.
+
+It's not as valuable as it's said to be.
+```
+
+```
+There's been an earthquake.
+
+I know. At least a hundred people are said to have been killed.
+```
+
+```
+There's been an accident.
+
+I know. At least 10 people are said to have been injured.
+```
+
+```
+There's been a robbery.
+
+I know. At least 4 men are said to have been arrested.
+```
+
+```
+There's been a fight.
+
+I know. At least 6 soldiers are said to have been shotted.
+```
+
+```
+There's been a competition.
+
+I know. At least 3 prizes are said to have been awarded.
+```

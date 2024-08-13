@@ -53,7 +53,21 @@ By the time you read this, the Hubble's eagle eye will have sent us thousands an
    Maybe we can grab a beer next week.
    ```
 
-5. M: 将来完成进行时 `will have been doing`
+5. `right from the start` 从最开始
+
+   ```
+   Right from the start, I can't tell the difference between these two.
+
+   I said it was a stupid idea right from the start, but nobody listened to me.
+   ```
+
+6. `thousands and thousands of sth.` 成千上万的...
+
+   ```
+   You will soon be seeing thousands and thousands of people gather in the hall.
+   ```
+
+7. M: 将来完成进行时 `will have been doing`
 
    - 一个动作持续或重复到将来。这个动作可以是从过去开始、现在开始、将来开始都可以，开始时间不重要。但一定是在将来的某个时间点结束。
 

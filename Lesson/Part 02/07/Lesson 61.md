@@ -37,3 +37,45 @@ By the time you read this, the Hubble's eagle eye will have sent us thousands an
 1. `robot arm` 机械臂
 
 2. `eagle eye` 鹰眼
+
+3. `outer space` 外太空
+
+   ```
+   NASA decided to launch the telescope into outer space.
+   ```
+
+4. `grab a coffee/beer/tea` 整杯咖啡/啤酒/茶。比较偏口语化，就是说喝杯咖啡
+
+   ```
+   I think we should go grab a coffee.
+   我觉得我们应该去搞杯咖啡喝
+
+   Maybe we can grab a beer next week.
+   ```
+
+5. M: 将来完成进行时 `will have been doing`
+
+   - 一个动作持续或重复到将来。这个动作可以是从过去开始、现在开始、将来开始都可以，开始时间不重要。但一定是在将来的某个时间点结束。
+
+     ```
+     杰克明年7月从教师岗位上退休，截止到那个时候，他就教书教了30年。
+     // `当老师` 这个动作从过去就已经开始了，并且一直持续到 `明年7月` 结束
+
+     人们将站在雪里3个小时。
+     // 什么时候开始站不重要，但要站3个小时，到3个小时后 `站在雪里` 这个动作结束
+     ```
+
+   - `将来完成进行时` 这个时态极少会出现，无论是在口语还是书本中。大多数情况下都可以用 `现在完成进行时` 来替代 `将来完成进行时`
+
+   - 句型 `will have been doing`
+
+     ```
+     I will have been teaching for 30 years.
+
+     People will have been standing in the snow for three hours.
+
+
+     You will be learning English in a year's time.
+
+     By then, I will have been learning English for three years.
+     ```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分  cemetery accomplish accomplishment/成就 relationship/亲属关系，恋爱关系 royce scar/伤疤 explode efficient talkative generous literature luggage/行李 highway truck strick capsule academy nose bikini overall sought betray/背叛 bless/祝福 offend/冒犯 knowledge skill amazing brain curse/诅咒 disease baggage monk huge wise vacant/空缺的 quake earthquake calm backyard relax dictate coal throne bronze unless/除非 lobby/大堂 elegant/举止优雅的 briefcase bald raincoat scarf overalls bull injure robbery award/授予 disappoint slipper/拖鞋 calm/镇定的 comfort serous huge workout/健身，锻炼 altogether/总共 importance
+   carelessly exactly sunburn/被晒伤 electrical shoemaker tax squat smelly disappointment ferry yard/院子 comic athlete polish/擦亮，磨光 goal/进球得分  cemetery accomplish accomplishment/成就 relationship/亲属关系，恋爱关系 royce scar/伤疤 explode efficient talkative generous literature luggage/行李 highway truck strick capsule academy nose bikini overall sought betray/背叛 bless/祝福 offend/冒犯 knowledge skill amazing brain curse/诅咒 disease baggage monk huge wise vacant/空缺的 quake earthquake  backyard relax dictate coal throne bronze unless/除非 lobby/大堂 produce/生产，制造
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   cursed  plant          strike struck  fry    brown beard    glad  hire  genius  reward    situation  fair fortune    sentence diary waste experiment   intend  rent lounge tail  brilliant invitation  involve      aeronautics  astronaut shuttle Endeavour grab atmosphere distant galaxy universe eagle necessary unnecessary above dine supper concert circle close wedding sort port level double connect European versus Christmas present weight remote ocean damage aerial survey rescue package ton robot admit grip occur fall
+    situation necessary involve invitation dine ton aerial approval improve rob merge extract brief review
    ```
 
 5. **剑桥初级语法**

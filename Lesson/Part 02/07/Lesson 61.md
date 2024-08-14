@@ -22,16 +22,6 @@ Of course, the Hubble is above the earth's atmosphere, so it will soon be sendin
 By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.
 ```
 
-## Questions
-
-1. `at a cost of over a billion dollars` 花费超过十亿美元
-
-2. `Right from the start`
-
-3. `NASA is now going to put the telescope right` 中的 `right`，`纠正`？
-
-4. `thousands and thousands of wonderful pictures` 很多很多令人惊奇的图片
-
 ## Whole
 
 1. `robot arm` 机械臂
@@ -93,3 +83,125 @@ By the time you read this, the Hubble's eagle eye will have sent us thousands an
 
      By then, I will have been learning English for three years.
      ```
+
+## Exercises
+
+```
+Have you been making boats for long?
+
+By the time I've completed this one, I'll have been making them for a year.
+```
+
+```
+Have you been designing bridges for long?
+
+By the time I've completed this one, I'll have been designing them for ten years.
+```
+
+```
+Have you been writing books for long?
+
+By the time I've completed this one, I'll have been writing them for six years.
+```
+
+```
+Have you been directing films for long?
+
+By the time I've completed this one, I'll have been directing them for two years.
+```
+
+```
+Have you been producing plays for long?
+
+By the time I've completed this one, I'll have been producing them for five years.
+```
+
+```
+How many hats have you made now?
+
+When I've made this one, I'll have made thirteen altogether.
+```
+
+```
+How many exercises have you done now?
+
+When I've done this one, I'll have done twenty altogether.
+```
+
+```
+How many bridges have you built now?
+
+When I've built this one, I'll have built five altogether.
+```
+
+```
+How many novels have you written now?
+
+When I've written this one, I'll have written eight altogether.
+```
+
+```
+How many books have you reviewed now?
+
+When I've reviewed this one, I'll have reviewed twelve altogether.
+```
+
+```
+Jack will be arriving soon.
+
+Let me know when he arrives. Then I'll get lunch.
+```
+
+```
+Jack will be returning soon.
+
+Let me know when he returns. Then I'll change my clothes.
+```
+
+```
+Jack will be getting up soon.
+
+Let me know when he gets up. Then I'll cook breakfast.
+```
+
+```
+Jack will be leaving soon.
+
+Let me know when he leaves. Then I'll tidy his room.
+```
+
+```
+Jack will be coming back soon.
+
+Let me know when he comes back. Then I'll borrow his car.
+```
+
+```
+When shall I post my letter?
+
+You can post it as soon as you've written it!
+```
+
+```
+When shall I eat the cakes?
+
+You can eat them as soon as you've made them!
+```
+
+```
+When shall I publish these reports?
+
+You can publish then as soon as you've finished them!
+```
+
+```
+When shall we sell our bicycles?
+
+You can sell them as soon as you've mended them!
+```
+
+```
+When shall I cook the fish?
+
+You can cook it as soon as you've prepared!
+```

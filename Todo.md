@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   luggage/行李 amazing democracy
+   luggage/行李 amazing democracy unbelievable unless insist
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    situation necessary involve invitation dine ton aerial approval improve rob merge extract brief review trust beach provide inject patch excuse anxious ski golf order farm dirty
+    situation necessary involve invitation dine ton aerial approval improve rob merge extract brief review trust beach provide inject patch excuse anxious ski golf order farm dirty concierge value
    ```
 
 5. **剑桥初级语法**

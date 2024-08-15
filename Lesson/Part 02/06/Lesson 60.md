@@ -57,7 +57,7 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
    A relation of mine, Lucy, will be swimming with me in that river tomorrow.
    ```
 
-7. `the moment` 作为 `连词` 的用法
+7. M: `the moment` 作为 `连词` 的用法
 
    - 和 `as soon as` 的意思一致
 
@@ -71,7 +71,7 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
    I fell in love with you the moment I saw you.
    ```
 
-8. 如果从句是时间状语从句，那么需要符合 `主将从现`
+8. M: 如果从句是时间状语从句，那么需要符合 `主将从现`
 
    - 主句为 `一般将来时`，从句为 `一般现在时`
 

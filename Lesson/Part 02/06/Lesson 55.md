@@ -139,7 +139,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
 18. `it is said` 据说
 
-19. M: `would do` 过去重复发生的动作
+19. M: `would do` 过去重复发生的动作；表示一种习惯
 
     1. `would` 后面只能跟具体的动作，而不能跟状态
 

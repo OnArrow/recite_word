@@ -22,17 +22,13 @@ The seed was sprayed over the ground in huge quantities by aeroplanes. The plane
 In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blacken soil.
 ```
 
-## Questions
-
-1. `they could get it under control` 他们可以控制住
-
-2. `The planes had been planting seed for nearly a month` 中的 `had been planting` 过去完成进行时？
-
-3. `which had been growing there` 过去完成进行时？
-
 ## Whole
 
-1. grass seed 草籽
+1. `grass seed` 草籽
+
+   ```
+   There is not only some grass seed but also a bar of cheese in this bag.
+   ```
 
 2. `get sth. under control` 使某物得到控制
 
@@ -51,8 +47,7 @@ In place of the great trees which had been growing there for centuries, patches 
 4. `threaten to do sth.` 威胁去做某事
 
    ```
-   Did you threaten to kill Tom?
-   你威胁要去杀死Tom吗？
+   He is a crazy man and he threatens to kill Tom.
    ```
 
 5. `have the authority to do sth.` 有权利去做某事
@@ -79,7 +74,7 @@ In place of the great trees which had been growing there for centuries, patches 
 8. `for/form miles around` 周边数英里
 
    ```
-   It's the only place to gat gas for miles around here.
+   It's the only place to get gas for miles around here.
 
    People used to come from miles around to buy our pictures.
 
@@ -121,3 +116,125 @@ In place of the great trees which had been growing there for centuries, patches 
     // 成为一名合格的医生之前，他一直在学习
     // 两周前正式成为医生
     ```
+
+## Exercises
+
+```
+What was Tom's excuse for being late this afternoon?
+
+He said he'd been working.
+```
+
+```
+What was Tom's excuse for being late last night?
+
+He said he'd been making phone calls.
+```
+
+```
+What was Tom's excuse for being late for lunch?
+
+He said he'd been making exam papers.
+```
+
+```
+What was Tom's excuse for being late for this evening?
+
+He said he'd been watching TV.
+```
+
+```
+What was Tom's excuse for being late for the meeting?
+
+He said he'd been playing chess.
+```
+
+```
+Mary looked very anxious this morning.
+
+I know. She'd been thinking about the exams.
+```
+
+```
+Mary looked very worried this morning.
+
+I know. She had been worrying about her son.
+```
+
+```
+They looked very tired this morning.
+
+I know. They had been writing all night.
+```
+
+```
+He looked very angry this morning.
+
+I know. He had been quarreling with John.
+```
+
+```
+She looked very dirty this morning.
+
+I know. She had been painting the shop.
+```
+
+```
+Did the men finish the job this morning?
+
+Yes, they'd already finished it when I arrived.
+```
+
+```
+Did he hang the pictures this morning?
+
+Yes, he'd already hung them when I arrived.
+```
+
+```
+Did the men spray the trees this morning?
+
+Yes, they'd already sprayed them when I arrived.
+```
+
+```
+Did the women move the furniture this morning?
+
+Yes, they'd already move it when I arrived.
+```
+
+```
+Did the firemen put the fire out this morning?
+
+Yes, they'd already put it out when I arrived.
+```
+
+```
+Did you collect stamps before you got married?
+
+Oh, yes! I'd been collecting stamps for years before I met my wife.
+```
+
+```
+Did you go skiing before you got married?
+
+Oh, yes! I'd been going skiing for years before I met my husband.
+```
+
+```
+Did you race horses before you got married?
+
+Oh, yes! I'd been racing horses for years before I met my wife.
+```
+
+```
+Did you read poetry before you got married?
+
+Oh, yes! I'd been reading poetry for years before I met my husband.
+```
+
+```
+Did you play golf before you got married?
+
+Oh, yes! I'd been playing golf for years before I met my wife.
+```

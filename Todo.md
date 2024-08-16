@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   luggage/行李 amazing democracy unbelievable unless insist
+   produce/生产 contract/合同 British
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    situation necessary involve invitation dine ton aerial approval improve rob merge extract brief review trust beach provide inject patch excuse anxious ski golf order farm dirty concierge value
+   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer
    ```
 
 5. **剑桥初级语法**

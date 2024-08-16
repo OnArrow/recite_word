@@ -1,57 +1,41 @@
 # Review
-1. farm **[fɑːm]** `n` 农场
+1. active **[ˈæktɪv]** `adj` 活跃的；好动的
 
-2. value **[ˈvæljuː]** `n` （数学中的）值；价值；重要性 `v` 重视
+2. escape **[ɪˈskeɪp]** `v` 逃离，逃跑；退出；被忽略
 
-3. ton **[tʌn]** `n` 吨
+3. improve **[ɪmˈpruːv]** `v` 改善，变得更好；康复，健康好转
 
-4. necessary **[ˈnesəsəri]** `adj` 必要的，必需的
+4. alive **[əˈlaɪv]** `adj` 活着的；活跃的
 
-5. approval **[əˈpruːv(ə)l]** `n` 审批；批准，许可
+5. cough **[kɒf]** `v` 咳嗽 `n` 咳嗽
 
-6. trust **[trʌst]** `n` 信任，信赖 `v` 相信，信任
+6. survey **[ˈsɜːveɪ]** `n` 信息反馈；民意调查；考察 `v` 做民意测验
 
-7. order **[ˈɔːdə(r)]** `n` 订单；顺序；秩序，治安 `v` 订购，订货；命令
+7. channel **[ˈtʃæn(ə)l]** `n` 频道，电视频道；通道；海峡；河床
 
-8. situation **[ˌsɪtʃuˈeɪʃ(ə)n]** `n` 情境；情况，形势；重要问题
+8. imagine **[ɪˈmædʒɪn]** `v` 想象；设想；误认为
 
-9. review **[rɪˈvjuː]** `n` 审查，检查；评论；复习 `v` 仔细研究，审视；写评论
+9. invitation **[ˌɪnvɪˈteɪʃ(ə)n]** `n` 邀请；请帖
 
-10. patch **[pætʃ]** `n` 补丁；修补文件；小片 `v` （计）打补丁
+10. manage **[ˈmænɪdʒ]** `v` 管理；设法做到
 
-11. rob **[rɒb]** `v` 抢劫，盗取
+11. restore **[rɪˈstɔː(r)]** `v` 恢复；修复，修整；重新采用，恢复使用
 
-12. improve **[ɪmˈpruːv]** `v` 改善，变得更好；康复，健康好转
+12. avoid **[əˈvɔɪd]** `v` 避免，防止；撤销；避开
 
-13. anxious **[ˈæŋkʃəs]** `adj` 焦虑的，担心的；紧张的
+13. involve **[ɪnˈvɒlv]** `v` 牵涉，涉及；使陷入
 
-14. involve **[ɪnˈvɒlv]** `v` 牵涉，涉及；使陷入
+14. freedom **[ˈfriːdəm]** `n` 自由权；自由
 
-15. inject **[ɪnˈdʒekt]** `v` 注入；注射
+15. brilliant **[ˈbrɪliənt]** `adj` 成功的；才华横溢的
 
-16. golf **[ɡɒlf]** `n` 高尔夫球 `v` 打高尔夫
+16. preserve **[prɪˈzɜːv]** `v` 保存，维持；维护，保护； `n` 果酱，腌菜
 
-17. excuse **[ɪkˈskjuːs]** `n` 借口；托词 `v` 原谅；宽恕
+17. engineer **[ˌendʒɪˈnɪə(r)]** `n` 工程师；设计师 `v` 设计；建造
 
-18. extract **[ˈekstrækt]** `v` 提取；摘录 `n` 引文，选段
+18. uncle **[ˈʌŋk(ə)l]** `n` 叔叔
 
-19. ski **[skiː]** `v` 滑雪 `n` 滑雪
+19. examine **[ɪɡˈzæmɪn]** `v` 检查
 
-20. beach **[biːtʃ]** `n` 海滩，海滨 `v` 把（船）拖上岸；搁浅
-
-21. dirty **[ˈdɜːti]** `adj` 肮脏的；下流的；卑鄙的 `v` 弄脏；使变脏
-
-22. invitation **[ˌɪnvɪˈteɪʃ(ə)n]** `n` 邀请；请帖
-
-23. brief **[briːf]** `adj` 简短的 `n` 指示；摘要；任务简介
-
-24. provide **[prəˈvaɪd]** `v` 提供；配备
-
-25. aerial **[ˈeəriəl]** `adj` 航空的 `n` 天线
-
-26. concierge **[ˈkɒnsieəʒ]** `n` 礼宾部；看门人
-
-27. merge **[mɜːdʒ]** `v` （使）合并，（使）融合
-
-28. dine **[daɪn]** `v` 进餐；吃饭
+20. approval **[əˈpruːv(ə)l]** `n` 审批；批准，许可
 

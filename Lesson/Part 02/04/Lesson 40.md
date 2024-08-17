@@ -81,7 +81,7 @@ In despair, I asked her whether she was enjoying her dinner.
 
 6. `to` 后面跟的往往是 `v.`，`for` 后面跟的往往是 `n.`
 
-7. `虚拟语气`
+7. `与现在事实相反的虚拟语气`
 
    - 汉语中的虚拟语气
 
@@ -101,7 +101,7 @@ In despair, I asked her whether she was enjoying her dinner.
 
      2. 说话人认为，`if从句` 中 `v.` 发生的几率非常低，几乎不可能
 
-   - 结构: `if + did/were, 主语 + would/should/could/might + do`
+   - 结构: `if 主语 did/were, 主语 would/should/could/might do`
 
      - 结构中的 `did` 并不表示 `过去`。和 `一般过去时` 没有关系
 

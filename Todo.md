@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer level below burger shout platform probably particular afterwards versus Christmas circus present accompany approach ought weigh fortunate storm depth fax
+   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer level below burger shout platform probably particular afterwards versus Christmas circus present accompany approach ought weigh fortunate storm depth fax bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax
    ```
 
 5. **剑桥初级语法**

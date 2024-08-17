@@ -43,7 +43,7 @@ It was officially opened on March 7, 1994, finally connecting Britain to the Eur
    ```
    The village is 1000 meters above sea level.
 
-   The machine can't work for 10000 meters below sea level.
+   The machine can't work at a depth of 10000 thousand meters below sea level.
    ```
 
 3. `double check` 复查

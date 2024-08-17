@@ -8,23 +8,17 @@
 
 4. `sw.` = `somewhere`
 
-5. `eg.` = `例如`
+5. `gonna` = `going to`
 
-   ```
-   `eg.` 是拉丁文 `exempli gratia` 的缩写
-   ```
+6. `can't` = `cannot` = `can not`
 
-6. `gonna` = `going to`
+7. `let's` = `let us`
 
-7. `can't` = `cannot` = `can not`
+8. `o'clock` = `of the clock`
 
-8. `let's` = `let us`
+9. `I've` = `I have`
 
-9. `o'clock` = `of the clock`
-
-10. `I've` = `I have`
-
-11. `he's got` = `he has got`
+10. `he's got` = `he has got`
 
     ```
     只有当`has got`一起出现时，`has`才能缩写
@@ -36,13 +30,13 @@
     He's got a car
     ```
 
-12. `wasn't` = `was not`
+11. `wasn't` = `was not`
 
-13. `weren't` = `were not`
+12. `weren't` = `were not`
 
-14. `wanna` = `want to`
+13. `wanna` = `want to`
 
-15. `gotta` = `got to`
+14. `gotta` = `got to`
 
     ```
     You have got to clean your house
@@ -50,11 +44,13 @@
     You've gotta clean your house
     ```
 
-16. `I'll` = `I will`
+15. `I'll` = `I will`
 
-17. `won't` = `will not`
+16. `won't` = `will not`
 
-18. `shan't` = `shall not`
+17. `shan't` = `shall not`
+
+18. `oughtn't to` = `ought not to`
 
 19. `you'd better` = `you had better`
 
@@ -80,4 +76,10 @@
     There are apples, bananas, peaches etcetera
 
     There are apples, bananas, peaches etc.
+    ```
+
+23. `eg.` = `例如`
+
+    ```
+    `eg.` 是拉丁文 `exempli gratia` 的缩写
     ```

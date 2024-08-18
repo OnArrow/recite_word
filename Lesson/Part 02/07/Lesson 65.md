@@ -46,7 +46,46 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
    It's fortunate that he wasn't caught by the storm.
    ```
 
-2. `ought to do` = `should do`
+2. `down the main street` 和 `along the main street` 一致。`down` 也可以表示 `沿着`
+
+3. `be dressed up as...`, `dressed up as...` 打扮成...样子
+
+   ```
+   You are dressed up as a woman.
+
+   A guy dressed up as a dog.
+   ```
+
+4. `set off` 出发。和 `set out` 类似
+
+   ```
+   A small group of us set off to find a new home.
+   ```
+
+5. `hold up the traffic/line` 阻碍交通/阻碍排队。排队的时候像一条线一样，所以用 `line`
+
+   ```
+   Move man, you're holding up the line!
+
+   The damaged car held up the traffic in that bridge.
+   ```
+
+6. `agree to do sth.` 同意去做某事
+
+   ```
+   He's agreed to visit you.
+   // has done
+
+   He agreed not to make a sound.
+   ```
+
+7. `let sb. off` 让某人离开
+
+   ```
+   It was you who let him off, not me!
+   ```
+
+8. `ought to do` = `should do`
 
 - 都表示 `应该做某事`。两者等价
 

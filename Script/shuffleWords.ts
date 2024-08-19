@@ -8,16 +8,104 @@ import * as nodePath from 'path'
 
 import { fsWrite, fsRead, fsReadFolder, shuffle } from './utils'
 
+import dayjs from 'dayjs'
+
+const months: string[] = [
+  'Jan',
+  'Feb',
+  'Mar',
+  'Apr',
+  'May',
+  'Jun',
+  'Jul',
+  'Aug',
+  'Sep',
+  'Oct',
+  'Nov',
+  'Dec'
+]
+
+const monthMap = new Map([
+  [1, 'Jan'],
+  [2, 'Feb'],
+  [3, 'Mar'],
+  [4, 'Apr'],
+  [5, 'May'],
+  [6, 'Jun'],
+  [7, 'Jul'],
+  [8, 'Aug'],
+  [9, 'Sep'],
+  [10, 'Oct'],
+  [11, 'Nov'],
+  [12, 'Dec']
+])
+
 /**
  * 需要乱序的文件
  * 如：['2024/May', '2024/Jun']
  */
-const shuffleMonths: string[] = ['2024/Jul', '2024/Aug']
+let shuffleMonths: string[] = ['2024/Jul', '2024/Aug']
 
 // 读取的文件夹路径
-const readFolderPath: string = nodePath.resolve(__dirname, '../Words')
+let readFolderPath: string = nodePath.resolve(__dirname, '../Words')
 
-readWordsFolder()
+// 判断是否跟随参数
+if (process.argv) {
+  // 默认。没有跟随参数
+  if (process.argv.length === 2) {
+    readWordsFolder()
+  }
+
+  // 跟随一个参数
+  if (process.argv.length === 3) {
+    // shuffleMonths = process.argv.slice(2)
+    const val = process.argv[2]
+    if (val.toLowerCase() === 'latest') {
+      onLatest()
+    } else {
+      onParticular(val)
+    }
+  }
+}
+
+async function onLatest() {
+  const year = dayjs().year()
+  readFolderPath = nodePath.resolve(readFolderPath, `${year}`)
+  // 拿到目录下所有文件列表
+  const fileArr = await fsReadFolder(readFolderPath)
+
+  // 按照固定格式排序
+  fileArr.sort((a, b) => {
+    const regex = /(\d+\.\d+)\.md$/
+
+    const numberA = parseFloat(a.match(regex)[1])
+    const numberB = parseFloat(b.match(regex)[1])
+
+    return numberA - numberB
+  })
+
+  const latestFile = fileArr.pop()
+  shuffleContent(latestFile)
+}
+
+async function onParticular(str: string) {
+  const v = str.split('/')
+  let s = ''
+  if (v.length === 2) {
+    readFolderPath = nodePath.resolve(readFolderPath, `${v[0]}`)
+    s = v[1]
+  } else {
+    const year = dayjs().year()
+    readFolderPath = nodePath.resolve(readFolderPath, `${year}`)
+    s = v[0]
+  }
+
+  // 拿到目录下所有文件列表
+  const fileArr = await fsReadFolder(readFolderPath)
+
+  const particularFile = fileArr.find((item: string) => item.includes(s))
+  if (particularFile) shuffleContent(particularFile)
+}
 
 /** 读取目录下所有md文件 */
 async function readWordsFolder() {

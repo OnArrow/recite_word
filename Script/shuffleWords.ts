@@ -56,7 +56,7 @@ if (process.argv) {
     readWordsFolder()
   }
 
-  // 跟随一个参数
+  // 跟随一个参数，如 pnpm run shuffle 4.03
   if (process.argv.length === 3) {
     // shuffleMonths = process.argv.slice(2)
     const val = process.argv[2]
@@ -68,6 +68,9 @@ if (process.argv) {
   }
 }
 
+/**
+ * 乱序最新的文件
+ */
 async function onLatest() {
   const year = dayjs().year()
   readFolderPath = nodePath.resolve(readFolderPath, `${year}`)
@@ -88,9 +91,16 @@ async function onLatest() {
   shuffleContent(latestFile)
 }
 
+/**
+ * 乱序指定文件
+ * pnpm run shuffle 2022/8.05
+ * pnpm run shuffle 4.03 // 不写年份默认今年的4.03
+ */
 async function onParticular(str: string) {
   const v = str.split('/')
   let s = ''
+
+  // 判断是否有年份
   if (v.length === 2) {
     readFolderPath = nodePath.resolve(readFolderPath, `${v[0]}`)
     s = v[1]
@@ -104,7 +114,11 @@ async function onParticular(str: string) {
   const fileArr = await fsReadFolder(readFolderPath)
 
   const particularFile = fileArr.find((item: string) => item.includes(s))
-  if (particularFile) shuffleContent(particularFile)
+  if (particularFile) {
+    shuffleContent(particularFile)
+  } else {
+    console.log('\x1B[31m%s\x1B[0m', `No such file!`)
+  }
 }
 
 /** 读取目录下所有md文件 */

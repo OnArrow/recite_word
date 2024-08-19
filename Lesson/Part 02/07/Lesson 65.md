@@ -87,38 +87,38 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
 
 8. `ought to do` = `should do`
 
-- 都表示 `应该做某事`。两者等价
+   - 都表示 `应该做某事`。两者等价
 
-- `ought to do` 在实际应用的时候出现的频率较低
+   - `ought to do` 在实际应用的时候出现的频率较低
 
-```
-The rabbit should eat the best carrot.
+   ```
+   The rabbit should eat the best carrot.
 
-The rabbit ought to eat the best carrot.
-// 和上一句等价
-
-
-The rabbit should not eat the best carrot.
-// 可以简写成 `shouldn't`
-
-The rabbit ought not to eat the best carrot.
-// 可以简写成 `oughtn't`
-// 否定句。和上一句等价
+   The rabbit ought to eat the best carrot.
+   // 和上一句等价
 
 
-Should the rabbit eat the best carrot?
+   The rabbit should not eat the best carrot.
+   // 可以简写成 `shouldn't`
 
-Ought the rabbit to eat the best carrot?
-// 一般疑问句。和上一句等价
+   The rabbit ought not to eat the best carrot.
+   // 可以简写成 `oughtn't`
+   // 否定句。和上一句等价
 
 
-What should the rabbit eat?
+   Should the rabbit eat the best carrot?
 
-What ought the rabbit to eat?
-// 特殊疑问句。和上一句等价
-```
+   Ought the rabbit to eat the best carrot?
+   // 一般疑问句。和上一句等价
 
-3. `ought to have done` = `should have done`
+
+   What should the rabbit eat?
+
+   What ought the rabbit to eat?
+   // 特殊疑问句。和上一句等价
+   ```
+
+9. `ought to have done` = `should have done`
 
    - 都表示 `本应该做某事，但却没有做`。两者等价
 
@@ -148,3 +148,126 @@ What ought the rabbit to eat?
 
    I ought to have told him the truth.
    ```
+
+## Exercises
+
+```
+Do you have to write that letter now?
+
+I ought to write it, but I'm not going to!
+```
+
+```
+Do you have to burn the rubbish now?
+
+I ought to burn it, but I'm not going to!
+```
+
+```
+Do you have to prepare your speech now?
+
+I ought to prepare it, I'm not going to!
+```
+
+```
+Do you have to light the fire now?
+
+I ought to light it, but I'm not going to!
+```
+
+```
+Do you have to pick the apple now?
+
+I ought to pick it, but I'm not going to!
+```
+
+```
+Do you think he should apologize?
+
+It doesn't matter who apologizes, but someone's got to!
+```
+
+```
+Do you think he should feed the horses?
+
+It doesn't matter who feeds them, but someone's got to!
+```
+
+```
+Do you think she should stop the traffic?
+
+It doesn't matter who stops it, but someone's got to!
+```
+
+```
+Do you think we should pay them?
+
+It doesn't matter who pays them, but someone's got to!
+```
+
+```
+Do you think he should call the police?
+
+It doesn't matter who calls them, but someone's got to!
+```
+
+```
+Why didn't you take a taxi last night?
+
+I know I should have taken one, but I didn't think of it at the time.
+```
+
+```
+Why didn't you order some wine last night?
+
+I know I should have ordered some, but I didn't think of it at the time.
+```
+
+```
+Why didn't you book some seats last night?
+
+I know I should have booked some, but I didn't think of it at the time.
+```
+
+```
+Why didn't you take some medicine last night?
+
+I know I should have taken some, but I didn't think of it at the time.
+```
+
+```
+Why didn't you wear a hat last night?
+
+I know I should have worn one, but I didn't think of it at the time.
+```
+
+```
+He ought to have arrived by now.
+
+He had to change his plans, but he should be arriving soon.
+// Q: `should be doing` 什么语法？
+```
+
+```
+He ought to have told us result by now.
+
+He had to change his plans, but he should be telling us soon.
+```
+
+```
+He ought to have applied for the job by now.
+
+He had to change his plans, but he should be applying for it soon.
+```
+
+```
+He ought to have reached the airport by now.
+
+He had to change his plans, but he should be reaching it soon.
+```
+
+```
+He ought to have bought the goods by now.
+
+He had to change his plans, but he should be buying it soon.
+```

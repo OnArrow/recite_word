@@ -181,3 +181,125 @@ It was officially opened on March 7, 1994, finally connecting Britain to the Eur
       // 说的是过去。如果当时我饿
       // 当时没有饿，也就没有吃东西
       ```
+
+## Exercises
+
+```
+What a pity they couldn't meet Jack!
+
+Yes, I'm sure they'd have liked him very much if they had met him.
+```
+
+```
+What a pity they couldn't go to the concert!
+
+Yes, I'm sure they'd have enjoyed it very much if they had gone to it.
+```
+
+```
+What a pity they couldn't visit the museum!
+
+Yes, I'm sure they'd have enjoyed it very much if they had visited it.
+```
+
+```
+What a pity they couldn't hear the lecture!
+
+Yes, I'm sure they'd have liked it very much if they had heard it.
+```
+
+```
+What a pity they couldn't try her cooking!
+
+Yes, I'm sure they'd have liked it very much if they had tried it.
+```
+
+```
+She's made a mistake.
+
+She wouldn't have made a mistake if she'd listened to me.
+```
+
+```
+He's broken his arm.
+
+He wouldn't have broken his arm if he'd been more careful.
+```
+
+```
+I've lost my watch.
+
+You wouldn't have lost your watch if you'd mended the strap.
+```
+
+```
+They've failed the exam.
+
+They wouldn't have failed the exam if they'd worked harder.
+```
+
+```
+He's lost his reputation.
+
+He wouldn't have lost his reputation if he'd taken my advice.
+```
+
+```
+He had to work hard to pass the exam.
+
+Yes, he wouldn't have passed it if he hadn't worked so hard.
+```
+
+```
+He had to drive carefully to avoid an accident.
+
+Yes, he wouldn't have avoided an accident if he hadn't driven so carefully.
+```
+
+```
+He had to look hard to find the money.
+
+Yes, he wouldn't have found it if he hadn't looked so hard.
+```
+
+```
+He had to run fast to catch the thief.
+
+Yes, he wouldn't have caught him if he hadn't run so fast.
+```
+
+```
+He had to fight well to win the title.
+
+Yes, he wouldn't have won it if he hadn't fought so well.
+```
+
+```
+Why didn't you speak to Jack yesterday?
+
+I'd have spoken to him if I could have found him!
+```
+
+```
+Why didn't you enjoy the lecture yesterday?
+
+I would have enjoyed it if I could have understood it!
+```
+
+```
+Why didn't you arrest the thief yesterday?
+
+I'd have arrested him if I could have caught him!
+```
+
+```
+Why didn't you read the book yesterday?
+
+I'd have read it if I could have borrowed it!
+```
+
+```
+Why didn't you search the house yesterday?
+
+I'd have searched it if I could have got into it!
+```

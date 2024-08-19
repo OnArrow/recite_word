@@ -249,9 +249,9 @@ He had to change his plans, but he should be arriving soon.
 ```
 
 ```
-He ought to have told us result by now.
+He ought to have told us the result by now.
 
-He had to change his plans, but he should be telling us soon.
+He had to change his plans, but he should be telling us it soon.
 ```
 
 ```
@@ -269,5 +269,5 @@ He had to change his plans, but he should be reaching it soon.
 ```
 He ought to have bought the goods by now.
 
-He had to change his plans, but he should be buying it soon.
+He had to change his plans, but he should be buying them soon.
 ```

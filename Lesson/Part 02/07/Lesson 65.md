@@ -23,32 +23,34 @@ He should have known that the police would never allow this sort of thing. A pol
 
 Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had to push very hard to get him off the main street. The police had a difficult time, but they were most amused.
 
-'Jumbo must weight a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.'
+'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.'
 
 'Of course, we should arrest him, but as he has a good record, we shall let him off this time.'
 ```
 
-## Questions
-
-1. `accompanies by a 'guard of honour' of six pretty girls` 带着六个漂亮女孩的守护者的称号？
-
-2. `set off down`
-
-3. `ought to have gone along a side street` 中的 `ought to have gone` 什么语法，为什么用 `have done`
-
-4. `we shall let him off this time` 我们会给它一点时间完成这些事
-
 ## Whole
 
-1. `it is fortunate that...` 很幸运...
+1. `guard of honour` 仪仗队
+
+   ```
+   How many people is in the guard of honour?
+   ```
+
+2. `it is fortunate that...` 很幸运...
 
    ```
    It's fortunate that he wasn't caught by the storm.
    ```
 
-2. `down the main street` 和 `along the main street` 一致。`down` 也可以表示 `沿着`
+3. `down the main street` 和 `along the main street` 一致。`down` 也可以表示 `沿着`
 
-3. `be dressed up as...`, `dressed up as...` 打扮成...样子
+   ```
+   The cat escaped quickly down the high wall.
+
+   We had been walking together along the river before we had dinner.
+   ```
+
+4. `be dressed up as...`, `dressed up as...` 打扮成...样子
 
    ```
    You are dressed up as a woman.
@@ -56,13 +58,13 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
    A guy dressed up as a dog.
    ```
 
-4. `set off` 出发。和 `set out` 类似
+5. `set off` 出发。和 `set out` 类似
 
    ```
    A small group of us set off to find a new home.
    ```
 
-5. `hold up the traffic/line` 阻碍交通/阻碍排队。排队的时候像一条线一样，所以用 `line`
+6. `hold up the traffic/line` 阻碍交通/阻碍排队。排队的时候像一条线一样，所以用 `line`
 
    ```
    Move man, you're holding up the line!
@@ -70,7 +72,7 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
    The damaged car held up the traffic in that bridge.
    ```
 
-6. `agree to do sth.` 同意去做某事
+7. `agree to do sth.` 同意去做某事
 
    ```
    He's agreed to visit you.
@@ -79,13 +81,13 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
    He agreed not to make a sound.
    ```
 
-7. `let sb. off` 让某人离开
+8. `let sb. off` 让某人离开
 
    ```
    It was you who let him off, not me!
    ```
 
-8. `ought to do` = `should do`
+9. `ought to do` = `should do`
 
    - 都表示 `应该做某事`。两者等价
 
@@ -118,36 +120,36 @@ Though Jimmy agreed to go at once, Jumbo refused to move. Fifteen policemen had 
    // 特殊疑问句。和上一句等价
    ```
 
-9. `ought to have done` = `should have done`
+10. `ought to have done` = `should have done`
 
-   - 都表示 `本应该做某事，但却没有做`。两者等价
+    - 都表示 `本应该做某事，但却没有做`。两者等价
 
-   - 说的是过去发生的事
+    - 说的是过去发生的事
 
-   ```
-   你错过了一场很精彩的派对，你本应该来参加的。
-   // 实际上没有去参加
-   ```
+    ```
+    你错过了一场很精彩的派对，你本应该来参加的。
+    // 实际上没有去参加
+    ```
 
-   ```
-   The rabbit should have eaten the best carrot.
-   // 本来应该吃的，实际上没有吃
+    ```
+    The rabbit should have eaten the best carrot.
+    // 本来应该吃的，实际上没有吃
 
-   The rabbit ought to have eaten the best carrot.
-   // 和上一句等价
-
-
-   We lost the game yesterday, but we should have won.
-   // 本来应该赢的，但没有赢，输了
-
-   We lost the game yesterday, but we ought to have won.
-   // 和上一句等价
+    The rabbit ought to have eaten the best carrot.
+    // 和上一句等价
 
 
-   I should have told him the truth.
+    We lost the game yesterday, but we should have won.
+    // 本来应该赢的，但没有赢，输了
 
-   I ought to have told him the truth.
-   ```
+    We lost the game yesterday, but we ought to have won.
+    // 和上一句等价
+
+
+    I should have told him the truth.
+
+    I ought to have told him the truth.
+    ```
 
 ## Exercises
 

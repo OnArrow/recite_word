@@ -24,16 +24,6 @@ Forty-two years later a tunnel was actually begun. If, at the time, the British 
 It was officially opened on March 7, 1994, finally connecting Britain to the European continent.
 ```
 
-## Questions
-
-1. ` This platform would serve as a port and a railway station` 中的 `as`
-
-2. `The tunnel would be well-ventilated if tall chimneys were built above sea level` 但它并没有高于海平面？
-
-3. ` for if a train entered this tunnel, it would draw in fresh air behind it.` 中的 `for if`，因此如果？ `draw` 抽出，吸出？
-
-4. `If, at the time` 中的 `if`？ 因此？
-
 ## Whole
 
 1. `sea level` 海平面
@@ -43,10 +33,10 @@ It was officially opened on March 7, 1994, finally connecting Britain to the Eur
    ```
    The village is 1000 meters above sea level.
 
-   The machine can't work at a depth of 10000 thousand meters below sea level.
+   The machine can't work at a depth of 10000 meters below sea level.
    ```
 
-3. `double check` 复查
+3. `double check` 复查；再次确认
 
    ```
    We need to double check his work.
@@ -85,7 +75,7 @@ It was officially opened on March 7, 1994, finally connecting Britain to the Eur
     ```
     Is it possible to get it under control?
 
-    It's possible to learn English by yourself.DCF
+    It's possible to learn English by yourself.
     ```
 
 11. M: `suggest that...should do sth.` 建议...做某事

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   produce/生产 contract/合同 British jungle/丛林 honour weigh reasonable engine delight fought
+   Britain camp
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer level below burger shout platform probably particular afterwards versus Christmas circus present accompany approach ought fortunate storm depth fax bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax disturb condition strap avoid wear wore worn result apply
+   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer level below burger shout platform probably particular afterwards versus Christmas circus present accompany approach ought fortunate storm depth fax bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax disturb condition strap avoid wear wore worn result apply reasonable tap drunk ring bull remark contact necklace observe temperature measure
    ```
 
 5. **剑桥初级语法**

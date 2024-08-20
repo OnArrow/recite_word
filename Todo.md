@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   Britain camp
+   Britain camp sank
    ```
 
 2. **过去式&过去分词**

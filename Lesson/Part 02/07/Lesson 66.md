@@ -37,3 +37,5 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
 ## Whole
 
 1. packing case 包装箱
+
+2. `remote control` 遥控器

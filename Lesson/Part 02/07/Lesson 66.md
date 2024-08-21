@@ -36,6 +36,52 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
 
 ## Whole
 
-1. packing case 包装箱
+1. `packing case` 包装箱；集装箱
 
 2. `remote control` 遥控器
+
+3. `packaged food` 包装食品；速食。
+
+4. `it's hard to imagine` 很难想象
+
+5. `good heavens no!` 天啊，当然不是！
+
+   ```
+   Good heavens no! She hadn't certainly cleaned the car, she had it cleaned by that man.
+   ```
+
+6. `how nice your hair looks!` 你的头发看起来真好！感叹句
+
+7. `have got to` = `have to` 不得不
+
+8. `have something done` = `get something done`
+
+   - 用法 1: 让某人做某事
+
+     ```
+     I must have my watch repaired.
+
+     I'm going to have my hair cut this afternoon.
+     ```
+
+   - 用法 2: 意外，不行的遭遇。可以翻译为 `被`，被动
+
+     ```
+     Jack had his nose broken in a fight.
+
+     I had my bag stolen.
+
+     Have you ever had your bike stolen?
+     ```
+
+   - 与时态结合
+
+     ```
+     I had my hair cut yesterday.
+
+     We are having the house painted this week.
+
+     I'm going to have my hair cut this afternoon.
+
+     He has his hair cut every month.
+     ```

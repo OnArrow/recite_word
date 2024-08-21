@@ -4,6 +4,8 @@
 
 1. M: `needn't have done` 本不必如此。但事情已经发生了，有后悔的语言效果
 
+2. M: `need` 的使用
+
 ## Words
 
 - rude mirror hole remark remind lighthouse modiste

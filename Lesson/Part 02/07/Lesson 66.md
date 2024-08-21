@@ -40,9 +40,21 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
 
 2. `remote control` 遥控器
 
-3. `packaged food` 包装食品；速食。
+   ```
+   He decides to have the remote control repaired by Jack.
+   ```
+
+3. `packaged food` 包装食品；速食
+
+   ```
+   I don't ever want to have packaged food anymore!
+   ```
 
 4. `it's hard to imagine` 很难想象
+
+   ```
+   It's hard to imagine that he actually failed in the fight.
+   ```
 
 5. `good heavens no!` 天啊，当然不是！
 
@@ -50,28 +62,74 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
    Good heavens no! She hadn't certainly cleaned the car, she had it cleaned by that man.
    ```
 
-6. `how nice your hair looks!` 你的头发看起来真好！感叹句
+6. 很多以 `c` 结尾的单词变成 `adv` 时，都额外加上 `ally`
 
-7. `have got to` = `have to` 不得不
+   ```
+   sympathetic
+   sympathetically
 
-8. `have something done` = `get something done`
+   critic
+   critically
 
-   - 用法 1: 让某人做某事
+   automatic
+   automatically
+   ```
+
+7. `how nice your hair looks!` 你的头发看起来真好！感叹句
+
+   - `how` 在这里是 `adv`，表示 `（强调程度）多么`
+
+   ```
+   How cute the cat looks!
+
+   How interesting the game plays!
+   ```
+
+8. M: `have got to` = `have to` 不得不
+
+   ```
+   The poor panda has to set off along the side street.
+
+   The poor panda has got to set off along the side street.
+   // 和上一句等价
+
+
+   It's the tallest man that had to leave from the stage.
+
+   It's the tallest man that had got to leave from the stage.
+   // 和上一句等价
+   ```
+
+9. M: `have something done` = `get something done`
+
+   - 用法 1: `这件事当事人不做，让别人去做`
 
      ```
-     I must have my watch repaired.
+     I must have the parcel taken back home.
+     我必须让人把包裹带回家
+     // 当事人 `我` 不做这件事，让别人帮我把包裹带回家
+
+     Jack will have the watch repaired on Saturday.
+     周六他要让人修理以下他的表
+     // 当事人 `Jack` 不做修理这件事，让别人帮他修
 
      I'm going to have my hair cut this afternoon.
      ```
 
-   - 用法 2: 意外，不行的遭遇。可以翻译为 `被`，被动
+   - 用法 2: `意外，不行的遭遇。` 可以翻译为 `被`。和 `被动语态` 一致
 
      ```
      Jack had his nose broken in a fight.
+     Jack使他的鼻子在一次打架中被打破了
 
      I had my bag stolen.
+     我使我的包被偷了
+
 
      Have you ever had your bike stolen?
+     你曾经使你的自行车被偷过吗？
+
+     Yes, I have ever had my bike stolen.
      ```
 
    - 与时态结合
@@ -85,3 +143,125 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
 
      He has his hair cut every month.
      ```
+
+## Exercises
+
+```
+Did she make the cake herself?
+
+Good heavens no! She had it made in town.
+```
+
+```
+Did you sharpen those knives yourself?
+
+Good heavens no! I had them sharpened in town.
+```
+
+```
+Did he translate the article himself?
+
+Good heavens no! He had it translated in town.
+```
+
+```
+Did they clean their coats themselves?
+
+Good heavens no! They had them cleaned in town.
+```
+
+```
+Did she make the curtains herself?
+
+Good heavens no! She had them made in town.
+```
+
+```
+How nice your hair looks!
+
+Thank you. I've just had it cut.
+```
+
+```
+How nice your kitchen looks!
+
+Thank you. I've just had it painted.
+```
+
+```
+How nice your house looks!
+
+Thank you. I've just had it redecorated.
+```
+
+```
+How nice your furniture looks!
+
+Thank you. I've just had it installed.
+```
+
+```
+How nice his roses look!
+
+Thank you. He has just had them sprayed.
+```
+
+```
+You'll need some photos for your passport.
+
+I'll have some taken next week.
+```
+
+```
+You'll need some gas fires for the winter.
+
+I'll have some installed next week.
+```
+
+```
+You'll need some warm boots for the journey.
+
+I'll have some made next week.
+```
+
+```
+You'll need some safety belts for your car.
+
+I'll have some put in next week.
+```
+
+```
+You'll need some tables for the meeting.
+
+I'll have some sent round next week.
+```
+
+```
+He says he has got to clean his suit.
+
+He can't clean it himself! Why doesn't he have it cleaned?
+```
+
+```
+She says she's got to lay the carpet.
+
+She can't lay it herself! Why doesn't she have it laid?
+```
+
+```
+They say they've got to test the engine.
+
+They can't test it themselves! Why don't they have it tested?
+```
+
+```
+He says he's got to cut the trees down.
+
+He can't cut them down himself! Why doesn't he have them cut down?
+```
+
+```
+He says he's got to rebuild the garage.
+
+He can't rebuild it himself! Why doesn't he have it rebuilt?
+```

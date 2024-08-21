@@ -1,5 +1,11 @@
 # Lesson 58
 
+## Marks
+
+1. M: 强调句 `it is/was + 强调部分 + that/who + 剩余部分`
+
+2. M: 据说 `be said to do sth.` = `it is said that...`
+
 ## Words
 
 - blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk
@@ -72,7 +78,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
 
 8. `vacant post` 空缺的职位
 
-9. M: `be said to do sth.` = `it is said that...` 都表示 `据说...`
+9. `be said to do sth.` = `it is said that...` 都表示 `据说...`
 
    ```
    He is the richest man in the world.
@@ -99,7 +105,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
    It's said that the tiny village possesses a 'cursed tree'.
    ```
 
-10. M: `强调句`
+10. `强调句`
 
     - 着重强调某个人/东西，加强语气
 

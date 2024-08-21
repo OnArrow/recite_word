@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   Britain camp sank surely/想必
+   Britain camp sank surely/想必 heating gas/气体 laid
    ```
 
 2. **过去式&过去分词**
@@ -21,14 +21,12 @@
 4. **Review**
 
    ```
-   approval improve involve invitation survey restore imagine preserve active manage brilliant escape alive cough avoid examine freedom uncle channel engineer level below burger shout platform probably particular afterwards versus Christmas circus present accompany approach ought fortunate storm depth fax bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax disturb condition strap avoid wear wore worn result apply reasonable tap drunk ring bull remark contact necklace observe temperature measure curtain decorate
+   contact necklace observe temperature measure curtain decorate reasonable forward charge safety sympathetic property official check clip stable per burst average dare hitchhike meanwhile sharpen sharp kitchen belt lay pretend prevent
    ```
 
 5. **Expressions**
 
    1. `look forward`
-
-   2.
 
 6. **剑桥初级语法**
 

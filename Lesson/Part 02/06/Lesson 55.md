@@ -28,11 +28,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
 ## Questions
 
-1. `The machine was used in a cave near the seashore where - it is said - pirates used to hide gold` 中的 `where`，`pirates used to hide gold` 什么意思？
-
 2. `near the entrance to the cave` 中的 `to`。靠近山洞的入口？
-
-3. `tin trunk` 锡制的后备箱？
 
 ## Whole
 
@@ -137,9 +133,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     They hope to find buried treasure.
     ```
 
-18. `it is said` 据说
-
-19. M: `would do` 过去重复发生的动作；表示一种习惯
+18. M: `would do` 过去重复发生的动作；表示一种习惯
 
     1. `would` 后面只能跟具体的动作，而不能跟状态
 
@@ -177,7 +171,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
        When Jack was angry, he used to walk out of the room.
        ```
 
-20. M: `where` 引导的定语从句
+19. M: `where` 引导的定语从句
 
     - 用法基本和 `that`, `who` 引导的定语从句一致。`where` 替代的是 `地点`
 
@@ -206,7 +200,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     I want to live in the country where there is plenty of sunshine.
     ```
 
-21. M: `whose` 引导的定语从句
+20. M: `whose` 引导的定语从句
 
     - 用法基本和 `that`, `who` 引导的定语从句一致。`whose` 替代的是 `谁的`，物主代词。如 `his`, `her`, `their`
 
@@ -251,7 +245,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
       // 什么样的人，`他的姐姐认识你` 的人
       ```
 
-22. `who` 替代人，`where` 替代地点，`whose` 替代谁的，`that` 可以随便替代，万能的
+21. `who` 替代人，`where` 替代地点，`whose` 替代谁的，`that` 可以随便替代，万能的
 
 ## Exercises
 

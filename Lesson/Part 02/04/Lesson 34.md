@@ -60,7 +60,7 @@ Dan was most surprised when he heard the news. He was amused too, because he nev
    She never expected her secret to be found by someone
    ```
 
-7. M: `过去完成时被动语态`
+7. `过去完成时被动语态`
 
    - 结构: `had been + done`
 

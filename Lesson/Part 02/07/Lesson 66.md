@@ -38,111 +38,146 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
 
 1. `packing case` 包装箱；集装箱
 
-2. `remote control` 遥控器
+2. `a long way west of Samoa` 萨摩亚西边很长的距离
+
+3. `in reasonable condition` 在还算可以的状况下
+
+4. 文中的 `moved in parts` 表示 `以小部分小部分地移动`。因为飞机已经被拆开了
+
+5. `remote control` 遥控器
 
    ```
    He decides to have the remote control repaired by Jack.
    ```
 
-3. `packaged food` 包装食品；速食
+6. `packaged food` 包装食品；速食
 
    ```
    I don't ever want to have packaged food anymore!
    ```
 
-4. `it's hard to imagine` 很难想象
+7. `it's hard to imagine` 很难想象
 
    ```
    It's hard to imagine that he actually failed in the fight.
    ```
 
-5. `good heavens no!` 天啊，当然不是！
+8. `over the years` 在过去的数年间
 
    ```
-   Good heavens no! She hadn't certainly cleaned the car, she had it cleaned by that man.
+   I have heard a lot about you over the years.
    ```
 
-6. 很多以 `c` 结尾的单词变成 `adv` 时，都额外加上 `ally`
+9. `in good/perfect/bad condition` 在好/完美/差的状况下
 
    ```
-   sympathetic
-   sympathetically
-
-   critic
-   critically
-
-   automatic
-   automatically
+   My father forbids me to touch it, for he wants to keep it in perfect condition.
    ```
 
-7. `how nice your hair looks!` 你的头发看起来真好！感叹句
+10. `be worth doing sth.` 值得做某事
 
-   - `how` 在这里是 `adv`，表示 `（强调程度）多么`
+    ```
+    It is worth pointing out that he doesn't have a good reputation.
+    值得一提的是，他没有好的名声
 
-   ```
-   How cute the cat looks!
+    I know it's not gonna be easy, but you said anything worth doing in difficult.
+    ```
 
-   How interesting the game plays!
-   ```
+11. `turn A into B` 把 A 变成 B
 
-8. M: `have got to` = `have to` 不得不
+    ```
+    She agreed to turn me into a bird.
 
-   ```
-   The poor panda has to set off along the side street.
+    It has been turned into liquid immediately.
+    ```
 
-   The poor panda has got to set off along the side street.
-   // 和上一句等价
+12. `good heavens no!` 天啊，当然不是！
+
+    ```
+    Good heavens no! She hadn't certainly cleaned the car, she had it cleaned by that man.
+    ```
+
+13. 很多以 `c` 结尾的单词变成 `adv` 时，都额外加上 `ally`
+
+    ```
+    sympathetic
+    sympathetically
+
+    critic
+    critically
+
+    automatic
+    automatically
+    ```
+
+14. `how nice your hair looks!` 你的头发看起来真好！感叹句
+
+    - `how` 在这里是 `adv`，表示 `（强调程度）多么`
+
+    ```
+    How cute the cat looks!
+
+    How interesting the game plays!
+    ```
+
+15. M: `have got to` = `have to` 不得不
+
+    ```
+    The poor panda has to set off along the side street.
+
+    The poor panda has got to set off along the side street.
+    // 和上一句等价
 
 
-   It's the tallest man that had to leave from the stage.
+    It's the tallest man that had to leave from the stage.
 
-   It's the tallest man that had got to leave from the stage.
-   // 和上一句等价
-   ```
+    It's the tallest man that had got to leave from the stage.
+    // 和上一句等价
+    ```
 
-9. M: `have something done` = `get something done`
+16. M: `have something done` = `get something done`
 
-   - 用法 1: `这件事当事人不做，让别人去做`
+    - 用法 1: `这件事当事人不做，让别人去做`
 
-     ```
-     I must have the parcel taken back home.
-     我必须让人把包裹带回家
-     // 当事人 `我` 不做这件事，让别人帮我把包裹带回家
+      ```
+      I must have the parcel taken back home.
+      我必须让人把包裹带回家
+      // 当事人 `我` 不做这件事，让别人帮我把包裹带回家
 
-     Jack will have the watch repaired on Saturday.
-     周六他要让人修理以下他的表
-     // 当事人 `Jack` 不做修理这件事，让别人帮他修
+      Jack will have the watch repaired on Saturday.
+      周六他要让人修理以下他的表
+      // 当事人 `Jack` 不做修理这件事，让别人帮他修
 
-     I'm going to have my hair cut this afternoon.
-     ```
+      I'm going to have my hair cut this afternoon.
+      ```
 
-   - 用法 2: `意外，不行的遭遇。` 可以翻译为 `被`。和 `被动语态` 一致
+    - 用法 2: `意外，不行的遭遇。` 可以翻译为 `被`。和 `被动语态` 一致
 
-     ```
-     Jack had his nose broken in a fight.
-     Jack使他的鼻子在一次打架中被打破了
+      ```
+      Jack had his nose broken in a fight.
+      Jack使他的鼻子在一次打架中被打破了
 
-     I had my bag stolen.
-     我使我的包被偷了
+      I had my bag stolen.
+      我使我的包被偷了
 
 
-     Have you ever had your bike stolen?
-     你曾经使你的自行车被偷过吗？
+      Have you ever had your bike stolen?
+      你曾经使你的自行车被偷过吗？
 
-     Yes, I have ever had my bike stolen.
-     ```
+      Yes, I have ever had my bike stolen.
+      ```
 
-   - 与时态结合
+    - 与时态结合
 
-     ```
-     I had my hair cut yesterday.
+      ```
+      I had my hair cut yesterday.
 
-     We are having the house painted this week.
+      We are having the house painted this week.
 
-     I'm going to have my hair cut this afternoon.
+      I'm going to have my hair cut this afternoon.
 
-     He has his hair cut every month.
-     ```
+      He has his hair cut every month.
+      ```
 
 ## Exercises
 

@@ -1,5 +1,9 @@
 # Lesson 43
 
+## Marks
+
+1. M: `was/were able to do sth.` 过去成功做了某事
+
 ## Words
 
 - pole flight explorer lie lay lain serious point seem crash sack clear aircraft endless plain difficulty foot feet

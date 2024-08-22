@@ -2,9 +2,9 @@
 
 ## Marks
 
-1. `ought to do` = `should do` 应该做某事
+1. M: `ought to do` = `should do` 应该做某事
 
-2. `ought to have done` = `should have done` 本应该做某事，但却没有做
+2. M: `ought to have done` = `should have done` 本应该做某事，但却没有做
 
 ## Words
 

@@ -32,6 +32,14 @@ I had to think of a way of preventing him from following me around all morning.
 
 1. `came running towards me` 为什么 `came`, `running` 可以连用
 
-2. `No matter how busy you are` 没什么事在忙?
+2. `It was no use pretending that I had not seen him` 中的 `no` 表示没有,不需要.`no`的用法
 
-3. `Would you mind my coming with you` 中的 `my coming` 我的到来?
+3. 文中出现很多 `do doing`
+
+4. `No matter how busy you are` 没什么事在忙?
+
+5. `I had to think of a way of preventing him from following me around all morning` 整个早晨我不得不去想一个阻止跟随我的方法
+
+6. `Would you mind my coming with you` 中的 `my coming` 我的到来?
+
+7. `Fancy meeting you here` 为什么是 `meeting` 而不是 `is meeting`

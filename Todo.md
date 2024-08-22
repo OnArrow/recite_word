@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   Britain camp sank surely/想必 heating gas/气体 laid violent scholarship
+
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   contact necklace observe temperature measure curtain decorate reasonable forward charge safety sympathetic property official check clip stable per burst average dare hitchhike meanwhile sharpen sharp kitchen belt lay pretend prevent survey worry shake shook shaken spread
+   contact necklace observe temperature measure curtain decorate reasonable forward charge safety sympathetic property official check clip stable per burst average dare hitchhike meanwhile sharpen sharp kitchen belt lay pretend prevent survey worry shake shook shaken spread performance lorry border fan court notice comfortable thick stamp scene soldier bulletin release delay apologize pilot motorbike excellent model modal exhibition firm reference
    ```
 
 5. **Expressions**

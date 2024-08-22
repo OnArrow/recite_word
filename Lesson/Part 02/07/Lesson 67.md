@@ -40,7 +40,25 @@ Tazieff has often risked his life in this way. He has been able to tell us more 
    He saw her after all.
    ```
 
-4. M: `managed to do sth.` 过去成功做了某事
+4. `name sth. A` 把某物命名为 A
+
+   ```
+   He's cool and he's smart, and that's why I named him Tom.
+   ```
+
+5. `set up the camp/tent` 搭起营地/帐篷
+
+   ```
+   If we had set up the camp near the cliff, we should have died last night.
+   ```
+
+6. `sb. noticed that...` 某人注意到
+
+   ```
+   I noticed that you had been looking at me since I came into this room.
+   ```
+
+7. M: `managed to do sth.` 过去成功做了某事
 
    - 用法 1: 和 `was able to do sth.` 含义和用法一致
 

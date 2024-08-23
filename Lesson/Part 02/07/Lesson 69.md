@@ -46,7 +46,9 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
    After I tapped on the window, the bird just flew away.
    ```
 
-4. M: `having been done`
+4. `vacant post` 空缺的职位
+
+5. M: `having been done`
 
    - 完成被动
 

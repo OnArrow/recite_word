@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense
+    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense reward
    ```
 
 5. **Expressions**

@@ -28,22 +28,6 @@ I had to think of a way of preventing him from following me around all morning.
 'Then I'll come with you,' he answered. 'There's always plenty to read in the waiting room!'
 ```
 
-## Questions
-
-1. `came running towards me` 为什么 `came`, `running` 可以连用
-
-2. `It was no use pretending that I had not seen him` 中的 `no` 表示没有,不需要.`no`的用法
-
-3. 文中出现很多 `do doing`
-
-4. `No matter how busy you are` 没什么事在忙?
-
-5. `I had to think of a way of preventing him from following me around all morning` 整个早晨我不得不去想一个阻止跟随我的方法
-
-6. `Would you mind my coming with you` 中的 `my coming` 我的到来?
-
-7. `Fancy meeting you here` 为什么是 `meeting` 而不是 `is meeting`
-
 ## Whole
 
 1. 文中 `he saw me and came running towards me` 可以分成几句话
@@ -85,6 +69,10 @@ I had to think of a way of preventing him from following me around all morning.
 
 6. `fancy meeting you here` 想不到在这里见到你
 
+   ```
+   Fancy meeting you again.
+   ```
+
 7. 有些动词后面跟的是动名词，有些动词后面跟的又是介词如 `on`， `in` 等，可能跟这个单词是及物动词还是不及物动词有关
 
    - 及物动词。这意味着它需要一个直接宾语来完成句子的意思
@@ -123,7 +111,7 @@ I had to think of a way of preventing him from following me around all morning.
 
     - 这个句子可以在面对面说话时用。它看上去虽然符合过去进行时，但它表示的是 `此时此刻`
 
-    - 比起 `think about` 更礼貌一点
+    - 比起 `think of` 更礼貌一点
 
     ```
     I was wondering if you could help me.
@@ -132,7 +120,7 @@ I had to think of a way of preventing him from following me around all morning.
     I was wondering, do you happen to know anything about July?
     ```
 
-12. `动名词的逻辑主语`
+12. M: `动名词的逻辑主语`
 
     - 小知识点，不是很重要
 

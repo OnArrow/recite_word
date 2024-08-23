@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   lifetime magic fancy/真想不到 formal/正式的，规范的 vacant confess/坦白
+   attack announce/播报 economy/节省 responsible
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   contact necklace observe temperature measure curtain decorate reasonable forward charge safety sympathetic property official check clip stable per burst average dare hitchhike meanwhile sharpen sharp kitchen belt lay pretend prevent survey worry shake shook shaken spread performance lorry border fan court notice comfortable thick stamp scene soldier bulletin release delay apologize pilot motorbike excellent model modal exhibition firm reference persistent avoid insist sick polite look
+    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense
    ```
 
 5. **Expressions**

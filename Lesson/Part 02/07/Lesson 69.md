@@ -24,7 +24,7 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
 
 ## Questions
 
-1. `I was being tested for a driving licence` 什么时态的被动
+2. `for he smiled and said` 的 `for`, 所以?
 
 ## Whole
 
@@ -46,7 +46,7 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
    After I tapped on the window, the bird just flew away.
    ```
 
-4. `having been done`
+4. M: `having been done`
 
    - 完成被动
 
@@ -71,3 +71,126 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
 
    Having been caught by the fisherman, the fish died very soon.
    ```
+
+## Exercises
+
+```
+Did the man confess?
+
+Yes, but only after being arrested!
+```
+
+```
+Did the man leave the restaurant?
+
+Yes, but only after being thrown out!
+```
+
+```
+Did the man give up the argument?
+
+Yes, but only after being knocked out!
+```
+
+```
+Did the man become well known?
+
+Yes, but only after being murdered!
+```
+
+```
+Did the man call the guard?
+
+Yes, but only after being robbed!
+```
+
+```
+He became famous after his murder.
+
+Oh no! He became famous before being murdered.
+```
+
+```
+He killed the guard after his arrest.
+
+Oh no! He killed him before being arrested.
+```
+
+```
+He fell down after his attack.
+
+Oh no! He fell down before being attacked.
+```
+
+```
+He saw Tom after his interview.
+
+Oh no! He saw him before being interview.
+```
+
+```
+He became rich after his election.
+
+Oh no! He became rich before being elected.
+```
+
+```
+When do you want the fax sent to Hong Kong?
+
+It should be sent some time today.
+```
+
+```
+When do you want the books taken to the library?
+// Q: `do...done` 是什么语法? 为什么 `When do you want the books took to the library?` 是错误的?
+
+It should be taken some time today.
+```
+
+```
+When do you want the goods delivered to the shop?
+
+It should be delivered some time today.
+```
+
+```
+When do you want the luggage fetched from the hotel?
+
+It should be fetched some time today.
+```
+
+```
+When do you want the result announced to the Press?
+
+It should be announced some time today.
+```
+
+```
+I'd like to ask you about your report.
+
+Not again! I was being asked about my report all day yesterday!
+```
+
+```
+I'd like to ask you our sales figures.
+
+Not again! I was being asked our sales figures all day yesterday!
+```
+
+```
+I'd like to interview you your latest film.
+
+Not again! I was being interviewed my latest film all day yesterday!
+```
+
+```
+I'd like to remind you the need for economy.
+
+Not again! I was being reminded the need for economy all day yesterday!
+```
+
+```
+I'd like to inform you the firm's future plans.
+
+Not again! was being informed the firm's future plans all day yesterday!
+```

@@ -28,27 +28,54 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
 
 ## Whole
 
-1. `be instructed to do sth.` 被吩咐去做某事
+1. 文中 `had done so successfully` 的 `so` 有 `this` 的意思，指代的是 `drive in heavy traffic` 这件事
+
+2. 文中 `Sure that I had passed, I was almost beginning to enjoy my test` 也符合分词作状语的 `be adj. n.` 情况
+
+   ```
+   I was sure that I had passed, I was almost beginning to enjoy my test.
+
+   Being sure that I had passed, I was almost beginning to enjoy my test.
+
+   Sure that I had passed, I was almost beginning to enjoy my test.
+   ```
+
+3. `be instructed to do sth.` 被吩咐去做某事
 
    ```
    I'm instructed to tell you, if you insist on doing this, he will murder you.
    ```
 
-2. `let's suppose that...` 让我们假设...
+4. `let's suppose that...` 让我们假设...
 
    ```
    Let's suppose that he insists on doing this.
    ```
 
-3. `tap on the window` 敲玻璃
+5. `tap on the window` 敲玻璃
 
    ```
    After I tapped on the window, the bird just flew away.
    ```
 
-4. `vacant post` 空缺的职位
+6. `continue doing sth.`, `continue to do sth.` 继续做某事
 
-5. M: `having been done`
+   ```
+   If you want to continue working for us, you will have to follow our rules.
+
+   If you want to continue to work for us, you will have to follow our rules.
+   // 和等价上一句
+   ```
+
+7. `be pleased with` 对...满意
+
+   ```
+   I think they are all pretty pleased with themselves.
+   ```
+
+8. `vacant post` 空缺的职位
+
+9. M: `having been done`
 
    - 完成被动
 

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   attack announce/播报 economy/节省 responsible
+   attack/进攻 announce/播报 economy/节省 responsible demon couple yard/院子 Eiffel
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense reward
+    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense reward within obey diet artist accept enemy lord nod drag withdraw abroad band college parliament erect accurate official Greenwich observatory check microphone tower burn burnt attempt cash tyre
    ```
 
 5. **Expressions**

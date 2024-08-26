@@ -62,7 +62,7 @@ Big Ben has rarely gone wrong. Once, however, it failed to give the correct time
 7. `be responsible for sth.` 对某物负责
 
    ```
-   No matter who at happens to this cat, you will be responsible for it.
+   No matter what happens to this cat, you will be responsible for it.
    ```
 
 8. `A be connected to B` A 连接 B

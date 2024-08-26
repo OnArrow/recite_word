@@ -22,10 +22,6 @@ Though the sound could be heard clearly, it took me a long time to react. I sudd
 The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You have just killed that child!'
 ```
 
-## Questions
-
-2. `for he smiled and said` 的 `for`, 所以?
-
 ## Whole
 
 1. 文中 `had done so successfully` 的 `so` 有 `this` 的意思，指代的是 `drive in heavy traffic` 这件事
@@ -74,6 +70,10 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
    ```
 
 8. `vacant post` 空缺的职位
+
+   ```
+   You ought to have got the vacant post to him.
+   ```
 
 9. M: `having been done`
 

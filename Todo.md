@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    sick polite look reference bulletin court prevent model modal exhibition motorbike apologize pilot forward charge official appear leading gather wheat process present champion studio Egypt mark plate wood cell skin section figure calm tense surely interview pipe inform drunk drunk crowd sight rude cheer drag immense reward within obey diet artist accept enemy lord nod drag withdraw abroad band college parliament erect accurate official Greenwich observatory check microphone tower burn burnt attempt cash tyre
+    sick look reference bulletin court prevent model modal exhibition apologize forward charge appear leading gather wheat Egypt mark plate wood section figure calm tense surely interview pipe inform crowd sight cheer immense reward within obey diet artist accept enemy lord nod drag withdraw abroad band college parliament erect accurate  Greenwich observatory check microphone burn burnt attempt cash tyre dangerous pot tear secretary
    ```
 
 5. **Expressions**

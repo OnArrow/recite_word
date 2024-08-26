@@ -24,22 +24,14 @@ By this time, however, three men had come into the ring and they quickly dragged
 Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.
 ```
 
-## Questions
-
-1. `sensitive to criticism` 敏感的批评?
-
-2. `seemed quite sure of himself` 看起来非常相信他自己
-
-3. `The crowd broke into cheers and the drunk bowed.` 人群由安静变成欢呼
-
-4. `once more turning its attention to the matador`
-
 ## Whole
 
 1. 文中 `apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk` 这句话是分词作状语
 
    ```
    The bull apparently was sensitive to criticism, the bull forgot all about the matador and charged at the drunk.
+
+   Being sensitive to criticism, the bull forgot all about the matador and charged at the drunk.
    ```
 
 2. `be unaware of...` 没有觉察；没有了解
@@ -94,6 +86,7 @@ Even the bull seemed to feel sorry for him, for it looked on sympathetically unt
 
     ```
     I've been here for hours so that I can catch sight for her.
+    为了见到她，我在这里几个小时了
 
     I caught sight for her in the crowd last night.
     ```
@@ -127,7 +120,7 @@ Even the bull seemed to feel sorry for him, for it looked on sympathetically unt
 15. `feel sorry for sb.` 觉得某人可怜，值得同情。并不是说我做了什么对不起某人的事，只是觉得他可怜，值得同情
 
     ```
-    He was fired last night, I feel sorry from him.
+    He was fired last night, I feel sorry for him.
     昨晚他被开除了，我很同情他
     ```
 
@@ -145,7 +138,7 @@ Even the bull seemed to feel sorry for him, for it looked on sympathetically unt
     // 类似于心情不好时说 `滚开`
     ```
 
-18. `turn sb.s attention to sth.` 转移某人的注意力到某物上
+18. `turn sb.'s attention to sth.` 转移某人的注意力到某物上
 
     ```
     Jack ordered me to turn my attention to him.

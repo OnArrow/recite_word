@@ -25,5 +25,5 @@ calm process champion burst model charge appear interview check tyre lord tense 
 ```
 
 ```
-attack announce, economy; responsible pardon
+attack announce, economy; responsible pardon Pardon China Egyptian
 ```

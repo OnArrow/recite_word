@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   attack/进攻 announce/播报 economy/节省 responsible demon couple yard/院子 Eiffel
+
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-    sick look reference bulletin court prevent model modal exhibition apologize forward charge appear leading gather wheat Egypt mark plate wood section figure calm tense surely interview pipe inform crowd sight cheer immense reward within obey diet artist accept enemy lord nod drag withdraw abroad band college parliament erect accurate  Greenwich observatory check microphone burn burnt attempt cash tyre dangerous pot tear secretary
+   bulletin reference leading tense wheat figure within
    ```
 
 5. **Expressions**

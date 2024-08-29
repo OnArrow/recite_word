@@ -43,13 +43,15 @@ This time it was the postman and he wanted me to sign for a registered letter!
 2. `put my finger on it`
 
    ```
-   I could never put mu finger on it, but something just wasn't right.
+   I could never put my finger on it, but something just wasn't right.
+   // Q: 翻译这句话
    ```
 
 3. `point the finger at...`
 
    ```
-   I guess we'll know who to pint the finger at on that one, won't we?
+   I guess we'll know who to point the finger at on that one, won't we?
+   // Q: 翻译这句话
    ```
 
 4. `pick up receiver` 拿起电话，接电话
@@ -177,5 +179,5 @@ I'm sorry. I lent them to Jack last week and he hasn't returned it yet.
 ```
 Could you lend me your garden tools?
 
-I'm sorry. I lent them to Jack last and he hasn't returned it yet.
+I'm sorry. I lent them to Jack last week and he hasn't returned it yet.
 ```

@@ -34,7 +34,7 @@ The snake then wound itself round the wires. When it did so, it sent sparks down
    Stay away from the power line.
    ```
 
-2. `remain mystery` 一直是一个谜
+2. `remain a mystery` 一直是一个谜
 
    ```
    It remains a mystery that how he got in the room.

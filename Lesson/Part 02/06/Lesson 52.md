@@ -2,7 +2,7 @@
 
 ## Words
 
-- temporarily inch space actually
+- temporarily inch space actually gaze
 
 - ![Words](../../../Images/Part2/06/words-52.png)
 
@@ -71,7 +71,7 @@ She gazed at it for some time then added, 'You don't need bookcases at all. You 
 
      Jack: How long has it been raining?
 
-     Mary: It has been raining for two hour.
+     Mary: It has been raining for two hours.
      // 下雨这个动作已经从过去持续2小时到现在了，可能还会继续下
 
 

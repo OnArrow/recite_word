@@ -2,7 +2,7 @@
 
 ## Words
 
-- tired real owner spring mattress gust sweep courtyard smash miraculously unhurt glance promptly
+- tired real owner spring mattress gust sweep courtyard smash miraculously unhurt glance promptly metal
 
 - ![Words](../../../Images/Part2/05/words-49.png)
 
@@ -70,19 +70,21 @@ After he had put it on the floor, he promptly went to sleep again.
 
     - 由 `adv.` 引导的从句，就叫 `状语从句`。也叫 `副词性从句`
 
-    | 状语从句     | 常用连词                                                                       | 特殊连词                                                      |
-    | ------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-    | 时间状语从句 | when, while, as, before, after, as soon as, til, until                         | ever since, since, the moment, no sooner..than, hardly...when |
-    | 地点状语从句 |                                                                                |                                                               |
-    | 原因状语从句 | because, as, for, since                                                        |                                                               |
-    | 目的状语从句 | so that, in order that, that...                                                | in order to, as as to                                         |
-    | 结果状语从句 | so...that, such...that                                                         |                                                               |
-    | 条件状语从句 | if, unless                                                                     |                                                               |
-    | 让步状语从句 | although, though, even though, even if, no matter how..., whatever, whoever... |                                                               |
-    | 比较状语从句 | as...as, than                                                                  |                                                               |
-    | 方式状语从句 | as, like, as if, the way                                                       |                                                               |
+    | 状语从句     | 常用连词                                                                                     | 特殊连词                                                                |
+    | ------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+    | 时间状语从句 | `when`, `while`, `as`, `before`, `after`, `as soon as`, `til`, `until`                       | `ever since`, `since`, `the moment`, `no sooner..than`, `hardly...when` |
+    | 地点状语从句 |                                                                                              |                                                                         |
+    | 原因状语从句 | `because`, `as`, `for`, `since`                                                              |                                                                         |
+    | 目的状语从句 | `so that`, `in order that`, `that...`                                                        | `in order to`, `as as to`                                               |
+    | 结果状语从句 | `so...that`, `such...that`                                                                   |                                                                         |
+    | 条件状语从句 | `if`, `unless`                                                                               |                                                                         |
+    | 让步状语从句 | `although`, `though`, `even though`, `even if`, `no matter how...`, `whatever`, `whoever...` |                                                                         |
+    | 比较状语从句 | `as...as`, `than`                                                                            |                                                                         |
+    | 方式状语从句 | `as, like`, `as if`, `the way`                                                               |                                                                         |
 
 7.  M: `分词作状语从句`
+
+    - 如果一句话没有主语，首先判断这句话是不是分词做了状语
 
     - `doing` & `done`
 
@@ -189,7 +191,7 @@ After he had put it on the floor, he promptly went to sleep again.
       // 变成 `having done`， 强调从句 `after he had completed the book` 发生在 `he had a holiday` 之前
 
       After completing the book, he had a holiday.
-      // 也可以直接变成 `doing`
+      // 因为 `having` 没有什么实质含义，所以也可以直接变成 `doing`
 
 
       I had already seen it twice. I didn't want to see it again.
@@ -197,6 +199,8 @@ After he had put it on the floor, he promptly went to sleep again.
       Because I had already seen it twice, I didn't want to see it again.
 
       (Because) Having already seen it twice, I didn't want to see it again.
+
+      Already seeing it twice, I didn't want to see it again.
       ```
 
     - `not doing`
@@ -269,6 +273,8 @@ Q: 以下五句是否正确
 Were you reading a dull book last night?
 
 Yes, I was. I fell asleep reading it.
+// 从句 `reading it` 被放在了后面
+// Yes, I was. Reading it I fell asleep.
 ```
 
 ```

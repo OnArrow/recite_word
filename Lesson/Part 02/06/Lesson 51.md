@@ -15,7 +15,7 @@ He began his diet a week ago. First of all, he wrote out a long list of all the 
 
 The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate, and sweets.
 
-Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as far as ever.
+Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever.
 
 He led me into his room and hurriedly hid a large parcel under his desk. It was obvious that he was very embarrassed.
 
@@ -46,7 +46,7 @@ Then he showed me the contents of the parcel. It contained five large bars of ch
    They forbade us to talk about it.
    ```
 
-3. `sb. be strict with sb.` 某人对某人很严厉
+3. `A be strict with B` A 对 B 很严厉
 
    ```
    She is very strict with her students.

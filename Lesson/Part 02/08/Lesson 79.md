@@ -2,7 +2,7 @@
 
 ## Words
 
-- parent frightened curious bomb plant
+- parent frightened curious bomb plant attendant
 
 - ![Words](../../../Images/Part2/08/words-79.png)
 

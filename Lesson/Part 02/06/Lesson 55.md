@@ -2,7 +2,7 @@
 
 ## Words
 
-- gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value
+- gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value dig dug
 
 - ![Words](../../../Images/Part2/06/words-55.png)
 
@@ -32,21 +32,35 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
 
 ## Whole
 
-1. `sb. own a gold mine` 某人家里有矿。形容很有钱
+1. 文中 `in a cave near the seashore where - it is said - pirates used to hide gold` 这句话中的两个破折号中间的这句话 `- it is said -` 相当于标注，当作句子的补充，不用特别去纠结语法，甚至不用理会它
+
+2. 文中 `Armed with the new machine, a search party went into the cave hoping to find buried treasure` 这句话包含有两个简化状语从句，可以拆分成三句话。
+
+   ```
+   Armed with the new machine, a search party went into the cave hoping to find buried treasure.
+
+   A search party were armed with the new machine.
+
+   They went into the cave.
+
+   They hope to find buried treasure.
+   ```
+
+3. `sb. own a gold mine` 某人家里有矿。形容很有钱
 
    ```
    He owns a gold mine.
    ```
 
-2. `he is like a gold mine` 他像一座宝藏一样。形容一个人内涵丰富，可能是会很多技能，也可能是非常有趣
+4. `he is like a gold mine` 他像一座宝藏一样。形容一个人内涵丰富，可能是会很多技能，也可能是非常有趣
 
-3. `a treasure map` 藏宝图
+5. `a treasure map` 藏宝图
 
    ```
    I've been trying to pick up the treasure map, but I couldn't reach it.
    ```
 
-4. `arm sb. with sth.`, `sb. be armed with sth.` 某人装备着某物
+6. `arm sb. with sth.`, `sb. be armed with sth.` 某人装备着某物
 
    ```
    He armed the robot with a battery.
@@ -56,7 +70,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
    He was armed with a new gun to go into the fight.
    ```
 
-5. 通常一个单词以 `less` 结尾，都和 `un`, `in` 一样表示 `不`
+7. 通常一个单词以 `less` 结尾，都和 `un`, `in` 一样表示 `不`
 
    ```
    end 结尾
@@ -66,44 +80,42 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
    worthless 不值钱的
    ```
 
-6. `sb. be confident that...` 某人很自信
+8. `sb. be confident that...` 某人很自信
 
    ```
    I'm confident that they will stick to the plan.
    ```
 
-7. `something of value` 值钱的东西
+9. `something of value` 值钱的东西
 
    ```
    It might contain something of value.
    ```
 
-8. `stay up` 熬夜
+10. `stay up` 熬夜
 
-9. `have sth. serviced` 维修某物
+11. `score goal` 进球
 
-10. `score goal` 进球
-
-11. `more than` 超过
+12. `more than` 超过
 
     ```
     I like her more than you.
     ```
 
-12. `dreams come true` 梦想成真
+13. `dreams come true` 梦想成真
 
     ```
     It's a place where dreams come true.
     它是一个梦想成真的地方
     ```
 
-13. `be used to do sth.` 被用来做某事
+14. `be used to do sth.` 被用来做某事
 
     ```
     This car is used to send the children to school.
     ```
 
-14. `fairly soon/certain/confident` 相当快/相当确定/相当自信
+15. `fairly soon/certain/confident` 相当快/相当确定/相当自信
 
     ```
     I'm going back home fairly soon.
@@ -111,7 +123,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     I'm fairly certain that it's a true story.
     ```
 
-15. Q: `be used to doing sth.` 习惯于做某事。后面才学到
+16. Q: `be used to doing sth.` 习惯于做某事。后面才学到
 
     ```
     He is used to driving.
@@ -119,21 +131,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     I'm used to getting up early.
     ```
 
-16. 文中 `in a cave near the seashore where - it is said - pirates used to hide gold` 这句话中的两个破折号中间的这句话 `- it is said -` 相当于标注，当作句子的补充，不用特别去纠结语法，甚至不用理会它
-
-17. 文中 `Armed with the new machine, a search party went into the cave hoping to find buried treasure` 这句话包含有两个简化状语从句，可以拆分成三句话。
-
-    ```
-    Armed with the new machine, a search party went into the cave hoping to find buried treasure.
-
-    A search party were armed with the new machine.
-
-    They went into the cave.
-
-    They hope to find buried treasure.
-    ```
-
-18. M: `would do` 过去重复发生的动作；表示一种习惯
+17. M: `would do` 过去重复发生的动作；表示一种习惯
 
     1. `would` 后面只能跟具体的动作，而不能跟状态
 
@@ -171,7 +169,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
        When Jack was angry, he used to walk out of the room.
        ```
 
-19. M: `where` 引导的定语从句
+18. M: `where` 引导的定语从句
 
     - 用法基本和 `that`, `who` 引导的定语从句一致。`where` 替代的是 `地点`
 
@@ -200,7 +198,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
     I want to live in the country where there is plenty of sunshine.
     ```
 
-20. M: `whose` 引导的定语从句
+19. M: `whose` 引导的定语从句
 
     - 用法基本和 `that`, `who` 引导的定语从句一致。`whose` 替代的是 `谁的`，物主代词。如 `his`, `her`, `their`
 
@@ -245,7 +243,7 @@ In spite of this, many people are confident that 'The Revealer' may reveal somet
       // 什么样的人，`他的姐姐认识你` 的人
       ```
 
-21. `who` 替代人，`where` 替代地点，`whose` 替代谁的，`that` 可以随便替代，万能的
+20. `who` 替代人，`where` 替代地点，`whose` 替代谁的，`that` 可以随便替代，万能的
 
 ## Exercises
 

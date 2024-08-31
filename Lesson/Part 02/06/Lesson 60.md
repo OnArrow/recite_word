@@ -39,6 +39,10 @@ As soon as I went outside, I forgot all about Madam Bellinsky because my wife hu
 
 3. `a woman you know well` 你很熟悉的女人
 
+   ```
+   A friend you know well had the machine repaired.
+   ```
+
 4. `less than an hour` 少于一个小时
 
    ```

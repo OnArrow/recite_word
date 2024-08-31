@@ -2,7 +2,7 @@
 
 ## Words
 
-- madam jeans hesitate serve scornfully punish fur eager
+- madam jeans hesitate serve scornfully punish fur eager seek
 
 - ![Words](../../../Images/Part2/06/words-57.png)
 
@@ -35,7 +35,7 @@ She enjoyed herself making the assistant bring almost everything in the window b
 2. `hesitate for a moment/second` 犹豫一会
 
    ```
-   He hesitate for a second before opening the door.
+   He hesitated for a second before opening the door.
    // 并不是具体的 `一秒钟`，只是用来指代时间很短
    ```
 

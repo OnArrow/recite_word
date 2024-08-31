@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   tax/税款 carelessly blown comic/漫画 athlete goal/进球得分
+   tax/税款 carelessly blown comic/漫画 athlete goal/进球得分 sought scar bikini baggage earthquake annoyed piss
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   bulletin reference leading tense wheat figure within produce alter parent attendant flight curious explosion plant palace extraordinary exhibition iron variable display stream college sponsor bush uniform march gust miraculously promptly blow blew metal guiltily dull astonish frighten excursion granted confine rather virtue embarrass sock temporarily gaze receiver wire volt explanation practice garage term pastry dismay sign flour dead ladder lecture invent detect soil trunk battery mop bucket lorry journalist wheel course pleasure
+   bulletin reference leading tense wheat figure within produce alter parent attendant flight curious explosion plant palace extraordinary exhibition iron variable display stream college sponsor bush uniform march gust miraculously promptly blow blew metal guiltily dull astonish frighten excursion granted confine rather virtue embarrass sock temporarily gaze receiver wire volt explanation practice garage term pastry dismay sign flour dead ladder lecture invent detect soil trunk battery mop bucket lorry journalist wheel course pleasure capable customs hesitate punish fur seek brown lounge silly bald spot sweater disguise cursed victim vicar competition latch expert annoy involve fortune crystal dine calm
    ```
 
 5. **Expressions**

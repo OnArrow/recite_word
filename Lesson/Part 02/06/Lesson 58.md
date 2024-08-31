@@ -8,7 +8,7 @@
 
 ## Words
 
-- blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk
+- blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk gain
 
 - ![Words](../../../Images/Part2/06/words-58.png)
 
@@ -28,12 +28,6 @@ He has pointed out that the tree is a useful source of income, as tourists have 
 In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree - trunk. So far, not one of them has been struck down by sudden death!
 ```
 
-## Questions
-
-5. Q: `But now standing over me she looked like a huge tree trunk` 翻译这句话
-
-6. Q: `have the tree cut down` 语法
-
 ## Whole
 
 1. `a blessing in disguise` 因祸得福。有 `塞翁失马，焉知非福` 的意思
@@ -52,7 +46,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
    Is it possible you left it in baggage claim?
    ```
 
-4. `claim sb's life` 夺走某人的生命
+4. `claim sb.'s life` 夺走某人的生命
 
    ```
    The thing you're doing might claim your life and you must stop it!
@@ -137,7 +131,7 @@ In spite of all that has been said, the tourists have been picking leaves and cu
 
       My secretary did send the bill to Jack yesterday.
       我的秘书真的把这张账单发给Jack了
-      // 如果是强调
+      // 如果是强调动作，就需要加上 `do`
 
 
       It has gained an evil reputation only in recent years.

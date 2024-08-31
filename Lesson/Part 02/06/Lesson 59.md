@@ -24,7 +24,13 @@ Yesterday my husband removed the gate and Rex got so annoyed we have not seen hi
 
 ## Whole
 
-1. `become/be an expert at doing sth.` 成为做某事的专家
+1. 文中 `Rex got so annoyed we have not seen him since` 这句话应该是 `so...that...` 句型，但是 `that` 被省略掉了。`so...that...` 句型中 `that` 是可以被省略的。因此完整的句子如下
+
+   ```
+   Rex got so annoyed that we have not seen him since.
+   ```
+
+2. `become/be an expert at doing sth.` 成为做某事的专家
 
    ```
    I have become an expert at feeding pandas.
@@ -32,37 +38,37 @@ Yesterday my husband removed the gate and Rex got so annoyed we have not seen hi
    I'm an expert at the game.
    ```
 
-2. `have a habit of doing sth.` 习惯于做某事
+3. `have a habit of doing sth.` 习惯于做某事
 
    ```
    She has a habit of going to school on foot.
    ```
 
-3. `sb. develop habit of doing sth.` 某人养成了做某事的习惯
+4. `sb. develop habit of doing sth.` 某人养成了做某事的习惯
 
    ```
    He developed the habit of going to gym after work.
    ```
 
-4. `remove sth. from...` 从...中移除某物
+5. `remove sth. from...` 从...中移除某物
 
    ```
    We will soon remove the sentence from the website.
    ```
 
-5. `take a piss` 小便；撒尿
+6. `take a piss` 小便；撒尿
 
    ```
    Every time you need to go to take a piss, just go, needn't tell me.
    ```
 
-6. `complain of...` 抱怨...
+7. `complain of...` 抱怨...
 
    ```
    He is said to complain of his boss all the time.
    ```
 
-7. `spend st. doing sth.` 花费多长时间去做某事
+8. `spend st. doing sth.` 花费多长时间去做某事
 
    ```
    Because he didn't have no legs, he spent most of time exercising his arms.
@@ -70,18 +76,12 @@ Yesterday my husband removed the gate and Rex got so annoyed we have not seen hi
    They spent three years looking for the treasure map.
    ```
 
-8. `train sb. to do sth.` 训练某人去做某事
+9. `train sb. to do sth.` 训练某人去做某事
 
    ```
    He trains the dog to do this.
 
    They have been training Jack to swimming better since last year.
-   ```
-
-9. 文中 `Rex got so annoyed we have not seen him since` 这句话应该是 `so...that...` 句型，但是 `that` 被省略掉了。`so...that...` 句型中 `that` 是可以被省略的。因此完整的句子如下
-
-   ```
-   Rex got so annoyed that we have not seen him since.
    ```
 
 10. M: `get done` 也可以表示被动，和 `be done` 一致。但 `get done` 更偏向于口语表达
@@ -173,7 +173,7 @@ Yes, she's been writing her invitations all morning.
 ```
 
 ```
-He's working on her new book, isn't he?
+He's working on his new book, isn't he?
 
 Yes, he's been working on his new book all morning.
 ```

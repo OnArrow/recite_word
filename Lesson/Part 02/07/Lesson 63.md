@@ -2,7 +2,7 @@
 
 ## Words
 
-- circle admire close wedding reception sort
+- circle admire close wedding reception sort humour sense
 
 - ![Words](../../../Images/Part2/07/words-63.png)
 

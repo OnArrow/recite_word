@@ -2,7 +2,7 @@
 
 ## Words
 
-- Lancaster bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax
+- Lancaster bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax condition totally
 
 - ![Words](../../../Images/Part2/07/words-66.png)
 
@@ -46,7 +46,7 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
    I don't ever want to have packaged food anymore!
    ```
 
-7. `it's hard to imagine` 很难想象
+7. `it's hard to imagine that...` 很难想象...
 
    ```
    It's hard to imagine that he actually failed in the fight.

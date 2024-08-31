@@ -2,7 +2,7 @@
 
 ## Words
 
-- control smoke desolate threaten surrounding destruction flood authority grass seed spray quantity root century patch blacken
+- control smoke desolate threaten surrounding destruction flood authority grass seed spray quantity root century patch blacken serous
 
 - ![Words](../../../Images/Part2/07/words-62.png)
 

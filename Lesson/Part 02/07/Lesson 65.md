@@ -8,7 +8,7 @@
 
 ## Words
 
-- versus Christmas circus present accompany approach ought weigh fortunate
+- versus Christmas circus present accompany approach ought weigh fortunate honour
 
 - ![Words](../../../Images/Part2/07/words-65.png)
 
@@ -168,7 +168,7 @@ I ought to burn it, but I'm not going to!
 ```
 Do you have to prepare your speech now?
 
-I ought to prepare it, I'm not going to!
+I ought to prepare it, but I'm not going to!
 ```
 
 ```

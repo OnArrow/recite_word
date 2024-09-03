@@ -1,241 +1,253 @@
 # Review
-1. gaze **[ɡeɪz]** `v` 凝视，注视
+1. astonish **[əˈstɒnɪʃ]** `v` 使吃惊，使惊讶
 
-2. invent **[ɪnˈvent]** `v` 发明；创造
+2. volt **[vəʊlt]** `n` 伏特（电压单位）
 
-3. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
+3. flight **[flaɪt]** `n` 航班；飞行
 
-4. telescope **[ˈtelɪskəʊp]** `n` 望远镜
+4. fortune **[ˈfɔːtʃuːn]** `n` 财富；命运
 
-5. confine **[kənˈfaɪn]** `v` 关押，监禁；局限
+5. blew **[bluː]** `v` （blow 的过去式）
 
-6. promptly **[ˈprɒmptli]** `adv` 迅速地
+6. sweater **[ˈswetə(r)]** `n` 毛衣；卫衣
 
-7. sponsor **[ˈspɒnsə(r)]** `n` 赞助者，赞助商 `v` 赞助（活动，节目等）
+7. soil **[sɔɪl]** `n` 泥土，土壤
 
-8. sock **[sɒk]** `n` 短袜
+8. condition **[kənˈdɪʃn]** `n` 条款，条件；状况
 
-9. destruction **[dɪˈstrʌkʃ(ə)n]** `n` 破坏，毁灭
+9. confine **[kənˈfaɪn]** `v` 关押，监禁；局限
 
-10. seek **[siːk]** `v` 寻找，寻求
+10. fur **[fɜː(r)]** `n` 裘衣；毛皮
 
-11. battery **[ˈbætri]** `n` 电池
+11. brown **[braʊn]** `adj` 棕色的
 
-12. faulty **[ˈfɔːlti]** `adj` 有故障的；有错误的
+12. attendant **[əˈtendənt]** `n` 服务人员；接待员；随从 `adj` 伴随的；随之产生的
 
-13. wheel **[wiːl]** `n` 轮子，车轮
+13. enthusiast **[ɪnˈθjuːziæst]** `n` 爱好者
 
-14. flour **[ˈflaʊə(r)]** `n` 面粉
+14. admire **[ədˈmaɪə(r)]** `v` 钦佩，仰慕
 
-15. desolate **[ˈdesələt]** `adj` 荒凉的，荒无人烟的
+15. sponsor **[ˈspɒnsə(r)]** `n` 赞助者，赞助商 `v` 赞助（活动，节目等）
 
-16. enthusiast **[ɪnˈθjuːziæst]** `n` 爱好者
+16. invent **[ɪnˈvent]** `v` 发明；创造
 
-17. flight **[flaɪt]** `n` 航班；飞行
+17. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
 
-18. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
+18. customs **[ˈkʌstəmz]** `n` 海关；关税
 
-19. garage **[ˈɡærɑːʒ]** `n` 车库；加油站；汽车修理厂 `v` 把...送入车库
+19. bald **[bɔːld]** `adj` 秃头的
 
-20. temporarily **[ˈtemprərəli]** `adv` 暂时地，临时地
+20. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
 
-21. stream **[striːm]** `n` 数据流；小河，小溪；蒸汽
+21. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
 
-22. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
+22. granted **[ˈɡrɑːntɪd]** `v` （grant 的过去式） `adv` 的确；想当然
 
-23. soil **[sɔɪl]** `n` 泥土，土壤
+23. crystal **[ˈkrɪst(ə)l]** `n` 水晶
 
-24. spot **[spɒt]** `n` 地点，场所；污点，污渍
+24. wheel **[wiːl]** `n` 轮子，车轮
 
-25. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
+25. bush **[bʊʃ]** `n` 灌木丛
 
 26. ladder **[ˈlædə(r)]** `n` 梯子
 
-27. gust **[ɡʌst]** `n` 一阵风
+27. continent **[ˈkɒntɪnənt]** `n` 洲；大陆
 
-28. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植；安放（炸弹）
+28. miraculously **[mɪˈrækjələsli]** `adv` 奇迹般地；出乎意料地
 
-29. involve **[ɪnˈvɒlv]** `v` 牵涉，涉及；使陷入
+29. leading **[ˈliːdɪŋ]** `adj` 最重要的；主要的
 
-30. guiltily **[ˈɡɪltɪli]** `adv` 内疚地
+30. seem **[siːm]** `v` （涉及推断）似乎，看来；（用来表示谨慎，礼貌或委婉）可能，好像
 
-31. granted **[ˈɡrɑːntɪd]** `v` （grant 的过去式） `adv` 的确；想当然
+31. lounge **[laʊndʒ]** `n` 休息室；（机场等）等候室
 
-32. curious **[ˈkjʊəriəs]** `adj` 好奇的
+32. excursion **[ɪkˈskɜːʃn]** `n` 短途旅行，远足
 
-33. lorry **[ˈlɒri]** `n` 卡车；货车
+33. guiltily **[ˈɡɪltɪli]** `adv` 内疚地
 
-34. expert **[ˈekspɜːt]** `n` 专家
+34. faulty **[ˈfɔːlti]** `adj` 有故障的；有错误的
 
-35. century **[ˈsentʃəri]** `n` 世纪
+35. punish **[ˈpʌnɪʃ]** `v` 惩罚，处罚
 
-36. dine **[daɪn]** `v` 进餐；吃饭
+36. desolate **[ˈdesələt]** `adj` 荒凉的，荒无人烟的
 
-37. punish **[ˈpʌnɪʃ]** `v` 惩罚，处罚
+37. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
 
-38. bucket **[ˈbʌkɪt]** `n` 桶，水桶
+38. promptly **[ˈprɒmptli]** `adv` 迅速地
 
-39. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
+39. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
 
-40. lounge **[laʊndʒ]** `n` 休息室；（机场等）等候室
+40. garage **[ˈɡærɑːʒ]** `n` 车库；加油站；汽车修理厂 `v` 把...送入车库
 
-41. calm **[kɑːm]** `adj` 镇定的；冷静的 `v` 使镇定
+41. clumsily **[ˈklʌmzɪli]** `adv` 笨拙地
 
-42. uniform **[ˈjuːnɪfɔːm]** `n` 制服，校服 `adj` 全部相同的，始终如一的
+42. seek **[siːk]** `v` 寻找，寻求
 
-43. leading **[ˈliːdɪŋ]** `adj` 最重要的；主要的
+43. cursed **[ˈkɜːsɪd]** `adj` 被诅咒的
 
-44. figure **[ˈfɪɡə(r)]** `n` 图形；外形；人像;数字;数值
+44. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
 
-45. fortune **[ˈfɔːtʃuːn]** `n` 财富；命运
+45. parent **[ˈpeərənt]** `n` 父母；母体
 
-46. lecture **[ˈlektʃə(r)]** `n` 演讲 `v` （尤指在大学里）开讲座
+46. spot **[spɒt]** `n` 地点，场所；污点，污渍
 
-47. hesitate **[ˈhezɪteɪt]** `v` 犹豫；迟疑
+47. blow **[bləʊ]** `v` （风）刮，吹
 
-48. chimney **[ˈtʃɪmni]** `n` 烟囱
+48. destruction **[dɪˈstrʌkʃ(ə)n]** `n` 破坏，毁灭
 
-49. astonish **[əˈstɒnɪʃ]** `v` 使吃惊，使惊讶
+49. silly **[ˈsɪli]** `adj` 愚蠢的；傻的
 
-50. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
+50. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植；安放（炸弹）
 
-51. march **[mɑːtʃ]** `v` 行军；押送 `n` 进行曲；行军
+51. lecture **[ˈlektʃə(r)]** `n` 演讲 `v` （尤指在大学里）开讲座
 
-52. palace **[ˈpæləs]** `n` 王宫；宫殿
+52. vicar **[ˈvɪkə(r)]** `n` 牧师
 
-53. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期； `v` 把...称为
+53. distant **[ˈdɪstənt]** `adj` 遥远的
 
-54. wire **[ˈwaɪə(r)]** `n` 电线
+54. bucket **[ˈbʌkɪt]** `n` 桶，水桶
 
-55. virtue **[ˈvɜːtʃuː]** `n` 美德
+55. temporarily **[ˈtemprərəli]** `adv` 暂时地，临时地
 
-56. variable **[ˈveəriəb(ə)l]** `adj` 易变的，多变的 `n` 可变性，可变因素；（计算机）变量
+56. pleasure **[ˈpleʒə(r)]** `n` 快乐
 
-57. volt **[vəʊlt]** `n` 伏特（电压单位）
+57. virtue **[ˈvɜːtʃuː]** `n` 美德
 
-58. fortunate **[ˈfɔːtʃənət]** `adj` 幸运的
+58. tense **[tens]** `n` （动词的）时态 `adj` 紧张的，焦虑的
 
-59. invasion **[ɪnˈveɪʒ(ə)n]** `n` 侵略；入侵
+59. rather **[ˈrɑːðə(r)]** `adv` 而不是；宁愿；相当
 
-60. wheat **[wiːt]** `n` 小麦
+60. palace **[ˈpæləs]** `n` 王宫；宫殿
 
-61. quarrel **[ˈkwɒrəl]** `v` 争吵，吵架
+61. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
 
-62. colony **[ˈkɒləni]** `n` 群体；殖民地
+62. detect **[dɪˈtekt]** `v` 侦查；检测，探测
 
-63. excursion **[ɪkˈskɜːʃn]** `n` 短途旅行，远足
+63. battery **[ˈbætri]** `n` 电池
 
-64. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
+64. uniform **[ˈjuːnɪfɔːm]** `n` 制服，校服 `adj` 全部相同的，始终如一的
 
-65. alter **[ˈɔːltə(r)]** `v` 改变，改动
+65. scholarship **[ˈskɒləʃɪp]** `n` 奖学金
 
-66. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+66. display **[dɪˈspleɪ]** `v` 展示；（计算机）显示 `n` 表现；显示器；展览
 
-67. disguise **[dɪsˈɡaɪz]** `n` 伪装
+67. telescope **[ˈtelɪskəʊp]** `n` 望远镜
 
-68. bulletin **[ˈbʊlətɪn]** `n` 新闻简报
+68. eagle **[ˈiːɡ(ə)l]** `n` 鹰
 
-69. vicar **[ˈvɪkə(r)]** `n` 牧师
+69. seed **[siːd]** `n` 种子
 
-70. reference **[ˈrefrəns]** `n` 参考，查阅；提及，谈到；介绍信，推荐信 `adj` 参考的；用于查阅的 `v` 参考；引用
+70. calm **[kɑːm]** `adj` 镇定的；冷静的 `v` 使镇定
 
-71. sweater **[ˈswetə(r)]** `n` 毛衣；卫衣
+71. sign **[saɪn]** `v` 签名；签字 `n` 指示牌；标志；迹象
 
-72. fur **[fɜː(r)]** `n` 裘衣；毛皮
+72. curious **[ˈkjʊəriəs]** `adj` 好奇的
 
-73. parent **[ˈpeərənt]** `n` 父母；母体
+73. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
 
-74. display **[dɪˈspleɪ]** `v` 展示；（计算机）显示 `n` 表现；显示器；展览
+74. economy **[ɪˈkɒnəmi]** `n` 节省；经济
 
-75. capable **[ˈkeɪpəb(ə)l]** `adj` 有能力的
+75. dead **[ded]** `adj` 死的，去世的
 
-76. embarrass **[ɪmˈbærəs]** `v` （使）尴尬
+76. produce **[prəˈdjuːs]** `v` 生产；拿出
 
-77. British **[ˈbrɪtɪʃ]** `adj` （大不列颠及北爱尔兰）联合王国的;英国的 `n` 英国人
+77. hesitate **[ˈhezɪteɪt]** `v` 犹豫；迟疑
 
-78. blow **[bləʊ]** `v` （风）刮，吹
+78. explanation **[ˌekspləˈneɪʃ(ə)n]** `n` 解释，说明
 
-79. rather **[ˈrɑːðə(r)]** `adv` 而不是；宁愿；相当
+79. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
 
-80. blew **[bluː]** `v` （blow 的过去式）
+80. alter **[ˈɔːltə(r)]** `v` 改变，改动
 
-81. mop **[mɒp]** `n` 拖把 `v` 拖地
+81. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
 
-82. necklace **[ˈnekləs]** `n` 项链
+82. disguise **[dɪsˈɡaɪz]** `n` 伪装
 
-83. eagle **[ˈiːɡ(ə)l]** `n` 鹰
+83. reception **[rɪˈsepʃ(ə)n]** `n` 招待会；接待处
 
-84. Britain **[ˈbrɪt(ə)n]** `n` 英国，不列颠(包括英格兰、苏格兰及威尔士)；
+84. gaze **[ɡeɪz]** `v` 凝视，注视
 
-85. dead **[ded]** `adj` 死的，去世的
+85. necklace **[ˈnekləs]** `n` 项链
 
-86. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
+86. confess **[kənˈfes]** `v` 承认，坦白
 
-87. attendant **[əˈtendənt]** `n` 服务人员；接待员；随从 `adj` 伴随的；随之产生的
+87. march **[mɑːtʃ]** `v` 行军；押送 `n` 进行曲；行军
 
-88. bush **[bʊʃ]** `n` 灌木丛
+88. colony **[ˈkɒləni]** `n` 群体；殖民地
 
-89. distant **[ˈdɪstənt]** `adj` 遥远的
+89. flour **[ˈflaʊə(r)]** `n` 面粉
 
-90. frighten **[ˈfraɪt(ə)n]** `v` （使）惊吓，（使）惊恐
+90. dull **[dʌl]** `adj` 枯燥无聊的
 
-91. pleasure **[ˈpleʒə(r)]** `n` 快乐
+91. Britain **[ˈbrɪt(ə)n]** `n` 英国，不列颠(包括英格兰、苏格兰及威尔士)；
 
-92. journalist **[ˈdʒɜːnəlɪst]** `n` 新闻工作者
+92. flood **[flʌd]** `n` 洪水，火灾
 
-93. customs **[ˈkʌstəmz]** `n` 海关；关税
+93. course **[kɔːs]** `n` 课程；过程；行程；进展 `v` 奔流；快速流动
 
-94. flood **[flʌd]** `n` 洪水，火灾
+94. bulletin **[ˈbʊlətɪn]** `n` 新闻简报
 
-95. miraculously **[mɪˈrækjələsli]** `adv` 奇迹般地；出乎意料地
+95. invasion **[ɪnˈveɪʒ(ə)n]** `n` 侵略；入侵
 
-96. cursed **[ˈkɜːsɪd]** `adj` 被诅咒的
+96. mop **[mɒp]** `n` 拖把 `v` 拖地
 
-97. tense **[tens]** `n` （动词的）时态 `adj` 紧张的，焦虑的
+97. metal **[ˈmet(ə)l]** `n` 金属
 
-98. produce **[prəˈdjuːs]** `v` 生产；拿出
+98. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
 
-99. trunk **[trʌŋk]** `n` （汽车）后备箱；箱子；树干
+99. frighten **[ˈfraɪt(ə)n]** `v` （使）惊吓，（使）惊恐
 
-100. dull **[dʌl]** `adj` 枯燥无聊的
+100. involve **[ɪnˈvɒlv]** `v` 牵涉，涉及；使陷入
 
-101. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
+101. embarrass **[ɪmˈbærəs]** `v` （使）尴尬
 
-102. seed **[siːd]** `n` 种子
+102. century **[ˈsentʃəri]** `n` 世纪
 
-103. crystal **[ˈkrɪst(ə)l]** `n` 水晶
+103. journalist **[ˈdʒɜːnəlɪst]** `n` 新闻工作者
 
-104. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
+104. reference **[ˈrefrəns]** `n` 参考，查阅；提及，谈到；介绍信，推荐信 `adj` 参考的；用于查阅的 `v` 参考；引用
 
-105. explosion **[ɪkˈspləʊʒ(ə)n]** `n` 爆炸
+105. figure **[ˈfɪɡə(r)]** `n` 图形；外形；人像;数字;数值
 
-106. latch **[lætʃ]** `n` 门拴，门闩；门中间那根控制开关的横木
+106. fortunate **[ˈfɔːtʃənət]** `adj` 幸运的
 
-107. bald **[bɔːld]** `adj` 秃头的
+107. stream **[striːm]** `n` 数据流；小河，小溪；蒸汽
 
-108. explanation **[ˌekspləˈneɪʃ(ə)n]** `n` 解释，说明
+108. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
 
-109. silly **[ˈsɪli]** `adj` 愚蠢的；傻的
+109. wire **[ˈwaɪə(r)]** `n` 电线
 
-110. continent **[ˈkɒntɪnənt]** `n` 洲；大陆
+110. British **[ˈbrɪtɪʃ]** `adj` （大不列颠及北爱尔兰）联合王国的;英国的 `n` 英国人
 
-111. annoy **[əˈnɔɪ]** `v` 打扰，骚扰
+111. within **[wɪˈðɪn]** `prep` 在（某段时间）之内 `adv` 在里面，在内部
 
-112. condition **[kənˈdɪʃn]** `n` 条款，条件；状况
+112. term **[tɜːm]** `n` （某人做某事或某事发生的）时期；任期；学期； `v` 把...称为
 
-113. within **[wɪˈðɪn]** `prep` 在（某段时间）之内 `adv` 在里面，在内部
+113. receiver **[rɪˈsiːvə(r)]** `n` （电话）听筒；接收器
 
-114. admire **[ədˈmaɪə(r)]** `v` 钦佩，仰慕
+114. wheat **[wiːt]** `n` 小麦
 
-115. pastry **[ˈpeɪstri]** `n` 糕点；点心；面糊
+115. suppose **[səˈpəʊz]** `v` 假设，推断
 
-116. detect **[dɪˈtekt]** `v` 侦查；检测，探测
+116. expert **[ˈekspɜːt]** `n` 专家
 
-117. brown **[braʊn]** `adj` 棕色的
+117. sock **[sɒk]** `n` 短袜
 
-118. reception **[rɪˈsepʃ(ə)n]** `n` 招待会；接待处
+118. variable **[ˈveəriəb(ə)l]** `adj` 易变的，多变的 `n` 可变性，可变因素；（计算机）变量
 
-119. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
+119. gust **[ɡʌst]** `n` 一阵风
 
-120. metal **[ˈmet(ə)l]** `n` 金属
+120. latch **[lætʃ]** `n` 门拴，门闩；门中间那根控制开关的横木
+
+121. trunk **[trʌŋk]** `n` （汽车）后备箱；箱子；树干
+
+122. explosion **[ɪkˈspləʊʒ(ə)n]** `n` 爆炸
+
+123. dine **[daɪn]** `v` 进餐；吃饭
+
+124. chimney **[ˈtʃɪmni]** `n` 烟囱
+
+125. lorry **[ˈlɒri]** `n` 卡车；货车
+
+126. quarrel **[ˈkwɒrəl]** `v` 争吵，吵架
 

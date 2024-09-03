@@ -1,4 +1,5 @@
 # Review
+
 1. gaze **[ɡeɪz]** `v` 凝视，注视
 
 2. invent **[ɪnˈvent]** `v` 发明；创造
@@ -238,4 +239,3 @@
 119. competition **[ˌkɒmpəˈtɪʃ(ə)n]** `n` 比赛，竞赛
 
 120. metal **[ˈmet(ə)l]** `n` 金属
-

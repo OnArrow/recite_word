@@ -31,3 +31,38 @@ There he was picked up by a policeman and sent back to England by the local auth
 ## Whole
 
 1. `record holder` 记录保持者
+
+2. `play truant` 逃学
+
+3. `be put to shame` = `put sb. to shame` 使某人相形见绌，表示相比之下没有那么好
+
+   ```
+   Your cooking puts me to shame.
+   // 你的厨艺太好了，和我的相比，我的厨艺差得多了。使我相形见绌
+
+   I'm fairly confident that every students were put to shame by this.
+   ```
+
+4. `shame on you` 你太丢脸了
+
+   ```
+   Shame on you for not giving this to me sooner.
+   ```
+
+5. `hitchhike to sw.` 搭便车去某地
+
+   ```
+   He insisted on hitchhiking to his hometown.
+   ```
+
+6. `in the meantime` 与此同时
+
+   ```
+   In the meantime, he was busy with his homework.
+   ```
+
+7. `over and over again` 一次又一次
+
+   ```
+   Because you were unaware of it, you did that to me over and over again.
+   ```

@@ -79,7 +79,7 @@ The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'You
 
    - 完成被动
 
-   - 和 `分词作状语` 的变换规则一致
+   - 和 `分词作状语` 的变换规则一致。 `having done` 的被动
 
    ```
    After I had been instructed to drive out of town, I began to acquire confidence.
@@ -221,5 +221,5 @@ Not again! I was being reminded the need for economy all day yesterday!
 ```
 I'd like to inform you the firm's future plans.
 
-Not again! was being informed the firm's future plans all day yesterday!
+Not again! I was being informed the firm's future plans all day yesterday!
 ```

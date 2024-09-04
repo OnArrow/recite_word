@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   tax/税款 carelessly blown comic/漫画 athlete goal/进球得分 sought scar bikini baggage earthquake annoyed piss election/当选 invade/入侵
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   bulletin reference leading tense wheat figure within produce alter parent attendant flight curious explosion plant palace extraordinary exhibition iron variable display stream college sponsor bush uniform march gust miraculously promptly blow blew metal guiltily dull astonish frighten excursion granted confine rather virtue embarrass sock temporarily gaze receiver wire volt explanation practice garage term pastry dismay sign flour dead ladder lecture invent detect soil trunk battery mop bucket lorry journalist wheel course pleasure capable customs hesitate punish fur seek brown lounge silly bald spot sweater disguise cursed victim vicar competition latch expert annoy involve fortune crystal dine calm telescope faulty distant eagle desolate destruction flood seed century quarrel admire reception chimney invasion continent British Britain necklace   fortunate enthusiast colony condition curtain creep crept surely unimaginative shame simply fare wage
+   dismay sock shock quarrel gaze
    ```
 
 5. **Expressions**

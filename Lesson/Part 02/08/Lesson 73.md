@@ -60,3 +60,9 @@ There he was picked up by a policeman and sent back to England by the local auth
    ```
    In the meantime, he was busy with his homework.
    ```
+
+7. `over and over again` 一次又一次
+
+   ```
+   Because you were unaware of it, you did that to me over and over again.
+   ```

@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   dismay sock shock quarrel gaze
+   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer
    ```
 
 5. **Expressions**

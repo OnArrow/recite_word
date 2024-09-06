@@ -66,3 +66,125 @@ There he was picked up by a policeman and sent back to England by the local auth
    ```
    Because you were unaware of it, you did that to me over and over again.
    ```
+
+## Exercises
+
+```
+What was he doing when he found him?
+
+He was looking for somewhere to sleep.
+```
+
+```
+What was he doing when he met him?
+
+He was looking for someone to talk with.
+```
+
+```
+What was he doing when he met them?
+
+He was looking for something to read.
+```
+
+```
+What was he doing when he saw her?
+
+He was looking for somewhere to hide.
+```
+
+```
+What was he doing when he found him?
+
+He was looking for someone to play with.
+```
+
+```
+Oh dear! You've burnt your arm!
+
+Yes, I've burnt it when I was ironing.
+```
+
+```
+Oh dear! You've broken the vase!
+
+Yes, I've broken it when I was dusting the shelf.
+```
+
+```
+Oh dear! You've lost a glove!
+
+Yes, I've lost it when I was chasing a thief.
+```
+
+```
+Oh dear! You've torn your trousers!
+
+Yes, I've torn it when I was climbing a tree.
+```
+
+```
+Oh dear! You've hurt your leg!
+
+Yes, I've hurt it when I was playing football.
+```
+
+```
+She hasn't worn that dress before.
+
+Yes, she has. It's the dress she wore for the picnic last month.
+```
+
+```
+He hasn't read that magazine before.
+
+Yes, he has. It's the magazine he read in hospital last month.
+```
+
+```
+He hasn't spoken to that girl before.
+
+Yes, he has. It's the girl he spoke on the telephone last month.
+```
+
+```
+She hasn't seen that film before.
+
+Yes, she has. It's the film she saw in London last month.
+```
+
+```
+She hasn't heard that joke before.
+
+Yes, she has. It's the joke she heard on the radio last month.
+```
+
+```
+How did you get to Paris?
+
+I got there in a lorry.
+```
+
+```
+How did you get to the house?
+
+I got there on foot.
+```
+
+```
+How did you get to Canada?
+
+I got there by plane.
+```
+
+```
+How did you get to the island?
+
+I got there by swimming.
+```
+
+```
+How did you get to the village?
+
+I got there by helicopter.
+```

@@ -28,16 +28,41 @@
 
 ## Whole
 
-1. `April Fool's Day` 愚人节
+1. 文中开头的 `to end` 表示 `来结束`
 
-2. `bulletin board` 布告栏
+2. 文中 `going over to` 是电视播报的术语，表示 `将画面交给...`
+
+3. `April Fool's Day` 愚人节
+
+4. `bulletin board` 布告栏
 
    ```
    The bulletin board was covered with messages.
    ```
 
-3. `leading cause` 主要原因
+5. `leading cause` 主要原因
 
    ```
    Breast cancer is the leading cause of death for American women in their forties.
+   ```
+
+6. `splendid idea/example/view/garden` 极好的主意/例子/观点/花园
+
+   ```
+   What a splendid idea!
+   ```
+
+7. `whatever for` 询问出于什么原因
+
+   ```
+   He was late for the meeting.
+
+   Whatever for?
+   为什么他迟到？
+   ```
+
+8. `at the end of...` 在...的最后
+
+   ```
+   Always ask yourself at the end of the day, 'What did I manage to do today?'
    ```

@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain
+   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame
    ```
 
 5. **Expressions**

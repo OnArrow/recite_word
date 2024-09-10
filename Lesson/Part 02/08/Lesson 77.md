@@ -46,7 +46,35 @@ The doctors have not yet decided how the woman died. They feared that the mummy 
    This takes its name from a section from your body, and guess which part?
    ```
 
-4. M: `非限定性定语从句`
+4. `B.C.` 公元前。 `before Christ` 的简写。西方把耶稣出生的那天定为公元元年
+
+5. `have an operation` 手术
+
+   ```
+   She must have been having an operation at the time.
+   ```
+
+6. `died of...` 死于...。后面往往跟的是一种疾病
+
+   ```
+   He died of cancer before he was able to pay a visit to his hometown.
+   ```
+
+7. `fall to pieces` 物理意义上的变成碎片，也可以情绪上或心理上，表示 `人崩溃了，人变成了碎片，丧失理智了`
+
+   ```
+   The old map fell to pieces in my hands.
+
+   When he heard the bad news, he just fell to pieces.
+   ```
+
+8. `cut it open` 切开
+
+   ```
+   It's you who cut it open, not me!
+   ```
+
+9. M: `非限定性定语从句`
 
    - 中文解释: `限定性` 表示 `特指某个东西，区别于其它`。`非限定性` 表示 `只是对某个东西的解释和补充说明，这个东西通常是说话者和倾听者都知道的东西，所以不需要特指了`
 

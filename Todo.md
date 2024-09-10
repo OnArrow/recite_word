@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate laboratory wax god cow lit enormous effort amusement
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate laboratory wax god cow lit enormous effort amusement christ cancer
    ```
 
 2. **过去式&过去分词**

@@ -7,3 +7,75 @@
 - ![Words](../../../Images/Part2/08/words-77.png)
 
 ## Whole
+
+1. `a rare disease` 罕见的疾病
+
+   ```
+   If we get a rare disease from this water, at least we'll all die together.
+   ```
+
+2. `prove to be...` 证实为...
+
+   ```
+   It proved to be more difficult that I originally thought it would be.
+   ```
+
+3. `a section of sth.` 某物的一部分
+
+   ```
+   This takes its name from a section from your body, and guess which part?
+   ```
+
+4. M: `非限定性定语从句`
+
+   - 中文解释: `限定性` 表示 `特指某个东西，区别于其它`。`非限定性` 表示 `只是对某个东西的解释和补充说明，这个东西通常是说话者和倾听者都知道的东西，所以不需要特指了`
+
+     ```
+     我喜欢那个正在台上唱歌的女孩
+     // 限定性定语从句
+     // 女孩很多，但我就喜欢那个正在台上唱歌的
+
+     我喜欢的女孩，正在台上唱歌
+     // 非限定性定语从句
+     // 我朋友也知道我喜欢的女孩是谁，她正在台上唱歌，对我喜欢的女孩的补充说明
+     ```
+
+   - `非限定性定语从句` 使用 `,` 号隔开，所以通常口语难以分辨，但不妨碍我们理解其中意思
+
+   - `who`, `which` 引导的 `非限定性定语从句`
+
+     ```
+     My mother, who is 50 this year, lives with me now.
+     // `who is 50 this year` 为 `非限定性定语从句`
+     // 都知道我妈是谁
+
+     Beijing, which is the capital of China, has developed into a big city.
+     // `which is the capital of China` 为 `非限定性定语从句`
+     // 都知道北京这个城市
+     ```
+
+     - 和 `限定性定语从句` 的区别
+
+     ```
+     He has a daughter who works in a hospital.
+     他有一个在医院工作的女儿
+     // 潜在的意思可能是，有几个女儿，其中一个在医院上班，别的女儿可能在法院，政府部门工作，但这个特指这个在医院上班的女儿。所以是 `限定性`
+
+     He has a daughter, who works in a hospital.
+     他有一个女儿，在医院工作
+     // 潜在意思可能是，他的女儿，可能是唯一的的女儿，在医院工作。所以是 `非限定性`
+     ```
+
+   - `as` 引导的 `非限定性定语从句`
+
+     - `as` 指代一个完整的句子
+
+     - 位置灵活，句首，句中，句尾都可以放
+
+     ```
+     As I soon learnt, he was English himself.
+     // `as` 指代了 `he was English himself` 这个句子
+
+     As they soon learnt, disguises can somethings be too perfect.
+     // `as` 指代了 `disguises can somethings be too perfect` 这个句子
+     ```

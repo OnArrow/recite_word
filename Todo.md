@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate laboratory wax god cow lit enormous effort amusement christ cancer
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate
    ```
 
 2. **过去式&过去分词**
@@ -21,8 +21,7 @@
 4. **Review**
 
    ```
-   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process Signor present champion studio crop scissor film beard wipe among occasion
-   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process Signor present champion studio crop scissor film beard place decide light cigar
+   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process present champion studio crop scissor film beard wipe among occasion place decide light cigar fund
    ```
 
 5. **Expressions**

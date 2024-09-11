@@ -1,103 +1,107 @@
 # Review
-1. leading **[ˈliːdɪŋ]** `adj` 最重要的；主要的
+1. studio **[ˈstjuːdiəʊ]** `n` 工作室；设计室；录音室；播音室
 
-2. fool **[fuːl]** `n` 傻瓜，笨蛋
+2. explain **[ɪkˈspleɪn]** `v` 解释，说明
 
-3. shame **[ʃeɪm]** `n` 羞耻，惭愧
+3. crop **[krɒp]** `v` 裁剪(照片) `n` 庄稼
 
-4. torn **[tɔːn]** `v` （tear 的过去式）
+4. inquire **[ɪnˈkwaɪə(r)]** `v` 询问，打听
 
-5. splendid **[ˈsplendɪd]** `adj` 极好的
+5. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
 
-6. beard **[bɪəd]** `n` 胡须；（植物的）芒 `v` 顶撞；对抗（令人畏惧的人）
+6. early **[ˈɜːli]** `adv` 早；提前； `adj` 早期的；初期的
 
-7. place **[pleɪs]** `n` 地点；（有特定用途的）场所 `v` 放置；使...处于某种境地
+7. splendid **[ˈsplendɪd]** `adj` 极好的
 
-8. film **[fɪlm]** `n` 电影；艺术 `v` 录制，拍摄电影
+8. occasion **[əˈkeɪʒ(ə)n]** `n` 场合
 
-9. process **[ˈprəʊses]** `v` 处理；加工 `n` 步骤；过程；进程
+9. bulletin **[ˈbʊlətɪn]** `n` 新闻简报
 
-10. early **[ˈɜːli]** `adv` 早；提前； `adj` 早期的；初期的
+10. sock **[sɒk]** `n` 短袜
 
-11. situation **[ˌsɪtʃuˈeɪʃ(ə)n]** `n` 情境；情况，形势；重要问题
+11. among **[əˈmʌŋ]** `prep` 在...当中；...之一
 
-12. wipe **[waɪp]** `n` （湿）纸巾；抹布 `v` （用布、手等）擦干净
+12. beard **[bɪəd]** `n` 胡须；（植物的）芒 `v` 顶撞；对抗（令人畏惧的人）
 
-13. fog **[fɒɡ]** `n` 雾；烟雾，晨雾
+13. limelight **[ˈlaɪmlaɪt]** `n` 舞台灯光
 
-14. cigar **[sɪˈɡɑː(r)]** `n` 雪茄烟
+14. brave **[breɪv]** `adj` 勇敢的；无畏的
 
-15. scissor **[ˈsɪzə(r)]** `n` 剪刀
+15. grower **[ˈɡrəʊə(r)]** `n` 种植者
 
-16. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的；目前的
+16. helicopter **[ˈhelɪkɒptə(r)]** `n` 直升飞机
 
-17. among **[əˈmʌŋ]** `prep` 在...当中；...之一
+17. sneer **[snɪə(r)]** `n` 嘲笑，讥讽
 
-18. light **[laɪt]** `adj` 轻的；`n` 光；光源 `v` 点烟
+18. thresh **[θreʃ]** `vt` 打谷；打庄稼
 
-19. sock **[sɒk]** `n` 短袜
+19. fool **[fuːl]** `n` 傻瓜，笨蛋
 
-20. inquire **[ɪnˈkwaɪə(r)]** `v` 询问，打听
+20. leading **[ˈliːdɪŋ]** `adj` 最重要的；主要的
 
-21. deal **[diːl]** `n` 大量；交易 `v` 应对
+21. shame **[ʃeɪm]** `n` 羞耻，惭愧
 
-22. bulletin **[ˈbʊlətɪn]** `n` 新闻简报
+22. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送 `adj` （人）在场的，出席的；目前的
 
-23. decide **[dɪˈsaɪd]** `v` 决定，选定；裁决，判决；断定
+23. announcer **[əˈnaʊnsə(r)]** `n` 播音员
 
-24. champion **[ˈtʃæmpiən]** `n` 冠军
+24. blanket **[ˈblæŋkɪt]** `n` 毯子，毛毯
 
-25. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
+25. notice **[ˈnəʊtɪs]** `n` 通告；通知；简短通告;告示 `v` 留意；注意；客气对待
 
-26. precaution **[prɪˈkɔːʃ(ə)n]** `n` 预防措施
+26. wipe **[waɪp]** `n` （湿）纸巾；抹布 `v` （用布、手等）擦干净
 
-27. blanket **[ˈblæŋkɪt]** `n` 毯子，毛毯
+27. shock **[ʃɒk]** `v` 使震惊；使生气 `n` 震惊
 
-28. gather **[ˈɡæðə(r)]** `v` 聚集；收庄稼
+28. champion **[ˈtʃæmpiən]** `n` 冠军
 
-29. studio **[ˈstjuːdiəʊ]** `n` 工作室；设计室；录音室；播音室
+29. quarrel **[ˈkwɒrəl]** `v` 争吵，吵架
 
-30. explain **[ɪkˈspleɪn]** `v` 解释，说明
+30. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
 
-31. brave **[breɪv]** `adj` 勇敢的；无畏的
+31. cigar **[sɪˈɡɑː(r)]** `n` 雪茄烟
 
-32. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
+32. torn **[tɔːn]** `v` （tear 的过去式）
 
-33. fan **[fæn]** `n` 粉丝；风扇，扇子 `v` 为...扇风
+33. gather **[ˈɡæðə(r)]** `v` 聚集；收庄稼
 
 34. macaroni **[ˌmækəˈrəʊni]** `n` 空心面
 
-35. crop **[krɒp]** `v` 裁剪(照片) `n` 庄稼
+35. scissor **[ˈsɪzə(r)]** `n` 剪刀
 
-36. thresh **[θreʃ]** `vt` 打谷；打庄稼
+36. decide **[dɪˈsaɪd]** `v` 决定，选定；裁决，判决；断定
 
-37. quarrel **[ˈkwɒrəl]** `v` 争吵，吵架
+37. fan **[fæn]** `n` 粉丝；风扇，扇子 `v` 为...扇风
 
-38. host **[həʊst]** `n` 主机；宿主；主人；主持人；主办方； `v` 主办
+38. process **[ˈprəʊses]** `v` 处理；加工 `n` 步骤；过程；进程
 
-39. shock **[ʃɒk]** `v` 使震惊；使生气 `n` 震惊
+39. shady **[ˈʃeɪdi]** `adj` 遮荫的；阴凉的
 
-40. gaze **[ɡeɪz]** `v` 凝视，注视
+40. situation **[ˌsɪtʃuˈeɪʃ(ə)n]** `n` 情境；情况，形势；重要问题
 
-41. grower **[ˈɡrəʊə(r)]** `n` 种植者
+41. host **[həʊst]** `n` 主机；宿主；主人；主持人；主办方； `v` 主办
 
-42. limelight **[ˈlaɪmlaɪt]** `n` 舞台灯光
+42. gaze **[ɡeɪz]** `v` 凝视，注视
 
-43. notice **[ˈnəʊtɪs]** `n` 通告；通知；简短通告;告示 `v` 留意；注意；客气对待
+43. place **[pleɪs]** `n` 地点；（有特定用途的）场所 `v` 放置；使...处于某种境地
 
-44. helicopter **[ˈhelɪkɒptə(r)]** `n` 直升飞机
+44. stalk **[stɔːk]** `n` (植物的)梗，茎，杆
 
-45. sneer **[snɪə(r)]** `n` 嘲笑，讥讽
+45. light **[laɪt]** `adj` 轻的；`n` 光；光源 `v` 点烟
 
 46. sheriff **[ˈʃerɪf]** `n` 司法长官
 
-47. shady **[ˈʃeɪdi]** `adj` 遮荫的；阴凉的
+47. require **[rɪˈkwaɪə(r)]** `v` 需要；规定；要求做某事
 
-48. announcer **[əˈnaʊnsə(r)]** `n` 播音员
+48. fund **[fʌnd]** `n` 基金，专款 `v` 资助，为...提供资金
 
-49. require **[rɪˈkwaɪə(r)]** `v` 需要；规定；要求做某事
+49. deal **[diːl]** `n` 大量；交易 `v` 应对
 
-50. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
+50. precaution **[prɪˈkɔːʃ(ə)n]** `n` 预防措施
 
-51. stalk **[stɔːk]** `n` (植物的)梗，茎，杆
+51. film **[fɪlm]** `n` 电影；艺术 `v` 录制，拍摄电影
+
+52. dismay **[dɪsˈmeɪ]** `v` （使）失望；（使）沮丧 `n` 失望
+
+53. fog **[fɒɡ]** `n` 雾；烟雾，晨雾
 

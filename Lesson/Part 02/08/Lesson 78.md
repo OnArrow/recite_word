@@ -26,6 +26,8 @@ My wife was delighted that things had returned to normal once more. Anyway, as B
 
 1. `He himself has done it lots of times` 中的 `he himself`
 
+2. `I had all the usual symptoms of someone giving up smoking` 中的 `someone giving up smoking`
+
 ## Whole
 
 1. `entitle sb. to do sth.` 给某人权利去做某事
@@ -106,4 +108,48 @@ My wife was delighted that things had returned to normal once more. Anyway, as B
 
     ```
     I'm delighted that you get the nerve to do this by yourself.
+    ```
+
+14. `light a cigarette` 点根烟
+
+    ```
+    Would you mind my lighting a cigarette?
+    ```
+
+15. `sb. be sure that...` 某人很确信
+
+    ```
+    I'm sure that he will explain this to you.
+    ```
+
+16. `keep on doing sth.` 坚持做某事
+
+    ```
+    No matter what happened, just keep on trying and keep on hoping for better things in your life.
+    ```
+
+17. `offer sb. sth.` 给某人提供某物
+
+    ```
+    Who entitled you to offer him a job in my company?
+    ```
+
+18. `make no/every effort to do sth.` 毫不努力去做某事/付出全力去做某事
+
+    ```
+    You said you would help me, but you made no effort at all.
+
+    I've already made every effort to take precaution I can do.
+    ```
+
+19. `a packet of...` 一包...
+
+    ```
+    The little baby failed to open a packet of biscuits and lost his temper in the end.
+    ```
+
+20. `return to normal` 回到正常状态
+
+    ```
+    After he had an operation, his life returned to normal.
     ```

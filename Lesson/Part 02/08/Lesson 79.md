@@ -49,3 +49,54 @@ After we had landed, the plane was searched thoroughly. Fortunately, nothing was
    ```
    The police was sure that someone had planted a bomb near the station.
    ```
+
+5. `only` 引导的部分倒装句
+
+   1. 汉语中的倒装句
+
+      ```
+      我也没说话啊我寻思着
+      // 我寻思着我也没说话啊
+
+      吃了吗你？
+      // 你吃了吗？
+
+      这个妹妹很漂亮我觉得
+      // 我觉得这个妹妹很漂亮
+      ```
+
+   2. `only` 放在句首，主谓（可能）颠倒
+
+      - 可以理解为，变成 `一般疑问句` 时，谁被提到句首，那么谓语就是谁
+
+      ```
+      Only on one occasion have I ever felt frightened.
+      // `only` 放在句首，主语 `I` 和 谓语 `have` 颠倒
+
+      Only on one occasion I have ever felt frightened.
+      // 和上一句等价
+
+
+      Only then, did I understand what she meant.
+      // `only` 放在句首，主语 `I` 和 谓语 `did` 颠倒
+
+      Only then, I understood what she meant.
+      // 和上一句等价
+
+
+      Only after her death was I able to do that.
+      // `only` 放在句首，主语 `I` 和 谓语 `was` 颠倒
+
+      Only after her death I was able to do that.
+      // 和上一句等价
+
+
+      Then, and only then, can the door be opened.
+
+      Then, and only then, the door can be opened.
+
+
+      Only then will the world return to normal.
+
+      Only then the world will return to normal.
+      ```

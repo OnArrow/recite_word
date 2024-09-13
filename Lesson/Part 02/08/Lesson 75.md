@@ -73,3 +73,5 @@ Fortunately, a pilot saw the signal and sent a message by radio to the nearest t
    ```
    It was not long before he broke the record.
    ```
+
+## Exercises

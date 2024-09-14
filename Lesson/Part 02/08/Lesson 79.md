@@ -50,7 +50,7 @@ After we had landed, the plane was searched thoroughly. Fortunately, nothing was
    The police was sure that someone had planted a bomb near the station.
    ```
 
-5. `only` 引导的部分倒装句
+5. M: `only` 引导的部分倒装句
 
    1. 汉语中的倒装句
 

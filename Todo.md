@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process present champion studio crop scissor film beard wipe among occasion place decide light cigar fund precaution admire progressive strike state declare press object inform headmaster gift album patience honour total conversation hobby
+   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process present champion studio crop scissor film beard wipe among occasion place decide light cigar fund precaution admire progressive strike state declare press object inform headmaster gift album patience honour total conversation hobby despair dismay petrol breezy motion draft commit employer confirm suggest truth surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip
    ```
 
 5. **Expressions**

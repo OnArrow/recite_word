@@ -75,3 +75,123 @@ Fortunately, a pilot saw the signal and sent a message by radio to the nearest t
    ```
 
 ## Exercises
+
+```
+Did he really enter for a race?
+
+He entered for several and he even won one!
+```
+
+```
+Did he really write a story?
+
+He wrote for several and he even published one!
+```
+
+```
+Did he really see a murderer?
+
+He saw for several and he even arrested one!
+```
+
+```
+Did he really design a boat?
+
+He designed for several and he even built one!
+```
+
+```
+Did he really take an exam?
+
+He took for several and he even got through one!
+```
+
+```
+Why did you punish that boy yesterday?
+
+I didn't punish him. No one did.
+```
+
+```
+Why did you break the window yesterday?
+
+I didn't break it. No one did.
+```
+
+```
+Why did you invite those people yesterday?
+
+I didn't invite them. No one did.
+```
+
+```
+Why did you accept his excuse yesterday?
+
+I didn't accept it. No one did.
+```
+
+```
+Why did you steal the money yesterday?
+
+I didn't steal it. No one did.
+```
+
+```
+You look hot. What've you been doing?
+
+I went climbing this morning and got very hot.
+```
+
+```
+You look sunburnt. What've you been doing?
+
+I went walking this morning and got very sunburnt.
+```
+
+```
+You look dirty. What've you been doing?
+
+I went riding this morning and got very dirty.
+```
+
+```
+You look excited. What've you been doing?
+
+I went sailing this morning and got very excited.
+```
+
+```
+You look hungry. What've you been doing?
+
+I went skiing this morning and got very hungry.
+```
+
+```
+Did you remember to thank your host?
+
+Yes. I thanked him as politely as I could.
+```
+
+```
+Did you remember to deliver my message?
+
+Yes. I delivered it as quickly as I could.
+```
+
+```
+Did you remember to wrap up the parcel?
+
+Yes. I wrapped it up as carefully as I could.
+```
+
+```
+Did you remember to take back my library book?
+
+Yes. I took it back as soon as I could.
+```
+
+```
+Did you remember to tidy up your room?
+
+Yes. I tidied it up as well as I could.
+```

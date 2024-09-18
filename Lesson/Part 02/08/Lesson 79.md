@@ -100,3 +100,125 @@ After we had landed, the plane was searched thoroughly. Fortunately, nothing was
 
       Only then the world will return to normal.
       ```
+
+## Exercises
+
+```
+Jack was driving the car this morning.
+
+Was he really? He doesn't usually drive it, does he?
+```
+
+```
+Jack was preparing lunch this morning.
+
+Was he really? He doesn't usually prepare it, does he?
+```
+
+```
+Jack was exercising the dog this morning.
+
+Was he really? He doesn't usually exercise it, does he?
+```
+
+```
+Jack was listening to the radio this morning.
+
+Was he really? He doesn't usually listen to it, does he?
+```
+
+```
+Jack was talking to the postman this morning.
+
+Was he really? He doesn't usually talk to him, does he?
+```
+
+```
+Jack hardly talked at all today.
+
+I'm not surprised. He was talking all night.
+```
+
+```
+Jack hardly quarreled at all today.
+
+I'm not surprised. He was quarreling all night.
+```
+
+```
+Jack hardly cried at all today.
+
+I'm not surprised. He was crying all night.
+```
+
+```
+Jack hardly slept at all today.
+
+I'm not surprised. He was sleeping all night.
+```
+
+```
+Jack hardly wrote at all today.
+
+I'm not surprised. He was writing all night.
+```
+
+```
+Jack has been eating very little recently.
+
+So I noticed. He used to eat a lot.
+```
+
+```
+Jack has been drinking very little recently.
+
+So I noticed. He used to drink a lot.
+```
+
+```
+Jack has been talking stupidly recently.
+
+So I noticed. He used to talk sensibly.
+```
+
+```
+Jack has been working carelessly recently.
+
+So I noticed. He used to work carefully.
+```
+
+```
+Jack has been going to bed late recently.
+
+So I noticed. He used to go to bed early.
+```
+
+```
+He used to be a thief, didn't he?
+
+He used to be, but he was working in a bank the last time I saw him.
+```
+
+```
+He used to be a pilot, didn't he?
+
+He used to be, but he was selling the last time I saw him.
+```
+
+```
+She used to be an actress, didn't she?
+
+She used to be, but she was looking after her mother the last time I saw her.
+```
+
+```
+He used to be a teacher, didn't he?
+
+He used to be, but he was playing guitar the last time I saw him.
+```
+
+```
+She used to be a flight attendant, didn't she?
+
+She used to be, but she was learning to type the last time I saw her.
+```

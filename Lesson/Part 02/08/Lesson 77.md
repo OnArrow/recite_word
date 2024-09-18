@@ -127,3 +127,125 @@ The doctors have not yet decided how the woman died. They feared that the mummy 
      As they soon learnt, disguises can somethings be too perfect.
      // `as` 指代了 `disguises can somethings be too perfect` 这个句子
      ```
+
+## Exercises
+
+```
+I didn't know you played football!
+
+Didn't you? I've been playing it for some time now.
+```
+
+```
+I didn't know you gave concerts!
+
+Didn't you? I've been giving them for some time now.
+```
+
+```
+I didn't know you drove buses!
+
+Didn't you? I've been driving them for some time now.
+```
+
+```
+I didn't know you taught chemistry!
+
+Didn't you? I've been teaching it for some time now.
+```
+
+```
+I didn't know you designed dresses!
+
+Didn't you? I've been designing them for some time now.
+```
+
+```
+I didn't know she sang solo!
+
+Didn't you? She's sung solo on several occasions now.
+```
+
+```
+I didn't know she swam!
+
+Didn't you? She's swum for the school team now.
+```
+
+```
+I didn't know she appeared!
+
+Didn't you? She's appeared in television play now.
+```
+
+```
+I didn't know she reported!
+
+Didn't you? She's reported for this newspaper now.
+```
+
+```
+I didn't know she read the speak!
+
+Didn't you? She's read on the radio now.
+```
+
+```
+He's been crying, hasn't he?
+
+Yes, he has. He cried during the film.
+```
+
+```
+He's been running, hasn't he?
+
+Yes, he has. He ran all the way here.
+```
+
+```
+He's been eating raw onions, hasn't he?
+
+Yes, he ate them after lunch.
+```
+
+```
+He's been resting, hasn't he?
+
+Yes, he has. He rested on your bed for an hour.
+```
+
+```
+He's been writing, hasn't he?
+
+Yes, he has. He wrote for a while after lunch.
+```
+
+```
+You've played tennis before, haven't you?
+
+Yes, I played tennis at school.
+```
+
+```
+You've spoken on the radio before, haven't you?
+
+Yes, I spoke on the radio last month.
+```
+
+```
+You've mended the bridge before, haven't you?
+
+Yes, I mended it during the war.
+```
+
+```
+You've traveled round the world before, haven't you?
+
+Yes, I traveled round the world 5 years ago.
+```
+
+```
+You've taken this test before, haven't you?
+
+Yes, I took it last year.
+```

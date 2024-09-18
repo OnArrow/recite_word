@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate hardly/几乎不
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   dismay sock shock quarrel gaze torn helicopter ancient limelight precaution fan shady sheriff notice sneer brave situation deal early fog inquire require host blanket complain explain shame fool bulletin announcer macaroni leading grower splendid stalk gather thresh process present champion studio crop scissor film beard wipe among occasion place decide light cigar fund precaution admire progressive strike state declare press object inform headmaster gift album patience honour total conversation hobby despair dismay petrol breezy motion draft commit employer confirm suggest truth surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip
+   surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip progressive breezy declare murder wrap violin concert chemistry swim swam swum onion
    ```
 
 5. **Expressions**

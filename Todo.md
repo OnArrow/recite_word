@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate hardly/几乎不 eventually
+    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate hardly/几乎不 eventually dirt attractive
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip progressive breezy declare murder wrap violin concert chemistry swim swam swum onion whale factory royal track ladder tone character claim brought bright tail
+   surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip progressive breezy declare murder wrap violin concert chemistry swim swam swum onion whale factory royal track ladder tone character claim brought bright tail appetite cheap invent profit companies experience wood
    ```
 
 5. **Expressions**

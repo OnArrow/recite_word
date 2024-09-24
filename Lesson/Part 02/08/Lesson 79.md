@@ -50,56 +50,88 @@ After we had landed, the plane was searched thoroughly. Fortunately, nothing was
    The police was sure that someone had planted a bomb near the station.
    ```
 
-5. M: `only` 引导的部分倒装句
+5. `a great deal` 很多数量。和 `a lot`, `very much` 类似
 
-   1. 汉语中的倒装句
+   ```
+   You've done a great deal for your country.
+   ```
 
-      ```
-      我也没说话啊我寻思着
-      // 我寻思着我也没说话啊
+6. `take charge of...` 负责；承担责任；照顾。
 
-      吃了吗你？
-      // 你吃了吗？
+   ```
+   His boss asked him to take charge of the office for a few days while she was away.
+   ```
 
-      这个妹妹很漂亮我觉得
-      // 我觉得这个妹妹很漂亮
-      ```
+7. 和飞机有关的动词词组。 `take off` 起飞。 `gain height` 攀升高度。 `touch down` 降落；着陆
 
-   2. `only` 放在句首，主谓（可能）颠倒
+   ```
+   The plane is trying to gain height at the moment.
 
-      - 可以理解为，变成 `一般疑问句` 时，谁被提到句首，那么谓语就是谁
+   When the plane touched down, several detectives were waiting at the airport.
+   ```
 
-      ```
-      Only on one occasion have I ever felt frightened.
-      // `only` 放在句首，主语 `I` 和 谓语 `have` 颠倒
+8. `on board` 在飞机上；（船）在甲板上
 
-      Only on one occasion I have ever felt frightened.
-      // 和上一句等价
+   ```
+   Find out if there's a doctor on board as quietly as you can.
+   ```
+
+9. M: `be used to doing sth.` 习惯于做某事
+
+   ```
+   He is used to asking his parents to help him.
+   ```
+
+10. M: `only` 引导的部分倒装句
+
+    1. 汉语中的倒装句
+
+       ```
+       我也没说话啊我寻思着
+       // 我寻思着我也没说话啊
+
+       吃了吗你？
+       // 你吃了吗？
+
+       这个妹妹很漂亮我觉得
+       // 我觉得这个妹妹很漂亮
+       ```
+
+    2. `only` 放在句首，主谓（可能）颠倒
+
+       - 可以理解为，变成 `一般疑问句` 时，谁被提到句首，那么谓语就是谁
+
+       ```
+       Only on one occasion have I ever felt frightened.
+       // `only` 放在句首，主语 `I` 和 谓语 `have` 颠倒
+
+       Only on one occasion I have ever felt frightened.
+       // 和上一句等价
 
 
-      Only then, did I understand what she meant.
-      // `only` 放在句首，主语 `I` 和 谓语 `did` 颠倒
+       Only then, did I understand what she meant.
+       // `only` 放在句首，主语 `I` 和 谓语 `did` 颠倒
 
-      Only then, I understood what she meant.
-      // 和上一句等价
-
-
-      Only after her death was I able to do that.
-      // `only` 放在句首，主语 `I` 和 谓语 `was` 颠倒
-
-      Only after her death I was able to do that.
-      // 和上一句等价
+       Only then, I understood what she meant.
+       // 和上一句等价
 
 
-      Then, and only then, can the door be opened.
+       Only after her death was I able to do that.
+       // `only` 放在句首，主语 `I` 和 谓语 `was` 颠倒
 
-      Then, and only then, the door can be opened.
+       Only after her death I was able to do that.
+       // 和上一句等价
 
 
-      Only then will the world return to normal.
+       Then, and only then, can the door be opened.
 
-      Only then the world will return to normal.
-      ```
+       Then, and only then, the door can be opened.
+
+
+       Only then will the world return to normal.
+
+       Only then the world will return to normal.
+       ```
 
 ## Exercises
 

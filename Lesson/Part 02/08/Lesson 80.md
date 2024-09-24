@@ -27,3 +27,39 @@ Later, the Crystal Palace was moved to South London. It remained one of the most
 1. `steam hammer`
 
 ## Whole
+
+1. `on display` 展览
+
+   ```
+   Machinery like this should be on display right now.
+   ```
+
+2. `make a profit` 盈利
+
+   ```
+   It takes me ten years to make a profit from this.
+   ```
+
+3. `go to college` 上大学
+
+   ```
+   Why don't you want to go to college?
+   ```
+
+4. `be made of...` 由某物制造
+
+   ```
+   It's like that he is made of iron.
+   ```
+
+5. `of all time` 有史以来
+
+   ```
+   He is still greatest basketball player of all time.
+   ```
+
+6. `in all` 总共
+
+   ```
+   It's said that there were about 5000 people in all.
+   ```

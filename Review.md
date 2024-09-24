@@ -1,71 +1,83 @@
 # Review
-1. surface **[ˈsɜːfɪs]** `n` 表面；桌面，台面；曲面 `v` 浮出水面；公开；暴露 `adj` 表面上的
+1. royal **[ˈrɔɪəl]** `adj` 王室的；皇家的；盛大的，隆重的
 
-2. lower **[ˈləʊə(r)]** `adj` （尤指在同类中处于）较下的；下方的； `v` 减少；降低 `adv` 处于较低位置的
+2. tone **[təʊn]** `n` 色调，风格；气氛；语气 `v` 使健壮，使结实
 
-3. chemistry **[ˈkemɪstri]** `n` 化学
+3. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
 
-4. swam **[swæm]** `v` （swim 的过去式）
+4. collapse **[kəˈlæps]** `v` 折叠；倒塌；崩溃； `n` 倒塌，塌陷
 
-5. swim **[swɪm]** `n` 游泳 `v` 游泳；横渡
+5. slip **[slɪp]** `v` 滑倒，失足；溜走 `n` 滑；滑倒；小差错，疏漏
 
-6. concert **[ˈkɒnsət]** `n` 音乐会
+6. queue **[kjuː]** `n` 队列 `v` 排队
 
-7. comedy **[ˈkɒmədi]** `n` 喜剧
+7. whale **[weɪl]** `n` 鲸鱼
 
-8. breezy **[ˈbriːzi]** `adj` 微风的；通风好的
+8. lower **[ˈləʊə(r)]** `adj` （尤指在同类中处于）较下的；下方的； `v` 减少；降低 `adv` 处于较低位置的
 
-9. collapse **[kəˈlæps]** `v` 折叠；倒塌；崩溃； `n` 倒塌，塌陷
+9. murder **[ˈmɜːdə(r)]** `n` 谋杀；凶杀 `v` 谋杀
 
-10. track **[træk]** `v` 追踪，跟踪 `n` 赛道；跑道
+10. ladder **[ˈlædə(r)]** `n` 梯子
 
-11. dull **[dʌl]** `adj` 枯燥无聊的
+11. wrap **[ræp]** `v` 包裹，包装；（使文字）换行 `n` 披肩，围巾；宽松外套
 
-12. vibration **[vaɪˈbreɪʃ(ə)n]** `n` 震动；（情感的）共鸣
+12. dull **[dʌl]** `adj` 枯燥无聊的
 
-13. tail **[teɪl]** `n` 尾巴
+13. surface **[ˈsɜːfɪs]** `n` 表面；桌面，台面；曲面 `v` 浮出水面；公开；暴露 `adj` 表面上的
 
-14. capsule **[ˈkæpsjuːl]** `n` 胶囊；容器
+14. cheap **[tʃiːp]** `adj` 便宜的，廉价的 `adv` 低价地，便宜地
 
-15. chip **[tʃɪp]** `n` 炸薯条，炸薯片；芯片；缺口 `v` 打破，弄缺
+15. invent **[ɪnˈvent]** `v` 发明；创造
 
-16. factory **[ˈfæktəri]** `n` 工厂，制造厂
+16. profit **[ˈprɒfɪt]** `n` 利润
 
-17. declare **[dɪˈkleə(r)]** `v` 声明；宣布；断言
+17. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-18. whale **[weɪl]** `n` 鲸鱼
+18. swam **[swæm]** `v` （swim 的过去式）
 
-19. layer **[ˈleɪə(r)]** `n` 层；图层操作；层次
+19. bright **[braɪt]** `adj` 明亮的；鲜艳的；聪明的
 
-20. character **[ˈkærəktə(r)]** `n` 符号；字符；文字
+20. chemistry **[ˈkemɪstri]** `n` 化学
 
-21. tone **[təʊn]** `n` 色调，风格；气氛；语气 `v` 使健壮，使结实
+21. chip **[tʃɪp]** `n` 炸薯条，炸薯片；芯片；缺口 `v` 打破，弄缺
 
 22. violin **[ˌvaɪəˈlɪn]** `n` 小提琴
 
-23. progress **[ˈprəʊɡres]** `n` 进步；进度 `v` 进步；缓慢行进；进展
+23. layer **[ˈleɪə(r)]** `n` 层；图层操作；层次
 
-24. bright **[braɪt]** `adj` 明亮的；鲜艳的；聪明的
+24. capsule **[ˈkæpsjuːl]** `n` 胶囊；容器
 
-25. slip **[slɪp]** `v` 滑倒，失足；溜走 `n` 滑；滑倒；小差错，疏漏
+25. onion **[ˈʌnjən]** `n` 洋葱
 
-26. claim **[kleɪm]** `v` 索赔；声称；夺走...的生命 `n` 索赔；权力
+26. drill **[drɪl]** `n` 训练 `v` 钻孔
 
-27. progressive **[prəˈɡresɪv]** `adj` 渐进的；进步的，先进的；逐步发展的 `n` 进步分子
+27. track **[træk]** `v` 追踪，跟踪 `n` 赛道；跑道
 
-28. royal **[ˈrɔɪəl]** `adj` 王室的；皇家的；盛大的，隆重的
+28. factory **[ˈfæktəri]** `n` 工厂，制造厂
 
-29. wrap **[ræp]** `v` 包裹，包装；（使文字）换行 `n` 披肩，围巾；宽松外套
+29. vibration **[vaɪˈbreɪʃ(ə)n]** `n` 震动；（情感的）共鸣
 
-30. queue **[kjuː]** `n` 队列 `v` 排队
+30. brought **[brɔːt]** `v` （bring 的过去式）
 
-31. onion **[ˈʌnjən]** `n` 洋葱
+31. tail **[teɪl]** `n` 尾巴
 
-32. drill **[drɪl]** `n` 训练 `v` 钻孔
+32. concert **[ˈkɒnsət]** `n` 音乐会
 
-33. brought **[brɔːt]** `v` （bring 的过去式）
+33. wood **[wʊd]** `n` 木材；木料；树林 `adj` 木制的 `v` 收集木材
 
-34. murder **[ˈmɜːdə(r)]** `n` 谋杀；凶杀 `v` 谋杀
+34. comedy **[ˈkɒmədi]** `n` 喜剧
 
-35. ladder **[ˈlædə(r)]** `n` 梯子
+35. declare **[dɪˈkleə(r)]** `v` 声明；宣布；断言
+
+36. appetite **[ˈæpɪtaɪt]** `n` 食欲，胃口
+
+37. progress **[ˈprəʊɡres]** `n` 进步；进度 `v` 进步；缓慢行进；进展
+
+38. progressive **[prəˈɡresɪv]** `adj` 渐进的；进步的，先进的；逐步发展的 `n` 进步分子
+
+39. claim **[kleɪm]** `v` 索赔；声称；夺走...的生命 `n` 索赔；权力
+
+40. breezy **[ˈbriːzi]** `adj` 微风的；通风好的
+
+41. swim **[swɪm]** `n` 游泳 `v` 游泳；横渡
 

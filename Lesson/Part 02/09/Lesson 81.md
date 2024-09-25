@@ -23,3 +23,45 @@ As the man came near, the prisoner knocked him to the ground with a sharp blow. 
 ```
 
 ## Whole
+
+1. `sharp blow` 猛击
+
+   ```
+   He was knocked down by a sharp blow on the shoulder.
+   ```
+
+2. `change rapidly` 迅速改变
+
+   ```
+   Realizing the mission had failed, he changed the plan rapidly.
+   ```
+
+3. `up and down` 巡逻，往返；来来回回，在某个地方来回走动。不要理解为 `上下`
+
+   ```
+   His wife is having an operation right now, and he is walking up and down inside the waiting room.
+   ```
+
+4. `change into` 更换上...衣服
+
+   ```
+   I'm curious to find out why you changed into your best clothes.
+   ```
+
+5. `sb. discovered that...` 某人发现...
+
+   ```
+   I've discovered that you are responsible for this.
+   ```
+
+6. `stand to attention` 立正
+
+   ```
+   We were ordered to stand to attention.
+   ```
+
+7. `knock sb. to the ground` 把某人打倒到地上
+
+   ```
+   He hit me so hard that he almost knocked me to the ground.
+   ```

@@ -27,3 +27,16 @@ The fish, which has since been sent to a museum where it is being examined by a 
 1. `Though people have often laughed at stories told by seamen`
 
 ## Whole
+
+1. `a shining example` 光辉的榜样
+
+   ```
+   I think we should turn our attention to him, for he is a shining example to us.
+   ```
+
+2. Q: `be suppose to do sth.` 应该去做某事
+
+   ```
+   He is supposed to be working.
+   他应该去工作
+   ```

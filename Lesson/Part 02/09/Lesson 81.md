@@ -11,7 +11,7 @@
 ```
 When he had killed the guard, the prisoner of war quickly dragged him into the bushes. Working rapidly in the darkness, he soon changed into the dead man's clothes.
 
-Now, dressed in a blur uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.
+Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.
 
 He could hear shouting in the camp itself. Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.
 

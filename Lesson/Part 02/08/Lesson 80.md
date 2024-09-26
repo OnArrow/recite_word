@@ -63,3 +63,101 @@ Later, the Crystal Palace was moved to South London. It remained one of the most
    ```
    It's said that there were about 5000 people in all.
    ```
+
+## Exercises
+
+```
+These oranges aren't sweet enough.
+
+Get some Spanish oranges. They'd be much sweeter.
+```
+
+```
+These socks aren't warm enough.
+
+Get some woollen socks. They'd be much warmer.
+```
+
+```
+These cars aren't big enough.
+
+Get some American cars. They'd be much bigger.
+```
+
+```
+These watches aren't good enough.
+
+Get some Swiss watches. They'd be much better.
+```
+
+```
+These bags aren't strong enough.
+
+Get some leather bags. They'd be much stronger.
+```
+
+```
+Was there much dirt on the floor?
+
+No, it wasn't any dirtier than usual.
+```
+
+```
+She's the most attractive person I've ever met.
+
+She's not as attractive as you are!
+```
+
+```
+She's the most interesting person I've ever met.
+
+She's not as interesting as you are!
+```
+
+```
+She's the most impatient person I've ever met.
+
+She's not as impatient as you are!
+```
+
+```
+She's the most unfriendly person I've ever met.
+
+She's not as unfriendly as you are!
+```
+
+```
+She's the most unpleasant person I've ever met.
+
+She's not as unpleasant as you are!
+```
+
+```
+He drove as quickly as he could.
+
+Yes, he couldn't have driven any more quickly.
+```
+
+```
+He spoke as loudly as he could.
+
+Yes, he couldn't have spoken any more loudly.
+```
+
+```
+He wrote as fast as he could.
+
+Yes, he couldn't have written any more fast.
+```
+
+```
+He stayed as long as he could.
+
+Yes, he couldn't have stayed any longer.
+```
+
+```
+He sang as clearly as he could.
+
+Yes, he couldn't have sung any more clearly.
+```

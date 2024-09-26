@@ -65,3 +65,31 @@ As the man came near, the prisoner knocked him to the ground with a sharp blow. 
    ```
    He hit me so hard that he almost knocked me to the ground.
    ```
+
+## Exercises
+
+```
+Jack said he'd be at the hall at six.
+
+Well, if he's not here in five minutes, we'll have to go inside.
+
+
+Jack said he'd be at the theatre at six.
+
+Well, if he's not here in half an hour, we'll have to go inside.
+
+
+Jack said he'd be at the restaurant at six.
+
+Well, if he's not here in ten minutes, we'll have to go inside.
+
+
+Jack said he'd be at the stadium at six.
+
+Well, if he's not here in a quarter of an hour, we'll have to go inside.
+
+
+Jack said he'd be at the club at six.
+
+Well, if he's not here in fifteen minutes, we'll have to go inside.
+```

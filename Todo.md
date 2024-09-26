@@ -3,8 +3,7 @@
 1. **Word**
 
    ```
-    scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate
-   appropriate/合适的 oven scar bikini baggage earthquake annoyed piss election/当选 invade/入侵 overhead fortunately harvest cartload exaggerate operate hardly/几乎不 eventually dirt attractive
+   overhead fortunately harvest cartload exaggerate operate
    ```
 
 2. **过去式&过去分词**
@@ -22,14 +21,10 @@
 4. **Review**
 
    ```
-   surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip progressive breezy declare murder wrap violin concert chemistry swim swam swum onion whale factory royal track ladder tone character claim brought bright tail appetite cheap invent profit companies experience wood support framework transport site instruct admit weight yard heaven basement post shot festival attractive delight impatient
-   surface vibration collapse drill capsule layer lower progress slip comedy queue dull chip progressive breezy declare murder wrap violin concert chemistry swim swam swum onion whale factory royal track ladder tone character claim brought bright tail appetite cheap invent profit companies experience wood
-   lamb shake shook shaken soldier brave sharp tin mission attack inside insist sight temper temple repetition suppose
+   minister annoy theatre stadium
    ```
 
 5. **Expressions**
-
-   1. `look forward`
 
 6. **剑桥初级语法**
 

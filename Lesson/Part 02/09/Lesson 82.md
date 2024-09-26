@@ -40,3 +40,53 @@ The fish, which has since been sent to a museum where it is being examined by a 
    He is supposed to be working.
    他应该去工作
    ```
+
+3. `claim to have done sth.` 声称已经做了某事
+
+   ```
+   She claimed to have set up a new world record.
+   ```
+
+4. `laugh at` 嘲笑
+
+   ```
+   You're gonna laugh at what I'm gonna say, go ahead, I don't care.
+   ```
+
+5. `it is known that...` 这件事已经被人们知道了。 `it is well known that...` 众所周知
+
+   ```
+   It is known that he knocked her to the ground with a sharp blow last night.
+
+   It is well known that cats feel frightened when strangers enter the room.
+   ```
+
+6. `at times` 有时。类似于 `sometimes`
+
+   ```
+   I'm curious to find out why he loses his temper at times.
+   ```
+
+7. `out at sea` 在远海，远洋
+
+   ```
+   After the fishing boats had been out at sea for three days, they finally came back.
+   ```
+
+8. `in any way` 以任何方式
+
+   ```
+   I'm not trying to avoid meeting you in any way.
+   ```
+
+9. `sb./sth. was found to be...` 某人/某物被发现是什么样子
+
+   ```
+   If you are found to be worthless in a company, you will be fired.
+   ```
+
+10. `a depth of...` 多深的深度
+
+    ```
+    The cave is found to be over a depth of six hundred feet.
+    ```

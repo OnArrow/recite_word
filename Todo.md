@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   overhead fortunately harvest cartload exaggerate operate
+   overhead fortunately harvest cartload exaggerate operate metre
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   minister annoy theatre stadium
+   minister annoy theatre stadium ordinary wide seed fair rival urge opinion fear reward
    ```
 
 5. **Expressions**

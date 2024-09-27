@@ -48,19 +48,25 @@ As the man came near, the prisoner knocked him to the ground with a sharp blow. 
    I'm curious to find out why you changed into your best clothes.
    ```
 
-5. `sb. discovered that...` 某人发现...
+5. `change out of...` 脱掉...衣服
+
+   ```
+   You must change out of your overall immediately.
+   ```
+
+6. `sb. discovered that...` 某人发现...
 
    ```
    I've discovered that you are responsible for this.
    ```
 
-6. `stand to attention` 立正
+7. `stand to attention` 立正
 
    ```
    We were ordered to stand to attention.
    ```
 
-7. `knock sb. to the ground` 把某人打倒到地上
+8. `knock sb. to the ground` 把某人打倒到地上
 
    ```
    He hit me so hard that he almost knocked me to the ground.

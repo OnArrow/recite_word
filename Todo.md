@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   polish
+   polish relieved/宽慰的 overall/工装裤
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   minister annoy theatre stadium ordinary wide seed fair rival urge opinion fear reward fare overalls expert express inform headmaster contribute gift album patience encouragement farewell honour coincidence total devote gardening hobby pupil meter consume dig dug attend execute suppose draw drew drawn cursor
+   minister annoy theatre stadium ordinary wide seed fair rival urge opinion fear reward fare overalls expert express inform headmaster contribute gift album patience encouragement farewell honour coincidence total devote gardening hobby pupil meter consume dig dug attend execute suppose draw drew drawn cursor stick stuck
    ```
 
 5. **Expressions**

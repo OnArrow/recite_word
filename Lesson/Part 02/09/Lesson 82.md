@@ -34,26 +34,19 @@ The fish, which has since been sent to a museum where it is being examined by a 
    I think we should turn our attention to him, for he is a shining example to us.
    ```
 
-2. Q: `be suppose to do sth.` 应该去做某事
-
-   ```
-   He is supposed to be working.
-   他应该去工作
-   ```
-
-3. `claim to have done sth.` 声称已经做了某事
+2. `claim to have done sth.` 声称已经做了某事
 
    ```
    She claimed to have set up a new world record.
    ```
 
-4. `laugh at` 嘲笑
+3. `laugh at` 嘲笑
 
    ```
    You're gonna laugh at what I'm gonna say, go ahead, I don't care.
    ```
 
-5. `it is known that...` 这件事已经被人们知道了。 `it is well known that...` 众所周知
+4. `it is known that...` 这件事已经被人们知道了。 `it is well known that...` 众所周知
 
    ```
    It is known that he knocked her to the ground with a sharp blow last night.
@@ -61,32 +54,151 @@ The fish, which has since been sent to a museum where it is being examined by a 
    It is well known that cats feel frightened when strangers enter the room.
    ```
 
-6. `at times` 有时。类似于 `sometimes`
+5. `at times` 有时。类似于 `sometimes`
 
    ```
    I'm curious to find out why he loses his temper at times.
    ```
 
-7. `out at sea` 在远海，远洋
+6. `out at sea` 在远海，远洋
 
    ```
    After the fishing boats had been out at sea for three days, they finally came back.
    ```
 
-8. `in any way` 以任何方式
+7. `in any way` 以任何方式
 
    ```
    I'm not trying to avoid meeting you in any way.
    ```
 
-9. `sb./sth. was found to be...` 某人/某物被发现是什么样子
+8. `sb./sth. was found to be...` 某人/某物被发现是什么样子
 
    ```
    If you are found to be worthless in a company, you will be fired.
    ```
 
-10. `a depth of...` 多深的深度
+9. `a depth of...` 多深的深度
+
+   ```
+   The cave is found to be over a depth of six hundred feet.
+   ```
+
+10. `draw up` 起草（协议）
 
     ```
-    The cave is found to be over a depth of six hundred feet.
+    Only you can draw up the agreement.
     ```
+
+11. Q: `be supposed to do sth.` 应该去做某事
+
+    ```
+    He is supposed to be working.
+    他应该去工作
+    ```
+
+## Exercises
+
+```
+Someone must warn Jack immediately.
+
+Don't worry. He's already been warned.
+
+
+Someone must examine the body immediately.
+
+Don't worry. It's already been examined.
+
+
+Someone must polish the floor immediately.
+
+Don't worry. It's already been polished.
+
+
+Someone must tell the pilot immediately.
+
+Don't worry. He's already been told.
+
+
+Someone must light the fire immediately.
+
+Don't worry. It's already been lit.
+```
+
+```
+Have the men been caught yet?
+
+One of them was caught yesterday, but the other hasn't been caught yet.
+
+
+Have the houses been sold yet?
+
+One of them was sold yesterday, but the other hasn't been sold yet.
+
+
+Have the books been published yet?
+
+One of them was published yesterday, but the other hasn't been published yet.
+
+
+Have the trees been cut down yet?
+
+One of them was cut down yesterday, but the other hasn't been cut down yet.
+
+
+Have the messages been received yet?
+
+One of them was received yesterday, but the other hasn't been received yet.
+```
+
+```
+Why isn't that man working?
+
+I don't know. He's supposed to be working.
+
+
+Why aren't the children resting?
+
+I don't know. They're supposed to be resting.
+
+
+Why isn't he mending the road?
+
+I don't know. He's supposed to be mending the road.
+
+
+Why aren't they stopping in Rome?
+
+I don't know. They're supposed to stop in Rome.
+
+
+Why isn't the plane flying to Paris?
+
+I don't know. It's supposed to fly to Paris.
+```
+
+```
+When will the job be finished?
+
+I've no idea. It should have been finished hours ago.
+
+
+When will the book be published?
+
+I've no idea. It should have been published months ago.
+
+
+When will the radio be repaired?
+
+I've no idea. It should have been repaired days ago.
+
+
+When will the agreement be drawn up?
+
+I've no idea. It should have been drawn up weeks ago.
+
+
+When will the rubbish be burnt away?
+
+I've no idea. It should have been burnt away days ago.
+```

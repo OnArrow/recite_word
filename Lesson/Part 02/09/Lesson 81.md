@@ -93,3 +93,81 @@ Jack said he'd be at the club at six.
 
 Well, if he's not here in fifteen minutes, we'll have to go inside.
 ```
+
+```
+Mary's just gone into the library.
+
+That's funny! I've just come out of the library and I didn't see her in there.
+
+
+Jack's just gone into the pub.
+
+That's funny! I've just come out of the put and I didn't see him in there.
+
+
+Jack's just gone into the restaurant.
+
+That's funny! I've just come out of the restaurant and I didn't see him in there.
+
+
+Jack's just gone into the dining room.
+
+That's funny! I've just come out of the dining room and I didn't see him in there.
+
+
+Mary's just gone into the bank.
+
+That's funny! I've just come out of the bank and I didn't see her in there.
+```
+
+```
+Have you taken the cake out of the oven yet?
+
+Yes, and I've put it in the tin.
+
+
+Have you taken some ice from the fridge yet?
+
+Yes, and I've put it in the jug.
+
+
+Have you taken the beef out of the bridge yet?
+
+Yes, and I've put it in the tin.
+
+
+Have you taken the apples out of the box yet?
+
+Yes, and I've put them in the bowl.
+
+
+Have you taken the fruit from the basket yet?
+
+Yes, and I've put them in the box.
+```
+
+```
+Isn't she going to change out of those jeans?
+
+Yes, she's going to change into a dress.
+
+
+Isn't she going to change out of those shorts?
+
+Yes, she's going to change into a shirt and blouse.
+
+
+Isn't she going to change out of those overalls?
+
+Yes, she's going to change into a suit.
+
+
+Isn't she going to change out of those wet clothes?
+
+Yes, she's going to change into something dry.
+
+
+Isn't she going to change out of those old clothes?
+
+Yes, she's going to change into her new suit.
+```

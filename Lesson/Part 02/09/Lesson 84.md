@@ -105,3 +105,109 @@ But so far, the public has expressed its gratitude to the students in letters to
     ```
     On the following day, he took the test.
     ```
+
+## Exercises
+
+```
+How long will they be away?
+
+They'll be away for a month.
+
+
+How long will they be in hospital?
+
+They'll be hospital for about two weeks.
+
+
+How long will they be by the sea?
+
+They'll be by the sea for a fortnight.
+
+
+How long will they be at the meeting?
+
+They'll be at the meeting for two hours.
+
+
+How long will they be at the seaside?
+
+They'll be at the seaside for quite a while.
+```
+
+```
+How long will they take to climb the mountain?
+
+They'll climb it in three weeks.
+
+
+How long will they take to decorate the house?
+
+They'll decorate it in three days.
+
+
+How long will they take to sail the Atlantic?
+
+They'll sail it in about a month.
+
+
+How long will they take to reply to the letter?
+
+They'll reply to it in a week.
+
+
+How long will they take to mend the radio?
+
+They'll mend it about two days.
+```
+
+```
+We're going to see the film. Do you want to come?
+
+No thanks. I'll go and see it later.
+
+
+We're going to read the notice. Do you want to come?
+
+No thanks. I'll go and read it later.
+
+
+We're going to admire the view. Do you want to come?
+
+No thanks. I'll go and admire it later.
+
+
+We're going to speak to the manager. Do you want to come?
+
+No thanks. I'll go and speak to him later.
+
+
+We're going to look at the picture. Do you want to come?
+
+No thanks. I'll go and look at it later.
+```
+
+```
+He's going into hospital some time.
+
+Is he? Let me know when he goes.
+
+
+He's going to set out for the North Pole some time.
+
+Is he? Let me know when he sets out.
+
+
+He's going to come back from Europe some time.
+
+Is he? Let me know when he comes back.
+
+
+He's going to return from his holiday some time.
+
+Is he? Let me know when he returns.
+
+
+He's going to arrive at the airport some time.
+
+Is he? Let me know when he arrives.
+```

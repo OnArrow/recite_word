@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   polish relieved/宽慰的 overall/工装裤
+   polish relieved/宽慰的 temporary steering roar fortnight
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   minister annoy theatre stadium ordinary wide seed fair rival urge opinion fear reward fare overalls expert express inform headmaster contribute gift album patience encouragement farewell honour coincidence total devote gardening hobby pupil meter consume dig dug attend execute suppose draw drew drawn cursor stick stuck
+   minister annoy theatre stadium ordinary wide seed fair rival urge opinion fear reward fare overalls expert express inform headmaster contribute gift album patience encouragement farewell honour coincidence total devote gardening hobby pupil meter consume dig dug attend execute suppose draw drew drawn cursor stick stuck expand fright swing swung speedboat desperately companion water buoy dismay tremendous petrol drift gently deny violently violent seaside admire pole
    ```
 
 5. **Expressions**

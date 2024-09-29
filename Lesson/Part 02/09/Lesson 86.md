@@ -29,3 +29,48 @@ On this occasion, however, it had slowed down considerably. The petrol had nearl
 2. `Before long`
 
 ## Whole
+
+1. `water ski` 滑水
+
+2. 文中的 `they swam on as quickly as they could` 中的 `on` 有 `继续` 的意思，在这里表示 `继续游`。如 `go on the way` 在路上，也有 `继续` 的含义
+
+3. 文中的 `on this occasion` 表示 `这一次`
+
+4. `sb. noticed with dismay that...` 某人沮丧地意识到...
+
+   ```
+   She soon noticed with dismay that her opponent won the election.
+   ```
+
+5. `at tremendous speed` 速度飞快
+
+   ```
+   The bus fell into the river from the bridge at tremendous speed.
+   ```
+
+6. `steering wheel` 方向盘
+
+7. `before long` 很快。类似于 `soon`
+
+   ```
+   We'll finish the work before long.
+   ```
+
+8. `come away` 离开，脱离
+
+   ```
+   The paper has started to come away from the walls.
+   ```
+
+9. `move/walk/sit in a circle` 围成一个圈移动/走/坐
+
+   ```
+   The captain ordered us to sit in a circle on the floor.
+   ```
+
+10. `used up` 用光，用完
+
+    ```
+    She's used up all the hot water.
+    // `has used`
+    ```

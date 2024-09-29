@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   polish relieved/宽慰的 temporary steering roar fortnight apache copyright sunburn originally anniversary raise/加薪
+   polish relieved/宽慰的 temporary steering roar fortnight apache copyright sunburn originally anniversary raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 celebrate/庆祝 courage/勇气 loyalty/忠诚 investigate/调查
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   ordinary seed fair rival urge opinion fear fare overalls expert express   contribute   patience encouragement farewell honour coincidence  devote gardening  pupil  consume    execute suppose cursor expand fright speedboat desperately companion water buoy dismay tremendous petrol drift gently deny violently violent seaside admire pole cliff brave breast lorry evade precaution shady sheriff sneer signal helicopter thick signal stamp helicopter scene survivor overhead lie fog course blanket fool bulletin announcer macaroni leading grower splendid stalk gather thresh process Signor present champion studio mummy Egyptian temple mark plate disease last prove resin skin section figure normally survive whether entitle calm nerve concentration suffer symptom temper appetite produce urge satisfaction delighted enormous parent frightened curious bomb plant attendant palace extraordinary exhibition iron various machinery display steam profit college prisoner bush rapidly uniform rifle shoulder march boldly blaze salute elderly grey sharp blow monster sailor sight creature peculiar shining oarfish election former defeat fanatical opponent radical progressive suspicious strike busman state agreement relieve pressure extent volunteer gratitude Press object
+   ordinary seed fair rival urge opinion fear fare overalls expert express   contribute   patience encouragement farewell honour coincidence  devote gardening  pupil  consume    execute suppose cursor expand fright speedboat desperately companion water buoy dismay tremendous petrol drift gently deny violently violent seaside admire pole cliff brave breast lorry evade precaution shady sheriff sneer signal helicopter thick signal stamp helicopter scene survivor overhead lie fog course blanket fool bulletin announcer macaroni leading grower splendid stalk gather thresh process Signor present champion studio mummy Egyptian temple mark plate disease last prove resin skin section figure normally survive whether entitle calm nerve concentration suffer symptom temper appetite produce urge satisfaction delighted enormous parent frightened curious bomb plant attendant palace extraordinary exhibition iron various machinery display steam profit college prisoner bush rapidly uniform rifle shoulder march boldly blaze salute elderly grey sharp blow monster sailor sight creature peculiar shining oarfish election former defeat fanatical opponent radical progressive suspicious strike busman state agreement relieve pressure extent volunteer gratitude Press object fund eager huge straight glue
    ```
 
 5. **Expressions**

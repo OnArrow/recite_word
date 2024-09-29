@@ -1,5 +1,9 @@
 # Lesson 66
 
+## Marks
+
+1. M: `have something done` = `get something done` 这件事当事人不做，让别人去做
+
 ## Words
 
 - Lancaster bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax condition totally
@@ -125,7 +129,7 @@ A colony of bees had turned the engine into a hive and it was totally preserved 
     // 和上一句等价
     ```
 
-16. M: `have something done` = `get something done`
+16. `have something done` = `get something done`
 
     - 用法 1: `这件事当事人不做，让别人去做`
 

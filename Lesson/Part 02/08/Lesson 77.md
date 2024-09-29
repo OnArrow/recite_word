@@ -24,29 +24,27 @@ The doctors have not yet decided how the woman died. They feared that the mummy 
 
 1. `The mummy is that of Shepenmut` 中的 `is that`
 
-2. `on the X-ray plates taken of the mummy` 中的 `taken`
-
 ## Whole
 
-1. `a rare disease` 罕见的疾病
+1. `B.C.` 公元前。 `before Christ` 的简写。西方把耶稣出生的那天定为公元元年
+
+2. `a rare disease` 罕见的疾病
 
    ```
    If we get a rare disease from this water, at least we'll all die together.
    ```
 
-2. `prove to be...` 证实为...
+3. `prove to be...` 证实为...
 
    ```
    It proved to be more difficult that I originally thought it would be.
    ```
 
-3. `a section of sth.` 某物的一部分
+4. `a section of sth.` 某物的一部分
 
    ```
    This takes its name from a section from your body, and guess which part?
    ```
-
-4. `B.C.` 公元前。 `before Christ` 的简写。西方把耶稣出生的那天定为公元元年
 
 5. `have an operation` 手术
 
@@ -134,27 +132,23 @@ The doctors have not yet decided how the woman died. They feared that the mummy 
 I didn't know you played football!
 
 Didn't you? I've been playing it for some time now.
-```
 
-```
+
 I didn't know you gave concerts!
 
 Didn't you? I've been giving them for some time now.
-```
 
-```
+
 I didn't know you drove buses!
 
 Didn't you? I've been driving them for some time now.
-```
 
-```
+
 I didn't know you taught chemistry!
 
 Didn't you? I've been teaching it for some time now.
-```
 
-```
+
 I didn't know you designed dresses!
 
 Didn't you? I've been designing them for some time now.
@@ -164,28 +158,24 @@ Didn't you? I've been designing them for some time now.
 I didn't know she sang solo!
 
 Didn't you? She's sung solo on several occasions now.
-```
 
-```
+
 I didn't know she swam!
 
 Didn't you? She's swum for the school team now.
-```
 
-```
+
 I didn't know she appeared!
 
 Didn't you? She's appeared in television play now.
-```
 
-```
+
 I didn't know she reported!
 
 Didn't you? She's reported for this newspaper now.
-```
 
-```
-I didn't know she read the speak!
+
+I didn't know she read the speech!
 
 Didn't you? She's read on the radio now.
 ```
@@ -194,27 +184,23 @@ Didn't you? She's read on the radio now.
 He's been crying, hasn't he?
 
 Yes, he has. He cried during the film.
-```
 
-```
+
 He's been running, hasn't he?
 
 Yes, he has. He ran all the way here.
-```
 
-```
+
 He's been eating raw onions, hasn't he?
 
 Yes, he ate them after lunch.
-```
 
-```
+
 He's been resting, hasn't he?
 
 Yes, he has. He rested on your bed for an hour.
-```
 
-```
+
 He's been writing, hasn't he?
 
 Yes, he has. He wrote for a while after lunch.
@@ -224,27 +210,23 @@ Yes, he has. He wrote for a while after lunch.
 You've played tennis before, haven't you?
 
 Yes, I played tennis at school.
-```
 
-```
+
 You've spoken on the radio before, haven't you?
 
 Yes, I spoke on the radio last month.
-```
 
-```
+
 You've mended the bridge before, haven't you?
 
 Yes, I mended it during the war.
-```
 
-```
+
 You've traveled round the world before, haven't you?
 
 Yes, I traveled round the world 5 years ago.
-```
 
-```
+
 You've taken this test before, haven't you?
 
 Yes, I took it last year.

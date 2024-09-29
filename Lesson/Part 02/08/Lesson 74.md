@@ -107,27 +107,23 @@ Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried tw
 Why aren't you wearing your glasses?
 
 Because I hate wearing them.
-```
 
-```
+
 Why aren't you polishing the car?
 
 Because I don't like polishing it.
-```
 
-```
+
 Why aren't you drying the dishes?
 
 Because I dislike drying them.
-```
 
-```
+
 Why aren't you talking to Frank?
 
 Because I hate talking to him.
-```
 
-```
+
 Why aren't you watching football?
 
 Because I don't enjoy watching it.
@@ -137,27 +133,23 @@ Because I don't enjoy watching it.
 Jack always wears glasses.
 
 Are you sure? He isn't wearing any today.
-```
 
-```
+
 Jack always smokes a cigar.
 
 Are you sure? He isn't smoking any today.
-```
 
-```
+
 Jack always wears gloves.
 
 Are you sure? He isn't wearing any today.
-```
 
-```
+
 Jack always buys cigarettes here.
 
 Are you sure? He isn't buying any today.
-```
 
-```
+
 Jack always takes a taxi.
 
 Are you sure? He isn't taking any today.
@@ -169,33 +161,29 @@ I'm using your pen. Do you mind?
 No, it's all right. I don't need it just now.
 
 Yes, I do. I want to use it myself.
-```
 
-```
+
 I'm using your hammer. Do you mind?
 
 No, it's all right. I don't need it just now.
 
 Yes, I do. I want to use it myself.
-```
 
-```
+
 I'm using your dictionary. Do you mind?
 
 No, it's all right. I don't need it just now.
 
 Yes, I do. I want to use it myself.
-```
 
-```
+
 I'm using your ladder. Do you mind?
 
 No, it's all right. I don't need it just now.
 
 Yes, I do. I want to use it myself.
-```
 
-```
+
 I'm using your mirror. Do you mind?
 
 No, it's all right. I don't need it just now.
@@ -207,27 +195,23 @@ Yes, I do. I want to use it myself.
 What's she doing?
 
 I don't know what she's doing. I can't see anything.
-```
 
-```
+
 What's she talking about?
 
 I don't know what she's talking about. I can't hear anything.
-```
 
-```
+
 What's she burning?
 
 I don't know what she's burning. I can't smell anything.
-```
 
-```
+
 What's she writing?
 
 I don't know what she's writing. I can't see anything.
-```
 
-```
+
 What are we eating?
 
 I don't know what we're eating. I can't taste anything.

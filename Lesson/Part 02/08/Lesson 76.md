@@ -22,10 +22,6 @@
 'And that ends our special bulletin for today, Thursday, April 1st. We're now going back to the studio.'
 ```
 
-## Questions
-
-1. `have just finished cutting three cartloads` 的 `have done doing` 是时态还是 `cutting` 是动名词？
-
 ## Whole
 
 1. 文中开头的 `to end` 表示 `来结束`
@@ -73,27 +69,23 @@
 He's growing a beard.
 
 Whatever for? He hasn't grown one before, has he?
-```
 
-```
+
 He's employing a secretary.
 
 Whatever for? He hasn't employed one before, has he?
-```
 
-```
+
 He's giving a speech.
 
 Whatever for? He hasn't given one before, has he?
-```
 
-```
+
 He's building a garage.
 
 Whatever for? He hasn't built one before, has he?
-```
 
-```
+
 He's having an operation.
 
 Whatever for? He hasn't had one before, has he?
@@ -103,27 +95,23 @@ Whatever for? He hasn't had one before, has he?
 What do you think of his beard?
 
 It's all right, but he hasn't been growing it for long, has he?
-```
 
-```
+
 What do you think of my violin?
 
 It's all right, but you haven't been playing it for long, have you?
-```
 
-```
+
 What do you think of his glasses?
 
 It's all right, but he hasn't been wearing it for long, has he?
-```
 
-```
+
 What do you think of my camera?
 
 It's all right, but you haven't been using it for long, has he?
-```
 
-```
+
 What do you think of their work?
 
 It's all right, but they haven't been doing it for long, have they?
@@ -133,27 +121,23 @@ It's all right, but they haven't been doing it for long, have they?
 He's been telephoning me all morning.
 
 Don't exaggerate! He's only telephoned you twice.
-```
 
-```
+
 He's been interrupting me all morning.
 
 Don't exaggerate! He's only interrupted you twice.
-```
 
-```
-He's been shouting at mee all morning.
+
+He's been shouting at me all morning.
 
 Don't exaggerate! He's only shouted at you twice.
-```
 
-```
+
 He's been ringing the doorbell all morning.
 
 Don't exaggerate! He's only rung it twice.
-```
 
-```
+
 He's been asking me for coffee all morning.
 
 Don't exaggerate! He's only asked you for it twice.
@@ -163,27 +147,23 @@ Don't exaggerate! He's only asked you for it twice.
 Have you been reading magazines all the time I've been away?
 
 No, I haven't read any since you left.
-```
 
-```
+
 Have you been smoking cigarettes all the time I've been away?
 
 No, I haven't smoked any since you left.
-```
 
-```
+
 Have you been eating chocolates all the time I've been away?
 
 No, I haven't ate any since you left.
-```
 
-```
+
 Have you been painting pictures all the time I've been away?
 
 No, I haven't painted any since I left.
-```
 
-```
+
 Have you been answering questions all the time I've been away?
 
 No, I haven't answered any since you left.

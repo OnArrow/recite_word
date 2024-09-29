@@ -24,9 +24,7 @@ There he was picked up by a policeman and sent back to England by the local auth
 
 ## Questions
 
-1. ` A quiet day's fishing`
-
-2. `as he hoped it would`
+1. `as he hoped it would, but to Perpignan on the French-Spanish border`
 
 ## Whole
 

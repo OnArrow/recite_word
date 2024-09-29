@@ -22,12 +22,6 @@ When my old friend Brian urged me to accept a cigarette, it was more than I coul
 My wife was delighted that things had returned to normal once more. Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking. He himself has done it lots of times!
 ```
 
-## Questions
-
-1. `He himself has done it lots of times` 中的 `he himself`
-
-2. `I had all the usual symptoms of someone giving up smoking` 中的 `someone giving up smoking`
-
 ## Whole
 
 1. `entitle sb. to do sth.` 给某人权利去做某事
@@ -92,7 +86,7 @@ My wife was delighted that things had returned to normal once more. Anyway, as B
     If you were here, you would lose your appetite too.
     ```
 
-11. `urge sb. to do sth.` 怂恿某人去做某事。和 `persuade sb. to do sth.` 类似
+11. `urge sb. to do sth.` 怂恿某人去做某事。类似于 `persuade sb. to do sth.`
 
     ```
     He urged me to take a rest in this class.

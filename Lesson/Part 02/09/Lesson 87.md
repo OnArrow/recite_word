@@ -32,6 +32,18 @@
 'You see, on the morning of the murder, the 8 o'clock train did not run at all. It broke down at Ferngreen station and was taken off the line.'
 ```
 
-## Questions
-
 ## Whole
+
+1. `sb. suggest...` 某事暗示...
+
+   ```
+   Are you suggesting I'm lazy?
+   ```
+
+2. 文中的 `taken off the line` 结合语境可以理解为 `把这趟车从发车时刻表上去掉，下线`
+
+3. `on time` 准时
+
+   ```
+   I want you to get to school on time tomorrow morning.
+   ```

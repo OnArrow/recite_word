@@ -22,12 +22,6 @@ After it had passed, they swam on as quickly as they could because they knew tha
 On this occasion, however, it had slowed down considerably. The petrol had nearly all been used up. Before long, the noise dropped completely and the boat began to drift gently across the water.
 ```
 
-## Questions
-
-1. `who had been water skiing for the last fifteen minutes` 之前 15 分钟在水划的同伴
-
-2. `Before long`
-
 ## Whole
 
 1. `water ski` 滑水
@@ -74,3 +68,109 @@ On this occasion, however, it had slowed down considerably. The petrol had nearl
     She's used up all the hot water.
     // `has used`
     ```
+
+## Exercises
+
+```
+Did he post the letter when you asked him to?
+
+He'd already posted it.
+
+
+Did he cut the grass when you asked him to?
+
+He'd already cut it.
+
+
+Did he burn the papers when you asked him to?
+
+He'd already burnt them.
+
+
+Did he sign the paper when you asked him to?
+
+He'd already signed it.
+
+
+Did he feed the horse when you asked him to?
+
+He'd already fed it.
+```
+
+```
+Can I use the iron after you, please?
+
+I'm sorry. I put it away after I'd used it.
+
+
+Can I look at the paper after you, please?
+
+I'm sorry. I threw it away after I'd looked at it.
+
+
+Can I examine the note after you, please?
+
+I'm sorry. I tore it up after I'd examined it.
+
+
+Can I talk to the boy after you, please?
+
+I'm sorry. I sent him home after I'd talked to him.
+
+
+Can I look at the photos after you, please?
+
+I'm sorry. I gave it to Mary after I'd looked at it.
+```
+
+```
+Why did you see such a bad film?
+
+I hadn't seen it before, so I didn't know it was bad.
+
+
+Why did you read such a dull book?
+
+I hadn't read it before, so I didn't know it was dull.
+
+
+Why did you make such a boring journey?
+
+I hadn't made it before, so I didn't know it was boring.
+
+
+Why did you speak to such a rude man?
+
+I hadn't spoken to him before, so I didn't know he was rude.
+
+
+Why did you drive such a dangerous car?
+
+I hadn't driven it before, so I didn't know it was dangerous.
+```
+
+```
+Why was he so hot when he got home?
+
+He'd been running.
+
+
+Why was he so tired when he got home?
+
+He'd been working.
+
+
+Why was he so hungry when he got home?
+
+He'd been swimming.
+
+
+Why was he so nervous when he got home?
+
+He'd been fighting.
+
+
+Why was he so dirty when he got home?
+
+He'd been gardening.
+```

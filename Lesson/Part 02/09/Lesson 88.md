@@ -27,3 +27,10 @@ They have been told that rescue operations are progressing smoothly. If they kne
 1. `Though they are running out of food and drink`
 
 ## Whole
+
+1. `on the surface` 表面上，主观上常说的 `表面功夫`
+
+   ```
+   On the surface, she kept on helping him.
+   // 表面上帮，不是真心想帮
+   ```

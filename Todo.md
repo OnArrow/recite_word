@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule
+   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule wake woke woken
    ```
 
 5. **Expressions**

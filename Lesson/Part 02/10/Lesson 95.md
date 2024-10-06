@@ -6,6 +6,32 @@
 
 - ![Words](../../../Images/Part2/10/words-95.png)
 
+## A fantasy
+
+```
+When the Ambassador of Escalopia returned home for lunch, his wife got a shock. He looked pale and his clothes were in a frightful state.
+
+'What has happened?' she asked. 'How did your clothes get into such a mess?'
+
+'A fire extinguisher, my dear,' answered the Ambassador drily. 'University students set the Embassy on fire this morning.'
+
+'Good heavens!' exclaimed his wife. 'And where were you at the time?'
+
+'I was in my office as usual,' answered the Ambassador. 'The fire broke out in the basement. I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me. He thought I was on fire. I must definitely get that fellow posted.'
+
+The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.
+
+'And how can you explain that?' she asked.
+
+'Oh, that,' said the Ambassador. 'Someone fired a shot through my office window. Accurate, don't you think? Fortunately, I wasn't wearing it at the time. If I had been, I would not have been able to get home for lunch.'
+```
+
+## Questions
+
+1. `I must definitely get that fellow posted`
+
+2. `Accurate, don't you think?`
+
 ## Whole
 
 1. fire extinguisher 灭火器

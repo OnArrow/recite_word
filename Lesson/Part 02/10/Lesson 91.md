@@ -55,3 +55,33 @@ As the Commanding Officer explained later, one half of the station did not know 
    ```
    The things that he saw through his binoculars were top secrets.
    ```
+
+4. `seem to be doing` 似乎是正在做某事
+
+   ```
+   You seem to be taking a risk.
+   ```
+
+5. `make for sw.` 走过去到某个地方
+
+   ```
+   It's getting late, we'd better go and make for home.
+   ```
+
+6. `make out` 看出，辨别出
+
+   ```
+   I can read most of this, but I can't make out the last part, can you?
+   ```
+
+7. `soon afterwards` 很快
+
+   ```
+   Soon afterwards, they removed the gate from the front yard.
+   ```
+
+8. `be called in` 被人紧急地要求去处理某事
+
+   ```
+   All detectives were called in to help.
+   ```

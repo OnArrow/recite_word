@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   polish relieved/宽慰的 temporary steering roar fortnight apache copyright sunburn originally anniversary raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 celebrate/庆祝 courage/勇气 loyalty/忠诚 investigate/调查 therefore trigger/触发器 considerably awkwardly furious strain/使不堪重负 diver bump plentiful discuss
+   polish relieved/宽慰的 temporary steering roar fortnight apache copyright sunburn originally anniversary raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 celebrate/庆祝 courage/勇气 loyalty/忠诚 investigate/调查 therefore trigger/触发器 considerably awkwardly furious strain/使不堪重负 diver bump plentiful discuss irritable crack/裂开 unnatural overboard descend
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule wake woke woken flood glass dust habit belt injure petrol detect valuable tongue burst supper skate scare depend couple dead
+   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule wake woke woken flood glass dust habit belt injure petrol detect valuable tongue burst supper skate scare depend couple dead spare major aircraft afterwards parliament gratitude secret towel
    ```
 
 5. **Expressions**

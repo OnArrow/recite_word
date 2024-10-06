@@ -22,7 +22,7 @@ As a result, the fish just eat and eat and grow and grow in the lovely warm wate
 
 ## Whole
 
-1. oil rig 石油钻塔
+1. `oil rig` 石油钻塔
 
 2. `terrify sb. a great deal` 吓了某人一大跳
 
@@ -40,4 +40,34 @@ As a result, the fish just eat and eat and grow and grow in the lovely warm wate
 
    ```
    He was fired for a variety of reasons.
+   ```
+
+5. `it comes as a surprise to learn that...` 得知某个信息让人很惊讶
+
+   ```
+   It comes as a surprise to learn that an elephant is holding up the queue.
+   ```
+
+6. `protect A from B` 保护 A 免受 B 的伤害
+
+   ```
+   I would protect you from anyone who tried to hurt you.
+   ```
+
+7. `in length` 在长度上
+
+   ```
+   The whale is said to be over ten meters in length.
+   ```
+
+8. `the absence of...` 缺失
+
+   ```
+   In the absence of my mother, I will take charge of my little brother.
+   ```
+
+9. `as a result` 作为结果
+
+   ```
+   As a result, he'll have to leave tomorrow morning.
    ```

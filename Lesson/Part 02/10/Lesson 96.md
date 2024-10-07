@@ -25,3 +25,15 @@ This is a moving spectacle, for crowds of people stand on the shore watching the
 1. `As they are expected to be hungry after their long journey` 中的 `as`
 
 ## Whole
+
+1. `make a spectacle of oneself` 出洋相；丢人显眼
+
+   ```
+   He got drunk an made a spectacle of himself in the club.
+   ```
+
+2. `no more` 不再
+
+   ```
+   Afterwards, he has been allowed to return to his hometown no more.
+   ```

@@ -71,3 +71,109 @@ As a result, the fish just eat and eat and grow and grow in the lovely warm wate
    ```
    As a result, he'll have to leave tomorrow morning.
    ```
+
+## Exercises
+
+```
+I need a pen. Have you got one to spare?
+
+I'm sorry. I've only got one and I need it myself!
+
+
+I need a camera. Have you got one to spare?
+
+I'm sorry. I've only got one and I need it myself!
+
+
+I need a stamp. Have you got one to spare?
+
+I'm sorry. I've only got one and I need it myself!
+
+
+I need a knife. Have you got one to spare?
+
+I'm sorry. I've only got one and I need it myself!
+
+
+I need a radio. Have you got one to spare?
+
+I'm sorry. I've only got one and I need it myself!
+```
+
+```
+Would you like bread or toast for tea?
+
+I'll have toast, if I may.
+
+
+Would you like eggs or fish for supper?
+
+I'll have eggs, if I may.
+
+
+Would you like cake or biscuits with your tea?
+
+I'll have biscuits, if I may.
+
+
+Would you like salad or rice with your meat?
+
+I'll have salad, if I may.
+
+
+Would you like jam or honey with your toast?
+
+I'll have honey, if I may.
+```
+
+```
+I feel very irritable.
+
+Have a long walk and you'll feel better.
+
+
+I feel very dirty.
+
+Have a bath and you'll feel better.
+
+
+I feel very cold.
+
+Have a run round the garden and you'll feel better.
+
+
+I feel very tired.
+
+Have a drink and a rest and you will feel better.
+
+
+I feel very hot.
+
+Have a cold drink and you will feel better.
+```
+
+```
+That cup is cracked. I'll have to have it mended.
+
+Don't worry. I'll get it mended for you.
+
+
+That cat is dirty. I'll have to have it washed.
+
+Don't worry. I'll get it washed for you.
+
+
+That radio is broken. I'll have to have it repaired.
+
+Don't worry. I'll get it repaired for you.
+
+
+That grass is long. I'll have to have it cut.
+
+Don't worry. I'll get it cut for you.
+
+
+That tree is old. I'll have to have it cut down.
+
+Don't worry. I'll get it cut down for you.
+```

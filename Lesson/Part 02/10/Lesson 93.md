@@ -49,3 +49,109 @@ Ever since then, the great monument has been a symbol of liberty for the million
    ```
    They took the bed to pieces and moved it out of the room.
    ```
+
+## Exercises
+
+```
+Where will they be sending my case?
+
+It'll be sent to your home.
+
+
+Where will they be testing the oil rig?
+
+It'll be tested in the North Sea.
+
+
+Where will they be giving the lecture?
+
+It'll be given in the town hall.
+
+
+Where will they be constructing the stadium?
+
+It'll be constructed at Wembley.
+
+
+Where will they be making the film?
+
+It'll be made at the studio.
+```
+
+```
+I can't get this camera to work, it must be broken.
+
+Then it'll have to be repaired.
+
+
+I can't get these scissors to work, they must be broken.
+
+Then they'll have to be repaired.
+
+
+I can't get these microphones to work, it must be broken.
+
+Then they'll have to be repaired.
+
+
+I can't get this machine to work, it must be broken.
+
+Then it'll have to be repaired.
+
+
+I can't get this loudspeaker to work, it must be broken.
+
+Then it'll have to be repaired.
+```
+
+```
+Why can't the luggage be sent now?
+
+It must be weighed before it can be sent.
+
+
+Why can't the workers be admitted now?
+
+They must be researched before they can be admitted.
+
+
+Why can't the vegetables be cooked now?
+
+They must be cut up before they can be cooked.
+
+
+Why can't the house be occupied now?
+
+It must be cleaned before it can be occupied.
+
+
+Why can't the notice be put up now?
+
+It must be corrected before it can be put up.
+```
+
+```
+What happened to the luggage?
+
+It had to be weighed before it could be sent.
+
+
+What happened to the workers?
+
+They had to be researched before they could be admitted.
+
+
+What happened to the vegetables?
+
+They had to be cut up before they could be cooked.
+
+
+What happened to the house?
+
+It had to be cleaned before it could be occupied.
+
+
+What happened to the posters?
+
+They had to be corrected before they could be put up.
+```

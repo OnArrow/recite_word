@@ -69,3 +69,104 @@ We all know what the poor man should have said, but what he actually said was: '
    ```
    In the end, I couldn't control myself and burst out laughing.
    ```
+
+## Exercises
+
+```
+She needn't have washed the dishes.
+
+She had to wash them or her husband would have been furious with her.
+
+
+She needn't have tidied the room.
+
+She had to tidy it or her husband would have been furious with her.
+
+
+She needn't have fed the dog.
+
+She had to feed it or her husband would have been furious with her.
+
+
+She needn't have paid the bill.
+
+She had to pay it or her husband would have been furious with her.
+
+
+She needn't have gone shopping.
+
+She had to go shopping or her husband would have been furious with her.
+```
+
+```
+Didn't Mary type the letters yesterday?
+
+They'd already been typed, so she didn't have to type them.
+
+
+Didn't Jack prepare the speech yesterday?
+
+It had already been prepared, so he didn't have to prepare it.
+
+
+Didn't Jack make the decision yesterday?
+
+It'd already been made, so he didn't have to make it.
+
+
+Didn't Jack sign the contract yesterday?
+
+It'd already been signed, so he didn't have to sign it.
+
+
+Didn't Jack mend the light yesterday?
+
+It'd already been mended, so he didn't have to mend it.
+```
+
+```
+You mustn't read so much or you'll strain your eyes.
+
+I've got to do a lot of reading. It's part of my job.
+
+
+You mustn't shout so much or you'll strain your voice.
+
+I've got to do a lot of shouting. It's part of my job.
+
+
+You mustn't run about so much or you'll strain your heart.
+
+I've got to do a lot of running about. It's part of my job.
+
+
+You mustn't bend over so much or you'll strain your back.
+
+I've got to do a lot of bending over. It's part of my job.
+```
+
+```
+I can't understand it. He ought to have arrived by now.
+
+He must have been delayed.
+
+
+I can't understand it. He ought to have been here by now.
+
+He must have been kept at the office.
+
+
+I can't understand it. He ought to have come back by now.
+
+He must have been caught by the police.
+
+
+I can't understand it. He ought to have set out by now.
+
+He must have been taken ill.
+
+
+I can't understand it. He ought to have done the job by now.
+
+He must have been arrested.
+```

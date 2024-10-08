@@ -85,3 +85,109 @@ As the Commanding Officer explained later, one half of the station did not know 
    ```
    All detectives were called in to help.
    ```
+
+## Exercises
+
+```
+Where shall I put these towels?
+
+You can put them in the cupboard.
+
+
+Where shall I hang the wet clothes?
+
+You can hang them in the sun.
+
+
+Where shall I write the report?
+
+You can write it in the library.
+
+
+Where shall I park the car?
+
+You can park it in that car park.
+
+
+Where shall I buy the medicine?
+
+You can buy it from the chemist's.
+```
+
+```
+Can you go and see Mary soon?
+
+I may be able to go and see her tomorrow.
+
+
+Can you mend this strap soon?
+
+I may be able to mend it tomorrow.
+
+
+Can you take me to zoo soon?
+
+I may be able to take you to zoo tomorrow.
+
+
+Can you have lunch with us soon?
+
+I may be able to have lunch with you tomorrow.
+
+
+Can you come to see us soon?
+
+I may be able to come to see you tomorrow.
+```
+
+```
+Why didn't you jump over the stream?
+
+I couldn't jump over it. It was too wide.
+
+
+Why didn't you carry the case?
+
+I couldn't carry it. It was too heavy.
+
+
+Why didn't you buy the flat?
+
+I couldn't buy it. It was too expensive.
+
+
+Why didn't you move the cupboard?
+
+I couldn't move it. It was too big.
+
+
+Why didn't you drink your soup?
+
+I couldn't drink it. It was too hot.
+```
+
+```
+The door was locked, wasn't it?
+
+Yes, but I managed to open it in the end.
+
+
+He refused to agree, didn't he?
+
+Yes, but I managed to persuade him in the end.
+
+
+The horse ran away, didn't it?
+
+Yes, but I managed to catch it in the end.
+
+
+The box was very heavy, wasn't it?
+
+Yes, but I managed to lift it in the end.
+
+
+The river was very wide, wasn't it?
+
+Yes, but I managed to get across it in the end.
+```

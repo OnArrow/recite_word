@@ -105,3 +105,104 @@ They have been told that rescue operations are progressing smoothly. If they kne
 
     What caused you to change your mind?
     ```
+
+## Exercises
+
+```
+I can't possibly catch the train now!
+
+You might catch it if you hurry!
+
+
+I can't possibly pass the exam now!
+
+You might pass it if you study harder!
+
+
+I can't possibly sell the car now!
+
+You might sell it if you advertise it!
+
+
+I can't possibly win the race now!
+
+You might win it if you keep calm!
+
+
+I can't possibly finish in time now!
+
+You might finish it if you get help!
+```
+
+```
+He won't catch the train if he doesn't pack soon!
+
+He won't catch it now, even if he's already packed!
+
+
+He won't be in time if he doesn't call a taxi soon!
+
+He won't be in time, even if he has already called a taxi!
+
+
+He won't get the job if he doesn't apply soon!
+
+He won't get it, even if he has already applied!
+
+
+They won't find their cases if they don't advertise soon!
+
+They won't find them, even if they've already advertised!
+```
+
+```
+Will you go with him?
+
+I'd go with him if he asked me to, but I don't think he will!
+
+
+Will you mend his coat?
+
+I'd mend it if he asked me to, but I don't think he will!
+
+
+Will you enter for the race?
+
+I'd enter for it if he asked me to, but I don't think he will!
+
+
+Will you join his team?
+
+I'd join it if he asked me to, but I don't think he will!
+
+
+Will you go down the mine?
+
+I'd go down it if he asked me to, but I don't think he will!
+```
+
+```
+He shouldn't have failed so badly.
+
+He shouldn't have failed so badly if he'd worked harder.
+
+
+She shouldn't have lost her way.
+
+She shouldn't have lost her way if she had followed mt plan.
+
+
+He shouldn't have died.
+
+He shouldn't have died if he'd gone into hospital.
+
+
+He shouldn't have been late.
+
+He shouldn't have been late if he'd known the way.
+
+
+He shouldn't have retired.
+
+He shouldn't have retired if he'd had a good job.
+```

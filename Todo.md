@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule wake woke woken flood glass dust habit belt injure petrol detect valuable tongue burst supper skate scare depend couple dead spare major aircraft afterwards parliament gratitude secret towel brake risk whatever lean harbour activity camera luggage construct figure pedal pale exclaim accurate lay laid crowd tent nerve particular torch spark curtain perform calm contract salad strap lecture admit occupied calculator
+   fund eager huge straight glue improve intend soil invitation surely throw threw thrown tear tore torn quarrel volcano erupt beat schedule wake woke woken flood glass dust habit belt injure petrol detect valuable tongue burst supper skate scare depend couple dead spare major aircraft afterwards parliament gratitude secret towel brake risk whatever lean harbour activity camera luggage construct figure pedal pale exclaim accurate lay laid crowd tent nerve particular torch spark curtain perform calm contract salad strap lecture admit occupied calculator approve
    ```
 
 5. **Expressions**

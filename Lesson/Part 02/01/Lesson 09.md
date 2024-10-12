@@ -2,7 +2,7 @@
 
 ## Words
 
-- welcome crowd gather hand shout refuse laugh
+- welcome crowd gather hand shout refuse laugh strike
 
 ## A cold welcome
 

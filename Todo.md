@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    relieved/宽慰的  steering roar fortnight sunburn originally raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 investigate/调查  considerably awkwardly furious strain/使不堪重负 diver bump plentiful discuss irritable crack/裂开 overboard descend/下降 against/倚靠 erect/竖立 steel/钢铁 accustom aim kindergarten  possibly advertise bend/弯曲 activate
+    relieved/宽慰的  steering roar fortnight sunburn originally raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 investigate/调查  considerably awkwardly furious strain/使不堪重负 diver bump plentiful discuss irritable crack/裂开 overboard descend/下降 against/倚靠 erect/竖立 steel/钢铁 accustom aim kindergarten  possibly advertise bend/弯曲 activate behavior
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   quarrel occupied brake gratitude parliament couple spectacle attempt increase spoil lend lent specific practice advice enhance participate discussion pigeon Britain British urgent agent
+   quarrel occupied brake gratitude parliament couple spectacle attempt increase spoil lend lent specific practice advice enhance participate discussion pigeon Britain British urgent agent below accord
    ```
 
 5. **Expressions**

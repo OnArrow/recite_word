@@ -28,7 +28,7 @@ Stretched naked on a long table lay the body of Henry Armstrong, the head defile
 
 ## Words
 
-- convince testimony
+- convince testimony compel posture profitably confinement profound silence evidence controvert cavil withal apathy greatly concern uncommon fate allotted philosopher commonplace pathological indifference organ consequences torpid apprehension infrequent shimmers lightning silently portending stammering illuminations ghastly distinctness headstones cemetery credible witness likely straying grave
 
 ## Notes
 

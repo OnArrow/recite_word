@@ -16,10 +16,6 @@ Apart from a few words, I do not know any French at all. Neither of us spoke dur
 I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?' As I soon learnt, he was English himself!
 ```
 
-## Question
-
-1. Q: `As I soon learnt` 的 `as`
-
 ## Whole
 
 1. `wave to sb.` 朝某人招手

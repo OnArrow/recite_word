@@ -32,7 +32,10 @@ async function readTodoFile() {
     .tokens.find((item) => item.type === 'code')
 
   // 把所有单词组成一个数组
-  strArr = targetData.text.split(' ').filter((item) => item)
+  strArr = targetData.text
+    .trim()
+    .split(' ')
+    .filter((item) => item)
 
   // 写入文件标题
   await fsWrite(targetFilePath, '# Review\n', 'w')

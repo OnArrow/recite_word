@@ -1,55 +1,83 @@
 # Review
-1. increase **[ɪnˈkriːs]** `v` 增加；增长
+1. language **[ˈlæŋɡwɪdʒ]** `n` 语言
 
-2. agent **[ˈeɪdʒənt]** `n` 代理人，代理商；经纪人；间谍，特工
+2. string **[strɪŋ]** `n` 字符串，信息串；（乐器的）弦 `v` 用线穿，串起
 
-3. lend **[lend]** `v` 借出，借给；给予，提供
+3. amusing **[əˈmjuːzɪŋ]** `adj` 好笑的
 
-4. lent **[lent]** `v` （lend 的过去式）
+4. journey **[ˈdʒɜːni]** `n` 旅行，旅程
 
-5. specific **[spəˈsɪfɪk]** `adj` 明确的，具体的 `n` 细节，详情
+5. allow **[əˈlaʊ]** `v` 允许，准许
 
-6. occupied **[ˈɒkjupaɪd]** `adj` 忙于...的；（床、椅子、房间等）已被占用的；（地方）被占领的
+6. clavichord **[ˈklævɪkɔːd]** `n` 古钢琴
 
-7. shout **[ʃaʊt]** `vi` 喊叫；呼唤；大叫 `n` 呼喊声
+7. immediately **[ɪˈmiːdiətli]** `adv` 立即，马上
 
-8. Britain **[ˈbrɪt(ə)n]** `n` 英国，不列颠(包括英格兰、苏格兰及威尔士)；
+8. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
 
-9. pigeon **[ˈpɪdʒɪn]** `n` 鸽子
+9. damage **[ˈdæmɪdʒ]** `v` 损坏 `n` 损失；损害赔偿金
 
-10. parliament **[ˈpɑːləmənt]** `n` 议会；国会
+10. shock **[ʃɒk]** `v` 使震惊；使生气 `n` 震惊
 
-11. discussion **[dɪˈskʌʃ(ə)n]** `n` 讨论；辩论
+11. bank **[bæŋk]** `n` 银行；河岸 `v` 把（钱）存入银行
 
-12. spectacle **[ˈspektək(ə)l]** `n` 精彩的表演，壮观的场面
+12. wave **[weɪv]** `v` 招手，挥手
 
-13. accord **[əˈkɔːd]** `v` 与...一致；符合 `n` 协议，条约
+13. experience **[ɪkˈspɪəriəns]** `v` 体验；体会到 `n` 体验；经验；经历；工作经验
 
-14. practice **[ˈpræktɪs]** `n` 实践；实际操作；固定的训练时间 `v` 练习
+14. musical **[ˈmjuːzɪk(ə)l]** `adj` 音乐的；动听的；精通音乐的 `n` 音乐剧
 
-15. participate **[pɑːˈtɪsɪpeɪt]** `v` 参加，参与
+15. weak **[wiːk]** `adj` 虚弱的，无力的；懦弱的 `n` 弱者
 
-16. precious **[ˈpreʃəs]** `adj` 珍贵的
+16. sail **[seɪl]** `v` （船）航行 `n` 帆
 
-17. enhance **[ɪnˈhɑːns]** `v` 提高；增强；改善
+17. afford **[əˈfɔːd]** `v` 买得起；有时间做某事；负担得起
 
-18. below **[bɪˈləʊ]** `prep` (位置)在...下面；（数量、水平）在...之下 `adv` 在下面
+18. captain **[ˈkæptɪn]** `n` 队长；首领
 
-19. quarrel **[ˈkwɒrəl]** `v` 争吵，吵架
+19. harbour **[ˈhɑːbə(r)]** `n` 港口
 
-20. British **[ˈbrɪtɪʃ]** `adj` （大不列颠及北爱尔兰）联合王国的；英国的 `n` 英国人
+20. nervous **[ˈnɜːvəs]** `adj` 神经紧张的，紧张不安的
 
-21. spoil **[spɔɪl]** `v` 破坏，糟蹋；溺爱
+21. salary **[ˈsæləri]** `n` 工资；薪水
 
-22. couple **[ˈkʌp(ə)l]** `n` 两个，几个；一对夫妇
+22. recently **[ˈriːs(ə)ntli]** `adv` 不久前；最近
 
-23. gratitude **[ˈɡrætɪtjuːd]** `n` 感谢
+23. key **[kiː]** `n` 钥匙；琴键 `v` 键入
 
-24. attempt **[əˈtempt]** `v` 努力；尝试 `n` 企图杀害；尝试
+24. apart **[əˈpɑːt]** `adv` 除了...外
 
-25. urgent **[ˈɜːdʒənt]** `adj` 紧急的，急迫的
+25. club **[klʌb]** `n` 俱乐部；社团
 
-26. brake **[breɪk]** `n` 刹车 `v` 刹车
+26. lift **[lɪft]** `n` 电梯；免费搭车，搭便车 `v` 提起；举起
 
-27. advice **[ədˈvaɪs]** `n` 忠告，劝告；建议
+27. important **[ɪmˈpɔːt(ə)nt]** `adj` 重要的
+
+28. deserve **[dɪˈzɜːv]** `v` 值得；应该得到
+
+29. jazz **[dʒæz]** `n` 爵士乐
+
+30. touch **[tʌtʃ]** `v` 触摸；接触 `n` 触觉
+
+31. instrument **[ˈɪnstrəmənt]** `n` 乐器
+
+32. group **[ɡruːp]** `n` 群，组；集体
+
+33. performance **[pəˈfɔːməns]** `n` 性能；表现；表演 `adj` 高性能的
+
+34. turn **[tɜːn]** `v` 使旋转；转身；翻转；调整（音量、温度） `n` （不影响他人的）行为，举止
+
+35. extra **[ˈekstrə]** `adj` 额外的 `adv` 额外；格外
+
+36. luck **[lʌk]** `n` 运气；好运
+
+37. occasion **[əˈkeɪʒ(ə)n]** `n` 场合
+
+38. lawyer **[ˈlɔɪə(r)]** `n` 律师
+
+39. proud **[praʊd]** `adj` 自豪的，得意的
+
+40. reply **[rɪˈplaɪ]** `v` 回答；答复 `n` 答复；回应
+
+41. interrupt **[ˌɪntəˈrʌpt]** `v` 打断；打扰；中断
 

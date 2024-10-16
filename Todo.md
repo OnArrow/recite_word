@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   jazz musical instrument clavichord interrupt recently damage key string shock allow touch turn deserve lawyer bank salary immediately luck captain sail harbour proud important group club performance occasion amusing experience wave lift reply language journey apart secretary nervous afford weak extra
+   jazz musical instrument clavichord interrupt recently damage key string shock allow touch turn deserve lawyer bank salary immediately luck captain sail harbour proud important group club performance occasion amusing experience wave lift reply language journey apart secretary nervous afford weak extra park traffic ticket note area sign reminder fail obey appear stage bright sock stocking spite pub landlord bill hurry pity exclaim return sadly catch fisherman boot waste realize
 
    ```
 

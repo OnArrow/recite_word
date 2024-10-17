@@ -34,6 +34,7 @@ async function readTodoFile() {
   // 把所有单词组成一个数组
   strArr = targetData.text
     .trim()
+    .replaceAll('\n', ' ')
     .split(' ')
     .filter((item) => item)
 

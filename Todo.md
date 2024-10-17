@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-    relieved/宽慰的  steering roar fortnight sunburn originally raise/加薪 contribution graduate/获得学位 knowledge understanding/善解人意 investigate/调查  considerably awkwardly furious strain/使不堪重负 diver bump plentiful discuss irritable crack/裂开 overboard descend/下降 against/倚靠 erect/竖立 steel/钢铁 accustom aim kindergarten  possibly advertise bend/弯曲 activate behavior etcetera coach/教练；普通车厢
+
    ```
 
 2. **过去式&过去分词**
@@ -21,8 +21,7 @@
 4. **Review**
 
    ```
-   jazz musical instrument clavichord interrupt recently damage key string shock allow touch turn deserve lawyer bank salary immediately luck captain sail harbour proud important group club performance occasion amusing experience wave lift reply language journey apart secretary nervous afford weak extra park traffic ticket note area sign reminder fail obey appear stage bright sock stocking spite pub landlord bill hurry pity exclaim return sadly catch fisherman boot waste realize
-
+   mad sum reason determined dream age channel throw complete modern strange district manager upset sympathetic complain wicked contain honesty railway porter several foreigner wonder confine stomach alter envelope
    ```
 
 5. **Expressions**

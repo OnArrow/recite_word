@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   mad sum reason determined dream age channel throw complete modern strange district manager upset sympathetic complain wicked contain honesty railway porter several foreigner wonder confine stomach alter envelope
+   art critic critically paint pretend pattern curtain material appreciate notice whether hang hung tent field smell wonderful campfire creep crept comfortable soundly leap leapt heavily stream form wind wound right rare ancient myth trouble effect Medusa Gorgon taxi land plough lonely Welsh roof block flat desert polo cut row kick towards nearly sight pepper blonde nursery lip lyric sunny
    ```
 
 5. **Expressions**

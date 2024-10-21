@@ -63,7 +63,3 @@
 ## Questions
 
 1. `when we go walking`
-
-2. 本文中的 `as` 分别是什么用法？
-
-3. `I didn't think very often about being deaf` 中 `being`

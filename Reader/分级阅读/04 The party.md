@@ -6,7 +6,7 @@
 
 3.  It was almost spring, but it was still very cold. Ron and I stopped to buy some drinks on the way to the party and by the time we got to Pete's house it was beginning to snow.
 
-4.  Ron looked at me as we waited at the door. 'OK?' he asked
+4.  Ron looked at me as we waited at the door. 'OK?' he asked.
 
 5.  I smiled at him. 'Yes,' I said, 'I'm OK.'
 

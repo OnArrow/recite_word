@@ -57,7 +57,3 @@
 24. Ron is like my brother. So when he kissed my face, I knew it was the kiss of a brother to his sister.
 
 25. But I didn't know if Jim knew that.
-
-## Questions
-
-1. `Then I saw someone come out from behind a white tree` 中的 `behind` 是 `adv.` 还是 `prep.`？

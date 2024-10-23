@@ -1,119 +1,103 @@
 # Review
-1. material **[məˈtɪəriəl]** `n` 材料；衣料；布料 `adj` 物质的；费精神上的
+1. except **[ɪkˈsept]** `prep` 除...外，不包括
 
-2. trouble **[ˈtrʌb(ə)l]** `n` 问题，麻烦；困难 `v` 使忧虑，苦恼；费力
+2. Mediterranean **[ˌmedɪtəˈreɪniən]** `n` 地中海
 
-3. block **[blɒk]** `n` 大块，一块（木料、石头等）；大楼 `v` 堵塞（道路、管道等）；封锁；拦截
+3. patient **[ˈpeɪʃ(ə)nt]** `adj` 有耐心的，能忍耐的 `n` 病人，患者
 
-4. taxi **[ˈtæksi]** `n` 出租车；的士 `v` 乘出租车；（飞机）缓慢滑行
+4. hostess **[ˈhəʊstəs]** `n` 女主人；女主持人；（飞机、火车上的）女服务员
 
-5. Medusa **[mɪˈdjuːzə]** `n` 美杜莎（3 位蛇发怪女之一）
+5. design **[dɪˈzaɪn]** `n` 设计；布局；设计图 `v` 设计；制图；构思；筹划
 
-6. sunny **[ˈsʌni]** `adj` 阳光充足的；晴朗的；（性格）开朗的
+6. globe **[ɡləʊb]** `n` 地球；地球仪
 
-7. land **[lænd]** `n` 陆地，地面；地产，地皮；国土 `v` 着陆，降落
+7. alone **[əˈləʊn]** `adj` 独自的；孤独的；唯一的 `adv` 独自；单独
 
-8. notice **[ˈnəʊtɪs]** `n` 通告；通知；简短通告;告示 `v` 留意；注意；客气对待
+8. caller **[ˈkɔːlə(r)]** `n` 打电话的人
 
-9. soundly **[ˈsaʊndli]** `adv` 香甜地
+9. unsmiling **[ˌʌnˈsmaɪlɪŋ]** `adj` 严肃的；不笑的
 
-10. blonde **[blɒnd]** `adj` 金黄色的
+10. struggle **[ˈstrʌɡ(ə)l]** `v` 挣扎；搏斗
 
-11. rare **[reə(r)]** `adj` 三分熟；罕见的，不常发生的
+11. government **[ˈɡʌvənmənt]** `n` 政府
 
-12. leapt **[lept]** `v` （leap 的过去式）
+12. held **[held]** `v` （hold 的过去式）
 
-13. stream **[striːm]** `n` 数据流；小河，小溪；蒸汽
+13. sunshine **[ˈsʌnʃaɪn]** `n` 阳光
 
-14. curtain **[ˈkɜːt(ə)n]** `n` 窗帘，门帘
+14. hold **[həʊld]** `v` 托住；保住；控制（不让离开）；召开 `n` 拿；抓；握
 
-15. cut **[kʌt]** `v` （尤指用刀）切；割；砍；剪；削减；删减；剪辑；抄近路，穿过；刻 `n` （从动物躯体上）割下一块肉
+15. stadium **[ˈsteɪdiəm]** `n` （露天的）体育场
 
-16. heavily **[ˈhevɪli]** `adv` 大量地
+16. relative **[ˈrelətɪv]** `adj` 相对而言的；相对的； `n` 亲戚；亲属
 
-17. wound **[wuːnd]** `v` （wind 的过去式）
+17. bitterly **[ˈbɪtəli]** `adv` 极其寒冷地，刺骨地
 
-18. pattern **[ˈpæt(ə)n]** `n` 模式，方式；（声音或词汇有规则排列的）模式，语法；图案 `v` 用图案装饰，给...加上花样
+18. immense **[ɪˈmens]** `adj` 巨大的
 
-19. comfortable **[ˈkʌmfətəbl]** `adj` 令人舒适的；感到舒服的；自信的；宽裕的
+19. strong **[strɒŋ]** `adj` 强壮的；坚强的 `adv` 强劲地；猛烈地
 
-20. Welsh **[welʃ]** `adj` 威尔士的 `n` 威尔士语；威尔士人
+20. capital **[ˈkæpɪt(ə)l]** `n` 首都，首府；资本，资本家
 
-21. tent **[tent]** `n` 帐篷
+21. Olympic **[əˈlɪmpɪk]** `adj` 奥林匹克运动会的
 
-22. roof **[ruːf]** `n` 屋顶，车顶
+22. fix **[fɪks]** `v` 固定；修理;（注意力）集中在，专心考虑 `n` （尤指简单、暂时的）解决方法；困境
 
-23. field **[fiːld]** `n` 字段；信息栏；田地；专业，领域 `adj` 实地的，野外的 `v` 使参加比赛
+23. swimmer **[ˈswɪmə(r)]** `n` 游泳者；游泳运动员
 
-24. critically **[ˈkrɪtɪkli]** `adv` 批判性地
+24. solid **[ˈsɒlɪd]** `adj` 实心的；坚硬的
 
-25. art **[ɑːt]** `n` 艺术；美术
+25. anxiously **[ˈæŋkʃəsli]** `adv` 不安地；焦急地
 
-26. paint **[peɪnt]** `n` 油漆；涂料 `v` （给...）上油漆；（给...）涂颜料；（用颜料）绘画
+26. succeed **[səkˈsiːd]** `v` 成功
 
-27. whether **[ˈweðə(r)]** `conj` 是否（表示选择）；无论
+27. meant **[ment]** `v` （mean 的过去式）
 
-28. desert **[ˈdezət]** `v` 抛弃；舍弃 `n` 沙漠
+28. operation **[ˌɒpəˈreɪʃ(ə)n]** `n` 手术；操作
 
-29. ancient **[ˈeɪnʃənt]** `adj` 古老的；古代的
+29. sound **[saʊnd]** `v` （从噪音中）听起来 `n` 声音
 
-30. sight **[saɪt]** `n` 眼界；视力 `v` 看到
+30. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
 
-31. flat **[flæt]** `n` 公寓 `adj` 水平的；平坦的
+31. cafe **[ˈkæfeɪ]** `n` 咖啡馆；小餐馆
 
-32. row **[rəʊ]** `n` 一排；一行 `v` 划（船）
+32. continually **[kənˈtɪnjuəli]** `adv` 不断地；连续地
 
-33. towards **[təˈwɔːdz]** `prep` 朝着；接近（某一时间）
+33. intend **[ɪnˈtend]** `v` 打算
 
-34. pepper **[ˈpepə(r)]** `n` 辣椒；甜椒；胡椒粉
+34. temptation **[tempˈteɪʃ(ə)n]** `n` 诱惑
 
-35. leap **[liːp]** `v` 跳跃
+35. pepper **[ˈpepə(r)]** `n` 辣椒；甜椒；胡椒粉
 
-36. form **[fɔːm]** `n` 表格，表单；形式 `v` (关系、习惯或想法)构成，形成
+36. certain **[sɜːt(ə)n]** `adj` 某个；无疑的
 
-37. wonderful **[ˈwʌndəf(ə)l]** `adj` 极好的；令人惊叹的
+37. settle **[ˈset(ə)l]** `v` 解决，结束（争端等）；定居
 
-38. pretend **[prɪˈtend]** `v` 假装，伪装
+38. inquire **[ɪnˈkwaɪə(r)]** `v` 询问，打听
 
-39. crept **[krept]** `v` （creep 的过去式）
+39. train **[treɪn]** `n` 火车；列车 `v` 培训；训练
 
-40. creep **[kriːp]** `v` 爬行
+40. mean **[miːn]** `adj` 吝啬的，小气的 `v` 表示...的意思；意味着
 
-41. kick **[kɪk]** `v` 踢，踢腿 `n` 踢
+41. standard **[ˈstændəd]** `n` 规范；（品质的）标准
 
-42. wind **[wɪnd]** `n` 风，气流 `v` 弯曲前进；缠绕，绕成团
+42. desert **[ˈdezət]** `v` 抛弃；舍弃 `n` 沙漠
 
-43. smell **[smel]** `v` 闻起来；闻出；闻到 `n` 气味；臭味
+43. nursery **[ˈnɜːsəri]** `n` 托儿所；幼儿园
 
-44. nursery **[ˈnɜːsəri]** `n` 托儿所；幼儿园
+44. record **[ˈrekɔːd]** `n` 记录，记载；唱片 `v` 录制；记录，记载
 
-45. hang **[hæŋ]** `v` 悬挂，吊
+45. battered **[ˈbætəd]** `adj` 撞坏的；磨损的
 
-46. right **[raɪt]** `adj` （意见，判断）对的；可以 `n` 右边 `adv` （地点、位置或时间）正好
+46. exchange **[ɪksˈtʃeɪndʒ]** `n` 电话交换台，电话局
 
-47. lip **[lɪp]** `n` 嘴唇
+47. tight **[taɪt]** `adj` 紧身的；绷紧的
 
-48. critic **[ˈkrɪtɪk]** `n` 批评家；评论员
+48. successful **[səkˈsesf(ə)l]** `adj` 成功的
 
-49. effect **[ɪˈfekt]** `n` 作用，影响 `v` 实现，引起
+49. following **[ˈfɒləʊɪŋ]** `adj` 之后的，接下来的 `n` 追随者
 
-50. plough **[plaʊ]** `v` 耕地
+50. complain **[kəmˈpleɪn]** `v` 投诉，抱怨
 
-51. lyric **[ˈlɪrɪk]** `n` 歌词
-
-52. myth **[mɪθ]** `n` 神话故事；虚构的人（或事）
-
-53. nearly **[ˈnɪəli]** `adv` 几乎；差不多；即将
-
-54. hung **[hʌŋ]** `v` （hang 的过去式）
-
-55. polo **[ˈpəʊləʊ]** `n` 水球；马球
-
-56. Gorgon **[ˈɡɔːɡən]** `n` 戈尔贡（3 位蛇发怪女之一）
-
-57. campfire **[ˈkæmpfaɪə(r)]** `n` 篝火；营火
-
-58. lonely **[ˈləʊnli]** `adj` 偏僻的，人迹罕至的；孤独的
-
-59. appreciate **[əˈpriːʃieɪt]** `v` 欣赏，鉴赏；感激
+51. despair **[dɪˈspeə(r)]** `n` 绝望
 

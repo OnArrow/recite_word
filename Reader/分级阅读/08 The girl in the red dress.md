@@ -26,6 +26,8 @@
 
 13. She waited for a moment to see if I would say anything, but I was too hurt inside to speak. Hurt and afraid. So she said it one more time: "Stay away from Jim." Then she left.
 
+    - `I was too hurt inside to speak` 内心被伤得很深以至于说不出话
+
 14. There was a seat in the park under a tree. I sat down on it and watched her walk away. My head hurt. It was full of her words. She was Jim's girlfriend until he met me. Was that true? Why didn't he tell me? And he played music in a band... Was that true as well? I thought I knew Jim, but now... I didn't know what to believe or to think. I only knew that I was afraid. Very afraid. I knew why Jim never spoke to me about his music. Because I'm deaf.
 
 15. Just then I felt my phone ring. I took it from my bag and looked at it. There was a text message from Jim. Meet me tonight I love you, Jim

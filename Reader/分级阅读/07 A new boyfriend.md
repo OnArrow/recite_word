@@ -4,7 +4,7 @@
 
 2. On the beach it was cold but sunny. Some children were running by the sea with their dog. As we walked along, I told Mum about Jim.
 
-3. When I was finished, my face was a bit red. You really like him, don't you? she said, looking at me.
+3. When I was finished, my face was a bit red. 'You really like him, don't you?' she said, looking at me.
 
 4. It was windy by the sea. Mum's hair was all over her face, but I could see her smile through it.
 
@@ -16,15 +16,17 @@
 
 8. Jim and I went to a bar in the centre of Norwich. It was in the old area of town, close to the river. There was a pool table in the bar. I like playing pool. Ron taught me how to play, years ago. Now I'm better than him.
 
+   - `pool table` 台球桌
+
 9. Jim saw me looking at the pool table and the next moment he was putting some money into the side of it. We played and I won easily. It only took five minutes.
 
 10. My last boyfriend got angry when he lost. But when I looked at Jim I saw that he was laughing. I liked that.
 
 11. 'Very good!' he said. "But my snowballs are better than yours!" Then he looked at me. "Can you understand me?"
 
-12. I smiled. Yes, I said. I can understand if you speak slowly. Can you understand me?
+12. I smiled. 'Yes,' I said. 'I can understand if you speak slowly. Can you understand me?'
 
-13. Jim smiled too. Yes, he said, I can understand you very well.
+13. Jim smiled too. 'Yes,' he said, 'I can understand you very well.'
 
 14. We sat down together at a table and for the next two hours we talked. Most of the time we spoke to each other, and sometimes we wrote things down. I didn't think about how we were talking, I was too interested in what we were saying.
 
@@ -37,6 +39,7 @@
 18. 'I'm sure you will,' Jim said. 'You'll write a book and you'll be famous.'
 
 19. I just want to be happy, I wrote on his piece of paper. But I was already happy. Happy being with Jim.
+
 20. What's it like to be deaf?' Jim asked then, and I thought for a moment.
 
 21. You don't mind me asking you that, do you?' Jim asked.

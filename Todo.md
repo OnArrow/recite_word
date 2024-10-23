@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-
+   easily
    ```
 
 2. **过去式&过去分词**
@@ -21,15 +21,13 @@
 4. **Review**
 
    ```
-   art critic critically paint pretend pattern curtain material appreciate notice whether hang hung tent field smell wonderful campfire creep crept comfortable soundly leap leapt heavily stream form wind wound right rare ancient myth trouble effect Medusa Gorgon taxi land plough lonely Welsh roof block flat desert polo cut row kick towards nearly sight pepper blonde nursery lip lyric sunny
+   struggle battered temptation nursery pepper desert record strong swimmer succeed train anxiously intend solid Olympic hold held government immense stadium standard capital fantastic design except Mediterranean complain continually bitterly sunshine settle operation successful following patient alone exchange inquire certain caller relative hostess unsmiling tight fix globe despair sound cafe mean meant
    ```
 
 5. **Expressions**
 
    ```
-   each other
 
-   put forward
    ```
 
 6. **剑桥初级语法**

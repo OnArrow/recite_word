@@ -3,13 +3,13 @@
 1. **Word**
 
    ```
-   easily
+   easily abort/中断
    ```
 
 2. **过去式&过去分词**
 
    ```
-   choose
+
    ```
 
 3. **比较级&最高级**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   struggle battered temptation nursery pepper desert record strong swimmer succeed train anxiously intend solid Olympic hold held government immense stadium standard capital fantastic design except Mediterranean complain continually bitterly sunshine settle operation successful following patient alone exchange inquire certain caller relative hostess unsmiling tight fix globe despair sound cafe mean meant
+   struggle battered temptation nursery pepper desert record strong swimmer succeed train anxiously intend solid Olympic hold held government immense stadium standard capital fantastic design except Mediterranean complain continually bitterly sunshine settle operation successful following patient alone exchange inquire certain caller relative hostess unsmiling tight fix globe despair sound cafe mean meant host
    ```
 
 5. **Expressions**

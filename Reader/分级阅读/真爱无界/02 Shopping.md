@@ -59,7 +59,3 @@
 21. When I looked up, the young man was speaking again. Then he waited for me to answer him. But I didn't hear him, so I couldn't. So I just smiled and took my newspaper and left the shop.
 
 22. But as I walked across the road to my house, I felt sad because I was sure he probably did think I was strange now.
-
-## Questions
-
-1. `when we go walking`

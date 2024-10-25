@@ -28,15 +28,11 @@
 
 7. Mum smiles more than anyone I know. She's always happy, that's one of the things everyone loves about her. The children at Busy Kids Day Nursery, where we both work, all love Mum. Busy Kids is Mum's business. She started it five years ago.
 
-   - `that's one of things` 那是其中之一
-
 8. Mum's really good with children. I remember when I was quite young - five or six years old - I was sad about something. I don't remember what I was sad about, but I do remember what Mum said. We sat in a chair together with her face close to mine and she put her arms around me. We stayed like that for a while, and then she sat back so she could talk to me. Mum and I use our hands and fingers to talk to each other. It's called signing.
 
    - `I do remember` 我清楚地记得。 `do` 是 `aux.`，用于加强语气用的
 
    - `her face close to mine` 她的脸靠近我。 `close` 在这表示 `拉近（距离）`
-
-   - `each other` 彼此
 
 9. Anyway, Mum said that we can choose how to be in life - happy or sad. She said, 'Life's short, so choose to be happy.' I try never to forget those words.
 
@@ -45,8 +41,6 @@
 11. Mum and my father met when he was working in Norwich for a year. They fell in love and soon got married. Dad moved into the house where Mum and I live now. Norwich is a beautiful place, but it isn't as big and exciting as Paris. I think my father got bored. Or perhaps he was sad when I was born deaf. Because that's when he went away to live with his family in Paris. He never came back.
 
     - `get married` 结婚
-
-    - `get bored` 感到无聊；变得厌倦
 
 12. Some of my friends don't talk to their parents very much. My friend Suzanne sometimes tells her mother she's with me when she's really with her boyfriend. She does this because her mum worries about her all the time. She worries about where she is and who she's with. But Mum and I are very close, and I couldn't tell her something that wasn't true. Anyway, she doesn't worry the way Suzanne's mum does, so I usually tell her everything.
 
@@ -59,7 +53,3 @@
     - `how I felt` 我的感受
 
 15. And there was another problem. I didn't know the name of the man I was in love with.
-
-## Questions
-
-1. `All I know is that he played music too` 中 `that` 什么作用？

@@ -69,7 +69,3 @@
 33. I told him my mobile phone number. Then I showed him how to say goodbye in sign language. He tried it a few times. Then, he showed me another way to say goodbye. With a kiss.
 
 34. I liked that way best.
-
-## Question
-
-1. `Winterton is where Mum took me and Ron when we were children` 的 `where`

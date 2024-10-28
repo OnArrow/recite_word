@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   abort/中断 tuck toy scary suppertime draughts frog fairy plaster sore tummy rumbling Granny Grandpa Polly/鹦鹉 shy playgroup petal Hurray
+   wand lick loose/放松的
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   struggle battered temptation nursery pepper desert record strong swimmer succeed train anxiously intend solid Olympic hold held government immense stadium standard capital fantastic design except Mediterranean complain continually bitterly sunshine settle operation successful following patient alone exchange inquire certain caller relative hostess unsmiling tight fix globe despair sound cafe mean meant host flow rude mirror hole remark remind lighthouse modiste musical market pipe tune glimpse snake movement continue dance obviously difference India charmer pole flight explorer lie lay lain serious point seem crash sack clear aircraft endless plain difficulty foot feet forest risk picnic edge strap possession breath contents mend clear conscience wallet savings villager per cent parrot seek
+   bench Muddy Puddle dinosaur scare chest cough tickle
    ```
 
 5. **Expressions**

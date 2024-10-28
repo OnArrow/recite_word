@@ -28,7 +28,7 @@
 
 13. I love muddy puddles.
 
-14. Peppa. lf you jump in muddy puddles, you must wear your boots.
+14. Peppa. If you jump in muddy puddles, you must wear your boots.
 
 15. Sorry, Mummy.
 
@@ -62,7 +62,7 @@
 
 30. Goodness me.
 
-31. Daddy. Daddy.Guess what we've been doing.
+31. Daddy. Daddy. Guess what we've been doing.
 
 32. Let me think...
 
@@ -96,7 +96,7 @@
 
 47. Everyone loves jumping up and down in muddy puddles.
 
-48. Oh, Daddy pig,look at the mess you're in.
+48. Oh, Daddy pig, look at the mess you're in.
 
 49. It’s only mud.
 

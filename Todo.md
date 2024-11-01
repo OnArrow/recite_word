@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   wand lick loose/放松的
+   attic purple
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   bench Muddy Puddle dinosaur scare chest cough tickle
+   bench Muddy Puddle dinosaur scare chest cough tickle unload wooden extremely occur astonish pile woollen  admit confine normal thirsty ghost haunt block furniture whisky suggest accept cotton wool collect collection nod meanwhile tired real owner spring mattress gust  courtyard smash miraculously unhurt glance promptly metal  excursion conductor view paragraph couple response plug subscribe feed lantern prevent trade against horizontal vertical
    ```
 
 5. **Expressions**

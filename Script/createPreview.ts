@@ -37,6 +37,7 @@ async function readTodoFile() {
     .replaceAll('\n', ' ')
     .split(' ')
     .filter((item) => item)
+    .map((item) => item.toLocaleLowerCase())
 
   // 写入文件标题
   await fsWrite(targetFilePath, '# Review\n', 'w')
@@ -82,8 +83,7 @@ function matchWords(str: string) {
       const regex = /(.*?)\*\*\[/g
 
       // 得到当前解释的单词
-
-      const word = regex.exec(str)![1].trim()
+      const word = regex.exec(str)![1].trim().toLocaleLowerCase()
 
       if (strArr.includes(word)) {
         resultArr.push(str)

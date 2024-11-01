@@ -2,7 +2,7 @@
 
 ## Words
 
-- clear conscience wallet savings villager per cent
+- clear conscience wallet savings villager per cent percent
 
 - ![Words](../../../Images/Part2/05/words-45.png)
 

@@ -50,7 +50,7 @@
 
 24. George wants to jump into the big puddle first.
 
-25. Stop, George.l must check if it's safe for you.
+25. Stop, George. I must check if it's safe for you.
 
 26. Good. It is safe for you.
 

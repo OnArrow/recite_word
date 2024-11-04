@@ -1,225 +1,229 @@
 # Hide and Seek
+
 ## Article
 
 1. Peppa and George are playing hide and seek.
 
- 2. It is George's turn to hide.
+   - 通常把 `hide and seek` 翻译为 `捉迷藏` 这个游戏。名词
 
- 3. He must quickly find somewhere to hide before Peppa finishes counting!
+2. It is George's turn to hide.
 
- 4. One... two... three...
+3. He must quickly find somewhere to hide before Peppa finishes counting!
 
- 5. four... five... six... seven...eight...nine...
+4. One... two... three...
 
- 6. George has found somewhere to hide just in time!
+5. four... five... six... seven...eight...nine...
 
- 7. ten...
+6. George has found somewhere to hide just in time!
 
- 8. Ready or not.
+7. ten...
 
- 9. Here I come!
+8. Ready or not.
 
- 10. Peppa has to find where George is hiding.
+9. Here I come!
 
- 11. Found you!
+   - 我来了!
 
- 12. Peppa has found George.
+10. Peppa has to find where George is hiding.
 
- 13. George, I could see you too easily.
+11. Found you!
 
- 14. Now it is Peppa's turn to hide.
+12. Peppa has found George.
 
- 15. One... erm... three.
+13. George, I could see you too easily.
 
- 16. I'll help George to count.
+14. Now it is Peppa's turn to hide.
 
- 17. One... two... three... four... five...
+15. One... erm... three.
 
- 18. six... seven... eight... nine... ten!
+16. I'll help George to count.
 
- 19. Okay, George, open your eyes!
+17. One... two... three... four... five...
 
- 20. George has to find where Peppa is hiding.
+18. six... seven... eight... nine... ten!
 
- 21. Peppa isn't hiding under the table.
+19. Okay, George, open your eyes!
 
- 22. George, have you thought of looking upstairs?
+20. George has to find where Peppa is hiding.
 
- 23. Peppa isn't under the bed.
+21. Peppa isn't hiding under the table.
 
- 24. What was that strange noise?
+22. George, have you thought of looking upstairs?
 
- 25. Peppa isn't behind the curtain.
+23. Peppa isn't under the bed.
 
- 26. There is that strange noise again!
+24. What was that strange noise?
 
- 27. What can it be?
+25. Peppa isn't behind the curtain.
 
- 28. George has found where Peppa was hiding.
+26. There is that strange noise again!
 
- 29. George found me!
+27. What can it be?
 
- 30. Now it's Daddy's turn to hide!
+28. George has found where Peppa was hiding.
 
- 31. Oh, I think George should have another turn.
+29. George found me!
 
- 32. But George isn't very good at hiding...
+30. Now it's Daddy's turn to hide!
 
- 33. I'm sure he'll be better this time.
+31. Oh, I think George should have another turn.
 
- 34. Close your eyes and start counting.
+32. But George isn't very good at hiding...
 
- 35. One... two...three... four...
+33. I'm sure he'll be better this time.
 
- 36. Oh, dear. Peppa will easily find George.
+34. Close your eyes and start counting.
 
- 37. five...six...
+35. One... two...three... four...
 
- 38. George! Come over here...
+36. Oh, dear. Peppa will easily find George.
 
- 39. seven...eight... nine... ten!
+37. five...six...
 
- 40. Ready or not, here I come!
+38. George! Come over here...
 
- 41. Oh, George isn't hiding under the table!
+39. seven...eight... nine... ten!
 
- 42. But George always hides under the table!
+40. Ready or not, here I come!
 
- 43. Have you thought of looking upstairs?
+41. Oh, George isn't hiding under the table!
 
- 44. I know where he is!
+42. But George always hides under the table!
 
- 45. George is in the toy basket.
+43. Have you thought of looking upstairs?
 
- 46. George is not in the toy basket!
+44. I know where he is!
 
- 47. Where can he be?
+45. George is in the toy basket.
 
- 48. Peppa can not find George anywhere.
+46. George is not in the toy basket!
 
- 49. Daddy? I can't find George anywhere.
+47. Where can he be?
 
- 50. Oh, dear, I wonder where he can be.
+48. Peppa can not find George anywhere.
 
- 51. Actually, I think there's something about George in this newspaper...
+49. Daddy? I can't find George anywhere.
 
- 52. George! Found you!
+50. Oh, dear, I wonder where he can be.
 
- 53. Oh, George!
+51. Actually, I think there's something about George in this newspaper...
 
- 54. That was a good place to hide!
+52. George! Found you!
 
- 55. George was hiding behind Daddy Pig's newspaper all the time!
+53. Oh, George!
+
+54. That was a good place to hide!
+
+55. George was hiding behind Daddy Pig's newspaper all the time!
 
 ## Translation
 
 1. 佩奇和乔治在玩捉迷藏。
 
- 2. 现在轮到乔治藏了。
+2. 现在轮到乔治藏了。
 
- 3. 他必须要在佩奇数完数前赶快找地方藏起来。
+3. 他必须要在佩奇数完数前赶快找地方藏起来。
 
- 4. 一。。。二。。。三。。。
+4. 一。。。二。。。三。。。
 
- 5. 四。。。五。。。六。。。七。。。八。。。九
+5. 四。。。五。。。六。。。七。。。八。。。九
 
- 6. 乔治正好及时找到地方藏起来了
+6. 乔治正好及时找到地方藏起来了
 
- 7. 十。。。
+7. 十。。。
 
- 8. 准备好了没。
+8. 准备好了没。
 
- 9. 我来找了。
+9. 我来找了。
 
- 10. 佩奇要找到乔治藏在哪。
+10. 佩奇要找到乔治藏在哪。
 
- 11. 找到你了！
+11. 找到你了！
 
- 12. 佩奇找到了乔治。
+12. 佩奇找到了乔治。
 
- 13. 乔治，我很容易就看到你了。
+13. 乔治，我很容易就看到你了。
 
- 14. 现在轮到佩奇藏了。
+14. 现在轮到佩奇藏了。
 
- 15. 一。。。嗯。。。三。
+15. 一。。。嗯。。。三。
 
- 16. 我来帮乔治来数数吧。
+16. 我来帮乔治来数数吧。
 
- 17. 一。。。二。。。三。。。四。。。五。。。
+17. 一。。。二。。。三。。。四。。。五。。。
 
- 18. 六。。。七。。。八。。。九。。。十！
+18. 六。。。七。。。八。。。九。。。十！
 
- 19. 好了，乔治，挣开你的眼睛吧！
+19. 好了，乔治，挣开你的眼睛吧！
 
- 20. 乔治要找到佩奇藏在哪。
+20. 乔治要找到佩奇藏在哪。
 
- 21. 佩奇没有藏在桌底。
+21. 佩奇没有藏在桌底。
 
- 22. 乔治，你有没有想过上楼上看看？
+22. 乔治，你有没有想过上楼上看看？
 
- 23. 佩奇也没有藏在床底下。
+23. 佩奇也没有藏在床底下。
 
- 24. 那是什么奇怪的声音?
+24. 那是什么奇怪的声音?
 
- 25. 佩奇也没有藏在窗帘后。
+25. 佩奇也没有藏在窗帘后。
 
- 26. 奇怪的声音又出现了！
+26. 奇怪的声音又出现了！
 
- 27. 那会是什么呢？
+27. 那会是什么呢？
 
- 28. 乔治找到佩奇藏在哪了。
+28. 乔治找到佩奇藏在哪了。
 
- 29. 乔治找到我了！
+29. 乔治找到我了！
 
- 30. 现在轮到爸爸来藏了！
+30. 现在轮到爸爸来藏了！
 
- 31. 哦，我想乔治应该再藏一次。
+31. 哦，我想乔治应该再藏一次。
 
- 32. 但是乔治不善于藏。。。
+32. 但是乔治不善于藏。。。
 
- 33. 我相信他这次会藏得很好的。
+33. 我相信他这次会藏得很好的。
 
- 34. 闭上你的眼睛开始数吧。
+34. 闭上你的眼睛开始数吧。
 
- 35. 一。。。二。。。三。。。四。。。
+35. 一。。。二。。。三。。。四。。。
 
- 36. 哦，糟糕。佩奇会很容易找到乔治的。
+36. 哦，糟糕。佩奇会很容易找到乔治的。
 
- 37. 五。。。六。。。
+37. 五。。。六。。。
 
- 38. 乔治！过来这边。。。
+38. 乔治！过来这边。。。
 
- 39. 七。。。八。。。九。。。十！
+39. 七。。。八。。。九。。。十！
 
- 40. 准备好了没，我来找了！
+40. 准备好了没，我来找了！
 
- 41. 哦，乔治没有藏在桌底下！
+41. 哦，乔治没有藏在桌底下！
 
- 42. 但是乔治以前总藏在桌底下的！
+42. 但是乔治以前总藏在桌底下的！
 
- 43. 你有没有想过看看楼上呢？
+43. 你有没有想过看看楼上呢？
 
- 44. 我知道他在哪了！
+44. 我知道他在哪了！
 
- 45. 乔治肯定藏在玩具篮里。
+45. 乔治肯定藏在玩具篮里。
 
- 46. 乔治没有藏到玩具篮里！
+46. 乔治没有藏到玩具篮里！
 
- 47. 他会在哪呢？
+47. 他会在哪呢？
 
- 48. 佩奇哪也找不到乔治。
+48. 佩奇哪也找不到乔治。
 
- 49. 爸爸？我找不到乔治。
+49. 爸爸？我找不到乔治。
 
- 50. 哦，这样啊，我很想知道他会藏到哪。
+50. 哦，这样啊，我很想知道他会藏到哪。
 
- 51. 事实上，我想报纸上有些关于乔治的消息。。。
+51. 事实上，我想报纸上有些关于乔治的消息。。。
 
- 52. 乔治！我找到你了！
+52. 乔治！我找到你了！
 
- 53. 哦，乔治！
+53. 哦，乔治！
 
- 54. 那真是一个捉迷藏的好地方！
+54. 那真是一个捉迷藏的好地方！
 
- 55. 原来乔治一真藏在猪爸爸的报纸后面！
-
+55. 原来乔治一真藏在猪爸爸的报纸后面！

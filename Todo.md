@@ -21,9 +21,9 @@
 4. **Review**
 
    ```
-   bench Muddy Puddle dinosaur scare chest cough tickle wooden extremely occur astonish pile woollen  admit confine normal thirsty ghost haunt block furniture whisky suggest accept cotton wool collect collection nod meanwhile tired real owner spring mattress gust  courtyard smash miraculously unhurt glance promptly metal  excursion conductor view paragraph couple response plug subscribe feed lantern prevent trade against horizontal vertical
 
-    draughts fairy sore rumbling Hurray amuse battered reward virtue diet forbid hurriedly embarrass guiltily strict occasionally temporarily inch space actually gaze hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value dig dug
+
+    draughts fairy sore rumbling Hurray amuse battered reward virtue diet forbid hurriedly embarrass guiltily strict occasionally temporarily inch space actually gaze hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value dig dug scale
    ```
 
 5. **Expressions**

@@ -44,7 +44,7 @@ const monthMap = new Map([
  * 需要乱序的文件
  * 如：['2024/May', '2024/Jun']
  */
-let shuffleMonths: string[] = ['2024/Aug', '2024/Sep', '2024/Oct']
+let shuffleMonths: string[] = ['2024/Oct', '2024/Nov']
 
 // 读取的文件夹路径
 let readFolderPath: string = nodePath.resolve(__dirname, '../Words')

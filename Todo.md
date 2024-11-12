@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   proper accordion horn beautifully wriggle froggy lipstick snorts flowerbed pajamas Fete bouncy castle pussycat woof purr proper kangaroo candles relax whisper ear decorations theater spaghetti brush Granddad squirted Hunt map panic hearties clue clearly
+   whisper ear decorations theater spaghetti brush Granddad squirted Hunt map panic hearties clue clearly
    ```
 
 2. **过去式&过去分词**
@@ -21,11 +21,7 @@
 4. **Review**
 
    ```
-
-
-    draughts fairy sore rumbling Hurray amuse battered reward virtue diet forbid hurriedly embarrass guiltily strict occasionally temporarily inch space actually gaze hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register gold mine treasure revealer invent detect bury cave seashore pirate arm soil entrance finally worthless thoroughly trunk confident value dig dug scale necessary due congratulate
-
-    sound excitement handsome Benz wheel explosion course rival speed sped downhill pleasure deal madam jeans hesitate serve scornfully punish fur eager seek blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk gain bark press paw latch expert develop habit remove future fair fortune teller crystal relation impatiently
+    sound excitement handsome Benz wheel explosion course rival speed sped downhill pleasure deal madam jeans hesitate serve scornfully punish fur eager seek blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk gain bark press paw latch expert develop habit remove future fair fortune teller crystal relation impatiently relevant occupy scale necessary due congratulate
    ```
 
 5. **Expressions**

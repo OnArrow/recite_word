@@ -22,6 +22,8 @@
 
    ```
     sound excitement handsome Benz wheel explosion course rival speed sped downhill pleasure deal madam jeans hesitate serve scornfully punish fur eager seek blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk gain bark press paw latch expert develop habit remove future fair fortune teller crystal relation impatiently relevant occupy scale necessary due congratulate
+
+    plough choose chose chosen
    ```
 
 5. **Expressions**

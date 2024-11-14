@@ -96,7 +96,7 @@
 
 47. Peppa and George are pretending to be parrots.
 
-48. I'm Polly Parrot。
+48. I'm Polly Parrot.
 
 49. Peppa is thinking of something else to say to Polly Parrot.
 

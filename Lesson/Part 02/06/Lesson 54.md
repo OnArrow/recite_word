@@ -2,7 +2,7 @@
 
 ## Words
 
-- sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register
+- sticky finger pie mix pastry annoying receiver dismay recognize persuade mess doorknob sign register flour
 
 - ![Words](../../../Images/Part2/06/words-54.png)
 

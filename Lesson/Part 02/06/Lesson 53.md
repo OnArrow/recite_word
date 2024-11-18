@@ -2,7 +2,7 @@
 
 ## Words
 
-- hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power
+- hot fireman cause examine accidentally remains wire volt solve mystery snatch spark power carelessly explanation
 
 - ![Words](../../../Images/Part2/06/words-53.png)
 

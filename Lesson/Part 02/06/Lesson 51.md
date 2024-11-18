@@ -2,7 +2,7 @@
 
 ## Words
 
-- reward virtue diet forbid hurriedly embarrass guiltily strict occasionally
+- reward virtue diet forbid hurriedly embarrass guiltily strict occasionally lead led
 
 - ![Words](../../../Images/Part2/06/words-51.png)
 

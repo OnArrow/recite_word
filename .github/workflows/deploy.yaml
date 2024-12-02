@@ -48,7 +48,7 @@ jobs:
           # SCP参数
           ARGS: '-avzr --delete'
           # 服务器ip
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST_47 }}
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST_120 }}
           # 用户
           REMOTE_USER: 'root'
           # 源目录

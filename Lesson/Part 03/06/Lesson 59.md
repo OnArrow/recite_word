@@ -1,7 +1,7 @@
-# Lesson 59
+<!-- # Lesson 59
 
 ## Words
 
 -
 
-- ![Words](../../../Images/Part3/05/words-59.png)
+- ![Words](../../../Images/Part3/05/words-59.png) -->

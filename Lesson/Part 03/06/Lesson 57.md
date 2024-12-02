@@ -1,7 +1,7 @@
-# Lesson 57
+<!-- # Lesson 57
 
 ## Words
 
 -
 
-- ![Words](../../../Images/Part3/05/words-57.png)
+- ![Words](../../../Images/Part3/05/words-57.png) -->

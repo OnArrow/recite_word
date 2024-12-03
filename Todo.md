@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   whisper ear decorations theater spaghetti brush Granddad squirted Hunt map panic hearties clue clearly
+
    ```
 
 2. **过去式&过去分词**

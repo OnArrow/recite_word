@@ -21,9 +21,7 @@
 4. **Review**
 
    ```
-    sound excitement handsome Benz wheel explosion course rival speed sped downhill pleasure deal madam hesitate serve scornfully punish fur eager seek blessing disguise tiny possess cursed increase plant church evil reputation claim victim vicar source income trunk gain bark press paw latch expert develop habit remove future fair fortune teller crystal relation impatiently relevant occupy scale necessary due congratulate fortunately
-
-    plough choose chose chosen certain sack conscience astonish cotton wool miraculously glance excursion shallow Hubble telescope launch space NASA national aeronautics billion faulty astronaut shuttle Endeavour grab atmosphere distant galaxy universe eagle control smoke desolate threaten surrounding destruction flood authority grass seed spray quantity root century patch blacken serous circle admire close wedding reception sort humour sense tunnel port ventilate chimney level double ventilation fear invasion officially connect European continent British Britain versus Christmas circus present accompany approach ought weigh fortunate honour carelessly pend invent mention dead death reputation revoke admit
+   Lancaster bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax condition totally volcano active Kivu Congo Kituro erupt violently manage brilliant liquid escape alive persistent avoid insist murder instruct acquire confidence examiner suppose tap react brake pedal mournful bullfight drunk wander ring unaware bull matador remark apparently sensitive criticism charge clumsily bow safety sympathetically parliament erect accurate official Greenwich observatory check microphone tower racing per Utah horsepower burst average footstep truant unimaginative shame hitchhike meantime lorry border evade limelight precaution fan shady sheriff notice sneer thick signal stamp helicopter scene survivor overhead against corner spot print convince disturb equal vicar explore prevent
    ```
 
 5. **Expressions**

@@ -22,6 +22,8 @@
 
    ```
    Lancaster bomber remote Pacific damage wreck rediscover aerial survey rescue package enthusiast restore imagine colony bee hive preserve beeswax condition totally volcano active Kivu Congo Kituro erupt violently manage brilliant liquid escape alive persistent avoid insist murder instruct acquire confidence examiner suppose tap react brake pedal mournful bullfight drunk wander ring unaware bull matador remark apparently sensitive criticism charge clumsily bow safety sympathetically parliament erect accurate official Greenwich observatory check microphone tower racing per Utah horsepower burst average footstep truant unimaginative shame hitchhike meantime lorry border evade limelight precaution fan shady sheriff notice sneer thick signal stamp helicopter scene survivor overhead against corner spot print convince disturb equal vicar explore prevent
+
+   attempt
    ```
 
 5. **Expressions**

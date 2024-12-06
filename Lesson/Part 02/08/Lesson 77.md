@@ -2,7 +2,7 @@
 
 ## Words
 
-- mummy Egyptian temple mark plate disease last prove resin skin section figure normally survive
+- mummy Egyptian temple mark plate disease last prove resin skin section figure normally survive laboratory
 
 - ![Words](../../../Images/Part2/08/words-77.png)
 

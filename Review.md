@@ -1,215 +1,391 @@
 # Review
-1. insist **[ɪnˈsɪst]** `v` 坚持要求；坚持做
+1. appetite **[ˈæpɪtaɪt]** `n` 食欲，胃口
 
-2. manage **[ˈmænɪdʒ]** `v` 管理；设法做到
+2. former **[ˈfɔːmə(r)]** `adj` 以前的
 
-3. observatory **[əbˈzɜːvətri]** `n` 天文台；气象台
+3. honour **[ˈɒnə(r)]** `n` 尊敬；荣誉；敬意
 
-4. brilliant **[ˈbrɪliənt]** `adj` 成功的；才华横溢的
+4. mummy **[ˈmʌmi]** `n` 木乃伊
 
-5. active **[ˈæktɪv]** `adj` 活跃的；好动的
+5. beneath **[bɪˈniːθ]** `prep` 在...下方
 
-6. border **[ˈbɔːdə(r)]** `n` 边框；国境，边界 `v` 接壤，毗邻
+6. state **[steɪt]** `n` 状态；身体（或精神）状况；政府；（联邦制共和国的）州；邦 `adj` 州的 `v` 公布
 
-7. alive **[əˈlaɪv]** `adj` 活着的；活跃的
+7. champion **[ˈtʃæmpiən]** `n` 冠军
 
-8. print **[prɪnt]** `v` 打印；印刷，出版 `n` 印刷；出版物；痕迹
+8. suffer **[ˈsʌfə(r)]** `v` （因疾病、痛苦、悲伤等）受苦，受折磨
 
-9. prevent **[prɪˈvent]** `v` 阻止；防止
+9. agreement **[əˈɡriːmənt]** `n` 协议；契约
 
-10. corner **[ˈkɔːnə(r)]** `n` 角落；街角 `v` 垄断；将...逼入死角；拐弯
+10. festival **[ˈfestɪv(ə)l]** `n` 节日；活动日期
 
-11. explore **[ɪkˈsplɔː(r)]** `v` 探索
+11. grower **[ˈɡrəʊə(r)]** `n` 种植者
 
-12. enthusiast **[ɪnˈθjuːziæst]** `n` 爱好者
+12. compete **[kəmˈpiːt]** `v` 对抗；竞争
 
-13. stamp **[stæmp]** `n` 邮票；印记 `v` 跺,踩；在...盖印
+13. explosive **[ɪkˈspləʊsɪv]** `n` 炸药
 
-14. brake **[breɪk]** `n` 刹车 `v` 刹车
+14. nerve **[nɜːv]** `n` 神经
 
-15. overhead **[ˌəʊvəˈhed]** `adj` 头顶上的，在空中的 `adv` 在头顶上
+15. queue **[kjuː]** `n` 队列 `v` 排队
 
-16. spot **[spɒt]** `n` 地点，场所；污点，污渍 `v` 看见
+16. oarfish **[ˈɔːfɪʃ]** `n` 浆鱼
 
-17. rescue **[ˈreskjuː]** `v` 营救，援救 `n` 营救
+17. variety **[vəˈraɪəti]** `n` 品种
 
-18. apparently **[əˈpærəntli]** `adv` 明显地
+18. weight **[weɪt]** `n` 重量，体重；重物 `v` （使）变重；重视
 
-19. tap **[tæp]** `n` 水龙头；阀门 `v` 轻敲；（使用键盘）输入
+19. monster **[ˈmɒnstə(r)]** `n` 怪物，怪兽
 
-20. scene **[siːn]** `n` 事发地；现场；（戏剧、书、电影等的）片段，情节；场景
+20. gasp **[ɡɑːsp]** `v` 喘气
 
-21. escape **[ɪˈskeɪp]** `v` 逃离，逃跑；退出；被忽略
+21. entitle **[ɪnˈtaɪt(ə)l]** `v` 给...命名
 
-22. preserve **[prɪˈzɜːv]** `v` 保存，维持；维护，保护； `n` 果酱，腌菜
+22. trap **[træp]** `v` 陷入（危险、困境） `n` 陷阱
 
-23. condition **[kənˈdɪʃn]** `n` 条款，条件；状况
+23. leading **[ˈliːdɪŋ]** `adj` 最重要的；主要的
 
-24. footstep **[ˈfʊtstep]** `n` 脚步，足迹
+24. relieve **[rɪˈliːv]** `v` 减轻（问题的严重性）；缓解
 
-25. matador **[ˈmætədɔː(r)]** `n` 斗牛士
+25. shark **[ʃɑːk]** `n` 鲨鱼
 
-26. persistent **[pəˈsɪstənt]** `adj` 固执的，执着的
+26. salute **[səˈluːt]** `v` （向...）行礼
 
-27. disturb **[dɪˈstɜːb]** `v` 打扰，妨碍；使烦恼
+27. rapidly **[ˈræpɪdli]** `adv` 迅速地
 
-28. meantime **[ˈmiːntaɪm]** `n` 其间；同时 `adv` 在此期间
+28. liberty **[ˈlɪbəti]** `n` 自由
 
-29. wreck **[rek]** `n` 残骸
+29. advertiser **[ˈædvətaɪzə(r)]** `n` 报幕员；广告商
 
-30. sensitive **[ˈsensətɪv]** `adj` 过敏的；敏感的
+30. boldly **[ˈbəʊldli]** `adv` 大胆地
 
-31. instruct **[ɪnˈstrʌkt]** `v` 指示，吩咐；指导
+31. dull **[dʌl]** `adj` 枯燥无聊的
 
-32. beeswax **[ˈbiːzwæks]** `n` 蜂蜡
+32. iron **[ˈaɪən]** `n` 铁 `adj` 铁制的 `v` 熨，烫
 
-33. racing **[ˈreɪsɪŋ]** `n` 竞赛
+33. surface **[ˈsɜːfɪs]** `n` 表面；桌面，台面；曲面 `v` 浮出水面；公开；暴露 `adj` 表面上的
 
-34. equal **[ˈiːkwəl]** `v` 等于 `adj` 相等的
+34. various **[ˈveəriəs]** `adj` 各种各样的
 
-35. lorry **[ˈlɒri]** `n` 卡车；货车
+35. giant **[ˈdʒaɪənt]** `adj` 巨大的
 
-36. evade **[ɪˈveɪd]** `v` 逃避；逃离
+36. sailor **[ˈseɪlə(r)]** `n` 水手；船员
 
-37. survivor **[səˈvaɪvə(r)]** `n` 幸存者
+37. alibi **[ˈæləbaɪ]** `n` 不在场证明
 
-38. avoid **[əˈvɔɪd]** `v` 避免，防止；撤销；避开
+38. monument **[ˈmɒnjumənt]** `n` 纪念碑
 
-39. average **[ˈævərɪdʒ]** `n` 平均值 `adj` 平均的
+39. tone **[təʊn]** `n` 色调，风格；气氛；语气 `v` 使健壮，使结实
 
-40. wander **[ˈwɒndə(r)]** `v` 溜达；游荡
+40. artiste **[ɑːˈtiːst]** `n` 艺人
 
-41. limelight **[ˈlaɪmlaɪt]** `n` 舞台灯光
+41. announcer **[əˈnaʊnsə(r)]** `n` 播音员
 
-42. helicopter **[ˈhelɪkɒptə(r)]** `n` 直升飞机
+42. peculiar **[pɪˈkjuːliə(r)]** `adj` 奇怪的，不寻常的
 
-43. examiner **[ɪɡˈzæmɪnə(r)]** `n` 主考官
+43. plant **[plɑːnt]** `n` 植物 `v` 栽种，种植；安放（炸弹）
 
-44. clumsily **[ˈklʌmzɪli]** `adv` 笨拙地
+44. frightful **[ˈfraɪtf(ə)l]** `adj` 可怕的
 
-45. imagine **[ɪˈmædʒɪn]** `v` 想象；设想；误认为
+45. progress **[ˈprəʊɡres]** `n` 进步；进度 `v` 进步；缓慢行进；进展
 
-46. tower **[ˈtaʊə(r)]** `n` 塔，塔楼
+46. truth **[truːθ]** `n` 事实；真相；真理
 
-47. shame **[ʃeɪm]** `n` 羞耻，惭愧
+47. sarcastic **[sɑːˈkæstɪk]** `adj` 讽刺的
 
-48. notice **[ˈnəʊtɪs]** `n` 通告；通知；简短通告;告示 `v` 留意；注意；客气对待
+48. prove **[pruːv]** `v` 显示出，证明是
 
-49. Pacific **[pəˈsɪfɪk]** `n` 太平洋
+49. enormous **[ɪˈnɔːməs]** `adj` 巨大的
 
-50. parliament **[ˈpɑːləmənt]** `n` 议会；国会
+50. drill **[drɪl]** `n` 训练 `v` 钻孔
 
-51. hitchhike **[ˈhɪtʃhaɪk]** `n` 搭便车 `vi` 搭便车
+51. shoulder **[ˈʃəʊldə(r)]** `n` 肩膀
 
-52. safety **[ˈseɪfti]** `n` 安全；安全的地方
+52. symptom **[ˈsɪmptəm]** `n` （医）症状
 
-53. remote **[rɪˈməʊt]** `adj` （计算机）远程的，远程连接的；边远的，偏僻的 `n` 遥控装置，遥控器
+53. last **[lɑːst]** `adj` 最后的；最近的；上一个的 `pron` 最近发生的事情；最后一次 `adv` 最近；上次 `v` 持续
 
-54. bee **[biː]** `n` 蜜蜂
+54. skin **[skɪn]** `n` 皮肤；皮毛 `v` 剥皮
 
-55. acquire **[əˈkwaɪə(r)]** `v` 获得
+55. comedy **[ˈkɒmədi]** `n` 喜剧
 
-56. volcano **[vɒlˈkeɪnəʊ]** `n` 火山
+56. volunteer **[ˌvɒlənˈtɪə(r)]** `v` 自愿做 `n` 志愿者
 
-57. pedal **[ˈped(ə)l]** `n` 脚踏板 `v` 踩（自行车等的）踏板
+57. progressive **[prəˈɡresɪv]** `adj` 渐进的；进步的，先进的；逐步发展的 `n` 进步分子
 
-58. react **[riˈækt]** `v` 反应
+58. skate **[skeɪt]** `n` 鳐鱼
 
-59. erect **[ɪˈrekt]** `v` 搭建
+59. shot **[ʃɒt]** `v` 射击 `n` 射击；射门；子弹
 
-60. burst **[bɜːst]** `v` 爆裂，爆炸；胀开
+60. employer **[ɪmˈplɔɪə(r)]** `n` 雇主
 
-61. damage **[ˈdæmɪdʒ]** `v` 损坏 `n` 损失；损害赔偿金
+61. pressure **[ˈpreʃə(r)]** `n` 压力
 
-62. bow **[baʊ]** `v` 鞠躬
+62. thresh **[θreʃ]** `vt` 打谷；打庄稼
 
-63. suppose **[səˈpəʊz]** `v` 假设，推断
+63. sight **[saɪt]** `n` 眼界；视力 `v` 看到
 
-64. accurate **[ˈækjərət]** `adj` 准确的
+64. temple **[ˈtemp(ə)l]** `n` 庙宇，寺院
 
-65. convince **[kənˈvɪns]** `v` 使确信；说服
+65. terrify **[ˈterɪfaɪ]** `v` 使害怕
 
-66. charge **[tʃɑːdʒ]** `v` 充电；罚款；冲上去，冲锋 `n` 电量；费用，价钱
+66. confirm **[kənˈfɜːm]** `v` 确认，确定；批准
 
-67. erupt **[ɪˈrʌpt]** `v` 喷发；爆发
+67. drily **[ˈdraɪli]** `adv` 冷淡地
 
-68. confidence **[ˈkɒnfɪdəns]** `n` 信心
+68. fantasy **[ˈfæntəsi]** `n` 幻想，幻想故事
 
-69. totally **[ˈtəʊtəli]** `adv` 完全地
+69. parent **[ˈpeərənt]** `n` 父母；母体
 
-70. fan **[fæn]** `n` 粉丝；风扇，扇子 `v` 为...扇风
+70. layer **[ˈleɪə(r)]** `n` 层；图层操作；层次
 
-71. unimaginative **[ˌʌnɪˈmædʒɪnətɪv]** `adj` 缺乏想象力的
+71. contribute **[kənˈtrɪbjuːt]** `v` 捐赠；为...做贡献
 
-72. sheriff **[ˈʃerɪf]** `n` 司法长官
+72. radical **[ˈrædɪk(ə)l]** `adj` 激进的
 
-73. check **[tʃek]** `v` 检查；核对；查看；查询 `n` 检查；核对
+73. transport **[ˈtrænspɔːt]** `n` 交通工具；运输 `v` 运输
 
-74. survey **[ˈsɜːveɪ]** `n` 信息反馈；民意调查；考察 `v` 做民意测验；勘测
+74. devote **[dɪˈvəʊt]** `v` 致力于
 
-75. truant **[ˈtruːənt]** `n` 旷课的孩子，逃学的孩子 `v` 旷课，逃学
+75. palace **[ˈpæləs]** `n` 王宫；宫殿
 
-76. Greenwich **[ˈɡrenɪtʃ]** `n` 格林威治
+76. strike **[straɪk]** `v` 撞，击 `n` 罢工
 
-77. per **[pə(r)]** `prep` 每，每一
+77. framework **[ˈfreɪmwɜːk]** `n` 框架；结构；参照标准
 
-78. hive **[haɪv]** `n` 蜂房；蜂箱
+78. March **[mɑːtʃ]** `n` 三月 `v` 行进
 
-79. liquid **[ˈlɪkwɪd]** `adj` 液态的
+79. encouragement **[ɪnˈkʌrɪdʒmənt]** `n` 鼓励
 
-80. colony **[ˈkɒləni]** `n` 群体；殖民地
+80. collapse **[kəˈlæps]** `v` 折叠；倒塌；崩溃； `n` 倒塌，塌陷
 
-81. aerial **[ˈeəriəl]** `adj` 航空的 `n` 天线
+81. rifle **[ˈraɪf(ə)l]** `n` 步枪
 
-82. precaution **[prɪˈkɔːʃ(ə)n]** `n` 预防措施
+82. oil **[ɔɪl]** `n` 油；石油 `v` 给...加润滑油
 
-83. bullfight **[ˈbʊlfaɪt]** `n` 斗牛
+83. attempt **[əˈtempt]** `v` 努力；尝试 `n` 企图杀害；尝试
 
-84. violently **[ˈvaɪələntli]** `adv` 猛烈地
+84. resin **[ˈrezɪn]** `n` 树脂
 
-85. remark **[rɪˈmɑːk]** `n` 备注；言论 `v` 谈论，说起
+85. prisoner **[ˈprɪz(ə)nə(r)]** `n` 囚犯
 
-86. vicar **[ˈvɪkə(r)]** `n` 牧师
+86. ambassador **[æmˈbæsədə(r)]** `n` 大使
 
-87. against **[əˈɡenst]** `prep` 反对；与...相比
+87. college **[ˈkɒlɪdʒ]** `n` 大学，专科学校；学院；社团
 
-88. shady **[ˈʃeɪdi]** `adj` 遮荫的；阴凉的
+88. mark **[mɑːk]** `v` 做记号，做标志 `n` 标志；符号；记号；分数;斑点
 
-89. criticism **[ˈkrɪtɪsɪzəm]** `n` 批评
+89. gardening **[ˈɡɑːdnɪŋ]** `n` 园艺
 
-90. bomber **[ˈbɒmə(r)]** `n` 轰炸机
+90. heaven **[ˈhev(ə)n]** `n` 天堂
 
-91. unaware **[ˌʌnəˈweə(r)]** `adj` 不知道的；未察觉的
+91. track **[træk]** `v` 追踪，跟踪 `n` 赛道；跑道
 
-92. thick **[[θik]]** `adj` 厚的；粗的
+92. studio **[ˈstjuːdiəʊ]** `n` 工作室；设计室；录音室；播音室
 
-93. rediscover **[ˌriːdɪˈskʌvə(r)]** `vt` 重新发现
+93. press **[pres]** `v` 按（开关或按钮）；压 `n` 新闻工作者；新闻界
 
-94. drunk **[drʌŋk]** `v` （drink 的过去分词） `n` 醉汉，酒鬼
+94. Egyptian **[iˈdʒɪpʃn]** `n` 埃及人 `adj` 埃及的
 
-95. mournful **[ˈmɔːnf(ə)l]** `adj` 悲哀的
+95. cod **[kɒd]** `n` 鳕鱼
 
-96. signal **[ˈsɪɡnəl]** `n` 信号
+96. defeat **[dɪˈfiːt]** `v` 击败 `n` 战败
 
-97. restore **[rɪˈstɔː(r)]** `v` 恢复；修复，修整；重新采用，恢复使用
+97. album **[ˈælbəm]** `n` 唱片；相册；专辑
 
-98. attempt **[əˈtempt]** `v` 努力；尝试 `n` 企图杀害；尝试
+98. temper **[ˈtempə(r)]** `n` 坏脾气
 
-99. bull **[bʊl]** `n` 公牛
+99. lower **[ˈləʊə(r)]** `adj` （尤指在同类中处于）较下的；下方的； `v` 减少；降低 `adv` 处于较低位置的
 
-100. package **[ˈpækɪdʒ]** `n` 软件包；包裹；成套出售的东西，套餐 `v` 把...打包；包装（产品或想法等）
+100. yard **[jɑːd]** `n` 院子；（长度单位）码
 
-101. sneer **[snɪə(r)]** `n` 嘲笑，讥讽
+101. smoothly **[ˈsmuːðli]** `adv` 平稳地；顺利地
 
-102. horsepower **[ˈhɔːspaʊə(r)]** `n` （功率单位）马力
+102. bulletin **[ˈbʊlətɪn]** `n` 新闻简报
 
-103. official **[əˈfɪʃ(ə)l]** `adj` 正式的；官方的 `n` 官员
+103. figure **[ˈfɪɡə(r)]** `n` 图形；外形；人像；数字；数值
 
-104. ring **[rɪŋ]** `v` （使）响起铃声；包围；（给...）打电话 `n` 铃声；电话铃声；戒指；圆形竞技场
+104. extinguisher **[ɪkˈstɪŋɡwɪʃə(r)]** `n` 灭火器
 
-105. murder **[ˈmɜːdə(r)]** `n` 谋杀；凶杀 `v` 谋杀
+105. suspicious **[səˈspɪʃəs]** `adj` 不信任的；怀疑的
 
-106. sympathetically **[ˌsɪmpəˈθetɪkli]** `adv` 同情地
+106. delighted **[dɪˈlaɪtɪd]** `adj` 欣喜的；高兴的
 
-107. microphone **[ˈmaɪkrəfəʊn]** `n` 麦克风
+107. disease **[dɪˈziːz]** `n` 疾病
+
+108. instruct **[ɪnˈstrʌkt]** `v` 指示，吩咐；指导
+
+109. machinery **[məˈʃiːnəri]** `n` 机器，机械（尤指大型机械）
+
+110. busman **[ˈbʌsmən]** `n` 公交车司机
+
+111. wit **[wɪt]** `n` 理智；机智
+
+112. basement **[ˈbeɪsmənt]** `n` 地下室，地库
+
+113. process **[ˈprəʊses]** `v` 处理；加工 `n` 步骤；过程；进程
+
+114. factor **[ˈfæktə(r)]** `n` 因素
+
+115. ladder **[ˈlædə(r)]** `n` 梯子
+
+116. spy **[spaɪ]** `v` 侦察 `n` 间谍
+
+117. gift **[ɡɪft]** `n` 礼物，赠品；天赋 `v` 赠送
+
+118. shining **[ˈʃaɪnɪŋ]** `adj` 闪闪发光的
+
+119. tricycle **[ˈtraɪsɪk(ə)l]** `n` 三轮车
+
+120. fool **[fuːl]** `n` 傻瓜，笨蛋
+
+121. actual **[ˈæktʃuəl]** `adj` 真实的，实际的
+
+122. stalk **[stɔːk]** `n` （植物的）梗，茎，杆
+
+123. elderly **[ˈeldəli]** `adj` 上了年纪的
+
+124. reluctant **[rɪˈlʌktənt]** `adj` 勉强的，不情愿的
+
+125. extent **[ɪkˈstent]** `n` 程度
+
+126. statue **[ˈstætʃuː]** `n` 雕像
+
+127. survive **[səˈvaɪv]** `v` (经历事故，战争或疾病后)活下来，幸存
+
+128. shed **[ʃed]** `n` 棚子
+
+129. march **[mɑːtʃ]** `v` 行军；押送 `n` 进行曲；行军
+
+130. commit **[kəˈmɪt]** `v` 提交；把...托付给；犯（错、罪）
+
+131. suggest **[səˈdʒest]** `v` 建议，提议；推荐，举荐；暗示；提醒
+
+132. support **[səˈpɔːt]** `n` 支持；帮助 `v` 支持，拥护；帮助；救援
+
+133. display **[dɪˈspleɪ]** `v` 展示；（计算机）显示 `n` 表现；显示器；展览
+
+134. section **[ˈsekʃ(ə)n]** `n` （书、报等的）栏，节；段，部分；部件;(供显微镜下观察的)切片
+
+135. capsule **[ˈkæpsjuːl]** `n` 胶囊；容器
+
+136. crew **[kruː]** `n` 全体成员
+
+137. embassy **[ˈembəsi]** `n` 大使馆
+
+138. urge **[ɜːdʒ]** `v` 怂恿；敦促
+
+139. headmaster **[ˌhedˈmɑːstə(r)]** `n` 校长
+
+140. cage **[keɪdʒ]** `n` 笼子
+
+141. blow **[bləʊ]** `v` （风）刮，吹
+
+142. copper **[ˈkɒpə(r)]** `n` 铜
+
+143. sharp **[ʃɑːp]** `adj` 锋利的；尖的
+
+144. post **[pəʊst]** `n` 帖子；邮件；柱子 `v` 派驻，委派
+
+145. underwater **[ˌʌndəˈwɔːtə(r)]** `adj` 水下的
+
+146. suppose **[səˈpəʊz]** `v` 假设，推断
+
+147. macaroni **[ˌmækəˈrəʊni]** `n` 空心面
+
+148. rig **[rɪɡ]** `n` 钻塔
+
+149. plate **[pleɪt]** `n` 盘子；碟子;（照片）底片
+
+150. concentration **[ˌkɒns(ə)nˈtreɪʃ(ə)n]** `n` 专心；专注
+
+151. satisfaction **[ˌsætɪsˈfækʃ(ə)n]** `n` 满意，称心
+
+152. farewell **[ˌfeəˈwel]** `n` 告别
+
+153. exhibition **[ˌeksɪˈbɪʃ(ə)n]** `n` 展览会
+
+154. lantern **[ˈlæntən]** `n` 灯笼
+
+155. bush **[bʊʃ]** `n` 灌木丛
+
+156. calm **[kɑːm]** `adj` 镇定的；冷静的 `v` 使镇定
+
+157. opponent **[əˈpəʊnənt]** `n` 对手，竞争者
+
+158. whale **[weɪl]** `n` 鲸鱼
+
+159. coincidence **[kəʊˈɪnsɪdəns]** `n` 巧合
+
+160. overfish **[ˌəʊvəˈfɪʃ]** `v` 过度捕捞
+
+161. present **[ˈprez(ə)nt]** `n` 礼物，赠品；现在；（语法）现在时 `v` 颁发，赠送；演出；上映 `adj` （人）在场的，出席的；目前的
+
+162. normally **[ˈnɔːməli]** `adv` 通常地
+
+163. slip **[slɪp]** `v` 滑倒，失足；溜走 `n` 滑；滑倒；小差错，疏漏
+
+164. bomb **[bɒm]** `n` 炸弹
+
+165. fanatical **[fəˈnætɪkl]** `adj` 狂热的
+
+166. binoculars **[bɪˈnɒkjələz]** `n` 双筒望远镜
+
+167. vibration **[vaɪˈbreɪʃ(ə)n]** `n` 震动；（情感的）共鸣
+
+168. election **[ɪˈlekʃ(ə)n]** `n` 选举；当选
+
+169. royal **[ˈrɔɪəl]** `adj` 王室的；皇家的；盛大的，隆重的
+
+170. fast **[fɑːst]** `adj` 快的；快速的 `adv` 快速的
+
+171. hobby **[ˈhɒbi]** `n` 业余爱好
+
+172. inform **[ɪnˈfɔːm]** `v` 通告，告知
+
+173. creature **[ˈkriːtʃə(r)]** `n` 生物
+
+174. gratitude **[ˈɡrætɪtjuːd]** `n` 感谢
+
+175. patience **[ˈpeɪʃ(ə)ns]** `n` 耐心
+
+176. object **[əbˈdʒekt]** `n` 物体，实物；（计算机）对象 `v` 反对
+
+177. definitely **[ˈdefɪnətli]** `adv` 肯定地
+
+178. produce **[prəˈdjuːs]** `v` 生产；拿出
+
+179. noble **[ˈnəʊb(ə)l]** `adj` 崇高的，高尚的
+
+180. blaze **[bleɪz]** `v` 闪耀；熊熊燃烧
+
+181. spectacle **[ˈspektək(ə)l]** `n` 精彩的表演，壮观的场面
+
+182. profit **[ˈprɒfɪt]** `n` 利润
+
+183. splendid **[ˈsplendɪd]** `adj` 极好的
+
+184. sculptor **[ˈskʌlptə(r)]** `n` 雕刻家
+
+185. gather **[ˈɡæðə(r)]** `v` 聚集；收庄稼
+
+186. uniform **[ˈjuːnɪfɔːm]** `n` 制服，校服 `adj` 全部相同的，始终如一的
+
+187. curious **[ˈkjʊəriəs]** `adj` 好奇的
+
+188. chip **[tʃɪp]** `n` 炸薯条，炸薯片；芯片；缺口 `v` 打破，弄缺
+
+189. pedestal **[ˈpedɪst(ə)l]** `n` 底座
+
+190. site **[saɪt]** `n` 网站；站点；（建筑的）工地，用地；场地 `v` 使坐落在，为...选址
+
+191. extraordinary **[ɪkˈstrɔːd(ə)n(ə)ri]** `adj` 异乎寻常的
+
+192. inspector **[ɪnˈspektə(r)]** `n` 探长；检察员
+
+193. attendant **[əˈtendənt]** `n` 服务人员；接待员；随从 `adj` 伴随的；随之产生的
+
+194. total **[ˈtəʊt(ə)l]** `adj` 总的；全部的 `n` 总数；总计 `v` 把...加起来
+
+195. balloon **[bəˈluːn]** `n` 气球
 

@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   attempt fool bulletin announcer macaroni leading grower splendid stalk gather thresh process Signor present champion studio mummy Egyptian temple mark plate disease last prove resin skin section figure normally survive entitle calm nerve concentration suffer symptom temper appetite produce urge satisfaction delighted enormous parent frightened curious bomb plant attendant palace extraordinary exhibition iron various machinery display steam profit college prisoner bush rapidly uniform rifle shoulder march boldly blaze salute elderly grey sharp blow monster sailor sight creature peculiar shining oarfish election former defeat fanatical opponent radical progressive suspicious strike busman state agreement relieve pressure extent volunteer gratitude Press object inform headmaster contribute gift album patience encouragement farewell honour coincidence total devote gardening hobby alibi commit inspector employer confirm suggest truth trap surface explosive vibration collapse drill capsule layer beneath lower progress smoothly slip comedy present queue dull artiste advertiser chip overfish giant terrify diver oil rig wit cage shark whale variety cod skate factor crew balloon royal spy track binoculars fast ladder shed sarcastic tone noble monument statue liberty present sculptor actual copper support framework site pedestal transport instruct Los Angeles reluctant weight underwater tricycle compete yard gasp fantasy ambassador Escalopia frightful drily embassy heaven basement definitely post shot extinguisher festival lantern spectacle suppose
+   fragment remains classical economy
    ```
 
 5. **Expressions**

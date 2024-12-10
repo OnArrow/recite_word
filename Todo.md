@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   fragment remains classical economy
+   fragment remains classical economy rest identity manual collar overalls shower secret status editor extreme journalist president palace publish fax fire necklace ring background neighbor staff fantastic ashtray
    ```
 
 5. **Expressions**

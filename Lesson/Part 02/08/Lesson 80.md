@@ -15,7 +15,7 @@ The Crystal Palace was different from all other buildings in the world, for it w
 
 A great many goods were sent to the exhibition from various parts of the world. There was also a great deal of machinery on display. The most wonderful piece of machinery on show was Nasmyth's steam hammer.
 
-Though in those days, travelling was not as east as it is today, steam boats carried thousands of visitors across the Channel from Europe.
+Though in those days, travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.
 
 On arriving in England, they were taken to the Crystal Palace by train. There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.
 

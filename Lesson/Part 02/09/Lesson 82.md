@@ -2,7 +2,7 @@
 
 ## Words
 
-- monster sailor sight creature peculiar shining oarfish
+- monster sailor sight creature peculiar shining oarfish eventually tail
 
 - ![Words](../../../Images/Part2/09/words-82.png)
 

@@ -23,55 +23,55 @@ My brother has never been abroad before, so he is finding this trip very excitin
 1. `have a great trip` 旅途愉快
 
    ```
-   He hopes that you have a great trip
+   He hopes that you have a great trip.
    ```
 
 2. `A be different from B` 表示 A 和 B 不一样
 
    ```
-   I am different from you
+   I am different from you.
    我和你不同/我们不一样
 
 
-   My glass is different from yours
+   My glasses is different from yours.
 
-   The cat on the desk is different from the one on the floor
+   The cat on the desk is different from the one on the floor.
    ```
 
 3. `receive sth. from sb.` 收到某人的某物
 
    ```
-   I received a red pocket from my mother last Chinese New Year
+   I received a red pocket from my mother last Chinese New Year.
 
-   He's just received more kinds of fruit from his uncle
+   He's just received more kinds of fruit from his uncle.
    ```
 
 4. `take a holiday` 度假
 
    ```
-   He's already taken a holiday
+   He's already taken a holiday.
 
-   I want to take a holiday with you
+   I want to take a holiday with you.
    ```
 
 5. `a great number of cn.` 大量的某物
 
    ```
-   A great number of different places
+   A great number of different places.
    很多不同的地方
 
-   There are a great number of coins in the sack
+   There are a great number of coins in the sack.
    ```
 
 6. `find n. adj.` 认为什么事物/人怎么怎么样
 
    ```
-   I finds the cat so cute
+   I finds the cat so cute.
    我觉得这只猫很可爱
 
-   He's finding the train very fast
+   He's finding the train very fast.
 
-   I found her very beautiful on the stage last night
+   I found her very beautiful on the stage last night.
    ```
 
 7. `现在完成时` 表达的意思比较含蓄，而 `一般过去式` 表达的意思比较直接

@@ -27,7 +27,7 @@ I spent the whole day in my room, but I did not write a single card!
 1. `whole day` 一整天
 
    ```
-   I spent the whole day to do it
+   I spent the whole day to do it.
    ```
 
 2. `mind your own business` 管好你自己的事
@@ -45,17 +45,17 @@ I spent the whole day in my room, but I did not write a single card!
 4. `make a decision` 下定决心
 
    ```
-   He's just made a decision to start losing weight
+   He's just made a decision to start losing weight.
 
-   I made a decision not to go to museums anymore
+   I made a decision not to go to museums anymore.
    ```
 
 5. `think about sth./sb.` 思考某事/某人。想某事/某人
 
    ```
-   Every day I thought about my homework
+   Every day I thought about my homework.
 
-   I've not thought about whether it's right or wrong anymore
+   I've not thought about whether it's right or wrong anymore.
    ```
 
 6. `waiter` 更多指的是男服务员，`waitress` 指的是女服务员
@@ -63,13 +63,13 @@ I spent the whole day in my room, but I did not write a single card!
 7. `lend` 借出，`borrow` 借入
 
    ```
-   I lent him a book
+   I lent him a book.
 
-   I lent a book to him
+   I lent a book to him.
    ```
 
    ```
    I borrowed a book
 
-   I borrowed a book from him
+   I borrowed a book from him.
    ```

@@ -42,7 +42,7 @@ In the end, I could not bear it. I turned round again. 'I can't hear a word!' I 
    I've never paid any attention to the book on the shelf.
    ```
 
-4. `It's none of your business` 不关你的事
+4. `it's none of your business` 不关你的事
 
    ```
    You had better get outside, it's none of your business.

@@ -2,7 +2,7 @@
 
 ## Words
 
-- balloon royal spy track binoculars
+- balloon royal spy track binoculars descend
 
 - ![Words](../../../Images/Part2/10/words-91.png)
 
@@ -19,7 +19,7 @@ The pilot managed to circle the balloon for some time. He could make out three m
 
 When the balloon was over the station, the pilot saw one of the men taking photographs. Soon afterwards, the balloon began to descend and it landed near an airfield.
 
-The pilot were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!
+The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!
 
 As the Commanding Officer explained later, one half of the station did not know what the other half was doing!
 ```

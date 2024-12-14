@@ -2,7 +2,7 @@
 
 ## Words
 
-- slip comedy present queue dull artiste advertiser
+- slip comedy present queue dull artiste advertiser awkwardly bump
 
 - ![Words](../../../Images/Part2/09/words-89.png)
 

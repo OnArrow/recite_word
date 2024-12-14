@@ -2,7 +2,7 @@
 
 ## Words
 
-- chip overfish giant terrify diver oil rig wit cage shark whale variety cod skate factor crew
+- chip overfish giant terrify diver oil rig wit cage shark whale variety cod skate factor crew absence supply plentiful
 
 - ![Words](../../../Images/Part2/09/words-90.png)
 

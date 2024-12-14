@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   considerably
+   awkwardly  absence  supply  plentiful  descend
    ```
 
 2. **过去式&过去分词**

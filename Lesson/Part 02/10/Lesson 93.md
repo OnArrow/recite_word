@@ -2,14 +2,14 @@
 
 ## Words
 
-- noble monument statue liberty present sculptor actual copper support framework site pedestal transport
+- noble monument statue liberty present sculptor actual copper support framework site pedestal transport harbour
 
 - ![Words](../../../Images/Part2/10/words-93.png)
 
 ## A noble gift
 
 ```
-One of the most famous monuments in the word, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France.
+One of the most famous monuments in the world, the Statue of Liberty, was presented to the United States of America in the nineteenth century by the people of France.
 
 The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete. The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.
 

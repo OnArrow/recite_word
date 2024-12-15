@@ -2,7 +2,7 @@
 
 ## Words
 
-- festival lantern spectacle
+- festival lantern spectacle guide consider
 
 - ![Words](../../../Images/Part2/10/words-96.png)
 

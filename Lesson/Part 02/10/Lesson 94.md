@@ -2,7 +2,7 @@
 
 ## Words
 
-- instruct Los Angeles reluctant weight underwater tricycle compete yard gasp
+- instruct Los Angeles reluctant weight underwater tricycle compete yard gasp accustom
 
 - ![Words](../../../Images/Part2/10/words-94.png)
 

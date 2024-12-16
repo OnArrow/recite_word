@@ -3,7 +3,7 @@
 1. **Word**
 
    ```
-   awkwardly  absence  supply  plentiful  descend guide consider aimed accustom
+
    ```
 
 2. **过去式&过去分词**
@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   fragment remains classical economy rest identity manual collar overalls shower secret status editor extreme journalist president palace publish fax fire necklace ring background neighbor staff fantastic ashtray ordinary eventually tail oven identify pass privacy private victim impact tight flood blood float wave miss horror abandon guilty declare adult professional spoil pigeon drawer unwillingly buoy sarcastic duty chalk baggage desert element opportunity therefore awkwardly bump absence supply plentiful descend Harbour
+   fragment remains classical economy rest identity manual collar overalls shower secret status editor extreme journalist president palace publish fax fire necklace ring background neighbor staff fantastic ashtray ordinary eventually tail oven identify pass privacy private victim impact tight flood blood float wave miss horror abandon guilty declare adult professional spoil pigeon drawer unwillingly buoy sarcastic duty chalk baggage desert element opportunity therefore awkwardly bump absence supply plentiful descend harbour sheet comfortable metre ankle amount gas guide consider mineral visa expect precious juice district
    ```
 
 5. **Expressions**

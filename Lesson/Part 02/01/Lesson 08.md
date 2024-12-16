@@ -21,7 +21,7 @@ Every year I enter for the garden competition too, and I always win a little pri
 1. `enter the competition` 参加比赛
 
    ```
-   He enters the competition every year
+   He enters the competition every year.
    ```
 
 2. `that's neat` 和 `that's cool` 表达意思相近，在这里 `neat` 不表示 `整齐；整洁`
@@ -35,27 +35,27 @@ Every year I enter for the garden competition too, and I always win a little pri
 3. `swimming pool` 游泳池
 
    ```
-   The swimming pool is cleaned every day
+   The swimming pool is cleaned every day.
 
-   There are a great many swimming pools in this district
+   There are a great many swimming pools in this district.
    ```
 
 4. `I agree with sb.` 我同意某人的话/观点
 
    ```
-   Jack is shorter than Tom
+   Jack is shorter than Tom.
 
-   I agree with you, Tom's taller
+   I agree with you, Tom's taller.
 
-   I don't agree with you, Jack's taller
+   I don't agree with you, Jack's taller.
 
-   I don't agree with you at all
+   I don't agree with you at all.
    ```
 
 5. `enter for` 参加
 
    ```
-   Last night I entered for the party with Jack
+   Last night I entered for the party with Jack.
 
    When did you enter for last party?
    ```
@@ -69,6 +69,6 @@ Every year I enter for the garden competition too, and I always win a little pri
 7. `everybody` 虽然说的是每一个人，但它是一个单数人称代词
 
    ```
-   Everybody enters for the competition
+   Everybody enters for the competition.
    // 因为是单数，所以`enter`需要变成三单`enters`
    ```

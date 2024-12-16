@@ -25,9 +25,9 @@ My father was shocked. Now we are not allowed to touch it. It is being repaired 
 1. `be allowed to do sth.` 某人被允许去做某事
 
    ```
-   I was allowed to watch TV every Friday when I was young
+   I was allowed to watch TV every Friday when I was young.
 
-   We're not allowed to run
+   We're not allowed to run.
    ```
 
 2. `be` 的现在分词形式 `being`
@@ -37,23 +37,23 @@ My father was shocked. Now we are not allowed to touch it. It is being repaired 
    - 结构：`am/is/are being + done`
 
    ```
-   Somebody is painting the door
+   Somebody is painting the door.
 
-   The door is being painted by somebody
+   The door is being painted by somebody.
    这个门正在被某人上漆
 
-   The door isn't being painted by somebody
+   The door isn't being painted by somebody.
 
    Is the door being painted by somebody?
 
    Who is the door being painted by?
 
 
-   They are building those bridge
+   They are building those bridge.
 
-   Those bridge are being built by them
+   Those bridge are being built by them.
 
-   Those bridge aren't being built by them
+   Those bridge aren't being built by them.
 
    Are those bridge being built by them?
 
@@ -63,7 +63,7 @@ My father was shocked. Now we are not allowed to touch it. It is being repaired 
 4. `sth. belong to sb.` 某物属于某人
 
    ```
-   The beautiful glass that is on the table is belong to me
+   The beautiful glass that is on the table is belong to me.
 
-   The guitar on the shelf doesn't belong to me
+   The guitar on the shelf doesn't belong to me.
    ```

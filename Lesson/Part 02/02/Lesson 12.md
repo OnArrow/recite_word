@@ -21,25 +21,25 @@ He will be away for two months. We are very proud of him. He will take part in a
 1. `set out` 启程；出发
 
    ```
-   I will set out at 8 and fly to America
+   I will set out at 8 and fly to America.
 
-   He's just set out to school
+   He's just set out to school.
    ```
 
 2. `lucky dog` 幸运儿。外国人比较喜欢狗，所以用狗指代人
 
    ```
-   You lucky dog
+   You lucky dog.
    ```
 
 3. `be proud of sb.` 为某人感到骄傲
 
    ```
-   The captain is very proud of me
+   The captain is very proud of me.
 
-   I won a prize for the best lawyer in New York and my parents are very proud of me
+   I won a prize for the best lawyer in New York and my parents are very proud of me.
 
-   He's proud of you
+   He's proud of you.
    ```
 
 4. `I would love to` 我很乐意
@@ -47,21 +47,21 @@ He will be away for two months. We are very proud of him. He will take part in a
    ```
    Shall we dance?
 
-   I would love to
+   I would love to.
 
-   I would love to dance with you
+   I would love to dance with you.
    ```
 
 5. `stay up` 熬夜
 
    ```
-   You'd better not stay up often
+   You'd better not stay up often.
    ```
 
 6. `have plenty of time` 有足够多的时间
 
    ```
-   We'll have plenty of time and we'll spend three days in France
+   We'll have plenty of time and we'll spend three days in France.
    ```
 
 7. `will be away` 将离开。因为 `away` 是 `adv.`，所以前面需要加 `be`
@@ -71,19 +71,19 @@ He will be away for two months. We are very proud of him. He will take part in a
    ```
    He refused to take part in the race
 
-   She wistfully takes part in the 'Best Woman Competition' every year
+   She wistfully takes part in the 'Best Woman Competition' every year.
    ```
 
 9. `sail from sw.` 从某地出发航行
 
    ```
-   He'll be sailing from the big port to another country
+   He'll be sailing from the big port to another country.
    ```
 
 10. `say goodbye to sb.` 对某人说再见
 
     ```
-    My parents asked me to say goodbye to him
+    My parents asked me to say goodbye to him.
 
-    Come here and say goodbye to your aunt
+    Come here and say goodbye to your aunt.
     ```

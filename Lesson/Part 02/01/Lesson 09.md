@@ -21,29 +21,30 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
 1. `a crowd of sb./sth.` 一大群的...
 
    ```
-   There's a crowd of birds in the sky
+   There's a crowd of birds in the sky.
 
-   There's a crowd of people dancing in the hall
+   There's a crowd of people dancing in the hall.
+   // Q: 为什么是 `dancing`
    ```
 
 2. `gather round` 聚集；聚拢
 
    ```
-   The people who are in the town gather round the square
+   The people who are in the town gathered round the square.
    ```
 
 3. `refuse to do sth.` 拒绝去做某事
 
    ```
-   She always refuses to get up early
+   She always refuses to get up early.
 
-   He has refused to work for that big firm
+   He has refused to work for that big firm.
    ```
 
 4. `begin to do sth.` 开始做某事
 
    ```
-   While we were having breakfast, it began to rain
+   While we were having breakfast, it began to rain.
    ```
 
 5. `laugh at sb.` 嘲笑某人（不是非常过分地那种嘲笑）
@@ -55,7 +56,7 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
 6. `was born st.` 出生于
 
    ```
-   His nephew was born in 2008
+   His nephew was born in 2008.
    ```
 
 7. `shout at sb.` && `shout to sb.`
@@ -63,14 +64,14 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
    - `shout at sb.` 我很愤怒，对着别人大喊。主要表达的是愤怒地喊
 
      ```
-     She has shouted at the waitress for her broken plate
+     She has shouted at the waitress for her broken plate.
      // 因为服务员打碎了她的盘子，她很生气地对服务员大声喊叫
      ```
 
    - `shout to sb.` 目的只是想让别人听到我说话，可能是我的声音小别人听不到
 
      ```
-     He made his voice low, so he had to shout to him
+     He made his voice low, so he had to shout to him.
      ```
 
 8. `on/in/at` + 时间
@@ -84,27 +85,27 @@ I looked at my watch. It was true. The big clock refused to welcome the New Year
      // 现在进行时表示将来。现在还没到周一
      // 具体某一天早上，还是具体的某一天，用`on`
 
-     The concert is on 22 November
+     The concert is on 22 November.
      ```
 
    - `in` + 年/月/季
 
      ```
-     I'm going on holiday in January
+     I'm going on holiday in January.
 
      My aunt left school in 1988
 
-     The garden is lovely in Spring
+     The garden is lovely in Spring.
      ```
 
    - `at` + 具体时间点
 
      ```
-     I start work at 8 o'clock
+     I start work at 8 o'clock.
 
-     The shops close at half past five
+     The shops close at half past five.
 
-     There were still studying at midnight
+     There were still studying at midnight.
      ```
 
 9. `at five to twelve` 11:55。 `at / five to twelve` 这样断句

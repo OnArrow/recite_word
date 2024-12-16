@@ -21,27 +21,27 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 1. `pop singer/music/star` 流行歌手/歌曲/明星。 `pop` 为 `popular` 的缩写
 
    ```
-   The famous pop singer moved to our street yesterday
+   The famous pop singer moved to our street yesterday.
    ```
 
 2. `a group of students/waiters/...` 一组学生/服务员/...
 
    ```
-   Look, a group of detectives are keeping guard at the door
+   Look, a group of detectives are keeping guard at the door.
 
-   The group of students gathered in front of the main school building
+   The group of students gathered in front of the main school building.
    ```
 
 3. `all parts of the country/China/our town` 全国各地/中国各地/我们村庄的各个地方
 
    ```
-   We'll have plenty of time and travel all parts of China
+   We'll have plenty of time and travel all parts of China.
    ```
 
 4. `join club` 加入俱乐部
 
    ```
-   I've just joined the golf club
+   I've just joined the golf club.
 
    Which club do you want to join?
    ```
@@ -49,36 +49,36 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 5. `performance` 本身是 `n.`，可以通过 `give` 来使它变成一个动词短语。和 `have a conversation` 类似
 
    ```
-   They are giving a performance
+   They are giving a performance.
 
-   She was giving a performance while the police came in
+   She was giving a performance while the police came in.
 
-   They are giving a concert
+   They are giving a concert.
    ```
 
 6. `occasionally` 和 `sometimes` 类似
 
    ```
-   They only meet occasionally
+   They only meet occasionally.
 
-   It occasionally rains in the spring
+   It occasionally rains in the spring.
    ```
 
 7. `at present` 和 `now`，`at the moment` 类似
 
    ```
-   At present, a large crowd of people is gathering in front of the theatre
+   At present, a large crowd of people is gathering in front of the theatre.
    // `a large crowd of people` 的 `a crowd` 实际上是单数，所以后面跟的是 `is`
 
-   At present, two detectives are keeping guard at the door
+   At present, two detectives are keeping guard at the door.
    ```
 
 8. `as usual` 像往常一样；通常。
 
    ```
-   As usual, the room is being cleaned by two people
+   As usual, the room is being cleaned by two people.
 
-   As usual, we will set out at 6 in the morning
+   As usual, we will set out at 6 in the morning.
    ```
 
 9. `keep order` 保持秩序
@@ -90,9 +90,9 @@ As usual, the police have a difficult time. They will be trying to keep order. I
 10. `have a difficult time` 度过一段困难的时间
 
     ```
-    I'm having a difficult time these days, but it'll pass
+    I'm having a difficult time these days, but it'll pass.
 
-    I had a very difficult time last year
+    I had a very difficult time last year.
     ```
 
 11. M: 将来进行时 `will be doing`
@@ -100,15 +100,15 @@ As usual, the police have a difficult time. They will be trying to keep order. I
     - Usage 1: `未来进行的动作`
 
       ```
-      我明天下午将会打一下午的篮球
+      我明天下午将会打一下午的篮球。
 
-      我明天会加班加一天，请不要打扰我
+      我明天会加班加一天，请不要打扰我。
       ```
 
       ```
-      Don't call me after 10, I will be sleeping
+      Don't call me after 10, I will be sleeping.
 
-      I will not be sleeping
+      I will not be sleeping.
 
       Will you be sleeping?
 
@@ -120,7 +120,7 @@ As usual, the police have a difficult time. They will be trying to keep order. I
     - Usage 2: `计划打算`
 
       ```
-      I will be meeting him tomorrow
+      I will be meeting him tomorrow.
       明天我打算去见他
       // 在将来的时间的计划
       ```
@@ -130,12 +130,12 @@ As usual, the police have a difficult time. They will be trying to keep order. I
       ```
       以下三句都可以表示计划打算
 
-      He's taking a test next week
+      He's taking a test next week.
       // 现在进行时表示计算打算时，最好加上未来时间 `next week`
 
-      He will be taking a test next week
+      He will be taking a test next week.
 
-      He is going to take a test next week
+      He is going to take a test next week.
       ```
 
 12. 一个单词的现在分词形式，单词以 `ie` 结尾的，把 `ie` 去掉，换成 `y` 再加上 `ing`

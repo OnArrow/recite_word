@@ -19,3 +19,7 @@ fled awkwardly absence supply plentiful descend aim accustom slam gangster
 ```
 absence flee supply electricity effective gangster slam genuinely storeroom plentiful consist accustom tanker aim awkwardly pace lobster
 ```
+
+```
+flee costume descend
+```

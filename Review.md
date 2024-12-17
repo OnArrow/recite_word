@@ -1,179 +1,187 @@
 # Review
-1. expect **[ɪkˈspekt]** `v` 期待；预计；等待
+1. fire **[ˈfaɪə(r)]** `v` 射击；开火；解雇 `n` 失火；火灾
 
-2. rest **[rest]** `v` 休息，歇息；放置 `n` 休息（时间）；剩余部分
+2. float **[fləʊt]** `v` （使）漂浮；浮动 `n` 鱼漂
 
-3. juice **[dʒuːs]** `n` （水果和蔬菜的）汁；水果汁饮料 `v` 榨（果汁或蔬菜汁）
+3. status **[ˈsteɪtəs]** `n` 状态，状况，情形；（尤指在社会中的）地位，身份
 
-4. palace **[ˈpæləs]** `n` 王宫；宫殿
+4. abandon **[əˈbændən]** `n` 放纵 `v` 放弃
 
-5. overalls **[ˈəʊvərɔːlz]** `n` 工装裤；工作服
+5. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
 
-6. status **[ˈsteɪtəs]** `n` 状态，状况，情形；（尤指在社会中的）地位，身份
+6. rest **[rest]** `v` 休息，歇息；放置 `n` 休息（时间）；剩余部分
 
-7. district **[ˈdɪstrɪkt]** `n` 地区
+7. lot **[lɒt]** `n` 一群；一批；停车场 `pron` 大量，许多 `adv` 很多地，非常
 
-8. opportunity **[ˌɒpəˈtjuːnəti]** `n` 时机
+8. ring **[rɪŋ]** `v` （使）响起铃声；包围；（给...）打电话 `n` 铃声；电话铃声；戒指；圆形竞技场
 
-9. awkwardly **[ˈɔːkwədli]** `adv` 笨拙地
+9. staff **[stɑːf]** `n` 全体员工
 
-10. plentiful **[ˈplentɪf(ə)l]** `adj` 丰富的
+10. fax **[fæks]** `n` 传真机
 
-11. duty **[ˈdjuːti]** `n` 责任；义务；值班；税
+11. instrument **[ˈɪnstrəmənt]** `n` 乐器
 
-12. identify **[aɪˈdentɪfaɪ]** `v` 识别；认出
+12. chalk **[tʃɔːk]** `n` 粉笔 `v` 用粉笔写（或画）
 
-13. privacy **[ˈprɪvəsi]** `n` 隐私，秘密
+13. nephew **[ˈnefjuː]** `n` 侄子，外甥
 
-14. manual **[ˈmænjuəl]** `adj` 手动的；体力的 `n` 说明书；指南
+14. metre **[ˈmiːtə(r)]** `n` 米；公尺；电表
 
-15. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）；恐惧
+15. miss **[mɪs]** `v` 未命中，未察觉；思念，怀念；错过；避开 `n` 女士；小姐；未婚女士
 
-16. classical **[ˈklæsɪk(ə)l]** `adj` 经典的，传统的；古典的
+16. tail **[teɪl]** `n` 尾巴
 
-17. economy **[ɪˈkɒnəmi]** `n` 节省；经济
+17. drawer **[drɔː(r)]** `n` 抽屉；开票人
 
-18. harbour **[ˈhɑːbə(r)]** `n` 港口
+18. horror **[ˈhɒrə(r)]** `n` 恐怖；恐怖故事（电影）；恐惧
 
-19. pass **[pɑːs]** `v` 经过，越过，穿过；通过（考试）；略过 `n` 通行证；及格；关隘，山口
+19. blood **[blʌd]** `n` 血，血液；血统 `v` （使）取得初次经验
 
-20. mineral **[ˈmɪnərəl]** `n` 矿物质
+20. classical **[ˈklæsɪk(ə)l]** `adj` 经典的，传统的；古典的
 
-21. extreme **[ɪkˈstriːm]** `adj` 极度的；极限的；极端的
+21. eventually **[ɪˈventʃuəli]** `adv` 最终
 
-22. necklace **[ˈnekləs]** `n` 项链
+22. flood **[flʌd]** `n` 洪水，火灾 `v` 淹没
 
-23. shower **[ˈʃaʊə(r)]** `n` 沐浴间；洗澡 `v` 洗澡
+23. privacy **[ˈprɪvəsi]** `n` 隐私，秘密
 
-24. sarcastic **[sɑːˈkæstɪk]** `adj` 讽刺的
+24. necklace **[ˈnekləs]** `n` 项链
 
-25. instrument **[ˈɪnstrəmənt]** `n` 乐器
+25. declare **[dɪˈkleə(r)]** `v` 声明；宣布；断言
 
-26. wistfully **[ˈwɪstfəli]** `adv` 渴望地
+26. unwillingly **[ʌnˈwɪlɪŋli]** `adv` 不情愿地
 
-27. journalist **[ˈdʒɜːnəlɪst]** `n` 新闻工作者
+27. deserve **[dɪˈzɜːv]** `v` 值得；应该得到
 
-28. oven **[ˈʌv(ə)n]** `n` 烤炉，烤箱
+28. bump **[bʌmp]** `v` 碰撞
 
-29. nephew **[ˈnefjuː]** `n` 侄子，外甥
+29. overalls **[ˈəʊvərɔːlz]** `n` 工装裤；工作服
 
-30. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
+30. consider **[kənˈsɪdə(r)]** `v` 考虑，斟酌；思量
 
-31. flood **[flʌd]** `n` 洪水，火灾 `v` 淹没
+31. awkwardly **[ˈɔːkwədli]** `adv` 笨拙地
 
-32. desert **[ˈdezət]** `v` 抛弃；舍弃 `n` 沙漠；荒凉的地方
+32. editor **[ˈedɪtə(r)]** `n` 编辑器；编辑；记者
 
-33. supply **[səˈplaɪ]** `n` 供给
+33. fragment **[ˈfræɡmənt]** `n` 片段；碎片
 
-34. president **[ˈprezɪdənt]** `n` 总统；国家主席
+34. identity **[aɪˈdentəti]** `n` 身份，本体
 
-35. ring **[rɪŋ]** `v` （使）响起铃声；包围；（给...）打电话 `n` 铃声；电话铃声；戒指；圆形竞技场
+35. spoil **[spɔɪl]** `v` 破坏，糟蹋；溺爱
 
-36. consider **[kənˈsɪdə(r)]** `v` 考虑，斟酌；思量
+36. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
 
-37. miss **[mɪs]** `v` 未命中，未察觉；思念，怀念；错过；避开 `n` 女士；小姐；未婚女士
+37. collar **[ˈkɒlə(r)]** `n` 衣领
 
-38. fire **[ˈfaɪə(r)]** `v` 射击；开火；解雇 `n` 失火；火灾
+38. expect **[ɪkˈspekt]** `v` 期待；预计；等待
 
-39. editor **[ˈedɪtə(r)]** `n` 编辑器；编辑；记者
+39. neighbor **[ˈneɪbə(r)]** `n` 邻居；邻国 `vt` （地方、物体）位于...的附近 `adj` 邻居的
 
-40. guilty **[ˈɡɪlti]** `adj` 内疚的；羞愧的；有罪的
+40. duty **[ˈdjuːti]** `n` 责任；义务；值班；税
 
-41. blood **[blʌd]** `n` 血，血液；血统 `v` （使）取得初次经验
+41. amount **[əˈmaʊnt]** `n` 金额；钱数 `v` 达到；总计
 
-42. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸；遗迹
+42. buoy **[bɔɪ]** `n` 浮标
 
-43. absence **[ˈæbsəns]** `n` 缺席
+43. adult **[ˈædʌlt]** `n` 成年人；成年动物 `adj` 成年的，发育成熟的
 
-44. drawer **[drɔː(r)]** `n` 抽屉；开票人
+44. brigade **[brɪˈɡeɪd]** `n` (军队的)旅，队
 
-45. guide **[ɡaɪd]** `n` 指南，手册；导游，向导 `v` 带领，引领（某人至某地）；指导
+45. therefore **[ˈðeəfɔː(r)]** `adv` 因此，所以
 
-46. professional **[prəˈfeʃən(ə)l]** `adj` 专业的；职业的 `n` 专业人员；专业版
+46. wave **[weɪv]** `v` 招手，挥手 `n` 海浪
 
-47. comfortable **[ˈkʌmfətəbl]** `adj` 令人舒适的；感到舒服的；自信的；宽裕的
+47. district **[ˈdɪstrɪkt]** `n` 地区
 
-48. metre **[ˈmiːtə(r)]** `n` 米；公尺；电表
+48. private **[ˈpraɪvət]** `adj` 私有的；自用的 `n` （美国陆战队）二等兵
 
-49. struck **[strʌk]** `v` （strick 的过去式）
+49. precious **[ˈpreʃəs]** `adj` 珍贵的
 
-50. baggage **[ˈbæɡɪdʒ]** `n` 行李
+50. extreme **[ɪkˈstriːm]** `adj` 极度的；极限的；极端的
 
-51. chalk **[tʃɔːk]** `n` 粉笔 `v` 用粉笔写（或画）
+51. economy **[ɪˈkɒnəmi]** `n` 节省；经济
 
-52. clavichord **[ˈklævɪkɔːd]** `n` 古钢琴
+52. shower **[ˈʃaʊə(r)]** `n` 沐浴间；洗澡 `v` 洗澡
 
-53. descend **[dɪˈsend]** `v` 下降
+53. impact **[ˈɪmpækt]** `n` 撞击；冲击力 `v` 冲击，撞击
 
-54. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
+54. desert **[ˈdezət]** `v` 抛弃；舍弃 `n` 沙漠；荒凉的地方
 
-55. gas **[ɡæs]** `n` 气体
+55. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
 
-56. fragment **[ˈfræɡmənt]** `n` 片段；碎片
+56. president **[ˈprezɪdənt]** `n` 总统；国家主席
 
-57. ashtray **[ˈæʃtreɪ]** `n` 烟灰缸
+57. secretary **[ˈsekrət(ə)ri]** `n` 秘书；书记员
 
-58. declare **[dɪˈkleə(r)]** `v` 声明；宣布；断言
+58. sheet **[ʃiːt]** `n` 工作表；被单 `v` （用布）盖上，裹上
 
-59. publish **[ˈpʌblɪʃ]** `v` 出版；发布
+59. ankle **[ˈæŋk(ə)l]** `n` 脚踝
 
-60. float **[fləʊt]** `v` （使）漂浮；浮动 `n` 鱼漂
+60. supply **[səˈplaɪ]** `n` 供给
 
-61. adult **[ˈædʌlt]** `n` 成年人；成年动物 `adj` 成年的，发育成熟的
+61. guilty **[ˈɡɪlti]** `adj` 内疚的；羞愧的；有罪的
 
-62. background **[ˈbækɡraʊnd]** `n` 出身背景，学历，经历；底色 `adj` 事先的 `v` 作...的背景
+62. pigeon **[ˈpɪdʒɪn]** `n` 鸽子
 
-63. neighbor **[ˈneɪbə(r)]** `n` 邻居；邻国 `vt` （地方、物体）位于...的附近 `adj` 邻居的
+63. mineral **[ˈmɪnərəl]** `n` 矿物质
 
-64. sheet **[ʃiːt]** `n` 工作表；被单 `v` （用布）盖上，裹上
+64. plentiful **[ˈplentɪf(ə)l]** `adj` 丰富的
 
-65. fantastic **[fænˈtæstɪk]** `adj` 极好的，非常棒的；极大的
+65. identify **[aɪˈdentɪfaɪ]** `v` 识别；认出
 
-66. identity **[aɪˈdentəti]** `n` 身份，本体
+66. secret **[ˈsiːkrət]** `n` 秘密，内情；秘诀 `adj` 秘密的，保密的；不公开的
 
-67. private **[ˈpraɪvət]** `adj` 私有的；自用的 `n` （美国陆战队）二等兵
+67. remains **[rɪˈmeɪnz]** `n` 尸体，遗骸；遗迹
 
-68. deserve **[dɪˈzɜːv]** `v` 值得；应该得到
+68. palace **[ˈpæləs]** `n` 王宫；宫殿
 
-69. amount **[əˈmaʊnt]** `n` 金额；钱数 `v` 达到；总计
+69. absence **[ˈæbsəns]** `n` 缺席
 
-70. ankle **[ˈæŋk(ə)l]** `n` 脚踝
+70. visa **[ˈviːzə]** `n` 信用卡；签证
 
-71. spoil **[spɔɪl]** `v` 破坏，糟蹋；溺爱
+71. struck **[strʌk]** `v` （strick 的过去式）
 
-72. collar **[ˈkɒlə(r)]** `n` 衣领
+72. publish **[ˈpʌblɪʃ]** `v` 出版；发布
 
-73. impact **[ˈɪmpækt]** `n` 撞击；冲击力 `v` 冲击，撞击
+73. gas **[ɡæs]** `n` 气体
 
 74. tight **[taɪt]** `adj` 紧身的；绷紧的
 
-75. element **[ˈelɪmənt]** `n` 基本部分，要素；元素；成分
+75. juice **[dʒuːs]** `n` （水果和蔬菜的）汁；水果汁饮料 `v` 榨（果汁或蔬菜汁）
 
-76. bump **[bʌmp]** `v` 碰撞
+76. baggage **[ˈbæɡɪdʒ]** `n` 行李
 
-77. buoy **[bɔɪ]** `n` 浮标
+77. journalist **[ˈdʒɜːnəlɪst]** `n` 新闻工作者
 
-78. wave **[weɪv]** `v` 招手，挥手 `n` 海浪
+78. pass **[pɑːs]** `v` 经过，越过，穿过；通过（考试）；略过 `n` 通行证；及格；关隘，山口
 
-79. staff **[stɑːf]** `n` 全体员工
+79. wistfully **[ˈwɪstfəli]** `adv` 渴望地
 
-80. precious **[ˈpreʃəs]** `adj` 珍贵的
+80. oven **[ˈʌv(ə)n]** `n` 烤炉，烤箱
 
-81. fax **[fæks]** `n` 传真机
+81. harbour **[ˈhɑːbə(r)]** `n` 港口
 
-82. tail **[teɪl]** `n` 尾巴
+82. manual **[ˈmænjuəl]** `adj` 手动的；体力的 `n` 说明书；指南
 
-83. visa **[ˈviːzə]** `n` 信用卡；签证
+83. background **[ˈbækɡraʊnd]** `n` 出身背景，学历，经历；底色 `adj` 事先的 `v` 作...的背景
 
-84. abandon **[əˈbændən]** `n` 放纵 `v` 放弃
+84. victim **[ˈvɪktɪm]** `n` 受害者；牺牲品
 
-85. eventually **[ɪˈventʃuəli]** `adv` 最终
+85. guide **[ɡaɪd]** `n` 指南，手册；导游，向导 `v` 带领，引领（某人至某地）；指导
 
-86. unwillingly **[ʌnˈwɪlɪŋli]** `adv` 不情愿地
+86. sarcastic **[sɑːˈkæstɪk]** `adj` 讽刺的
 
-87. pigeon **[ˈpɪdʒɪn]** `n` 鸽子
+87. clavichord **[ˈklævɪkɔːd]** `n` 古钢琴
 
-88. therefore **[ˈðeəfɔː(r)]** `adv` 因此，所以
+88. ordinary **[ˈɔːdənəri]** `adj` 普通的；平凡的
 
-89. ordinary **[ˈɔːdənəri]** `adj` 普通的；平凡的
+89. zone **[zəʊn]** `n` （有某特色或作用的）地区，地带
+
+90. element **[ˈelɪmənt]** `n` 基本部分，要素；元素；成分
+
+91. descend **[dɪˈsend]** `v` 下降
+
+92. opportunity **[ˌɒpəˈtjuːnəti]** `n` 时机
+
+93. comfortable **[ˈkʌmfətəbl]** `adj` 令人舒适的；感到舒服的；自信的；宽裕的
 

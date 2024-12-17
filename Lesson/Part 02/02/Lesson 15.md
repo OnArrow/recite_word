@@ -23,25 +23,25 @@ Then he smiled and told me I would receive an extra thousand pounds a year!
 1. `be nervous about sth.` 对某件事感到紧张
 
    ```
-   He's nervous about the exam
+   He's nervous about the exam.
    ```
 
 2. `be nervous about doing sth.` 做某件事时感到紧张
 
    ```
-   She's nervous about asking for a lift
+   She's nervous about asking for a lift.
 
-   I'm very nervous about meeting my idol
+   I'm very nervous about meeting my idol.
    ```
 
 3. `afford sth.` 支付得起某物
 
    ```
-   The book is too expensive, I can't afford it
+   The book is too expensive, I can't afford it.
 
    Can we afford that?
 
-   He may not be able to afford it at all
+   He may not be able to afford it at all.
    ```
 
 4. `sorry to interrupt` 抱歉打扰一下。和 `excuse me` 类似
@@ -53,20 +53,20 @@ Then he smiled and told me I would receive an extra thousand pounds a year!
 5. `I could use some extra sleep/time/hand/help` 我需要多睡一会/我需要多一点时间/我需要一些帮助。和 `I need` 类似
 
    ```
-   I could use some extra hand
+   I could use some extra hand.
    // `extra hand` 通常表示帮助，伸手帮助
    ```
 
-6. `it's my turn` 轮到我了。 `turn` 有 `轮次` 的意思。和 `my turn had come` 类似
+6. `it's my turn` 轮到我了。 `turn` 有 `轮次` 的意思。和 `my turn had come` 类似.
 
    ```
-   I want to see, it's my turn
+   I want to see, it's my turn.
 
-   Mr. John, your turn had come
+   Mr. John, your turn had come.
    ```
 
 7. `in a weak voice` 用微弱的声音
 
    ```
-   'Please help me,' she said in a weak voice
+   'Please help me,' she said in a weak voice.
    ```

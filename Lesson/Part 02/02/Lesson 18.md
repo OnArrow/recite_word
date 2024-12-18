@@ -31,22 +31,22 @@ The landlord smiled and immediately went out. In a few minutes he returned with 
 2. `pay the bill` 支付账单
 
    ```
-   He must just have paid the bill
+   He must just have paid the bill.
 
    Who pay the bill?
 
-   I believe that he can't have paid the bill the night before last
+   I believe that he can't have paid the bill the night before last.
    ```
 
 3. `look for` 寻找
 
    ```
-   I'm looking for the sailor
+   I'm looking for the sailor.
    ```
 
 4. `as` 放句首时，最常见的翻译成 `when`、`while`，或者 `because`
 
    ```
-   As I was looking for it
+   As I was looking for it.
    // 这里翻译成`when`
    ```

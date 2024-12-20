@@ -21,23 +21,23 @@ He started to complain about this wicked world but was interrupted by a knock at
 1. `be/get upset about sth./sb.` 对某人/某事感到不安
 
    ```
-   He's upset about the dinner
+   He's upset about the dinner.
 
-   The manager got upset about that girl
+   The manager got upset about that girl.
    ```
 
 2. `complain about sth.` 抱怨某事
 
    ```
-   She complains about the weather all the time
+   She complains about the weather all the time.
 
-   He is complaining about the wicked world
+   He is complaining about the wicked world.
    ```
 
 3. `start to do sth.` 开始做某事
 
    ```
-   He started to yell at the assistant
+   He started to yell at the assistant.
 
-   They started to play jazz on the street
+   They started to play jazz on the street.
    ```

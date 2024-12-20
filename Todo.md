@@ -21,9 +21,7 @@
 4. **Review**
 
    ```
-   fragment remains classical economy rest identity manual collar overalls shower secret status editor extreme journalist president palace publish fax fire necklace ring background neighbor staff fantastic ashtray ordinary eventually tail oven identify pass privacy private victim impact tight flood blood float wave miss horror abandon guilty declare adult professional spoil pigeon drawer unwillingly buoy sarcastic duty chalk baggage desert element opportunity therefore awkwardly bump absence supply plentiful descend harbour sheet comfortable metre ankle amount gas guide consider mineral visa expect precious juice district nephew instrument clavichord struck deserve wistfully secretary lot zone brigade
-
-   sock spite scare sailor exclaim nonsense keen protection promptly destroy band hire prince memory appreciate nephew pavement stick stuck thick prize tie deny apologize
+   wicked wonder curtain
    ```
 
 5. **Expressions**

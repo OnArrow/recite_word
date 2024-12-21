@@ -33,31 +33,31 @@ It was raining heavily and they found that a stream had formed in the field. The
 5. `snow/rain heavily` 大雪/大雨
 
    ```
-   It's raining heavily outside
+   It's raining heavily outside.
 
-   It must have snowed heavily last night
+   It must have snowed heavily last night.
    ```
 
 6. `put up the tent` 搭帐篷
 
    ```
-   They have already put up their tent
+   They have already put up their tent.
 
-   The tent must have been put up by him
+   The tent must have been put up by him.
    ```
 
 7. `tell a story` 讲故事
 
    ```
-   Both my parents are keen on telling stories
+   Both my parents are keen on telling stories.
    ```
 
 8. `put out the fire` 灭火
 
    ```
-   Don't worry, the fire will be put out
+   Don't worry, the fire will be put out.
 
-   As soon as he had put out the fire, he crept into the tent
+   As soon as he had put out the fire, he crept into the tent.
    ```
 
 9. `wake up` 醒来
@@ -69,17 +69,17 @@ It was raining heavily and they found that a stream had formed in the field. The
 10. `begin doing sth.` 和 `begin to do sth.` 基本一致
 
     ```
-    He began fishing
+    He began fishing.
 
-    He began to fish
-
-
-    She began complaining about her boyfriend
-
-    She began to complain about her boyfriend
+    He began to fish.
 
 
-    I began playing guitar
+    She began complaining about her boyfriend.
 
-    I began to play guitar
+    She began to complain about her boyfriend.
+
+
+    I began playing guitar.
+
+    I began to play guitar.
     ```

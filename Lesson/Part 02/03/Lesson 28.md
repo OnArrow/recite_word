@@ -25,29 +25,29 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
 1. `have trouble with sth.` 在某方面有麻烦
 
    ```
-   When I was still in school, I had trouble with math
+   When I was still in school, I had trouble with math.
 
-   You will have trouble with your teacher if you are late
+   You will have trouble with your teacher if you are late.
    ```
 
 2. `have trouble doing sth.` 做某事有麻烦
 
    ```
-   The man who saved money for years had trouble finding his bank card
+   The man who saved money for years had trouble finding his bank card.
    ```
 
 3. `so far` 到目前为止
 
    ```
-   I have had no car so far
+   I have had no car so far.
    ```
 
 4. `ever since` 自从。和 `since` 用法一致
 
    ```
-   He's lived here since 1990
+   He's lived here since 1990.
 
-   He's lived here ever since 1990
+   He's lived here ever since 1990.
    ```
 
 5. `stone head` 石像
@@ -65,22 +65,22 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
    - `whose` 用来指代 `谁的`
 
    ```
-   We saw some people, their car had broken down
+   We saw some people, their car had broken down.
    我们看见一些人，他们的车坏了
 
-   We saw some people whose car had broken down
+   We saw some people whose car had broken down.
    我们见到的那些人的车坏了
    // `whose` 指代了 `their`
 
 
-   I met a man, his wife is an English teacher
+   I met a man, his wife is an English teacher.
 
-   I met a man whose wife is an English teacher
+   I met a man whose wife is an English teacher.
 
 
-   I met somebody, his parents work in a bank
+   I met somebody, his parents work in a bank.
 
-   I met somebody whose parents work in a bank
+   I met somebody whose parents work in a bank.
    ```
 
 ## Exercises
@@ -88,31 +88,31 @@ Jasper hopes that she will turn cars and their owners to stone. But none of them
 ```
 He's an ugly man, isn't he?
 
-Yes, he's one of the ugliest men I've ever seen
+Yes, he's one of the ugliest men I've ever seen.
 ```
 
 ```
 It's a dull book, isn't it?
 
-Yes, it's one of the dullest books I've ever read
+Yes, it's one of the dullest books I've ever read.
 ```
 
 ```
 It's a bad photo, isn't it?
 
-Yes, it's one of the worst photos I've ever taken
+Yes, it's one of the worst photos I've ever taken.
 ```
 
 ```
 It's a smart coat, isn't it?
 
-Yes, it's one of the smartest coats I've ever worn
+Yes, it's one of the smartest coats I've ever worn.
 ```
 
 ```
 It's a fast car, isn't it?
 
-Yes, it's one of the fastest cars I've ever driven
+Yes, it's one of the fastest cars I've ever driven.
 ```
 
 ```
@@ -148,37 +148,37 @@ Yes, I've never drunk such a fresh milk before!
 ```
 How long have you known him?
 
-I've known him since childhood
+I've known him since childhood.
 ```
 
 ```
 How long have you owned a bicycle?
 
-I've owner it for six months
+I've owned it for six months.
 ```
 
 ```
 How long have you worked here?
 
-I've worked here for a week
+I've worked here for a week.
 ```
 
 ```
 How long have you studied the violin?
 
-I've studied it for two years
+I've studied it for two years.
 ```
 
 ```
 How long have you been a doctor?
 
-I've been a doctor since 1989
+I've been a doctor since 1989.
 ```
 
 ```
 How many times have you seen that film?
 
-I've seen it three times so far
+I've seen it three times so far.
 ```
 
 ```
@@ -190,17 +190,17 @@ I've given it three times so far
 ```
 How many times have you written to diary?
 
-I've written to it three times so far
+I've written to it three times so far.
 ```
 
 ```
 How many times have you worn that dress?
 
-I've worn it three times so far
+I've worn it three times so far.
 ```
 
 ```
 How many times have you taken the exams?
 
-I've taken them three times so far
+I've taken them three times so far.
 ```

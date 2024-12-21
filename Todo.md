@@ -21,7 +21,7 @@
 4. **Review**
 
    ```
-   wicked wonder curtain
+   wicked wonder curtain violin diary plough ceiling peel maid intend
    ```
 
 5. **Expressions**
